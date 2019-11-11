@@ -48,6 +48,7 @@
     "react-scroll-up-button": "^1.6.4",
     "react-slick": "^0.25.2",
     "reactstrap": "^8.1.1",
+    "showdown": "^1.9.1",
     "slick-carousel": "^1.8.1",
     "stylelint-config-prettier": "^6.0.0",
     "throttle-debounce": "^2.1.0",

@@ -1,29 +1,40 @@
 import React from 'react'
 import Img from 'gatsby-image'
 import PropTypes from 'prop-types'
+import showdown from 'showdown'
 
+const converter = new showdown.Converter()
 const Welcome = props => {
-  const { slogan, partners, subTitle, body, logo } = props
+  const { heading, partners, location, main, logo } = props
   return (
     <section className="dv-welcome">
       <div className="dv-welcome-message container-fluid dv-main-menu text-center">
-        <Img id="inner-hp" className="logo" alt="DentalVip Logo" fluid={logo} />
+        {
+         logo && logo.childImageSharp ? <Img id="inner-hp" className="logo" alt="DentalVip Logo" fluid={logo.childImageSharp.fluid} /> :
+          <img id="inner-hp" className="logo" alt="DentalVip Logo" src={logo} />
+        }
 
-        <h2 className="dv-home-title">{slogan}</h2>
+        <h2 className="dv-home-title">{heading}</h2>
         <hr className="dv-home" />
-        {body}
+        <div dangerouslySetInnerHTML={{ __html: converter.makeHtml(main) }} />
       </div>
       <div className="dv-welcome-logos text-center">
-        {partners.map((partner, index) => (
-          <Img
+        {partners && partners.map((partner, index) => (
+          
+          partner.image.childImageSharp ? <Img
             key={`index${index + 2}`}
             className="image-responsive center-block"
-            alt={partner.name}
-            fluid={partner.image}
-          />
+            alt={partner.alt}
+            fluid={partner.image.childImageSharp.fluid}
+          /> : <img
+          key={`index${index + 2}`}
+          className="image-responsive center-block"
+          alt={partner.alt}
+          src={partner.image}
+        /> 
         ))}
       </div>
-      <h2 className="dv-home-title text-center">{subTitle}</h2>
+      <h2 className="dv-home-title text-center">{location}</h2>
     </section>
   )
 }

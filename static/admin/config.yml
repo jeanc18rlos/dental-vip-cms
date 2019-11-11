@@ -49,6 +49,27 @@ collections:
                 {label: Slogan, name: slogan, widget: string}
             ]
           }
+          - {
+            label: Welcome, 
+            name: welcome, 
+            widget: object,           
+            fields: [
+              {label: Logo, name: logo, widget: image},
+              {label: Heading, name: heading, widget: string},
+              {label: Subheading, name: SubHeading, widget: string},
+              {label: Main, name: main, widget: markdown},
+              {label: Location, name: location, widget: string},
+              {
+                label: Partners, 
+                name: partners,
+                widget: list,
+                fields: [
+                  {label: Image, name: image, widget: image},
+                  {label: Alt, name: alt, widget: string},
+                ]
+              }
+            ]
+        }
           - {label: Image, name: image, widget: image}
           - {label: Heading, name: heading, widget: string}
           - {label: Subheading, name: subheading, widget: string}
