@@ -14,12 +14,16 @@ const Banner = props => {
   }, [])
   return (
     <div className="home-banner div-header-margin-top">
-      <Img
+      {
+        image.childImageSharp ? <Img
         loading="eager"
         id="inner-hp"
         className={`${scale && 'scale'} ${' banner-image-scale'}`}
         fluid={image.childImageSharp.fluid}
-      />
+      /> : <img src={image}id="inner-hp"
+      className={`${scale && 'scale'} ${' banner-image-scale'}`} />
+      }
+      
       <div className="banner-caption-titles" style={{ overflow: 'hidden' }}>
         <Fade delay={1000} right>
           <h1
