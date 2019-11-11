@@ -25,11 +25,18 @@ const Carousel = props => {
           return (
             <div key={`${key}+carousel-item`} className="item">
               <div className="col-xs-12 col-sm-12 col-md-2 text-center">
-                <Img
-                  fluid={item.img}
+                {
+                  item.img && item.img.childImageSharp ? <Img
+                  fluid={item.img.childImageSharp.fluid}
                   alt={item.name}
                   className="dv-testimonial-photo"
-                />
+                /> : <img
+                src={item.img}
+                alt={item.name}
+                className="dv-testimonial-photo"
+              />
+                }
+                
               </div>
               <div className="col-xs-12 col-sm-12 col-md-10">
                 <p className="dv-text-testimonial font-ranga-testimonials">

@@ -8,6 +8,8 @@ import BlogRoll from "../components/BlogRoll";
 
 import Banner from "../components/Banner";
 import Welcome from "../components/Welcome";
+import Quotes from "../components/Quotes";
+import Carousel from "../components/Carousel";
 
 export const IndexPageTemplate = ({
   image,
@@ -18,11 +20,15 @@ export const IndexPageTemplate = ({
   description,
   intro,
   hero,
-  welcome
+  testimonial,
+  welcome,
+  quote
 }) => (
   <div>
     <Banner {...hero} />
     <Welcome {...welcome} />
+    <Quotes {...quote} />
+    <Carousel {...testimonial} />
   </div>
 );
 
@@ -48,6 +54,8 @@ const IndexPage = ({ data }) => {
         description={frontmatter.description}
         hero={frontmatter.hero}
         welcome={frontmatter.welcome}
+        quote={frontmatter.quote}
+        testimonial={frontmatter.testimonial}
       />
     </Layout>
   );
@@ -81,6 +89,21 @@ export const pageQuery = graphql`
           subHeading
           slogan
         }
+        testimonial {
+          title
+          items {
+            img {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            testimonial
+            position
+            name
+          }
+        }
         welcome {
           logo {
             childImageSharp {
@@ -101,6 +124,15 @@ export const pageQuery = graphql`
                 }
               }
             }
+          }
+        }
+        quote {
+          title
+          body
+          author
+          footer {
+            position
+            clinic  
           }
         }
       }

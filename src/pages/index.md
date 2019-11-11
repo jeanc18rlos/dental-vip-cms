@@ -9,7 +9,7 @@ hero:
   slogan: INNOVACIÓN Y PRESTIGIO EN ODONTOLOGÍA
 
 welcome:
-  logo: /img/layout/logo.png
+  logo: /img/layout/header/logo.png
   heading: CENTRO DE ESTÉTICA Y REHABILITACIÓN ORAL
   main: >
     <p class="dv-welcome-text">
@@ -34,7 +34,7 @@ welcome:
       alt: Quality Dental Center
     - image: /img/partners/light/partner-3.jpg
       alt: International Team for Implantology
-      
+
 quote:
   title: La calidad en Odontología no es fruto de la casualidad.
   body: >
@@ -47,7 +47,7 @@ quote:
 testimonial:
   title: Testimonios y Valoraciones
   items:
-    - img: /img/testimonials/testimonial1.png
+    - img: /img/testimonials/home/testimonial1.png
       testimonial: >
         “Tras 11 implantes y 11 coronas cerámicas en el centro, he tenido
         siempre muy buenas experiencias. Honestamente quedé muy satisfecho
@@ -57,7 +57,7 @@ testimonial:
         paciencia, calidad humana y ética profesional”.
       position: Empresario
       name: Mohammad Byherzade
-    - img: /img/testimonials/testimonial2.png
+    - img: /img/testimonials/home/testimonial2.png
       testimonial: >
         “Antes me daba vergüenza sonreír porque no estaba conforme con el
         aspecto de mi dentadura. Desde que visité DENTAL VIP me siento más
@@ -67,7 +67,7 @@ testimonial:
         espectaculares. Les recomiendo con los ojos cerrados”.
       position: Médico Cirujano
       name: Viviana Hernández
-    - img: /img/testimonials/testimonial3.png
+    - img: /img/testimonials/home/testimonial3.png
       testimonial: > 
         “Luego de dos tratamientos de Ortodoncia y más de 5 años con
         brackets pensé que mi caso ya no tenía solución. Casi sin
@@ -78,7 +78,7 @@ testimonial:
         definitivamente, lo barato sale muy caro”.
       position: Fotógrafo
       name: Carlos Gutiérrez
-    - img: /img/testimonials/testimonial4.png
+    - img: /img/testimonials/home/testimonial4.png
       testimonial: >
         “Quería colocarme implantes dentales y no sabía en quién confiar.
         Solicité varias opiniones y finalmente me decidí por DENTAL VIP, y
@@ -88,7 +88,7 @@ testimonial:
         todo el equipo me pareció muy cercano y profesional”.
       position: Ingeniero
       name: Brenda Uzcátegui
-    - img: /img/testimonials/testimonial5.png
+    - img: /img/testimonials/home/testimonial5.png
       testimonial: >
         “Me vi en la necesidad de ir a la clínica para tratar algunas
         caries y hacerme dos tratamientos de conducto. Recomendaría a
