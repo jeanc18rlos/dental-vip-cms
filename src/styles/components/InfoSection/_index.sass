@@ -1,0 +1,307 @@
+#InfoSection
+  width: 100%
+  height: auto
+  padding: 0px 5vw
+  .container-fluid
+    width: 100%
+    height: auto
+    .dv-profesionals-section
+      .section-cp
+        display: flex
+        flex-wrap: wrap
+        min-height: calc(100vh - 75px)
+        .dv-content
+          width: 100%
+          min-height: calc(100vh - 75px)
+          margin: 0
+          display: flex
+          flex-wrap: wrap
+          justify-content: center
+          align-items: space-between
+          padding: 0px 0vw
+          .dv-border-top
+            border-top: 1px solid #eee
+          .dv-info-middle
+            width: 100% !important
+            padding-bottom: 60px !important
+            padding-top: 60px !important
+            .dv-align-center1
+              width: 100%
+              display: flex
+              align-items: center
+              padding-bottom: 24px
+              img
+                width: 70px
+                height: 70px
+              h3
+                width: 100%
+                color: #333
+                font-weight: 700
+                font-size: 24px
+                line-height: 26px
+                margin-bottom: .0rem
+              .light-font
+                width: 100%
+                font-size: 15px
+                margin-bottom: 5%
+                strong
+                  font-weight: 500
+                  color: #333
+        .image
+          width: 100%
+          background-position: center
+          min-height: calc(100vh - 75px)
+          background-size: cover
+          &:before, &:after
+            content: ''
+        .dv-not-image
+          display: none
+        .img-mobile
+          display: block
+          height: 300px
+
+// Portrait mobile views and tiny/st landscape
+@media #{$sm-mob-pt, $st-mob-pt, $lg-mob-pt}
+  #InfoSection
+    padding: 0px 5vw
+    .container-fluid
+      .dv-profesionals-section
+        .section-cp
+          padding: 0px 0px
+          .dv-content
+            width: 100%
+            min-height: 45vw
+            justify-content: left
+            padding: 0px 0vw
+            .dv-info-middle
+              padding-bottom: 85px
+              padding-top: 65px
+              .dv-align-center1
+                padding-bottom: 0px
+                img
+                  width: 58px
+                  height: 58px
+                  margin-left: -5px
+                h3
+                  font-size: 23px
+                  line-height: 24px
+          .image
+            width: 100%
+          .img-mobile
+            display: block
+            height: 85vw !important
+            padding-left: 20px
+            max-height: 85vw !important
+            min-height: 0
+            margin: 0 5vw
+
+// Landscape mobile views
+@media #{ $lg-mob-ld, $sm-mob-ld, $st-mob-ld, $sm-mob-pt, $st-mob-pt, $lg-mob-pt }
+  #InfoSection
+    padding: 0 !important
+    .dv-notmb-image
+      display: none !important
+    .container-fluid
+      .dv-profesionals-section
+        .section-cp
+          .dv-content
+            justify-content: left
+            padding: 0px 5vw !important
+            .img-mobile
+              margin: 0 5vw
+            .dv-info-middle
+              padding-bottom: 67px !important
+              padding-top: 25px !important
+              display: flex
+              justify-content: center
+              align-items: center
+
+              .dv-align-center
+                display: flex
+                justify-content: center
+                align-items: flex-start
+                flex-direction: column
+                div.dv-content-heading
+                  display: flex
+                  width: 100%
+                  align-items: center
+                  justify-content: flex-start
+                  flex-direction: row
+                  margin-bottom: 7px
+                  .gatsby-image-wrapper
+                    width: 50px
+                    height: 50px
+                    float: left
+                    display: inline-block
+                    margin-top: -5px
+                    margin-bottom: -5px
+                    margin-left: -5px
+                  h3
+                    font-size: 23px
+                    line-height: 24px
+                    white-space: nowrap
+                    color: #333
+                    margin-bottom: 0
+                    margin-left: 4px
+                p.light-font
+                  font-weight: 400
+                  font-size: 15px
+                  b,strong
+                    color: #444
+
+// Landscape mobile views
+@media #{ $lg-mob-ld, $sm-mob-ld, $st-mob-ld }
+  #InfoSection
+    padding: 0px 5vw
+    .container-fluid
+      .dv-profesionals-section
+        .section-cp
+          padding: 0px 0px
+          .dv-content
+            width: 100%
+            justify-content: left
+            padding: 0px 0vw
+            .dv-info-middle
+              padding-bottom: 85px
+              padding-top: 62px
+              .dv-align-center1
+                padding-bottom: 0px
+                img
+                  width: 70px
+                  height: 70px
+                  margin-left: -5px
+                h3
+                  font-size: 23px
+                  line-height: 24px
+          .image
+            width: 100%
+          .img-mobile
+            margin: 0 5vw
+            display: block
+            height: 200px
+            padding-left: 20px
+
+@media #{$st-tab-pt, $st-tab-ld, $lg-tab-pt, $lg-tab-ld}
+  #InfoSection
+    padding: 0px 0vw
+    .container-fluid
+      .dv-profesionals-section
+        .section-cp
+          padding: 0px 0px
+          .dv-content
+            width: 50%
+            min-height: 45vw
+            justify-content: left
+            padding: 0px 5vw
+            .dv-info-middle
+              padding-bottom: 115px
+              padding-top: 90px
+              .dv-align-center1
+                img
+                  width: 70px
+                  height: 70px
+                  margin-left: -5px
+                h3
+                  font-size: 24px
+                  line-height: 26px
+          .image
+            width: 50%
+          .img-mobile
+            display: none
+            height: 250px
+
+// Desktop views
+
+@media #{$lg-des, $lg-tab-ld, $lg-tab-pt}
+  #InfoSection
+    .container-fluid
+      .dv-profesionals-section
+        .section-cp
+          min-height: calc(100vh - 75px) !important
+          max-height: calc(100vh - 75px) !important
+          .image
+            min-height: 0 !important
+            max-height: calc(100vh - 75px) !important
+        .dv-content
+          min-height: calc(100vh - 75px) !important
+          max-height: calc(100vh - 75px) !important
+
+@media #{$st-des}
+  #InfoSection
+    .container-fluid
+      .dv-profesionals-section
+        .section-cp
+          min-height: calc(100vh) !important
+          .image
+            min-height: 0 !important
+        .dv-content
+          min-height: calc(100vh) !important
+
+@media #{$sm-des, $st-tab-ld}
+  #InfoSection
+    .container-fluid
+      .dv-profesionals-section
+        .section-cp
+          min-height: 100vh !important
+          max-height: 120vh !important
+          .image
+            min-height: 100vh !important
+            max-height: 120vh !important
+        .dv-content
+          min-height: 100vh !important
+          max-height: 120vh !important
+
+@media #{$sm-des, $st-des, $lg-des, $st-tab-pt, $st-tab-ld, $lg-tab-pt, $lg-tab-ld}
+  #InfoSection
+    padding: 0px 0vw
+    .container-fluid
+      .dv-profesionals-section
+        .section-cp
+          padding: 0px 0px
+          .dv-content
+            width: 50%
+            min-height: 45vw
+            justify-content: left
+            padding: 0px 5vw
+            .dv-info-middle
+              display: flex
+              justify-content: center
+              align-items: center
+              padding: 0
+              .dv-align-center
+                display: flex
+                justify-content: center
+                align-items: flex-start
+                flex-direction: column
+                div.dv-content-heading
+                  display: flex
+                  width: 100%
+                  align-items: center
+                  justify-content: flex-start
+                  flex-direction: row
+                  margin-bottom: 31px
+                  .gatsby-image-wrapper
+                    width: 70px
+                    height: 70px
+                    float: left
+                    display: inline-block
+                    margin-left: -5px
+                    margin-top: -7px
+                    margin-bottom: -7px
+                    margin-left: -7px
+                  h3
+                    font-size: 24px
+                    line-height: 26px
+                    white-space: nowrap
+                    color: #333
+                    margin-bottom: 0
+                    margin-left: 4px
+                p.light-font
+                  font-weight: 400
+                  b,strong
+                    color: #444
+          .image
+            width: 50%
+          .img-mobile
+            display: none
+            height: 250px

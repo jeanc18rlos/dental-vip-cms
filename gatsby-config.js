@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Gatsby + Netlify CMS Starter',
+    author: 'jean rojas',
     description:
       'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
   },
@@ -59,6 +60,29 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `dental-vip`,
+        short_name: `dentalvip`,
+        start_url: `/`,
+        background_color: `#fff`,
+        theme_color: `#222`,
+        display: `minimal-ui`,
+        icon: `src/img/favicon.png`, // This path is relative to the root of the site.
+      },
+    },
+    `gatsby-background-image`,
+    {
+      resolve: `gatsby-plugin-nprogress`,
+      options: {
+        // Setting a color is optional.
+        color: `#91C508`,
+        // Disable the loading spinner.
+        showSpinner: true,
+      },
+    },
+    `gatsby-plugin-offline`,
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {

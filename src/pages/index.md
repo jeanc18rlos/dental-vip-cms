@@ -1,5 +1,13 @@
 ---
 templateKey: index-page
+language: es
+redirects: /en/
+hero:
+  image: /img/hero/home/banner.jpg
+  heading: Salud, Belleza y Función
+  subHeading: ¡Una Especialidad para cada Tratamiento!
+  slogan: INNOVACIÓN Y PRESTIGIO EN ODONTOLOGÍA
+
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience

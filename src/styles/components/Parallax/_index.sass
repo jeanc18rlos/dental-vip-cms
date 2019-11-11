@@ -1,0 +1,98 @@
+#parallax-cp
+  over-flow: hidden
+  .dv-parallax-banner:before
+    background-attachment: fixed !important
+  .dv-parallax-banner
+    background-attachment: fixed
+    background-position: center
+    background-repeat: no-repeat
+    background-size: cover
+    height: calc( 100vh - 68px )
+    width: 100%
+  .dv-parallax-banner:before
+    background-attachment: fixed
+    content: ''
+
+  .notVisible
+    display: none !important
+  .dv-title-parallax
+    position: absolute
+    height: calc( 100vh - 68px)
+    display: flex
+    justify-content: center
+    align-items: center
+    width: 100%
+    top: 0
+    .dv-banner-title-parallax
+      width: 100%
+      padding-top: 15%
+      h1
+        font-weight: 700
+        text-shadow: 0 0 5px #000
+        color: #fff
+        font-size: 40px
+        font-family: "Roboto",sans-serif
+  .dv-arrow-banner
+    position: absolute
+    top: 95%
+    left: 50%
+    transform: translate(-50%, -95%)
+    color: #fff
+    text-shadow: 0 0 5px #000
+    font-size: 20px
+
+// Portrait mobile views and tiny/st landscape
+@media #{$sm-mob-pt, $st-mob-pt, $lg-mob-pt}
+  #parallax-cp
+    .dv-parallax-banner
+      height: calc( 100vh - 48px )
+    .notVisible
+      display: none !important
+    .dv-title-parallax
+      .dv-banner-title-parallax
+        h1
+          font-size: 8vw
+    .dv-arrow-banner
+      font-size: 20px
+
+// Landscape mobile views
+@media #{ $lg-mob-ld, $sm-mob-ld, $st-mob-ld }
+  #parallax-cp
+    .dv-parallax-banner
+      height: calc( 100vh - 48px )
+    .notVisible
+      display: none !important
+    .dv-title-parallax
+      .dv-banner-title-parallax
+        h1
+          font-size: 7vw
+    .dv-arrow-banner
+      font-size: 20px
+
+// tablet views
+@media #{$st-tab-pt, $st-tab-ld, $lg-tab-pt, $lg-tab-ld}
+  #parallax-cp
+    .dv-parallax-banner
+      height: calc( 100vh - 68px )
+    .notVisible
+      display: none !important
+    .dv-title-parallax
+      .dv-banner-title-parallax
+        h1
+          font-size: 50px
+    .dv-arrow-banner
+      font-size: 25px
+
+// Desktop views
+@media #{$sm-des, $st-des, $lg-des}
+  #parallax-cp
+    .dv-parallax-banner
+      height: calc( 100vh - 110px )
+    .notVisible
+      display: none !important
+    .dv-title-parallax
+      .dv-banner-title-parallax
+        h1
+          font-size: 60px
+    .dv-arrow-banner
+      font-size: 25px

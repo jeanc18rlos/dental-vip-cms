@@ -1,0 +1,154 @@
+.side-nav-wrapper {
+  background: #000000a3;
+  height: 0;
+  position: absolute;
+  right: 0;
+  top: 68px;
+  transition: height linear 0.5s;
+  width: 100vw;
+  z-index: -1;
+
+  &.toggled {
+    height: calc(100vh - 68px);
+  }
+
+  nav {
+    background: #222;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow-y: scroll;
+    padding: 0 !important;
+    position: absolute;
+    right: 0;
+    width: 65vw;
+    z-index: 100;
+
+    ul {
+      border-top: 1px solid rgba(153, 153, 153, 0.2);
+      list-style: none;
+      padding: 0;
+
+      li {
+        padding: 0.5rem;
+        padding-left: 1rem;
+
+        .dv-mob-btn {
+          align-items: center;
+          display: flex;
+          justify-content: center;
+          margin: auto;
+
+          i {
+            margin-left: 0.5em;
+            margin-right: 0.5em;
+
+            &.icon-search {
+              color: #3a3a3a;
+              font-size: 50px;
+              margin-bottom: 30px;
+              margin-top: 50px;
+            }
+          }
+        }
+
+        &.social {
+          margin-bottom: 50px;
+
+          .dv-mob-btn {
+            i {
+              &.icon-facebook {
+                font-size: 20px;
+                font-weight: normal;
+                margin-top: -2px;
+              }
+
+              &.icon-instagram {
+                font-size: 20px;
+              }
+            }
+          }
+        }
+
+        a {
+          padding-left: 1.5rem;
+        }
+
+        &.title-link {
+          border-bottom: 1px solid rgba(153, 153, 153, 0.2);
+          padding-left: 0;
+          padding-right: 0;
+
+          a {
+            align-items: center;
+            display: flex;
+            flex-direction: row;
+            height: 100%;
+            margin-bottom: -1rem;
+            margin-top: -1rem;
+            padding: 1.5rem;
+            padding-left: 1.5rem;
+            padding-right: 0;
+            width: 100%;
+          }
+        }
+
+        &.sidebar-dropdown {
+          .indicator {
+            font-size: 15px;
+            margin-right: 5vw;
+            padding: 0.1rem;
+            position: absolute;
+            right: 0;
+            &.close-menu {
+              transform: rotate(45deg);
+            }
+            i {
+              color: #999;
+              transition: transform 0.1s;
+              &.icon-times {
+                font-size: 12px;
+              }
+              &.icon-chevron-down {
+              }
+            }
+
+            &.active {
+              &.close-menu {
+                transform: rotate(0deg);
+              }
+              &.lang {
+                transform: rotate(180deg);
+              }
+              i {
+                color: white;
+              }
+            }
+          }
+
+          .sidebar-submenu {
+            display: none;
+
+            &.active {
+              display: block;
+            }
+          }
+
+          ul {
+            margin-bottom: -0.5rem;
+            margin-top: 0.5rem;
+
+            li {
+              background: #2e2e2e;
+              border-top: 1px solid rgba(153, 153, 153, 0.2);
+
+              a {
+                font-size: 11px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+$bebas-bold: 'Bebas Neue Bold';
+$roboto: 'Roboto';
+$playfair: 'Playfair Display', serif;
+$ranga: 'Kalam', cursive;
+
+// Roboto Fonts
+@mixin Roboto($thickness, $isItalic: false) {
+  font-family: $roboto;
+  font-weight: $thickness;
+
+  @if $isItalic !=false {
+    font-style: italic;
+    font-weight: $thickness;
+  }
+}

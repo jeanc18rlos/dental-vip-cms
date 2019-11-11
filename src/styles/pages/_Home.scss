@@ -1,0 +1,248 @@
+// dv welcome
+section.dv-welcome {
+  padding-top: 100px;
+  padding-bottom: 97px;
+
+  .logo {
+    width: 10.85em;
+    margin: auto;
+    margin-bottom: 13px !important;
+  }
+
+  .dv-welcome-message {
+    padding-top: 20px;
+    padding-left: 5vw;
+    padding-right: 5vw;
+  }
+
+  .dv-mt-50 {
+    margin-top: 106px;
+  }
+
+  .dv-welcome {
+    padding: 101px 0 94px 0;
+
+    .dv-mt-50 {
+      text-align: center;
+    }
+  }
+
+  .dv-home-title {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 18px;
+    color: $home-text;
+    margin-bottom: 18px;
+    font-family: $roboto;
+    text-transform: uppercase;
+  }
+
+  .dv-home {
+    width: 60%;
+    margin-bottom: 40px;
+    margin-top: 26px;
+    border: 1px solid $home-text;
+  }
+
+  .dv-welcome-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #555;
+    text-align: center;
+  }
+
+  .dv-welcome-logos {
+    padding-right: 5vw;
+    padding-left: 5vw;
+    margin-top: 40px;
+    margin-bottom: 47px;
+    display: flex;
+    justify-content: center;
+    .image-responsive.center-block {
+      display: flex;
+      max-width: 143px;
+      width: 33%;
+      padding: 0;
+      margin: auto;
+      //padding: 0em 10px;
+      @media #{$sm-des, $st-des, $lg-des, $lg-tab-pt, $lg-tab-ld, $st-tab-pt, $st-tab-ld} {
+        margin: 1.5em;
+      }
+      img {
+        height: auto !important;
+        width: 100% !important;
+        max-width: 143px;
+      }
+    }
+  }
+
+  .dv-feature-div {
+    padding: 0;
+    margin-top: -1px;
+    overflow: hidden;
+    background-position: top;
+    background-size: 102% 102%;
+    background-repeat: no-repeat;
+    height: 271px;
+
+    .dv-feature-content {
+      top: 0;
+      width: 100%;
+      height: 100%;
+      padding: 0 30px;
+      cursor: pointer;
+      position: relative;
+      transition: all 0.2s;
+      background-color: transparent;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      .dv-center-text {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+      }
+
+      .dv-title-feat {
+        color: transparent;
+        text-align: center;
+        margin-bottom: 30px;
+        font-family: $roboto;
+        font-weight: bold !important;
+        text-transform: uppercase !important;
+        font-size: 18px !important;
+      }
+
+      .dv-text-feat {
+        line-height: 24px;
+        color: transparent;
+        text-align: center;
+        font-family: $roboto;
+        font-weight: 500 !important;
+        font-size: 16px !important;
+      }
+
+      .dv-text-feat-100 {
+        font-weight: 500;
+        line-height: 24px;
+        color: transparent;
+        text-align: center;
+        font-family: $roboto;
+        font-size: 16px;
+      }
+
+      &:hover {
+        background-color: rgba(28, 28, 28, 0.8);
+
+        .dv-title-feat,
+        .dv-text-feat,
+        .dv-text-feat-100 {
+          color: $white;
+        }
+
+        .dv-plus-diagonal {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+@media #{$lg-mob-ld, $st-tab-pt, $st-tab-ld, $lg-tab-pt, $lg-tab-ld, $st-des, $sm-des, $lg-des} {
+  section.dv-welcome .dv-welcome-message {
+    max-width: 70% !important;
+  }
+}
+@media #{$st-tab-pt, $lg-tab-pt, $sm-des} {
+  section.dv-welcome .dv-welcome-message {
+    padding-top: 17px !important;
+  }
+  section.dv-welcome {
+    .dv-home {
+      width: 90%;
+    }
+  }
+}
+@media #{$sm-mob-ld, $st-mob-ld, $lg-mob-ld} {
+  section.dv-welcome .dv-welcome-message {
+    padding-top: 17px !important;
+  }
+  section.dv-welcome {
+    .dv-home {
+      width: calc(100% - 27%);
+    }
+    .logo {
+      max-width: 150px;
+    }
+    .dv-welcome-logos {
+      .image-responsive.center-block {
+        max-width: 32vh;
+        width: 33%;
+        margin: 0 0.2em;
+      }
+    }
+  }
+}
+@media #{$sm-mob-pt, $st-mob-pt, $lg-mob-pt} {
+  section.dv-welcome .dv-welcome-message {
+    padding-top: 17px !important;
+  }
+  // dv welcome
+  section.dv-welcome {
+    .logo {
+      max-width: 150px;
+    }
+    .dv-welcome-logos {
+      .image-responsive.center-block {
+        max-width: 32vw;
+        width: 33%;
+        margin: 0 0.2em;
+      }
+    }
+    .dv-home {
+      width: (100%);
+    }
+  }
+}
+@media #{$sm-mob-pt, $sm-mob-ld, $st-mob-pt, $st-mob-ld, $lg-mob-pt, $lg-mob-ld, $st-tab-pt, $st-tab-ld, $lg-tab-pt, $lg-tab-ld} {
+  // dv welcome
+
+  section.dv-welcome .dv-welcome-message {
+    padding-top: 17px !important;
+  }
+  section.dv-welcome {
+    padding-top: 71px !important;
+    padding-bottom: 63px !important;
+
+    .dv-home-title {
+      font-size: 15px;
+    }
+
+    .dv-welcome-text {
+      font-size: 15px !important;
+    }
+
+    .dv-feature-div {
+      .dv-feature-content {
+        .dv-title-feat {
+          margin-bottom: 30px !important;
+          font-size: 18px !important;
+        }
+
+        .dv-text-feat {
+          line-height: 24px;
+          font-size: 15px !important;
+        }
+
+        .dv-text-feat-100 {
+          line-height: 24px;
+          font-size: 15px !important;
+        }
+      }
+    }
+  }
+}

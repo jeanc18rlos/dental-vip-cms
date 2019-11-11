@@ -1,0 +1,161 @@
+//Message
+#dv-home-message {
+  color: $white;
+  padding: 108px 0 118px;
+  text-align: center;
+  font-family: $roboto;
+  background-color: $dark-grey;
+
+  blockquote {
+    padding: 0 17.5%;
+    margin: 0 auto;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 27px;
+    position: relative;
+    text-align: center;
+    font-family: $roboto;
+    border: none !important;
+
+    &:before {
+      left: 12.5%;
+      margin: 0;
+      padding: 0;
+      top: 0.1em;
+      color: $blackquote;
+      position: absolute;
+      line-height: 0.1em;
+      content: open-quote;
+      font-family: $playfair;
+      font-size: 155px;
+    }
+
+    &:after {
+      right: 12.5%;
+      margin: 0;
+      padding: 0;
+      bottom: -0.3em;
+      color: $blackquote;
+      position: absolute;
+      line-height: 0.1em;
+      content: close-quote;
+      font-family: $playfair;
+      font-size: 155px;
+    }
+  }
+
+  .dv-quote-hr {
+    width: 70%;
+    margin-top: 50px;
+    border-color: $icon-grey;
+  }
+
+  .dv-quote-author {
+    text-align: right;
+    padding-right: 15.5%;
+    padding-left: 15.5%;
+  }
+
+  .dv-quote-position {
+    font-size: 13px;
+    color: $text-gray;
+    text-align: right;
+    padding-right: 15.5%;
+    padding-left: 15.5%;
+    margin-bottom: -3px;
+    font-family: $roboto;
+  }
+}
+@media #{$sm-mob-ld, $st-mob-ld,  $lg-mob-ld} {
+  #dv-home-message {
+    .dv-main-menu {
+      padding-left: 5vw;
+      padding-right: 5vw;
+    }
+  }
+}
+
+@media #{$sm-mob-ld, $sm-mob-pt, $st-mob-pt, $st-mob-ld, $lg-mob-pt, $lg-mob-ld, $st-tab-pt, $st-tab-ld, $lg-tab-pt, $lg-tab-ld} {
+  #dv-home-message {
+    padding: 79px 0 87px;
+  }
+}
+$touch: 'only screen and (max-width: 850px)';
+@media #{$touch,$sm-mob-pt, $st-mob-pt, $lg-mob-pt, $sm-mob-ld, $st-mob-ld, $lg-mob-ld} {
+  #dv-home-message {
+    .dv-quote-hr {
+      width: 90%;
+    }
+
+    .dv-quote-author {
+      padding-right: 5.5% !important;
+    }
+
+    .dv-quote-position {
+      white-space: nowrap;
+      padding-right: 5.5%;
+      padding-left: 0;
+    }
+
+    blockquote {
+      padding: 0 5vw;
+
+      p {
+        font-size: 17px !important;
+        line-height: 24px !important;
+      }
+
+      &:before {
+        left: 0;
+        top: -5px;
+      }
+
+      &:after {
+        right: 0;
+        bottom: -45px;
+      }
+    }
+  }
+}
+
+@media #{$sm-mob-pt, $st-mob-pt, $lg-mob-pt, $sm-mob-ld, $st-mob-ld, $lg-mob-ld, $st-tab-pt, $lg-tab-pt} {
+  #dv-home-message {
+    .dv-quote-hr {
+      width: 90%;
+    }
+
+    .dv-quote-author {
+      padding-right: 5.5% !important;
+    }
+
+    .dv-quote-position {
+      white-space: nowrap;
+      padding-right: 5.5%;
+      padding-left: 0;
+    }
+
+    blockquote {
+      &:before {
+        font-size: 100px;
+      }
+
+      &:after {
+        font-size: 100px;
+      }
+    }
+  }
+}
+
+@media #{$sm-mob-ld} {
+  #dv-home-message {
+    blockquote {
+      &:before {
+        left: 1vw;
+      }
+
+      &:after {
+        right: 1vw;
+      }
+    }
+  }
+}

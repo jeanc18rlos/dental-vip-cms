@@ -1,0 +1,206 @@
+#dv-contact-nav {
+  @include Roboto(700);
+  font-size: 12px;
+  z-index: 100;
+
+  &.light-nav {
+    background-color: $white;
+    color: $dark-grey;
+
+    i {
+      color: $icon-grey;
+    }
+
+    .dv-left-div {
+      border-left: 1px solid $light-grey;
+    }
+
+    .dv-right-div {
+      border-right: 1px solid $light-grey;
+    }
+
+    .dv-sm-nav-fac {
+      i {
+        &:hover {
+          color: $black;
+        }
+      }
+    }
+
+    .dv-sm-nav-inst {
+      i {
+        &:hover {
+          color: $black;
+        }
+      }
+    }
+  }
+
+  &.dark-nav {
+    background-color: $bg-gray;
+    color: $border-light;
+
+    i {
+      color: $light-grey;
+    }
+
+    .dv-left-div {
+      border-left: 1px solid $light-grey;
+    }
+
+    .dv-right-div {
+      border-right: 1px solid $light-grey;
+    }
+
+    .dv-sm-nav-fac {
+      i {
+        color: $border-light;
+
+        &:hover {
+          color: $white;
+        }
+      }
+    }
+
+    .dv-sm-nav-inst {
+      i {
+        color: $border-light;
+
+        &:hover {
+          color: $white;
+        }
+      }
+    }
+  }
+
+  .div-top {
+    padding: 5px 5vw;
+  }
+
+  .dv-main-menu {
+    align-items: center;
+    .dv-top-w {
+      align-items: center;
+      display: flex;
+      > div {
+        align-items: center;
+        display: inline-flex;
+        flex-direction: row;
+        justify-content: center;
+        padding: 5px 15px;
+        &.nw {
+          white-space: nowrap;
+        }
+        &.lang {
+          cursor: pointer;
+          margin: auto;
+          padding: 1px;
+          div.dropdown {
+            align-items: center;
+            display: inline-flex;
+            flex-direction: row;
+            justify-content: center;
+            padding: 0;
+            > span {
+              padding: 0;
+              img {
+                padding: 0 15px;
+              }
+            }
+            .dropdown-menu {
+              border: none;
+              border-radius: 0;
+              > button {
+                color: #222;
+                font-family: Roboto;
+                font-size: 12px;
+                font-weight: 700;
+                padding: 5px 15px;
+                &:active {
+                  background: none;
+                }
+                img {
+                  padding-right: 15px;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+
+    i {
+      font-size: 15px;
+      margin-right: 10px;
+    }
+
+    .dv-sm-nav {
+      align-items: center;
+      display: inline-flex;
+      justify-content: flex-end;
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+
+      .text-right {
+        padding: 0;
+      }
+
+      .dv-sm-nav-fac {
+        z-index: 10;
+
+        i {
+          font-size: 15px;
+          font-weight: 700;
+        }
+      }
+
+      .dv-sm-nav-inst {
+        z-index: 10;
+
+        i {
+          font-size: 17px;
+          font-weight: bold;
+          margin: 0;
+        }
+      }
+
+      &.dv-sm-nav-inst {
+        margin-left: 8px;
+      }
+    }
+  }
+
+  .dv-left-div,
+  .dv-right-div {
+    align-items: center;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  @media #{$sm-mob-ld, $sm-mob-pt, $st-mob-pt, $st-mob-ld, $lg-mob-pt, $lg-mob-ld, $st-tab-pt, $st-tab-ld, $lg-tab-pt, $lg-tab-ld} {
+    display: none;
+  }
+}
+
+#contact-nav {
+  > .row {
+    > .dv-main-menu {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+}
+
+@include tiny-desktop-screen {
+  .dv-large-text {
+    max-width: 30vw;
+  }
+}
+
+$touch: 'only screen and (max-width: 1023px)';
+
+@media #{ $touch, $sm-mob-ld, $sm-mob-pt, $st-mob-pt, $st-mob-ld, $lg-mob-pt, $lg-mob-ld, $st-tab-pt, $st-tab-ld, $lg-tab-pt, $lg-tab-ld} {
+  #dv-contact-nav {
+    display: none;
+  }
+}

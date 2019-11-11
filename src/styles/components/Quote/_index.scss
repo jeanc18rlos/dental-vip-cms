@@ -1,0 +1,211 @@
+#quote-cp {
+  width: 100%;
+  height: auto;
+  background: #ededed;
+
+  &.bg-white {
+    background: white !important;
+  }
+
+  .dv-content-quote {
+    .dv-comilla {
+      span {
+        line-height: 0;
+        padding: 0px;
+        font-weight: 300;
+        display: flex;
+        margin: auto;
+        margin-bottom: 0;
+        font-family: $playfair;
+        margin-top: 0;
+        color: $grey-quote;
+
+        &:before {
+          content: '“';
+        }
+      }
+
+      p {
+        font-weight: 500;
+        position: relative;
+        text-align: center;
+        font-family: $bebas-bold;
+        color: #333;
+        line-height: normal;
+        padding-left: 10%;
+        padding-right: 10%;
+        margin: auto;
+        max-width: 100%;
+      }
+
+      .img-escudo {
+        width: 100%;
+        max-width: 730px;
+        margin: auto;
+        &.landscape {
+          display: flex;
+        }
+        &.portrait {
+          display: none;
+        }
+        @media screen and (orientation: portrait) and (max-width: 765px) {
+          &.portrait {
+            display: flex;
+          }
+          &.landscape {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+}
+
+// Desktop views
+@media #{$sm-des, $st-des, $lg-des} {
+  #quote-cp {
+    padding-top: 33px;
+  }
+
+  .dv-content-quote {
+    .dv-comilla {
+      padding: 120px 0px;
+
+      span {
+        font-size: 110px;
+        line-height: 0;
+        width: 60px;
+        height: 47px;
+        margin-bottom: 0;
+        margin-top: 0;
+      }
+
+      p {
+        padding-left: 10%;
+        padding-right: 10%;
+        font-size: 30px;
+        margin-bottom: 51px !important;
+      }
+
+      .img-escudo {
+        width: 100%;
+        max-width: 724px;
+        margin: auto;
+      }
+    }
+  }
+}
+
+// Tablet views
+@media #{$st-tab-pt, $st-tab-ld, $lg-tab-pt, $lg-tab-ld} {
+  #quote-cp {
+    padding-top: 6px;
+
+    .dv-content-quote {
+      .dv-comilla {
+        padding: 120px 0px 90px;
+
+        span {
+          font-size: 110px;
+          line-height: 0;
+          width: 60px;
+          height: 34px;
+          margin-bottom: 0;
+          margin-top: 0;
+        }
+
+        p {
+          padding-left: 10%;
+          padding-right: 10%;
+          font-size: 30px;
+          margin-bottom: 51px !important;
+        }
+
+        .img-escudo {
+          width: 100%;
+          max-width: 600px;
+          margin: auto;
+        }
+      }
+    }
+  }
+}
+
+// Portrait mobile views
+@media #{$sm-mob-pt, $st-mob-pt, $lg-mob-pt} {
+  #quote-cp {
+    padding-top: 6px;
+
+    .dv-content-quote {
+      text-align: left !important;
+
+      .dv-comilla {
+        padding: 120px 1vw 90px;
+
+        span {
+          font-size: 110px;
+          line-height: 0;
+          width: 60px;
+          height: 34px;
+          margin-bottom: 0;
+          margin-top: 0;
+        }
+
+        p {
+          text-align: justify !important;
+          letter-spacing: (-0.01em) !important;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+          font-size: 25px;
+          margin-bottom: 51px !important;
+        }
+
+        .img-escudo {
+          width: 100%;
+          max-width: 450px;
+          margin: 0;
+        }
+      }
+    }
+  }
+}
+
+// Landscape mobile views
+@media #{$lg-mob-ld, $sm-mob-ld, $st-mob-ld} {
+  #quote-cp {
+    padding-top: 6px;
+
+    .dv-content-quote {
+      padding: 0 5vw;
+      text-align: left !important;
+
+      .dv-comilla {
+        padding: 120px 1vw 90px;
+
+        span {
+          font-size: 110px;
+          line-height: 0;
+          width: 60px;
+          height: 34px;
+          margin-bottom: 0;
+          margin-top: 0;
+        }
+
+        p {
+          text-align: justify !important;
+          letter-spacing: (-0.01em) !important;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+          font-size: 25px;
+          margin-bottom: 51px !important;
+        }
+
+        .img-escudo {
+          width: 100%;
+          max-width: 450px;
+          margin: 0;
+        }
+      }
+    }
+  }
+}

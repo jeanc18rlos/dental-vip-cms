@@ -1,0 +1,115 @@
+#BasicContent-cp {
+  .dv-main-menu {
+    .dv-page-titles {
+      color: $bg-gray;
+      font-family: 'Roboto', sans-serif;
+      font-weight: 300 !important;
+      text-align: center;
+    }
+
+    .dv-subtitle {
+      color: $main-gray;
+      font-family: 'Roboto', sans-serif;
+      font-weight: 400;
+    }
+
+    .smallnot {
+      display: none;
+    }
+    .dv-subtitle-small {
+      color: $main-gray;
+      font-family: 'Roboto', sans-serif;
+      font-size: 12px;
+      font-weight: 400;
+      margin-bottom: 6px !important;
+      margin-top: -20px;
+      text-align: center;
+      span {
+        color: $label-red;
+      }
+    }
+  }
+}
+
+// Desktop views
+@media #{$sm-des, $st-des, $lg-des} {
+  #BasicContent-cp {
+    padding: 0 5vw;
+
+    .dv-main-menu {
+      padding: 107px 0 103px;
+
+      .dv-page-titles {
+        font-size: 32px;
+        line-height: 24px;
+        margin-bottom: 65px;
+        margin-top: 0;
+      }
+
+      .dv-subtitle {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 0;
+        padding-left: 12%;
+        padding-right: 12%;
+      }
+
+      .dv-subtitle-small {
+        margin-bottom: 2px;
+      }
+    }
+  }
+}
+
+// Tablet views
+@media #{$st-tab-pt, $st-tab-ld, $lg-tab-pt, $lg-tab-ld} {
+  #BasicContent-cp {
+    padding: 0 5vw;
+
+    .dv-main-menu {
+      padding: 80px 0;
+
+      .dv-page-titles {
+        font-size: 32px;
+        line-height: 24px;
+        margin-bottom: 38px;
+        margin-top: 0;
+      }
+
+      .dv-subtitle {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 0;
+        padding-left: 12%;
+        padding-right: 12%;
+      }
+      .dv-subtitle-small {
+        margin-bottom: 2px;
+      }
+    }
+  }
+}
+
+// Mobile views
+@media #{$sm-mob-pt, $sm-mob-ld, $st-mob-pt, $st-mob-ld, $lg-mob-pt, $lg-mob-ld} {
+  #BasicContent-cp {
+    padding: 0 5vw;
+
+    .dv-main-menu {
+      padding: 80px 0;
+
+      .dv-page-titles {
+        font-size: 24px;
+        line-height: 28px;
+        margin-bottom: 33px;
+        margin-top: 0;
+      }
+
+      .dv-subtitle {
+        font-size: 15px;
+        line-height: 24px;
+        margin-bottom: 0;
+      }
+    }
+  }
+}
