@@ -3,7 +3,7 @@ templateKey: index-page
 language: es
 redirects: /en/
 hero:
-  image: /img/hero/home/banner.jpg
+  image: /img/home-hero.jpg
   heading: Salud, Belleza y Función
   subHeading: ¡Una Especialidad para cada Tratamiento!
   slogan: INNOVACIÓN Y PRESTIGIO EN ODONTOLOGÍA
