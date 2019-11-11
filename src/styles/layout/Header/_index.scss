@@ -1,7 +1,7 @@
 @import '_side-nav';
 @import '_burger';
 
-header {
+#dv-header {
   font-weight: 400;
   align-items: center;
   border-bottom: 1px solid;
@@ -222,7 +222,7 @@ header {
 }
 
 @include small-mobile-screen(portrait) {
-  header {
+  #dv-header {
     nav {
       &.navbar {
         padding: 0;
@@ -252,7 +252,7 @@ header {
 }
 
 @include small-mobile-screen(landscape) {
-  header {
+  #dv-header {
     nav {
       &.navbar {
         padding: 0;
@@ -282,7 +282,7 @@ header {
 }
 
 @include standard-mobile-screen(portrait) {
-  header {
+  #dv-header {
     nav {
       &.navbar {
         padding: 0;
@@ -312,7 +312,7 @@ header {
 }
 
 @include standard-mobile-screen(landscape) {
-  header {
+  #dv-header {
     nav {
       &.navbar {
         padding: 0;
@@ -344,7 +344,7 @@ header {
 }
 
 @include large-mobile-screen(portrait) {
-  header {
+  #dv-header {
     nav {
       &.navbar {
         padding: 0;
@@ -374,7 +374,7 @@ header {
 }
 
 @include large-mobile-screen(landscape) {
-  header {
+  #dv-header {
     nav {
       &.navbar {
         padding: 0;
@@ -416,7 +416,7 @@ header {
 }
 
 @include tiny-desktop-screen {
-  header {
+  #dv-header {
   }
 
   nav {
@@ -430,7 +430,7 @@ header {
 }
 
 @include large-tablet-screen(portrait) {
-  header {
+  #dv-header {
     nav {
       &.navbar {
         .navbar-brand {
@@ -444,7 +444,7 @@ header {
 }
 
 @include large-tablet-screen(landscape) {
-  header {
+  #dv-header {
     nav {
       .navbar-brand {
         img.scroll {
@@ -456,7 +456,7 @@ header {
 }
 
 @include standard-desktop-screen {
-  header {
+  #dv-header {
     nav {
       .navbar-brand {
         img.scroll {
@@ -468,7 +468,7 @@ header {
 }
 
 @include large-desktop-screen {
-  header {
+  #dv-header {
     nav {
       .navbar-brand {
         img.scroll {

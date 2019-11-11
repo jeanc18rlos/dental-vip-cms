@@ -106,6 +106,7 @@ const Header = props => {
 
   return (
     <header
+    id="dv-header"
       className={classnames(theme === 'dark' ? 'header-dark' : 'header-light')}
     >
       <Modal

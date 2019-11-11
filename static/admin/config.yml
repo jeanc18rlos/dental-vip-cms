@@ -45,7 +45,7 @@ collections:
               fields: [
                 {label: Image, name: image, widget: image},
                 {label: Heading, name: heading, widget: string},
-                {label: Subheading, name: SubHeading, widget: string},
+                {label: Subheading, name: subHeading, widget: string},
                 {label: Slogan, name: slogan, widget: string}
             ]
           }
