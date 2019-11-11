@@ -19,7 +19,9 @@ export const IndexPageTemplate = ({
   hero
 }) => (
   <div>
-    <Banner {...hero} />
+    {
+      hero.image ? <Banner {...hero} /> : console.log(hero)
+    }
     <div
       className="full-width-image margin-top-0"
       style={{
