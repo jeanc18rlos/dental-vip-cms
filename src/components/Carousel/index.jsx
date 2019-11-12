@@ -26,7 +26,7 @@ const Carousel = props => {
             <div key={`${key}+carousel-item`} className="item">
               <div className="col-xs-12 col-sm-12 col-md-2 text-center">
                 {
-                  item.img && item.img.childImageSharp ? <Img
+                  item.img.childImageSharp ? <Img
                   fluid={item.img.childImageSharp.fluid}
                   alt={item.name}
                   className="dv-testimonial-photo"

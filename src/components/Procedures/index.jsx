@@ -21,7 +21,7 @@ const Procedures = props => {
                 key={`item-${index}`}
                 to={i.to}
                 title={i.title}
-                img={{...i.img}}
+                img={i.img}
               />
             )
           })}

@@ -92,7 +92,7 @@ collections:
               fields: [
                 {label: Title, name: title, widget: string},
                 {label: Items, name: items, widget: list, fields: [
-                    {img: Image, name: image, widget: image},
+                    {label: Img, name: img, widget: image},
                     {label: Testimonial, name: testimonial, widget: markdown},
                     {label: Position, name: position, widget: string},
                     {label: Name, name: name, widget: string},
