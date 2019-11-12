@@ -98,6 +98,23 @@ collections:
                   ]}
               ]
           }
+          - {
+              label: Specialties, 
+              name: specialties, 
+              widget: object,           
+              fields: [
+                {label: Title, name: title, widget: string},
+                {label: Paragraph, name: paragraph, widget: markdown},
+                {label: Slogan, name: slogan, widget: string},
+                {label: Features, name: desktop, widget: list, 
+                fields: [
+                  {label: To, name: to, widget: string},
+                  {label: Img, name: img, widget: image},
+                  {label: Title, name: title, widget: string},
+                  {label: Description, name: description, widget: string},
+                ]}
+              ]
+          }
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"

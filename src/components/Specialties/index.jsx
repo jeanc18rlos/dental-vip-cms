@@ -27,11 +27,18 @@ const Specialties = props => {
                   href={i.to}
                   className="col-xs-12 text-center dv-spc-div dv-npl dv-npr "
                 >
-                  <Img
+                  { i.img.childImageSharp.fluid
+                    ? <Img
                     className="specialties-image"
-                    fluid={i.img}
+                    fluid={i.img.childImageSharp.fluid}
                     alt="Endodoncia"
                   />
+                  : <img
+                  className="specialties-image"
+                  src={i.img}
+                  alt="Endodoncia"
+                />
+                  }
                   <h4 className="dv-spc-title">{i.title}</h4>
                   <hr />
                   <p className="dv-spc-desc">{i.description}</p>

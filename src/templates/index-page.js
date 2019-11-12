@@ -3,30 +3,17 @@ import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
 
 import Layout from "../Layout";
-import Features from "../components/Features";
-import BlogRoll from "../components/BlogRoll";
-
 import Banner from "../components/Banner";
 import Welcome from "../components/Welcome";
 import Quotes from "../components/Quotes";
 import Carousel from "../components/Carousel";
+import Specialties from "../components/Specialties";
 
-export const IndexPageTemplate = ({
-  image,
-  title,
-  heading,
-  subHeading,
-  mainpitch,
-  description,
-  intro,
-  hero,
-  testimonial,
-  welcome,
-  quote
-}) => (
+export const IndexPageTemplate = ({ hero, testimonial, welcome, quote, specialties }) => (
   <div>
     <Banner {...hero} />
     <Welcome {...welcome} />
+    <Specialties {...specialties} />
     <Quotes {...quote} />
     <Carousel {...testimonial} />
   </div>
@@ -53,6 +40,7 @@ const IndexPage = ({ data }) => {
         title={frontmatter.title}
         description={frontmatter.description}
         hero={frontmatter.hero}
+        specialties={frontmatter.specialties}
         welcome={frontmatter.welcome}
         quote={frontmatter.quote}
         testimonial={frontmatter.testimonial}
@@ -112,6 +100,7 @@ export const pageQuery = graphql`
               }
             }
           }
+          
           heading
           main
           location
@@ -124,6 +113,23 @@ export const pageQuery = graphql`
                 }
               }
             }
+          }
+        }
+        specialties {
+          title
+          paragraph
+          slogan
+          features{
+            to
+              img {
+                childImageSharp {
+                  fluid(maxWidth: 1600, quality: 100) {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
+              title
+              description
           }
         }
         quote {
