@@ -3,13 +3,13 @@ templateKey: index-page
 language: es
 redirects: /en/
 hero:
-  image: /img/home-hero.jpg
+  image: /img/hero-home.jpg
   heading: Salud, Belleza y Función
   subHeading: ¡Una Especialidad para cada Tratamiento!
   slogan: INNOVACIÓN Y PRESTIGIO EN ODONTOLOGÍA
 
 welcome:
-  logo: /img/layout/header/logo.png
+  logo: /img/logo.png
   heading: CENTRO DE ESTÉTICA Y REHABILITACIÓN ORAL
   main: >
     <p class="dv-welcome-text">
@@ -28,11 +28,11 @@ welcome:
     </p>
   location: 'CARACAS - VENEZUELA'
   partners:
-    - image: /img/partners/light/partner-1.jpg
+    - image: /img/partners-idd.jpg
       alt: Institute of Digital Dentistry
-    - image: /img/partners/light/partner-2.jpg
+    - image: /img/partners-qdc.jpg
       alt: Quality Dental Center
-    - image: /img/partners/light/partner-3.jpg
+    - image: /img/partners-iti.jpg
       alt: International Team for Implantology
 
 quote:
@@ -47,7 +47,7 @@ quote:
 testimonial:
   title: Testimonios y Valoraciones
   items:
-    - img: /img/testimonials/home/testimonial1.png
+    - img: /img/testimonials-mohammad.png
       testimonial: >
         “Tras 11 implantes y 11 coronas cerámicas en el centro, he tenido
         siempre muy buenas experiencias. Honestamente quedé muy satisfecho
@@ -57,7 +57,7 @@ testimonial:
         paciencia, calidad humana y ética profesional”.
       position: Empresario
       name: Mohammad Byherzade
-    - img: /img/testimonials/home/testimonial2.png
+    - img: /img/testimonials-viviana.png
       testimonial: >
         “Antes me daba vergüenza sonreír porque no estaba conforme con el
         aspecto de mi dentadura. Desde que visité DENTAL VIP me siento más
@@ -67,7 +67,7 @@ testimonial:
         espectaculares. Les recomiendo con los ojos cerrados”.
       position: Médico Cirujano
       name: Viviana Hernández
-    - img: /img/testimonials/home/testimonial3.png
+    - img: /img/testimonials-carlos.png
       testimonial: > 
         “Luego de dos tratamientos de Ortodoncia y más de 5 años con
         brackets pensé que mi caso ya no tenía solución. Casi sin
@@ -78,7 +78,7 @@ testimonial:
         definitivamente, lo barato sale muy caro”.
       position: Fotógrafo
       name: Carlos Gutiérrez
-    - img: /img/testimonials/home/testimonial4.png
+    - img: /img/testimonials-brenda.png
       testimonial: >
         “Quería colocarme implantes dentales y no sabía en quién confiar.
         Solicité varias opiniones y finalmente me decidí por DENTAL VIP, y
@@ -88,7 +88,7 @@ testimonial:
         todo el equipo me pareció muy cercano y profesional”.
       position: Ingeniero
       name: Brenda Uzcátegui
-    - img: /img/testimonials/home/testimonial5.png
+    - img: /img/testimonials-jose.png
       testimonial: >
         “Me vi en la necesidad de ir a la clínica para tratar algunas
         caries y hacerme dos tratamientos de conducto. Recomendaría a
@@ -99,38 +99,38 @@ testimonial:
       position: Contador Público
       name: José Luis Dávila
 parallax:
-  stadistics: /img/parallax/home/stadistics.jpg
-  landscape: /img/parallax/home/es/landscape.svg
-  portrait: /img/parallax/home/es/portrait.svg
-  desktop: /img/parallax/home/es/desktop.svg
-  portraitxl: /img/parallax/home/es/portrait-xl.svg
+  stadistics: /img/parallax-stadistics.jpg
+  landscape: /img/parallax-stadistics-portrait-es.svg
+  portrait: /img/parallax-stadistics-portrait-es.svg
+  desktop: /img/parallax-stadistics-desktop-es.svg
+  portraitxl: /img/parallax-stadistics-portrait-xl-es.svg
 specialties:
   title: ¿Qué Ventajas le Ofrece Nuestra Exclusiva Metodología de Trabajo?
   paragraph: Un novedoso enfoque multidisciplinario que posibilita la gestión integradora del conocimiento y potencia la capacidad resolutiva de nuestro equipo asistencial., 
   slogan: ¡Todas las Especialidades en el mismo lugar!, 
   features: 
     - to: /especialidades/cirugia-bucal/
-      img: /img/specialties/OralSurgery.png
+      img: /img/specialties-oral-surgery.png
       title: Cirugía Bucal
       description: Prevención, diagnóstico y tratamiento de toda la patología quirúrgica propia o asociada a dientes, mucosas, labios, encías y huesos maxilares.
     - to: /especialidades/implantes-dentales/
-      img: /img/specialties/Implants.png
+      img: /img/specialties-dental-implants.png
       title: Implantes
       description: Reposición de los dientes perdidos con dispositivos biocompatibles de titanio que viabilizan la rehabilitación oral fija de los pacientes parcial o totalmente edéntulos.
     - to: /especialidades/estetica-dental/
-      img: /img/specialties/DentalAesthetic.png
+      img: /img/specialties-dental-aesthetics.png
       title: Estética Dental
       description: Análisis y estudio de las características dentogingivales para corregir defectos cosméticos y embellecer el aspecto general de la dentadura.
     - to: /especialidades/endodoncia/
-      img: /img/specialties/Endodontic.png
+      img: /img/specialties-endodontics.png
       title: Endodoncia
       description: Limpieza, desinfección y conformación de los conductos radiculares como paso previo a los múltiples procedimientos de prótesis y restauración dental.
     - to: /especialidades/ortodoncia/
-      img: /img/specialties/Orthodontic.png
+      img: /img/specialties-orthodontics.png
       title: Ortodoncia
       description: Brackets y aparatología funcional para la corrección biomecánica de maloclusiones, malposiciones dentales y deformidades dentofaciales.
     - to: /especialidades/protesis/
-      img:  /img/specialties/Prosthesis.png
+      img:  /img/specialties-prosthesis.png
       title: Prótesis y Rehabilitación Oral
       description: Diseño y confección de coronas cerámicas y estructuras protésicas que restituyen la integridad de las arcadas dentales, estética y función masticatoria.
 
@@ -139,26 +139,26 @@ procedures:
   procedures:
     - title: Prótesis sobre implantes
       to: /especialidades/implantes-dentales/protesis-sobre-implantes/
-      img: /img/procedures/home/prosthesis.jpg
+      img: /img/procedures-dental-implants.jpg
     - title: Diagnóstico y Planificación 3D
       to: /especialidades/implantes-dentales/diagnostico-y-planificacion-3d/
-      img: /img/procedures/home/diagnostic.jpg
+      img: /img/procedures-diagnostic.jpg
     - title: Carillas de porcelana
       to: /especialidades/estetica-dental/carillas-de-porcelana/
-      img: /img/procedures/home/veneers.jpg
+      img: /img/procedures-veneers.jpg
     - title: Técnologia cad-cam
       to: /especialidades/protesis/tecnologia-cad-cam/
-      img: /img/procedures/home/technology.jpg
+      img: /img/procedures-cad-cam.jpg
     - title: Diseño digital de sonrisa
       to: /especialidades/estetica-dental/
-      img: /img/procedures/home/design.jpg
+      img: /img/procedures-design.jpg
     - title: Brackets Estéticos
       to: /especialidades/ortodoncia/aesthetic-devices/
-      img: /img/procedures/home/brackets.jpg
+      img: /img/procedures-brackets.jpg
 
 elements:
   - link: /la-clinica/por-que-elegirnos/
-    bg: /img/gallery/home/masonry/why.png
+    bg: /img/gallery-why.png
     title: Por Qué Elegirnos
     placeholder: Ver más
     body: >
@@ -171,7 +171,7 @@ elements:
       </p>
     action: false
   - link: /la-clinica/instalaciones/
-    bg: /img/gallery/home/masonry/facilities.png
+    bg: /img/gallery-facilities.png
     title: La Clínica en Imágenes
     placeholder: Ver más
     body: >
@@ -180,7 +180,7 @@ elements:
       </p>
     action: false
   - link: /la-clinica/tecnologia/
-    bg: /img/gallery/home/masonry/technology.png
+    bg: /img/gallery-technology.png
     title: Dotación y Tecnología
     placeholder: Ver más
     body: >
@@ -189,14 +189,14 @@ elements:
       </p>
     action: false
   - link: /profesionales/
-    bg: /img/gallery/home/masonry/professionals.png
+    bg: /img/gallery-professionals.png
     title: Staff profesional
     placeholder: Ver más
     body: >
       <p class="dv-text-feat">¡Su boca en manos de expertos!</p>
     action: false
   - link: /
-    bg: /img/gallery/home/masonry/smiles.png
+    bg: /img/gallery-smiles.png
     title: Galería de Sonrisas
     placeholder: Ver galeria
     body: >
@@ -214,7 +214,7 @@ elements:
       </p>
     action: true
   - link: /pacientes-del-exterior/
-    bg: /img/gallery/home/masonry/foreigns.png
+    bg: /img/gallery-foreigns.png
     title: Pacientes del exterior
     placeholder: Ver más
     body: >
@@ -228,29 +228,29 @@ lightbox:
   type: singleGallery
   placeholder: GIRE EL DISPOSITIVO PARA AMPLIAR LAS IMÁGENES
   images:
-    - image: /img/gallery/home/smiles/es/1.jpg
-    - image: /img/gallery/home/smiles/es/2.jpg
-    - image: /img/gallery/home/smiles/es/3.jpg
-    - image: /img/gallery/home/smiles/es/4.jpg
-    - image: /img/gallery/home/smiles/es/5.jpg
-    - image: /img/gallery/home/smiles/es/6.jpg
-    - image: /img/gallery/home/smiles/es/7.jpg
-    - image: /img/gallery/home/smiles/es/8.jpg
-    - image: /img/gallery/home/smiles/es/9.jpg
-    - image: /img/gallery/home/smiles/es/10.jpg
-    - image: /img/gallery/home/smiles/es/11.jpg
-    - image: /img/gallery/home/smiles/es/12.jpg
-    - image: /img/gallery/home/smiles/es/13.jpg
-    - image: /img/gallery/home/smiles/es/14.jpg
-    - image: /img/gallery/home/smiles/es/15.jpg
-    - image: /img/gallery/home/smiles/es/16.jpg
-    - image: /img/gallery/home/smiles/es/17.jpg
-    - image: /img/gallery/home/smiles/es/18.jpg
-    - image: /img/gallery/home/smiles/es/19.jpg
-    - image: /img/gallery/home/smiles/es/20.jpg
-    - image: /img/gallery/home/smiles/es/21.jpg
-    - image: /img/gallery/home/smiles/es/22.jpg
-    - image: /img/gallery/home/smiles/es/23.jpg
-    - image: /img/gallery/home/smiles/es/24.jpg
+    - image: /img/lightbox-smiles-01.jpg
+    - image: /img/lightbox-smiles-02.jpg
+    - image: /img/lightbox-smiles-03.jpg
+    - image: /img/lightbox-smiles-04.jpg
+    - image: /img/lightbox-smiles-05.jpg
+    - image: /img/lightbox-smiles-06.jpg
+    - image: /img/lightbox-smiles-07.jpg
+    - image: /img/lightbox-smiles-08.jpg
+    - image: /img/lightbox-smiles-09.jpg
+    - image: /img/lightbox-smiles-10.jpg
+    - image: /img/lightbox-smiles-11.jpg
+    - image: /img/lightbox-smiles-12.jpg
+    - image: /img/lightbox-smiles-13.jpg
+    - image: /img/lightbox-smiles-14.jpg
+    - image: /img/lightbox-smiles-15.jpg
+    - image: /img/lightbox-smiles-16.jpg
+    - image: /img/lightbox-smiles-17.jpg
+    - image: /img/lightbox-smiles-18.jpg
+    - image: /img/lightbox-smiles-19.jpg
+    - image: /img/lightbox-smiles-20.jpg
+    - image: /img/lightbox-smiles-21.jpg
+    - image: /img/lightbox-smiles-22.jpg
+    - image: /img/lightbox-smiles-23.jpg
+    - image: /img/lightbox-smiles-24.jpg
 
 ---
