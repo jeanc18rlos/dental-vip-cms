@@ -27,7 +27,7 @@ const Specialties = props => {
                   href={i.to}
                   className="col-xs-12 text-center dv-spc-div dv-npl dv-npr "
                 >
-                  { i.img.childImageSharp.fluid
+                  { i.img.childImageSharp
                     ? <Img
                     className="specialties-image"
                     fluid={i.img.childImageSharp.fluid}

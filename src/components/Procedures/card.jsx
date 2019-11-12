@@ -1,36 +1,36 @@
-import React, { useState } from 'react'
-import classnames from 'classnames'
-import PropTypes from 'prop-types'
-import Img from 'gatsby-image'
+import React, { useState } from "react";
+import classnames from "classnames";
+import PropTypes from "prop-types";
+import Img from "gatsby-image";
 
 const Card = props => {
-  const { to, title, img, length } = props
-  const [hovered, setHovered] = useState(false)
+  const { to, title, img, length } = props;
+  const [hovered, setHovered] = useState(false);
   const toggleHover = value => {
-    setHovered(value)
-  }
+    setHovered(value);
+  };
   return (
     <a
       onMouseOver={() => {
-        toggleHover('slideOutUpProcedures')
+        toggleHover("slideOutUpProcedures");
       }}
       onFocus={() => {
-        return null
+        return null;
       }}
       onBlur={() => {
-        return null
+        return null;
       }}
       onMouseOut={() => {
-        toggleHover('slideInDownProcedures')
+        toggleHover("slideInDownProcedures");
       }}
       className={classnames(
-        'row-eq-height  col-xs-12  col-sm-6 col-md-6 col-lg-4'
+        "row-eq-height  col-xs-12  col-sm-6 col-md-6 col-lg-4"
       )}
       href={to}
     >
       <div
         className={classnames(
-          'animated col-xs-12 dv-procedures-content text-center',
+          "animated col-xs-12 dv-procedures-content text-center",
           hovered
         )}
       >
@@ -39,23 +39,30 @@ const Card = props => {
           <i className="icon-plus dv-plus center-block" />
         </div>
 
-        <Img
-          className={classnames('dv-image-div', length <= 3 && 'big')}
-          fluid={img}
-        />
+        {img.childImageSharp ? (
+          <Img
+            className={classnames("dv-image-div", length <= 3 && "big")}
+            fluid={img.childImageSharp.fluid}
+          />
+        ) : (
+          <img
+            className={classnames("dv-image-div", length <= 3 && "big")}
+            src={img}
+          />
+        )}
 
         <div className="dv-hover-proc-left dv-hover-proc-left1" />
       </div>
     </a>
-  )
-}
+  );
+};
 
-export default Card
+export default Card;
 Card.propTypes = {
   to: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   img: PropTypes.objectOf(
     PropTypes.oneOfType([PropTypes.string, PropTypes.number])
   ).isRequired,
-  length: PropTypes.number.isRequired,
-}
+  length: PropTypes.number.isRequired
+};

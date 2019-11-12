@@ -8,14 +8,16 @@ import Welcome from "../components/Welcome";
 import Quotes from "../components/Quotes";
 import Carousel from "../components/Carousel";
 import Specialties from "../components/Specialties";
+import Procedures from "../components/Procedures";
 
-export const IndexPageTemplate = ({ hero, testimonial, welcome, quote, specialties }) => (
+export const IndexPageTemplate = ({ hero, testimonial, welcome, quote, specialties, procedures }) => (
   <div>
     <Banner {...hero} />
     <Welcome {...welcome} />
     <Specialties {...specialties} />
     <Quotes {...quote} />
     <Carousel {...testimonial} />
+    <Procedures {...procedures} />
   </div>
 );
 
@@ -38,6 +40,7 @@ const IndexPage = ({ data }) => {
     <Layout>
       <IndexPageTemplate
         title={frontmatter.title}
+        procedures={frontmatter.procedures}
         description={frontmatter.description}
         hero={frontmatter.hero}
         specialties={frontmatter.specialties}
@@ -91,6 +94,21 @@ export const pageQuery = graphql`
             position
             name
           }
+        }
+        procedures {
+          title
+          procedures {
+            title
+            to
+            img {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+          
         }
         welcome {
           logo {

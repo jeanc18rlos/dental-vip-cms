@@ -106,12 +106,26 @@ collections:
                 {label: Title, name: title, widget: string},
                 {label: Paragraph, name: paragraph, widget: markdown},
                 {label: Slogan, name: slogan, widget: string},
-                {label: Features, name: desktop, widget: list, 
+                {label: Features, name: features, widget: list, 
                 fields: [
                   {label: To, name: to, widget: string},
                   {label: Img, name: img, widget: image},
                   {label: Title, name: title, widget: string},
                   {label: Description, name: description, widget: string},
+                ]}
+              ]
+          }
+          - {
+              label: Procedures, 
+              name: procedures, 
+              widget: object,           
+              fields: [
+                {label: Title, name: title, widget: string},
+                {label: Procedures, name: procedures, widget: list, 
+                fields: [
+                  {label: To, name: to, widget: string},
+                  {label: Img, name: img, widget: image},
+                  {label: Title, name: title, widget: string},
                 ]}
               ]
           }
