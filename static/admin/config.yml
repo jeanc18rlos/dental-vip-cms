@@ -51,6 +51,56 @@ collections:
             ]
           }
           - {
+            label: Parallax,
+            name: parallax,
+            widget: object,
+            fields: [
+              {label: stadistics, name: stadistics, widget: image },
+              {label: landscape, name: landscape, widget: image },
+              {label: portrait, name: portrait, widget: image },
+              {label: desktop, name: desktop, widget: image },
+              {label: portraitxl, name: portraitxl, widget: image },
+            ]
+          }
+          - {
+            label: Elements,
+            name: elements,
+            widget: list,
+            fields: [
+              {label: link, name: link, widget: string },
+              {label: bg, name: bg, widget: image },
+              {label: title, name: title, widget: string },
+              {label: placeholder, name: placeholder, widget: string },
+              {label: body, name: body, widget: markdown },
+              {label: action, name: action, widget: boolean },
+            ]
+          }
+          - {
+              label: Hero, 
+              name: hero, 
+              widget: object,           
+              fields: [
+                {label: Image, name: image, widget: image},
+                {label: Heading, name: heading, widget: string},
+                {label: Subheading, name: subHeading, widget: string},
+                {label: Slogan, name: slogan, widget: string}
+            ]
+          }
+          - {
+              label: Lightbox, 
+              name: lightbox, 
+              widget: object,           
+              fields: [
+                {label: Type, name: type, widget: string},
+                {label: Placheholder, name: placeholder, widget: string},
+                {label: Images, name: images, widget: list, fields: [
+                  {
+                    label: Image, name: image, widget: image
+                  }
+                ]}
+            ]
+          }
+          - {
             label: Welcome, 
             name: welcome, 
             widget: object,           

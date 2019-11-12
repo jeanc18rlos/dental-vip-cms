@@ -195,7 +195,7 @@ elements:
     body: >
       <p class="dv-text-feat">¡Su boca en manos de expertos!</p>
     action: false
-  - link: /
+  - link: #
     bg: /img/gallery-smiles.png
     title: Galería de Sonrisas
     placeholder: Ver galeria

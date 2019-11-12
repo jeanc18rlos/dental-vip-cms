@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Link, graphql } from "gatsby";
-
+import { graphql } from "gatsby";
+import Img from 'gatsby-image';
 import Layout from "../Layout";
 import Banner from "../components/Banner";
 import Welcome from "../components/Welcome";
@@ -9,17 +9,54 @@ import Quotes from "../components/Quotes";
 import Carousel from "../components/Carousel";
 import Specialties from "../components/Specialties";
 import Procedures from "../components/Procedures";
+import OverlayGallery from "../components/overlayGallery";
+import HomeParallax from "../components/Parallax/HomeParallax";
 
-export const IndexPageTemplate = ({ hero, testimonial, welcome, quote, specialties, procedures }) => (
-  <div>
-    <Banner {...hero} />
-    <Welcome {...welcome} />
-    <Specialties {...specialties} />
-    <Quotes {...quote} />
-    <Carousel {...testimonial} />
-    <Procedures {...procedures} />
-  </div>
-);
+
+export const IndexPageTemplate = ({
+  hero,
+  testimonial,
+  welcome,
+  parallax,
+  quote,
+  specialties,
+  procedures,
+  elements,
+  lightbox
+}) => {
+  const lazyLightBox = {
+    type: lightbox.type,
+    placeholder: lightbox.placeholder,
+    images: lightbox.images.map(i=>{
+      return {
+        renderItem: () => {
+          return i.image.childImageSharp ?
+           
+            <Img
+              className="lightbox-lazy"
+              fluid={i.image.childImageSharp.fluid}
+            />
+          : <img
+          className="lightbox-lazy"
+          src={i.image}
+        />
+        }
+      }
+    })
+  };
+  return (
+    <div>
+      <Banner {...hero} />
+      <Welcome {...welcome} />
+      <OverlayGallery elements={elements} {...lazyLightBox} isMasonry />
+      <Specialties {...specialties} />
+      <Quotes {...quote} />
+      <HomeParallax {...parallax} />
+      <Carousel {...testimonial} />
+      <Procedures {...procedures} />
+    </div>
+  );
+};
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -47,6 +84,9 @@ const IndexPage = ({ data }) => {
         welcome={frontmatter.welcome}
         quote={frontmatter.quote}
         testimonial={frontmatter.testimonial}
+        elements={frontmatter.elements}
+        lightbox={frontmatter.lightbox}
+        parallax={frontmatter.parallax}
       />
     </Layout>
   );
@@ -67,7 +107,41 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
         title
-
+        elements {
+          link
+          bg {
+            childImageSharp {
+              fluid(maxWidth: 1600, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+          title
+          placeholder
+          body
+          action
+        }
+        parallax {
+          stadistics {
+            childImageSharp {
+              fluid(maxWidth: 1600, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+          landscape {
+            publicURL
+          }
+          portrait {
+            publicURL
+          }
+          desktop {
+            publicURL
+          }
+          portraitxl {
+            publicURL
+          }
+        }
         hero {
           image {
             childImageSharp {
@@ -95,6 +169,7 @@ export const pageQuery = graphql`
             name
           }
         }
+
         procedures {
           title
           procedures {
@@ -108,7 +183,6 @@ export const pageQuery = graphql`
               }
             }
           }
-          
         }
         welcome {
           logo {
@@ -118,7 +192,7 @@ export const pageQuery = graphql`
               }
             }
           }
-          
+
           heading
           main
           location
@@ -137,17 +211,30 @@ export const pageQuery = graphql`
           title
           paragraph
           slogan
-          features{
+          features {
             to
-              img {
-                childImageSharp {
-                  fluid(maxWidth: 1600, quality: 100) {
-                    ...GatsbyImageSharpFluid
-                  }
+            img {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid
                 }
               }
-              title
-              description
+            }
+            title
+            description
+          }
+        }
+        lightbox {
+          type
+          placeholder
+          images {
+            image {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
         quote {
@@ -156,7 +243,7 @@ export const pageQuery = graphql`
           author
           footer {
             position
-            clinic  
+            clinic
           }
         }
       }

@@ -5,7 +5,7 @@ import { isMobile } from 'react-device-detect'
 import PropTypes from 'prop-types'
 import Card from './card'
 import LightBoxCarousel from '../LightBoxCarousel'
-import { rotateDevice } from '../../images'
+//import { rotateDevice } from '../../images'
 
 const OverlayGallery = props => {
   const { width, elements, isMasonry, type, images, placeholder } = props
@@ -43,7 +43,9 @@ const OverlayGallery = props => {
             padding: '3%',
           }}
         >
-          <img src={rotateDevice} alt="rotate" style={{ maxWidth: '90px' }} />
+          {
+            //<img src={rotateDevice} alt="rotate" style={{ maxWidth: '90px' }} />
+          }
         </div>
 
         <LightBoxCarousel index={indexImg} images={images} />

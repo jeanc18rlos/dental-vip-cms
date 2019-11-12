@@ -3,6 +3,8 @@ import classnames from 'classnames'
 import { isMobile } from 'react-device-detect'
 import Img from 'gatsby-image'
 import PropTypes from 'prop-types'
+import showdown from 'showdown'
+const converter = new showdown.Converter()
 
 const Card = props => {
   const {
@@ -73,7 +75,8 @@ const Card = props => {
             )}
           >
             <h3>{title}</h3>
-            {body}
+            <div dangerouslySetInnerHTML={{ __html: converter.makeHtml(body) }} />
+           
             {action && type === 'singleGallery' ? (
               <button
                 type="button"
@@ -113,11 +116,16 @@ const Card = props => {
           </div>
         </div>
       </div>
-      <Img
+      
+      { bg.childImageSharp ? <Img
         alt="dentalvip"
         className={classnames(isMasonry && 'masonry-gallery')}
-        fluid={bg}
-      />
+        fluid={bg.childImageSharp.fluid}
+      /> : <img
+      alt="dentalvip"
+      className={classnames(isMasonry && 'masonry-gallery')}
+      src={bg}
+    />}
     </div>
   ) : (
     <div
@@ -188,7 +196,7 @@ const Card = props => {
             )}
           >
             <h3>{title}</h3>
-            {body}
+            <div dangerouslySetInnerHTML={{ __html: converter.makeHtml(body) }} />
             {action && type === 'gridGallery' && (
               <button type="button" className="gallery-btn">
                 <i className="icon-search" />
@@ -197,11 +205,15 @@ const Card = props => {
           </div>
         </a>
       </div>
-      <Img
+      { bg.childImageSharp ? <Img
         alt="dentalvip"
         className={classnames(isMasonry && 'masonry-gallery')}
-        fluid={bg}
-      />
+        fluid={bg.childImageSharp.fluid}
+      /> : <img
+      alt="dentalvip"
+      className={classnames(isMasonry && 'masonry-gallery')}
+      src={bg}
+    />}
     </div>
   )
 }
