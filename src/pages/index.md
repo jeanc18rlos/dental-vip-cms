@@ -106,8 +106,8 @@ parallax:
   portraitxl: /img/parallax-stadistics-portrait-xl-es.svg
 specialties:
   title: ¿Qué Ventajas le Ofrece Nuestra Exclusiva Metodología de Trabajo?
-  paragraph: Un novedoso enfoque multidisciplinario que posibilita la gestión integradora del conocimiento y potencia la capacidad resolutiva de nuestro equipo asistencial., 
-  slogan: ¡Todas las Especialidades en el mismo lugar!, 
+  paragraph: Un novedoso enfoque multidisciplinario que posibilita la gestión integradora del conocimiento y potencia la capacidad resolutiva de nuestro equipo asistencial.
+  slogan: ¡Todas las Especialidades en el mismo lugar!
   features: 
     - to: /especialidades/cirugia-bucal/
       img: /img/specialties-oral-surgery.png
