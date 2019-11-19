@@ -50,16 +50,7 @@ export default function HTML(props) {
         />
         {props.postBodyComponents}
         <link
-          href="https://fonts.googleapis.com/css?family=Kalam&display=swap"
-          rel="stylesheet"
-        />
-
-        <link
           href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap"
-          rel="stylesheet"
-        />
-        <link
-          href="https://fonts.googleapis.com/css?family=Playfair+Display&display=swap"
           rel="stylesheet"
         />
       </body>

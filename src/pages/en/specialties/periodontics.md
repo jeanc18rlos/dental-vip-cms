@@ -6,7 +6,7 @@ redirects: /especialidades/periodontics/
 hero:
   display: true
   type: default
-  image: /img/hero-periodontics.jpg
+  image: /img/hero-periodonthics.jpg
   parallax: false
   title: >
     <span class="bebas" style="font-family:Bebas Neue Bold;color:white;font-weight:lighter">Periodontics</span>
