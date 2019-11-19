@@ -1,5 +1,6 @@
 import React from "react"
 import PropTypes from "prop-types"
+import preloader from './assets/preloader.svg'
 
 export default function HTML(props) {
   return (
@@ -18,6 +19,30 @@ export default function HTML(props) {
         <noscript key="noscript" id="gatsby-noscript">
           This app works best with JavaScript enabled.
         </noscript>
+        <div
+          id="preloader"
+          style={{
+            position: 'fixed',
+            width: '100%',
+            zIndex: 1000,
+            top: '0',
+            left: '0',
+            background: '#333',
+            overflow: 'hidden',
+            height: '100%',
+          }}
+        >
+          <img
+            alt="loading"
+            style={{
+              width: '50vw',
+              height: '50vh',
+              margin: '25vh 25vw',
+              marginBottom: '50px',
+            }}
+            src={preloader}
+          />
+        </div>
         <div
           key={`body`}
           id="___gatsby"

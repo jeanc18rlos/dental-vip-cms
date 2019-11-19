@@ -2,11 +2,26 @@
 templateKey: index-page
 language: en
 redirects: /
+title: Homepage
 hero:
+  type: animated
   image: /img/hero-home.jpg
-  heading: Health, Beauty & Function
-  subHeading: One Specialty for each Treatment!
-  slogan: INNOVATION AND PRESTIGE IN DENTISTRY
+  captions: 
+    - delay: 1000
+      content: >
+        <h2>
+          Health, Beauty & Function
+        </h2>
+    - delay: 1000
+      content: >
+        <h3>
+          One Specialty for each Treatment!
+        </h3>
+    - delay: 1000
+      content: >
+        <h1>
+          INNOVATION AND PRESTIGE IN DENTISTRY
+        </h1>
 
 welcome:
   logo: /img/logo.png
@@ -195,6 +210,7 @@ elements:
       </p>
     action: false
 lightbox:
+  display: true
   type: singleGallery
   placeholder: GIRE EL DISPOSITIVO PARA AMPLIAR LAS IMÁGENES
   images:

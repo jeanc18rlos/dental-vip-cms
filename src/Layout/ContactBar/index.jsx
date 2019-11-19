@@ -11,7 +11,7 @@ import  usaIcon from '../../img/layout/icons/usa.png'
 import esIcon from '../../img/layout/icons/spain.png'
 const ContactBar = props => {
   const [dropdown, toggleDrop] = useState(false)
-  const { schedule, phone, location, lang, langRedir, setLang } = props
+  const { schedule, phone, location, lang, langRedir } = props
   return (
     <div id="dv-contact-nav" className="light-nav container col-md-12">
       <div className="row ">
@@ -70,7 +70,6 @@ const ContactBar = props => {
                   <DropdownMenu>
                     <DropdownItem
                       onClick={() => {
-                        setLang(lang !== 'es' ? 'es' : 'en')
                         navigate(
                           langRedir === '/error'
                             ? `${(lang === 'es' && '/en/error') || langRedir}`

@@ -1,0 +1,71 @@
+.dv-parallax {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  min-height: 100vh;
+  .dv-parallax-bg {
+    background-attachment: fixed !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    &::before,
+    &::after {
+      background-attachment: fixed !important;
+      background-size: cover !important;
+      background-repeat: no-repeat !important;
+      background-position: center !important;
+    } 
+  }
+  img {
+    margin: auto;
+    max-width: 100%;
+
+    &.dv-parallax-layer-desktop {
+      margin-top: 120px;
+      min-width: 80%;
+      margin-bottom: 120px;
+    }
+
+    &.dv-parallax-layer-landscape,
+    &.dv-parallax-layer-portrait,
+    &.dv-parallax-layer-portrait-xl {
+      margin-top: 90px;
+      margin-bottom: 90px;
+    }
+
+    &.dv-parallax-layer-portrait,
+    &.dv-parallax-layer-portrait-xl {
+      min-width: 80%;
+    }
+  }
+}
+.dv-parallax-layer-desktop,
+.dv-parallax-layer-landscape,
+.dv-parallax-layer-portrait-xl,
+.dv-parallax-layer-portrait {
+  display: none;
+}
+
+@media only screen and (min-width: 850px) and (orientation: landscape) {
+  .dv-parallax-layer-desktop {
+    display: block !important;
+  }
+}
+
+@media only screen and (max-width: 850px) and (orientation: landscape) {
+  .dv-parallax-layer-landscape {
+    display: block;
+  }
+}
+
+@media only screen and (max-height: 700px) and (orientation: portrait) {
+  .dv-parallax-layer-portrait {
+    display: block;
+  }
+}
+@media only screen and (min-height: 701px) and (orientation: portrait) {
+  .dv-parallax-layer-portrait-xl {
+    display: block;
+  }
+}

@@ -1,9 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
-import Img from 'gatsby-image';
+import Img from "gatsby-image";
 import Layout from "../Layout";
-import Banner from "../components/Banner";
+import DVhero from "../components/DV-Hero";
 import Welcome from "../components/Welcome";
 import Quotes from "../components/Quotes";
 import Carousel from "../components/Carousel";
@@ -11,7 +11,8 @@ import Specialties from "../components/Specialties";
 import Procedures from "../components/Procedures";
 import OverlayGallery from "../components/overlayGallery";
 import HomeParallax from "../components/Parallax/HomeParallax";
-
+import SEO from "../components/seo";
+import SetLang from "../components/setLang";
 
 export const IndexPageTemplate = ({
   hero,
@@ -27,26 +28,24 @@ export const IndexPageTemplate = ({
   const lazyLightBox = {
     type: lightbox.type,
     placeholder: lightbox.placeholder,
-    images: lightbox.images.map(i=>{
+    images: lightbox.images.map(i => {
       return {
         renderItem: () => {
-          return i.image.childImageSharp ?
-           
+          return i.image.childImageSharp ? (
             <Img
               className="lightbox-lazy"
               fluid={i.image.childImageSharp.fluid}
             />
-          : <img
-          className="lightbox-lazy"
-          src={i.image}
-        />
+          ) : (
+            <img className="lightbox-lazy" src={i.image} />
+          );
         }
-      }
+      };
     })
   };
   return (
     <div>
-      <Banner {...hero} />
+      <DVhero {...hero} />
       <Welcome {...welcome} />
       <OverlayGallery elements={elements} {...lazyLightBox} isMasonry />
       <Specialties {...specialties} />
@@ -74,7 +73,9 @@ const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
 
   return (
-    <Layout>
+    <Layout language={frontmatter.language}>
+      <SEO title={frontmatter.title} />
+      <SetLang language={frontmatter.language}  link={frontmatter.redirects} />
       <IndexPageTemplate
         title={frontmatter.title}
         procedures={frontmatter.procedures}
@@ -104,9 +105,14 @@ export default IndexPage;
 
 export const pageQuery = graphql`
   query IndexPageTemplate($id: String!) {
-    markdownRemark( id: { eq: $id } ) {
+    markdownRemark(
+      id: { eq: $id }
+      frontmatter: { templateKey: { eq: "index-page" } }
+    ) {
       frontmatter {
         title
+        language
+        redirects
         elements {
           link
           bg {
@@ -143,6 +149,7 @@ export const pageQuery = graphql`
           }
         }
         hero {
+          type
           image {
             childImageSharp {
               fluid(maxWidth: 1600, quality: 100) {
@@ -150,9 +157,13 @@ export const pageQuery = graphql`
               }
             }
           }
-          heading
-          subHeading
-          slogan
+          parallax
+          indicator
+          halfSize
+          captions {
+            content
+            delay
+          }
         }
         testimonial {
           title
@@ -225,6 +236,7 @@ export const pageQuery = graphql`
           }
         }
         lightbox {
+          display
           type
           placeholder
           images {

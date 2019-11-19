@@ -1,0 +1,220 @@
+.dv-hero {
+  min-height: 420px;
+  height: calc(100vh - 115px);
+  @media screen and (max-width: 850px) {
+    height: calc(100vh - 60px) !important;
+  }
+  margin-top: 0;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  z-index: -4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  > .dv-hero-bg {
+    height: 100%;
+    position: absolute !important;
+    z-index: -5;
+    width: 100%;
+  }
+  > .dv-hero-title {
+    font-size: 60px;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    word-break: break-word;
+    text-shadow: 1px 1px 7px #0a0a0a;
+    font-weight: 700;
+    text-align: center;
+    .bebas{
+      letter-spacing: 1px;
+      font-size: 72px;
+      @media only screen and (max-width: 850px){
+        font-size: 45px !important;
+      }
+    }
+    @media only screen and (max-width: 850px){
+      font-size: 42px !important;
+    }
+
+  }
+  >.dv-hero-indicator {
+    color: white;
+    font-size: 44px;
+    align-self: flex-end;
+    bottom: 5vh;
+    text-shadow: 1px 1px 7px #0a0a0a;
+    position: absolute;
+  }
+  &.dv-animated-hero {
+    > .dv-hero-bg {
+      justify-content: left;
+      transition: transform 20s cubic-bezier(0.42, 0, 0.35, 0.93);
+      &.scale {
+        transform: scale(1.2);
+      }
+    }
+
+    > .dv-hero-caption {
+      left: 0;
+      padding-left: 5vw;
+      padding-right: 5vw;
+      position: absolute;
+      top: 48%;
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        color: $white;
+        display: block;
+        font-family: Roboto !important;
+        opacity: 1;
+        text-align: left;
+        width: fit-content;
+        word-break: break-word;
+        z-index: 5;
+        font-weight: 700;
+      }
+      h2 {
+        background-color: $transparent-box-gray;
+        border-color: $green;
+        border-style: solid;
+        border-width: 0 0 0 8px;
+        font-size: 29px;
+        font-weight: 700;
+        line-height: 37px;
+        margin-bottom: 70px;
+        padding: 0 10px;
+      }
+
+      h3 {
+        font-size: 22px;
+        font-weight: 500;
+        line-height: 18px;
+        margin-bottom: 10px;
+        @media only screen and (max-width: 850px) {
+          display: none !important;
+        }
+      }
+
+      h1 {
+        font-size: 34px;
+        line-height: 30px;
+      }
+      @media only screen and (max-width: 767px) and (orientation: portrait) {
+        top: 62% !important;
+        h2::before {
+          border-width: 0 0 0 5px;
+        }
+      }
+      @media only screen and (max-width: 850px) and (min-width: 767px) and (max-height: 600px) and (orientation: landscape) {
+        h2 {
+          font-size: 24px !important;
+          line-height: 34px !important;
+          margin-bottom: 30px !important;
+        }
+      
+        h1 {
+          font-size: 24px !important;
+          line-height: 20px !important;
+        }
+      }
+      
+      @media only screen and (min-width: 768px) and (max-width: 1023px) {
+        top: 51%;
+        h2 {
+          font-size: 32px;
+          line-height: 48px;
+          margin-bottom: 70px;
+        }
+
+        h1 {
+          font-size: 36px;
+          line-height: 39px;
+        }
+      }
+      @media only screen and (max-width: 568px) and (orientation: landscape) {
+        top: 55%;
+      }
+
+      @media #{$sm-mob-pt, $sm-mob-ld} {
+        top: 57% !important;
+      }
+      @media only screen and (max-width: 767px) {
+        top: 45%;
+        h2 {
+          font-size: 24px !important;
+          line-height: 36px !important;
+          margin-bottom: 36px !important;
+        }
+        h1 {
+          font-size: 22px !important;
+          line-height: 29px !important;
+        }
+      }
+      @media only screen and (max-width: 767px) and (orientation: landscape) {
+        h2 {
+          margin-bottom: 20px !important;
+        }
+
+        h1 {
+          font-size: 16px;
+        }
+      }
+      @media only screen and (max-width: 320px) and (orientation: portrait) {
+        top: 60% !important;
+        h2 {
+          font-size: 21px !important;
+          line-height: 32px !important;
+          margin-bottom: 18px !important;
+
+          &::before {
+            border-width: 0 0 0 5px !important;
+          }
+        }
+        h1 {
+          font-size: 20px !important;
+          line-height: 26px !important;
+        }
+      }
+
+      @media only screen and (min-width: 1400px) {
+        h2 {
+          font-size: 37px !important;
+          line-height: 50px !important;
+          margin-bottom: 96px !important;
+        }
+
+        h3 {
+          font-size: 29px !important;
+          line-height: 25px !important;
+          margin-bottom: 14px !important;
+        }
+
+        h1 {
+          font-size: 40px !important;
+          line-height: 40px !important;
+        }
+      }
+    }
+  }
+  &.dv-half-size-hero {
+    min-height: 320px;
+    height: 60vh;
+    @media screen and (max-width: 850px) {
+      height: 60vh !important;
+    }
+  }
+  &.dv-parallax-hero {
+    .dv-hero-bg {
+      position: fixed !important;
+      overflow: hidden !important;
+      z-index: -99999999 !important;
+      top: 0;
+    }
+  }
+}
+

@@ -2,6 +2,8 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import SEO from "../components/seo";
+import SetLang from "../components/setLang";
 
 class TagRoute extends React.Component {
   render() {

@@ -16,25 +16,12 @@ import { Link, navigate } from 'gatsby'
 import  usaIcon from '../../img/layout/icons/usa.png'
 import esIcon from '../../img/layout/icons/spain.png'
 
-const isThePage = (url, link) => {
-  if (`${url}` === `${link}`) {
-    return true
-  }
-  if (link !== '/' && url.indexOf(link) !== -1) {
-    return true
-  }
-
-  return false
-}
-
 const Header = props => {
   const {
     langRedir,
     dropdown,
     toggleDrop,
-    setLang,
     lang,
-    url,
     width,
     theme,
     logo,
@@ -183,9 +170,10 @@ const Header = props => {
                     onClick={e => {
                       e.preventDefault()
                     }}
+                    activeClassName="current"
+                    partiallyActive={true}
                     className={classnames(
                       'backface-anim nav-link',
-                      isThePage(url, i.to) && 'current',
                       propis[i.props.stateRef] === 'slideInDown visible' &&
                         'active'
                     )}
@@ -209,9 +197,8 @@ const Header = props => {
                       return (
                         <li key={`${item.title}-submenu-${index2}`}>
                           <Link
-                            className={classnames(
-                              isThePage(url, item.to) && 'current'
-                            )}
+                            activeClassName="current"
+                            partiallyActive={true}
                             to={`${item.to}`}
                           >
                             {item.title}
@@ -317,7 +304,6 @@ const Header = props => {
                               className=""
                               href="#"
                               onClick={() => {
-                                setLang(lang !== 'es' ? 'es' : 'en')
                                 toggleDrop(false)
                                 toggleSidebar()
                                 setTimeout(() => {

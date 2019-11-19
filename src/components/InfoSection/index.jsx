@@ -21,8 +21,7 @@ const InfoSection = props => {
                   titleimage={section.titleimage}
                   titlecontent={section.titlecontent}
                   contentimage={section.contentimage}
-                  description1={section.descriptionp1}
-                  description2={section.descriptionp2}
+                  content={section.content}
                 />
               )
             })}

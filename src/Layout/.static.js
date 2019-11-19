@@ -296,7 +296,7 @@ export const en = {
           },
           {
             title: 'PHILOSOPHY',
-            to: '/en/the-clinic/phillosophy/',
+            to: '/en/the-clinic/philosophy/',
           },
           {
             title: 'FACILITIES',

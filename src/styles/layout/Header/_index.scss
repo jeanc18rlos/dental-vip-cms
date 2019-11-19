@@ -2,6 +2,10 @@
 @import '_burger';
 
 #dv-header {
+  height: 70px;
+  @media screen and (max-width: 850px){
+    height: 60px !important;
+  }
   font-weight: 400;
   align-items: center;
   border-bottom: 1px solid;

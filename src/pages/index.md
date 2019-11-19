@@ -2,12 +2,29 @@
 templateKey: index-page
 language: es
 redirects: /en/
+title: Inicio
 hero:
+  type: animated
   image: /img/hero-home.jpg
-  heading: Salud, Belleza y Función
-  subHeading: ¡Una Especialidad para cada Tratamiento!
-  slogan: INNOVACIÓN Y PRESTIGIO EN ODONTOLOGÍA
-
+  parallax: false
+  indicator: false
+  halfSize: false
+  captions: 
+    - delay: 1000
+      content: >
+        <h2>
+          Salud, Belleza y Función
+        </h2>
+    - delay: 1000
+      content: >
+        <h3>
+          ¡Una Especialidad para cada Tratamiento!
+        </h3>
+    - delay: 1000
+      content: >
+        <h1>
+          INNOVACIÓN Y PRESTIGIO EN ODONTOLOGÍA
+        </h1>
 welcome:
   logo: /img/logo.png
   heading: CENTRO DE ESTÉTICA Y REHABILITACIÓN ORAL
@@ -225,6 +242,7 @@ elements:
       </p>
     action: false
 lightbox:
+  display: true
   type: singleGallery
   placeholder: GIRE EL DISPOSITIVO PARA AMPLIAR LAS IMÁGENES
   images:

@@ -1,14 +1,11 @@
 // component procedure
 @import '/Procedures/_index';
 
-// component parallax
-@import '/Parallax/_index';
+
 
 // component basic-content
 @import '/BasicContent/_index';
 
-// component basic-content
-@import '/Banner/_index';
 
 // component info-section
 @import '/InfoSection/_index.sass';
@@ -40,3 +37,7 @@
 .popupbox-content {
   max-height: 99vh !important;
 }
+
+
+//DV COMPONENTS
+@import '/DVhero/_index';

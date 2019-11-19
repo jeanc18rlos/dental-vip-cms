@@ -2,6 +2,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Img from 'gatsby-image'
+import showdown from "showdown";
+const converter = new showdown.Converter();
 
 const InfoContent = props => {
   const {
@@ -9,8 +11,7 @@ const InfoContent = props => {
     titleimage,
     titlecontent,
     contentimage,
-    description1,
-    description2,
+    content,
     id,
   } = props
 
@@ -18,29 +19,31 @@ const InfoContent = props => {
     <div className="row section-cp">
       <Img
         className={` image ${
-          type === '1' ? 'dv-not-image' : 'dv-notmb-image'
+          type === 1 ? 'dv-not-image' : 'dv-notmb-image'
         } `}
-        fluid={contentimage}
+        fluid={contentimage.childImageSharp.fluid}
       />
-      <Img className="image img-mobile" fluid={contentimage} />
+      <Img className="image img-mobile" fluid={contentimage.childImageSharp.fluid} />
       <div className="dv-content">
         <div className={` dv-info-middle  ${id === 0 ? 'dv-border-top' : ''} `}>
           <div className="dv-align-center">
             <div className="dv-content-heading">
-              <Img fluid={titleimage} alt="default" />
+              <Img fluid={titleimage.childImageSharp.fluid} alt="default" />
               <h3>{titlecontent}</h3>
               <div className="clearifx" />
             </div>
-            <p className="light-font">{description1}</p>
-            <p className="light-font">{description2}</p>
+            <div dangerouslySetInnerHTML={{
+                  __html: converter.makeHtml(content)
+                }}></div>
+            
           </div>
         </div>
       </div>
       <Img
         className={` image ${
-          type === '2' ? 'dv-not-image' : 'dv-notmb-image'
+          type === 2 ? 'dv-not-image' : 'dv-notmb-image'
         } `}
-        fluid={contentimage}
+        fluid={contentimage.childImageSharp.fluid}
       />
     </div>
   )

@@ -5,7 +5,8 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
-
+import SEO from "../components/seo";
+import SetLang from "../components/setLang";
 export const BlogPostTemplate = ({
   content,
   contentComponent,
@@ -59,19 +60,12 @@ const BlogPost = ({ data }) => {
 
   return (
     <Layout>
+      <SEO title={post.frontmatter.title} />
+      <SetLang link={post.frontmatter.redirects} />
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
-        helmet={
-          <Helmet titleTemplate="%s | Blog">
-            <title>{`${post.frontmatter.title}`}</title>
-            <meta
-              name="description"
-              content={`${post.frontmatter.description}`}
-            />
-          </Helmet>
-        }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
