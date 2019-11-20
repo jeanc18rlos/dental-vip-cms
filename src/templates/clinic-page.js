@@ -11,15 +11,17 @@ import SetLang from "../components/setLang";
 import OverlayGallery from "../components/overlayGallery";
 import InfoSection from "../components/InfoSection";
 import FolowUs from "../components/FollowUs";
+import Quote from "../components/Quote";
+
 /*
-HERO
-HEADING
-CONTENT
-GALLERY
-SECTIONS
-QUOTE
+HERO ---ready
+HEADING ---ready
+CONTENT 
+GALLERY ---ready
+SECTIONS ---ready
+QUOTE ---ready
 PARALLAX
-PROCEDURES
+PROCEDURES ---ready
 */
 export const ClinicPageTemplate = ({
   hero,
@@ -28,6 +30,7 @@ export const ClinicPageTemplate = ({
   lightbox,
   elements,
   procedures,
+  lightQuote,
   sections
 }) => {
   const lazyLightBox = {
@@ -63,7 +66,11 @@ export const ClinicPageTemplate = ({
       {
         sections.display && <InfoSection {...{ sections:sections.sections }}  />
       }
+      {
+        lightQuote && lightQuote.display && <Quote {...lightQuote} />
+      }
       {procedures && procedures.display && <Procedures {...procedures} />}
+      
     </div>
   );
 };
@@ -73,6 +80,7 @@ const ClinicPage = ({ data }) => {
     templateKey,
     language,
     title,
+    lightQuote,
     redirects,
     hero,
     heading,
@@ -96,6 +104,7 @@ const ClinicPage = ({ data }) => {
           elements,
           redirects,
           lightbox,
+          lightQuote,
           sections,
           hero,
           heading,
@@ -124,7 +133,7 @@ export const pageQuery = graphql`
           image {
             childImageSharp {
               fluid(maxWidth: 1600, quality: 100) {
-                ...GatsbyImageSharpFluid
+                ...GatsbyImageSharpFluid_withWebp
               }
             }
           }
@@ -133,6 +142,27 @@ export const pageQuery = graphql`
           indicator
           halfSize
         }
+        lightQuote {
+          display
+          img {
+            ld {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
+              }
+            }
+            pt {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
+              }
+            }
+          }  
+          content
+        }
+
         heading {
           classname
           title
@@ -150,7 +180,7 @@ export const pageQuery = graphql`
             image {
               childImageSharp {
                 fluid(maxWidth: 1200, quality: 100) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }
@@ -161,7 +191,7 @@ export const pageQuery = graphql`
           bg {
             childImageSharp {
               fluid(maxWidth: 1600, quality: 100) {
-                ...GatsbyImageSharpFluid
+                ...GatsbyImageSharpFluid_withWebp
               }
             }
           }
@@ -178,14 +208,14 @@ export const pageQuery = graphql`
             titleimage {
               childImageSharp {
                 fluid(maxWidth: 1600, quality: 100) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }
             contentimage {
               childImageSharp {
                 fluid(maxWidth: 1600, quality: 100) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }
@@ -202,7 +232,7 @@ export const pageQuery = graphql`
             img {
               childImageSharp {
                 fluid(maxWidth: 1600, quality: 100) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }

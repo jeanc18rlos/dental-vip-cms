@@ -171,6 +171,16 @@ elements:
       <p style="display:none"></p>
     icon: icon-search
     action: true
+reasons:
+  display: false
+  reasons:  
+  - type: 1
+    img: /img/icon-number-01.jpg  
+    nameimg: ''
+    title: ''
+    paragraph:
+      ''
+ 
 sections:
   display: false
   sections:  
@@ -180,6 +190,13 @@ sections:
     titlecontent: En la clínica...
     content: > 
       ''
+lightQuote:
+  color: '#fff'
+  display: false
+  img:
+    ld: /img/procedures-aesthetic-dentistry.png
+    pt: /img/procedures-aesthetic-dentistry.png
+  content: ''
 lightbox:
   display: true
   type: gridGallery

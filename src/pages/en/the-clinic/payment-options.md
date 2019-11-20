@@ -20,6 +20,16 @@ heading:
 gallery: 
   display: false
   isMasonry: false
+reasons:
+  display: false
+  reasons:  
+  - type: 1
+    img: /img/icon-number-01.jpg  
+    nameimg: ''
+    title: ''
+    paragraph:
+      ''
+ 
 sections:
   display: false
   sections:  
@@ -35,6 +45,13 @@ lightbox:
   type: ''
   images: 
     - image: /img/procedures-implants.png
+lightQuote:
+  color: '#fff'
+  display: false
+  img:
+    ld: /img/procedures-aesthetic-dentistry.png
+    pt: /img/procedures-aesthetic-dentistry.png
+  content: ''
 
 elements:
   - link: #

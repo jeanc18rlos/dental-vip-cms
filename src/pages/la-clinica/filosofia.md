@@ -68,8 +68,8 @@ sections:
         </strong>
       </p>
   - type: 2
-    titleimage: /img/icon-clinic-chair.jpg
-    contentimage: /img/sections-facilities.jpg 
+    titleimage: /img/icon-teeth-implants.jpg
+    contentimage: /img/sections-treatment.jpg
     titlecontent: En el tratamiento...
     content: >
       <p class="light-font">
@@ -103,8 +103,8 @@ sections:
         </strong>
       </p>
   - type: 1
-    titleimage: /img/icon-clinic-chair.jpg
-    contentimage: /img/sections-facilities.jpg 
+    titleimage: /img/icon-handshake.jpg
+    contentimage: /img/sections-humanity.jpg
     titlecontent: En lo humano...
     content: >
       <p class="light-font">
@@ -141,8 +141,8 @@ sections:
         </strong>
       </p>
   - type: 2
-    titleimage: /img/icon-clinic-chair.jpg
-    contentimage: /img/sections-facilities.jpg 
+    titleimage: /img/icon-money.jpg
+    contentimage: /img/sections-economics.jpg
     titlecontent: En lo económico...
     content:
       <p class="light-font">
@@ -173,6 +173,14 @@ sections:
         </strong>
         con seguridad por debajo de los de nuestra competencia directa.
       </p>
+    
+lightQuote:
+  color: '#fff'
+  display: true
+  img:
+    ld: /img/quotes-phillosophy.jpg
+    pt: /img/quotes-phillosophy-portrait.jpg
+  content: EL RESPETO A LA VIDA Y A LA INTEGRIDAD DE LA PERSONA HUMANA, EL FOMENTO Y LA PRESERVACIÓN DE LA SALUD, COMO COMPONENTE DEL DESARROLLO Y BIENESTAR SOCIAL Y SU PROYECCIÓN EFECTIVA A LA COMUNIDAD, CONSTITUYEN EN TODAS LAS CIRCUNSTANCIAS EL DEBER PRIMORDIAL DEL ODONTÓLOGO. "
 
 elements:
   - link: #

@@ -411,7 +411,7 @@ const Header = props => {
                         </li>
                       )
                     })}
-                    <li>
+                    <li style={{paddingLeft: '0.5em'}}>
                       <div
                         role="button"
                         tabIndex={0}
@@ -434,7 +434,7 @@ const Header = props => {
                         <i className="icon-search" />
                       </div>
                     </li>
-                    <li className="social">
+                    <li style={{paddingLeft: '0.5em'}} className="social">
                       <div className="dv-mob-btn">
                         <a
                           className="facebook"

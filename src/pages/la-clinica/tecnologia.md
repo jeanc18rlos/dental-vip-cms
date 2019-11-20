@@ -233,7 +233,23 @@ elements:
       </p>
     icon: ''
     action: false
-
+reasons:
+  display: false
+  reasons:  
+  - type: 1
+    img: /img/icon-number-01.jpg  
+    nameimg: ''
+    title: ''
+    paragraph:
+      ''
+ 
+lightQuote:
+  color: '#fff'
+  display: false
+  img:
+    ld: /img/procedures-aesthetic-dentistry.png
+    pt: /img/procedures-aesthetic-dentistry.png
+  content: ''
 procedures:
   display: true
   title: ¡Una Especialidad para cada Tratamiento!
