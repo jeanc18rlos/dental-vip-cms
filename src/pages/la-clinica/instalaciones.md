@@ -13,6 +13,35 @@ hero:
   indicator: true
   halfSize: false
 
+moreinfoFinancing:
+  display: false
+  type: 2
+  imgparallax: /img/parallax-why-choose-us.jpg
+  title: ''
+  subtitle: ''
+  otherinfo1: ''
+  otherinfo2: ''
+  paragraphs:
+    - paragraph: ''
+    
+
+checkout:
+  display: false
+  title: ''
+  options:
+    - img: /img/icon-bank-transfer.png
+      title: ''
+      subTitle: ''
+
+  checkout:
+    - img: /img/icon-paypal.png
+      to: /
+      text: ''
+  banner:
+      aside: >
+          ''
+      img: /img/icon-travel.png
+      
 heading:
   display: true
   classname:  section-reasons
@@ -223,6 +252,50 @@ lightbox:
     - image: /img/lightbox-facilities-19.png
     - image: /img/lightbox-facilities-20.png
     - image: /img/lightbox-facilities-21.png
+banner:
+  display: false
+  img: /img/banner-financing.png
+  paragraphs:
+    - paragraph1:
+        ''
+      paragraph2:
+        ''
+    
+social:
+  display: true
+  imgparallax: /img/parallax-follow-us.jpg
+  title: Síganos
+  subtitle: En nuestro blog y redes sociales
+  additionalText: Noticias, Artículos, Consejos de Actualidad y Mucho Más...
+  icons:
+    - icon:
+        img: false
+        class: icon-blog
+      alt: blog
+      nameicon: Blog
+      link:
+        href: /en/blog/
+        target: _blank
+        rel: noopener noreferrer
+    - icon:
+        img: false
+        class: icon-instagram
+      alt: instagram
+      nameicon: Instagram
+      link:
+        href: https://www.instagram.com/dental_vip/
+        target: _blank
+        rel: noopener noreferrer
+    - icon:
+        img: false
+        class: icon-facebook
+      alt: facebook
+      nameicon: Facebook
+      link:
+        href: https://www.facebook.com/dentalvip/
+        target: _blank
+        rel: noopener noreferrer
+    
 
 procedures:
   display: true

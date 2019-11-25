@@ -13,6 +13,34 @@ hero:
   indicator: true
   halfSize: false
 
+moreinfoFinancing:
+  display: false
+  type: 2
+  imgparallax: /img/parallax-why-choose-us.jpg
+  title: ''
+  subtitle: ''
+  otherinfo1: ''
+  otherinfo2: ''
+  paragraphs:
+    - paragraph: ''
+    
+
+checkout:
+  display: false
+  title: ''
+  options:
+    - img: /img/icon-bank-transfer.png
+      title: ''
+      subTitle: ''
+
+  checkout:
+    - img: /img/icon-paypal.png
+      to: /
+      text: ''
+  banner:
+      aside: >
+          ''
+      img: /img/icon-travel.png
 heading:
   display: true
   classname:  section-reasons
@@ -117,7 +145,31 @@ reasons:
       Flexibilidad en el cobro de honorarios profesionales Planes Especiales de Financiamiento y Punto de Venta Comercial para el pago con Tarjetas de Débito y Crédito.
 
 
-    
+social:
+  display: false
+  imgparallax: /img/parallax-why-choose-us.jpg
+  title: ''
+  subtitle: ''
+  additionalText: ''
+  icons:
+    - icon:
+        img: false
+        class: ''
+      alt: ''
+      nameicon: ''
+      link:
+        href: /en/blog/
+        target: ''
+        rel: ''   
+banner:
+  display: false
+  img: /img/banner-financing.png
+  paragraphs:
+    - paragraph1:
+        ''
+      paragraph2:
+        ''
+         
 procedures:
   display: true
   title: ¡Una Especialidad para cada Tratamiento!

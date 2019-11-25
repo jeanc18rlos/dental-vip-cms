@@ -27,6 +27,14 @@
     text-shadow: 1px 1px 7px #0a0a0a;
     font-weight: 700;
     text-align: center;
+    .dark{
+      text-shadow: 1px 1px 7px #fff;
+      color: #333
+    }
+    .light{
+      text-shadow: 1px 1px 7px #0a0a0a;
+      color: #fff
+    }
     .bebas{
       letter-spacing: 1px;
       font-size: 72px;

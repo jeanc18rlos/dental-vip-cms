@@ -12,6 +12,19 @@ hero:
     <span style="color:white">Filosofía</span>
   indicator: true
   halfSize: false
+
+moreinfoFinancing:
+  display: false
+  type: 2
+  imgparallax: /img/parallax-why-choose-us.jpg
+  title: ''
+  subtitle: ''
+  otherinfo1: ''
+  otherinfo2: ''
+  paragraphs:
+    - paragraph: ''
+    
+
 heading:
   display: true
   classname:  section-reasons
@@ -20,11 +33,34 @@ heading:
     <p class="dv-subtitle text-center">En DENTAL VIP entendemos el futuro como un gran reto para todos
     y lo afrontamos con una actitud altamente positiva hacia las personas y el país. 
     Consideramos nuestra situación actual y sus matices como una gran oportunidad y lección de vida.</p>
+checkout:
+  display: false
+  title: ''
+  options:
+    - img: /img/icon-bank-transfer.png
+      title: ''
+      subTitle: ''
 
+  checkout:
+    - img: /img/icon-paypal.png
+      to: /
+      text: ''
+  banner:
+      aside: >
+          ''
+      img: /img/icon-travel.png
 gallery: 
   display: false
   isMasonry: false
-  
+reasons:
+  display: false
+  reasons:  
+  - type: 1
+    img: /img/icon-number-01.jpg  
+    nameimg: ''
+    title: ''
+    paragraph:
+      ''
 lightbox:
   display: false
   placeholder: ''
@@ -182,6 +218,49 @@ lightQuote:
     pt: /img/quotes-phillosophy-portrait.jpg
   content: EL RESPETO A LA VIDA Y A LA INTEGRIDAD DE LA PERSONA HUMANA, EL FOMENTO Y LA PRESERVACIÓN DE LA SALUD, COMO COMPONENTE DEL DESARROLLO Y BIENESTAR SOCIAL Y SU PROYECCIÓN EFECTIVA A LA COMUNIDAD, CONSTITUYEN EN TODAS LAS CIRCUNSTANCIAS EL DEBER PRIMORDIAL DEL ODONTÓLOGO. "
 
+social:
+  display: true
+  imgparallax: /img/parallax-follow-us.jpg
+  title: Síganos
+  subtitle: En nuestro blog y redes sociales
+  additionalText: Noticias, Artículos, Consejos de Actualidad y Mucho Más...
+  icons:
+    - icon:
+        img: false
+        class: icon-blog
+      alt: blog
+      nameicon: Blog
+      link:
+        href: /en/blog/
+        target: _blank
+        rel: noopener noreferrer
+    - icon:
+        img: false
+        class: icon-instagram
+      alt: instagram
+      nameicon: Instagram
+      link:
+        href: https://www.instagram.com/dental_vip/
+        target: _blank
+        rel: noopener noreferrer
+    - icon:
+        img: false
+        class: icon-facebook
+      alt: facebook
+      nameicon: Facebook
+      link:
+        href: https://www.facebook.com/dentalvip/
+        target: _blank
+        rel: noopener noreferrer
+banner:
+  display: false
+  img: /img/banner-financing.png
+  paragraphs:
+    - paragraph1:
+        ''
+      paragraph2:
+        ''
+    
 elements:
   - link: #
     bg: /img/procedures-implants.png

@@ -306,6 +306,10 @@ export const en = {
             title: 'TECHNOLOGY',
             to: '/en/the-clinic/technology/',
           },
+          {
+            title: 'PAYMENT OPTIONS',
+            to: '/en/the-clinic/payment-options/',
+          },
         ],
       },
       {

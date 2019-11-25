@@ -1,7 +1,7 @@
 ---
 templateKey: specialties-page
 language: es
-title: Sedacion y Anestesia General
+title: Sedación y anestesia general
 redirects: /en/specialties/sedation-and-general-anesthesia/
 hero:
   display: true
@@ -9,7 +9,7 @@ hero:
   image: /img/hero-prosthodontics.jpg
   parallax: false
   title: >
-    <span class="bebas" style="font-family:Bebas Neue Bold;color:white;font-weight:lighter">Sedacion General y Anestesia</span>
+    <span class="bebas" style="font-family:Bebas Neue Bold;color:white;font-weight:lighter">Sedación y anestesia general</span>
   indicator: false
   halfSize: true
 

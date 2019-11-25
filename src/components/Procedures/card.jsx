@@ -51,7 +51,45 @@ const Card = props => {
           />
         )}
 
-        <div className="dv-hover-proc-left dv-hover-proc-left1" />
+        {true && (
+          <div
+            className={classnames("procedures-additional-text", hovered && hovered !== 'slideInDownProcedures' && 'visible')}
+            style={{
+              position: "absolute",
+              bottom: 0,
+              display: "flex",
+              justifyContent: "center",
+              width: "100%",
+              alignItems: "center",
+              height: "10vw",
+              minHeight: "180px",
+              maxHeight: "200px"
+            }}
+          >
+            <div>
+              <img
+                src="https://dentalvip.com.ve/wp-content/uploads/2018/08/contacto-footer-icon2.png"
+                style={{ maxWidth: "33px" }}
+              />
+              <p
+                style={{
+                  fontSize: "12px",
+                  lineHeight: "1.428571429",
+                  color: "#fff",
+                  fontWeight: "lighter"
+                }}
+              >
+                Estacionamiento Multicentro Empresarial del Este.
+                <br className="visible-xs visible-sm visible-md visible-lg" />
+                Accesos por:{" "}
+                <br className="hidden-xs hidden-sm visible-md visible-lg" />
+                Av. Francisco de Miranda (<em>sentido Este</em>)
+                <br className="hidden-xs hidden-sm visible-md visible-lg" />
+                Av. Libertador (<em>sentido Oeste</em>)
+              </p>
+            </div>
+          </div>
+        )}
       </div>
     </a>
   );

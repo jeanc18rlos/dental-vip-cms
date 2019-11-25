@@ -5,7 +5,7 @@
 
 // component basic-content
 @import '/BasicContent/_index';
-
+@import '/DV-Checkout/_index';
 
 // component info-section
 @import '/InfoSection/_index.sass';
@@ -41,3 +41,4 @@
 
 //DV COMPONENTS
 @import '/DVhero/_index';
+@import 'DV-SideContent/index.scss';

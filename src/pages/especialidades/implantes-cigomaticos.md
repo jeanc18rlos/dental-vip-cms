@@ -1,7 +1,7 @@
 ---
 templateKey: specialties-page
 language: es
-title: Implantes Cigomaticos
+title: Implantes Cigomáticos
 redirects: /en/specialties/dental-implants/
 hero:
   display: true
@@ -9,7 +9,7 @@ hero:
   image: /img/hero-dental-implants.png
   parallax: false
   title: >
-    <span class="bebas" style="font-family:Bebas Neue Bold;color:white;font-weight:lighter">Implantes Cigomaticos</span>
+    <span class="bebas" style="font-family:Bebas Neue Bold;color:white;font-weight:lighter">Implantes Cigomáticos</span>
   indicator: false
   halfSize: true
 quote:

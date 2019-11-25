@@ -9,7 +9,13 @@ div:focus {
   outline: none;
   outline: none;
 }
-
+.layout-wrapper{
+  div{
+      >section {
+         margin: -1px 0;
+      }
+  }
+}
 .modal {
   overflow: hidden !important;
 }
@@ -115,12 +121,28 @@ a:hover {
 
 .whiteSpace {
   height: 120px;
+  .roboto{
+    font-family: "Roboto";
+  }
+  .dark{
+    color: #333;
+  }
+  h1{
+    font-size: 32px;
+    line-height: 54px; 
+  }
 }
 
-@media #{$sm-mob-ld, $sm-mob-pt, $st-mob-pt, $st-mob-ld, $lg-mob-pt, $lg-mob-ld, $st-tab-pt, $st-tab-ld, $lg-tab-pt, $lg-tab-ld} {
+@media screen and (max-width:850px) {
   .whiteSpace {
     height: 90px !important;
+    
+    h1{
+      font-size: 24px;
+      line-height: 26px; 
+    }
   }
+  
 }
 
 .popupbox-content {

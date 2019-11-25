@@ -14,7 +14,7 @@ const FollowUs = props => {
   } = props
 
   return (
-    <BackgroundImage id="followUs-cp" className={nameClass} fluid={imgparallax}>
+    <BackgroundImage id="followUs-cp" className={nameClass} fluid={imgparallax.childImageSharp.fluid}>
       <div className="dv-follow-content1">
         <p className="p1-follow-content1">{title}</p>
         <p className="p2-follow-content1">{subtitle}</p>

@@ -12,7 +12,11 @@ import OverlayGallery from "../components/overlayGallery";
 import InfoSection from "../components/InfoSection";
 import FolowUs from "../components/FollowUs";
 import Quote from "../components/Quote";
-
+import Reasons from "../components/Reasons";
+import Whitespace from "../components/Whitespace";
+import InfoImage from "../components/InfoImage";
+import Financing from "../components/Financing";
+import Checkout from "../components/DV-Checkout";
 /*
 HERO ---ready
 HEADING ---ready
@@ -21,6 +25,8 @@ GALLERY ---ready
 SECTIONS ---ready
 QUOTE ---ready
 PARALLAX
+social
+payment-options
 PROCEDURES ---ready
 */
 export const ClinicPageTemplate = ({
@@ -30,7 +36,11 @@ export const ClinicPageTemplate = ({
   lightbox,
   elements,
   procedures,
+  social,
+  banner,
   lightQuote,
+  reasons,
+  checkout,
   sections
 }) => {
   const lazyLightBox = {
@@ -55,7 +65,10 @@ export const ClinicPageTemplate = ({
   return (
     <div>
       {hero && hero.display && <DVhero {...hero} />}
-      {heading && <BasicContent {...heading} />}
+      {heading && heading.display && <BasicContent {...heading} />}
+      {banner && banner.display && <InfoImage {...banner} />}
+      {banner && banner.display && <Financing />}
+      {reasons.display && <Reasons {...reasons} />}
       {gallery.display && (
         <OverlayGallery
           {...(lazyLightBox.display && lazyLightBox)}
@@ -64,13 +77,13 @@ export const ClinicPageTemplate = ({
         />
       )}
       {
-        sections.display && <InfoSection {...{ sections:sections.sections }}  />
+        checkout && checkout.display && <Checkout {...checkout} />
       }
-      {
-        lightQuote && lightQuote.display && <Quote {...lightQuote} />
-      }
+      {gallery.display && <Whitespace bgColor="#fff" />}
+      {sections.display && <InfoSection {...{ sections: sections.sections }} />}
+      {lightQuote && lightQuote.display && <Quote {...lightQuote} />}
+      {social && social.display && <FolowUs {...social} />}
       {procedures && procedures.display && <Procedures {...procedures} />}
-      
     </div>
   );
 };
@@ -83,11 +96,15 @@ const ClinicPage = ({ data }) => {
     lightQuote,
     redirects,
     hero,
+    banner,
     heading,
     gallery,
     lightbox,
+    social,
     elements,
+    reasons,
     sections,
+    checkout,
     procedures
   } = data.markdownRemark.frontmatter;
 
@@ -98,19 +115,24 @@ const ClinicPage = ({ data }) => {
       <ClinicPageTemplate
         {...{
           templateKey,
+          banner,
           language,
           title,
           gallery,
           elements,
+          social,
+          checkout,
           redirects,
           lightbox,
           lightQuote,
           sections,
           hero,
           heading,
+          reasons,
           procedures
         }}
       />
+      
     </Layout>
   );
 };
@@ -133,7 +155,7 @@ export const pageQuery = graphql`
           image {
             childImageSharp {
               fluid(maxWidth: 1600, quality: 100) {
-                ...GatsbyImageSharpFluid_withWebp
+                ...GatsbyImageSharpFluid
               }
             }
           }
@@ -142,31 +164,144 @@ export const pageQuery = graphql`
           indicator
           halfSize
         }
+        moreinfoFinancing{
+          display
+          type
+          imgparallax {
+            childImageSharp {
+              fluid(maxWidth: 1600, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+          subtitle
+          title
+          otherinfo1
+          otherinfo2
+          paragraphs {
+            paragraph
+          }
+        }
+        banner {
+          display
+          img {
+            childImageSharp {
+              fluid(maxWidth: 1600, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+          paragraphs {
+            paragraph1
+            paragraph2
+          }
+        }
+        checkout {
+          display
+          title
+          options {
+            img {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            title
+            subTitle
+          }
+          checkout {
+            img {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            to
+            text
+          }
+          banner {
+            aside
+            img {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
+
+        social {
+          display
+          imgparallax {
+            childImageSharp {
+              fluid(maxWidth: 1600, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+          title
+          subtitle
+          additionalText
+          icons {
+            icon {
+              img
+              class
+            }
+            alt
+            nameicon
+            link {
+              href
+              target
+              rel
+            }
+          }
+        }
+
         lightQuote {
           display
           img {
             ld {
               childImageSharp {
                 fluid(maxWidth: 1600, quality: 100) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
             pt {
               childImageSharp {
                 fluid(maxWidth: 1600, quality: 100) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
-          }  
+          }
           content
         }
 
         heading {
+          display
           classname
           title
           content
+        }
+        reasons {
+          display
+          reasons {
+            type
+            img {
+              childImageSharp {
+                fluid(maxWidth: 1200, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            nameimg
+            title
+            paragraph
+          }
         }
         gallery {
           display
@@ -180,7 +315,7 @@ export const pageQuery = graphql`
             image {
               childImageSharp {
                 fluid(maxWidth: 1200, quality: 100) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -191,7 +326,7 @@ export const pageQuery = graphql`
           bg {
             childImageSharp {
               fluid(maxWidth: 1600, quality: 100) {
-                ...GatsbyImageSharpFluid_withWebp
+                ...GatsbyImageSharpFluid
               }
             }
           }
@@ -208,14 +343,14 @@ export const pageQuery = graphql`
             titleimage {
               childImageSharp {
                 fluid(maxWidth: 1600, quality: 100) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
             contentimage {
               childImageSharp {
                 fluid(maxWidth: 1600, quality: 100) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -232,7 +367,7 @@ export const pageQuery = graphql`
             img {
               childImageSharp {
                 fluid(maxWidth: 1600, quality: 100) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }

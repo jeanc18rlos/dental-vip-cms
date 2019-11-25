@@ -1,46 +1,30 @@
 // Dependencies
-import React from 'react'
-import PropTypes, { exact, arrayOf } from 'prop-types'
-
+import React from "react";
+import Img from 'gatsby-image'
 const InfoImage = props => {
-  const { infoImage, classname } = props
+  const { paragraphs, img, classname } = props;
 
   return (
     <section id="Infoimage" className={classname}>
-      {InfoImage ? (
-        <>
-          <div className="dv-bannerimg-infoimage">
-            <img src={infoImage.img} alt="paragrah" />
-          </div>
-          <div className="dv-content-infoimge">
-            <div className="dv-content-p">
-              <span>{infoImage.paragraphs[0].paragraph1}</span>
-              <span style={{ color: 'red' }}>*</span>
-              <span>.{infoImage.paragraphs[0].paragraph2}</span>
-            </div>
-            <div className="dv-content-p">
-              <span>{infoImage.paragraphs[1].paragraph1}</span>
-            </div>
-            <div className="dv-content-p">
-              <span>{infoImage.paragraphs[2].paragraph1}</span>
-            </div>
-          </div>
-        </>
-      ) : (
-        <></>
-      )}
+      <div className="dv-bannerimg-infoimage">
+        <Img fluid={img.childImageSharp.fluid} alt="paragrah" />
+      </div>
+      <div className="dv-content-infoimge">
+        <div className="dv-content-p">
+          <span>{paragraphs[0].paragraph1}</span>
+          <span style={{ color: "red" }}>*</span>
+          <span>.{paragraphs[0].paragraph2}</span>
+        </div>
+        <div className="dv-content-p">
+          <span>{paragraphs[1].paragraph1}</span>
+        </div>
+        <div className="dv-content-p">
+          <span>{paragraphs[1].paragraph1}</span>
+        </div>
+      </div>
     </section>
-  )
-}
+  );
+};
 
-export default InfoImage
+export default InfoImage;
 
-InfoImage.propTypes = {
-  classname: PropTypes.string.isRequired,
-  infoImage: PropTypes.objectOf(
-    exact({
-      img: PropTypes.string,
-      paragraphs: arrayOf(PropTypes.objectOf(PropTypes.string)),
-    })
-  ).isRequired,
-}

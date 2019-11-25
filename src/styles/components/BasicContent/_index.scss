@@ -33,7 +33,7 @@
 }
 
 // Desktop views
-@media #{$sm-des, $st-des, $lg-des} {
+@media screen and (min-width:850px) {
   #BasicContent-cp {
     padding: 0 5vw;
 
@@ -92,7 +92,7 @@
 }
 
 // Mobile views
-@media #{$sm-mob-pt, $sm-mob-ld, $st-mob-pt, $st-mob-ld, $lg-mob-pt, $lg-mob-ld} {
+@media screen and (max-width: 850px) {
   #BasicContent-cp {
     padding: 0 5vw;
 

@@ -12,7 +12,32 @@ hero:
     <span style="color:white">Technology</span>
   indicator: true
   halfSize: false
-
+checkout:
+  display: false
+  title: ''
+  options:
+    - img: /img/icon-bank-transfer.png
+      title: ''
+      subTitle: ''
+  checkout:
+    - img: /img/icon-paypal.png
+      to: /
+      text: ''
+  banner:
+      aside: >
+          ''
+      img: /img/icon-travel.png
+moreinfoFinancing:
+  display: false
+  type: 2
+  imgparallax: /img/parallax-why-choose-us.jpg
+  title: ''
+  subtitle: ''
+  otherinfo1: ''
+  otherinfo2: ''
+  paragraphs:
+    - paragraph: ''
+    
 heading:
   display: true
   classname: section-reasons
@@ -240,7 +265,50 @@ reasons:
     title: ''
     paragraph:
       ''
- 
+
+social:
+  display: true
+  imgparallax: /img/parallax-follow-us.jpg
+  title: Follow Us
+  subtitle: On our blog and social networks
+  additionalText: News, Articles, Topical Advices and Much More …
+  icons:
+    - icon:
+        img: false
+        class: icon-blog
+      alt: blog
+      nameicon: Blog
+      link:
+        href: /en/blog/
+        target: _blank
+        rel: noopener noreferrer
+    - icon:
+        img: false
+        class: icon-instagram
+      alt: instagram
+      nameicon: Instagram
+      link:
+        href: https://www.instagram.com/dental_vip/
+        target: _blank
+        rel: noopener noreferrer
+    - icon:
+        img: false
+        class: icon-facebook
+      alt: facebook
+      nameicon: Facebook
+      link:
+        href: https://www.facebook.com/dentalvip/
+        target: _blank
+        rel: noopener noreferrer
+banner:
+  display: false
+  img: /img/banner-financing.png
+  paragraphs:
+    - paragraph1:
+        ''
+      paragraph2:
+        ''
+    
 procedures:
   display: true
   title: ¡One Specialty for each treatment!

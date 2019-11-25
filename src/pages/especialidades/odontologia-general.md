@@ -15,18 +15,18 @@ hero:
 quote:
   title: ''
   body: >
-    Es siempre el resultado de la búsqueda de la excelencia profesional y de un esfuerzo inteligente por el mejoramiento continuo. La capacitación permanente en nuevas tendencias y filosofías terapéuticas, la honestidad, el uso eficiente de los recursos y el trato cordial a las personas generan los mayores niveles de satisfacción en todos nuestros pacientes.
-  author: María José Tirado
+    Desafortunadamente la caries dental representa un serio problema de salud pública en nuestro medio, por cuanto más del 98% de la población venezolana la ha padecido, padece o padecerá en algún momento de su vida.
+  author: Dra. Vianka Xaviera Torres
   footer:
-    position: Coordinación Clínica
+    position: Odontólogo General - Endodoncista
     clinic: DENTAL VIP, Especialidades Odontológicas s.c.
 lightQuote:
   color: '#fff'
   display: true
   img:
-    ld: /img/quotes-phillosophy.jpg
+    ld: /img/quotes-general-dentistry.jpg
     pt: /img/quotes-general-dentistry-portrait.jpg
-  content: EL RESPETO A LA VIDA Y A LA INTEGRIDAD DE LA PERSONA HUMANA, EL FOMENTO Y LA PRESERVACIÓN DE LA SALUD, COMO COMPONENTE DEL DESARROLLO Y BIENESTAR SOCIAL Y SU PROYECCIÓN EFECTIVA A LA COMUNIDAD, CONSTITUYEN EN TODAS LAS CIRCUNSTANCIAS EL DEBER PRIMORDIAL DEL ODONTÓLOGO. "
+  content: EXCELENTES PROFESIONALES, MUY DETALLISTAS A LA HORA DE DIAGNOSTICAR Y CON MUY BUENA DISPOSICIÓN PARA EXPONER AL PACIENTE LOS PROBLEMAS DENTALES DETECTADOS Y LOS PROCEDIMIENTOS PERTINENTES PARA SU INMEDIATA CORRECCIÓN. FORMAN UN EQUIPO DE PRIMER NIVEL. "
 procedures:
   display: true
   title: ¡Dele a su Salud el Valor que se Merece!

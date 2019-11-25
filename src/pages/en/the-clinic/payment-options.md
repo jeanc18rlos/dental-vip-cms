@@ -2,16 +2,27 @@
 templateKey: clinic-page
 language: en
 title: Payment Options
-redirects: /en/the-clinic/payment-options/
+redirects: /
 hero:
-  display: false
+  display: true
   type: default
   image: /img/hero-financing.jpg
   parallax: true
   title: >
-    <span style="color:white">default</span>
+    <span style="color:white">Payment Options</span>
   indicator: true
   halfSize: false
+moreinfoFinancing:
+  display: false
+  type: 2
+  imgparallax: /img/parallax-why-choose-us.jpg
+  title: ''
+  subtitle: ''
+  otherinfo1: ''
+  otherinfo2: ''
+  paragraphs:
+    - paragraph: ''
+    
 heading:
   display: false
   classname: default
@@ -29,7 +40,57 @@ reasons:
     title: ''
     paragraph:
       ''
- 
+banner:
+  display: false
+  img: /img/banner-financing.png
+  paragraphs:
+    - paragraph1:
+        ''
+      paragraph2:
+        ''
+
+checkout:
+  display: true
+  title: 'We accept:'
+  options:
+    - img: /img/icon-bank-transfer.png
+      title: Bank Transfer
+      subTitle: Ask for Bank Account
+    - img: /img/icon-cash.png
+      title: Debit and Credit Card
+      subTitle: Visa, Master Card and American Express
+    - img: /img/icon-credit.png
+      title: Cash
+      subTitle: American Dollars (USD
+  checkout:
+    - img: /img/icon-paypal.png
+      to: /
+      text: Make a Payment
+  banner:
+    aside: >
+      Is Your Quote Too Expensive For Your Dental Treatment?
+      <br />
+      <span style="color: #333;">SAVE UP TO 70%</span> WE CAN HELP
+      YOU
+    img: /img/icon-travel.png
+
+social:
+  display: false
+  imgparallax:
+  title: ''
+  subtitle: ''
+  additionalText: ''
+  icons:
+    - icon:
+        img: false
+        class: ''
+      alt: ''
+      nameicon: ''
+      link:
+        href: /en/blog/
+        target: ''
+        rel: ''
+
 sections:
   display: false
   sections:  

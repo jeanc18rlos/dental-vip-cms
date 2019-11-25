@@ -1,12 +1,23 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import PropTypes from 'prop-types'
-
+import Modal from '../Modal'
 const Financing = props => {
   const { classname } = props
   const [total, setTotal] = useState()
   const [percent, setPercent] = useState()
   const [result, setResult] = useState()
-
+  const [modal, setModal] = useState(false)
+  useEffect(() => {
+    setTimeout(() => {
+      setModal(true)
+    }, 10000000)
+  }, [])
+  const closemodal = val => {
+    setModal(val)
+    setTimeout(() => {
+      setModal(true)
+    }, 10000000)
+  }
   const onChangeLabel = e => {
     const { value } = e.target
     setTotal(value)
@@ -32,6 +43,13 @@ const Financing = props => {
 
   return (
     <div id="Financing" className={classname}>
+      <Modal
+        active={modal}
+        title="¡Ofrecemos disculpas!"
+        paragraph1="A causa del acelerado fenómeno de hiperinflación actual, este producto ha sido temporalmente suspendido."
+        paragraph2="Por los momentos, todos nuestros tratamientos deben ser cancelados al contado."
+        close={closemodal}
+      />
       <p>* Introduzca el monto sin puntos, comas o decimales.</p>
       <div className="dv-content-financing">
         <div className="dv-border-financing">

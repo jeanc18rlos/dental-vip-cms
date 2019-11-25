@@ -27,19 +27,16 @@ export default function HTML(props) {
             zIndex: 1000,
             top: '0',
             left: '0',
-            background: '#333',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            background: '#fff',
             overflow: 'hidden',
             height: '100%',
           }}
         >
           <img
             alt="loading"
-            style={{
-              width: '50vw',
-              height: '50vh',
-              margin: '25vh 25vw',
-              marginBottom: '50px',
-            }}
             src={preloader}
           />
         </div>

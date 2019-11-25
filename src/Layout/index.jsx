@@ -43,7 +43,7 @@ const Layout = ({ children }) => {
     }
   `) */
   const childrenWprops = React.Children.map(children, child =>
-    React.cloneElement(child, { key: child, setLangRedir, setlang })
+    React.cloneElement(child, { key: child, setLangRedir, setlang, width })
   );
   return (
     <div className={width <= 850 ? "mobile-layout-wrap" : ""}>
@@ -80,7 +80,7 @@ const Layout = ({ children }) => {
         {...(lang === "es" ? es.search : en.search)}
         theme="dark"
       />
-      <main style={{ maxWidth: "100vw" }}>{childrenWprops}</main>
+      <main className="layout-wrapper" style={{ maxWidth: "100vw" }}>{childrenWprops}</main>
       <Footer {...(lang === "es" ? es.footer : en.footer)} />
     </div>
   );

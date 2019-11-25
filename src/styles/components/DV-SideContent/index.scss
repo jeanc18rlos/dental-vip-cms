@@ -1,0 +1,146 @@
+section.dv-side-content {
+  background: $white;
+  width: 100%;
+  height: auto;
+  @media screen and (max-width: 850px) {
+    padding: 0px 5vw;
+  }
+  padding: 0;
+  > div {
+    height: auto;
+    > main {
+      article {
+        display: flex;
+        flex-wrap: wrap;
+        min-height: calc(100vh - 75px);
+        &.right {
+          @media screen and (min-width: 850px) {
+            flex-direction: row-reverse;
+          }
+        }
+        .image {
+          background-position: center;
+          min-height: calc(100vh - 75px);
+          background-size: cover;
+          width: 50%;
+          @media screen and (max-width: 850px) {
+            width: 100%;
+          }
+        }
+        .dv-content {
+          width: 50%;
+          padding: 0 5vw;
+          @media screen and (max-width: 850px) {
+            width: 100%;
+            padding: 0;
+          }
+          min-height: calc(100vh - 75px);
+          margin: 0;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          align-items: center;
+          ul {
+            font-size: 14px;
+            line-height: 24px;
+            @media screen and (max-width: 850px) {
+              font-size: 13px;
+              line-height: 16px;
+            }
+          }
+          main {
+            &.no-bottom {
+              padding-bottom: 0;
+            }
+            width: 100%;
+            padding-bottom: 60px;
+            padding-top: 60px;
+            &.dv-border-top {
+              border-top: 1px solid #eee;
+            }
+            &.dv-border-bottom {
+              border-bottom: 1px solid #eee;
+            }
+            > * {
+              padding-left: 0;
+            }
+            main {
+              padding-bottom: 40px;
+              padding-top: 40px;
+            }
+          }
+          header {
+            text-align: center;
+            flex-direction: column;
+            display: flex;
+            > * {
+              width: fit-content;
+              min-width: 50%;
+            }
+            .bebas {
+              font-family: "Bebas Neue Bold";
+            }
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6 {
+              text-align: left;
+            }
+            h1 {
+            }
+            h2 {
+            }
+            h3 {
+            }
+            h4 {
+            }
+            h5.bebas {
+              font-size: 16px;
+              line-height: 24px;
+              @media screen and (max-width: 850px) {
+                font-size: 14px;
+                line-height: 20px;
+              }
+            }
+            h6 {
+            }
+
+            .roboto {
+              font-family: Roboto;
+            }
+            h1 {
+            }
+            h2 {
+            }
+            h3.roboto {
+              font-size: 24px;
+              line-height: 26px;
+              @media screen and (max-width: 850px) {
+                font-size: 18px;
+                line-height: 20px;
+              }
+            }
+            h4 {
+            }
+            h5 {
+            }
+            h6 {
+            }
+          }
+
+          footer {
+            button {
+            }
+            .image {
+              width: 100%;
+              min-height: 0;
+              max-width: 228px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

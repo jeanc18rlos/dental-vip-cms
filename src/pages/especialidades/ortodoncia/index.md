@@ -15,18 +15,18 @@ hero:
 quote:
   title: ''
   body: >
-    Es siempre el resultado de la búsqueda de la excelencia profesional y de un esfuerzo inteligente por el mejoramiento continuo. La capacitación permanente en nuevas tendencias y filosofías terapéuticas, la honestidad, el uso eficiente de los recursos y el trato cordial a las personas generan los mayores niveles de satisfacción en todos nuestros pacientes.
-  author: María José Tirado
+    No basta con solo alinear los dientes. La suma de las caracterizaciones y pequeños detalles que se puedan lograr en la fase de acabado, definirán la excelencia del resultado. Es por ello que en algunas personas los dientes lucirán realmente hermosos, y en otras, simplemente derechos.
+  author: Dr. José Miguel Gómez Díez
   footer:
-    position: Coordinación Clínica
+    position: Ortodoncista
     clinic: DENTAL VIP, Especialidades Odontológicas s.c.
 lightQuote:
-  color: '#fff'
+  color: '#ededed'
   display: true
   img:
-    ld: /img/quotes-phillosophy.jpg
-    pt: /img/quotes-phillosophy-portrait.jpg
-  content: EL RESPETO A LA VIDA Y A LA INTEGRIDAD DE LA PERSONA HUMANA, EL FOMENTO Y LA PRESERVACIÓN DE LA SALUD, COMO COMPONENTE DEL DESARROLLO Y BIENESTAR SOCIAL Y SU PROYECCIÓN EFECTIVA A LA COMUNIDAD, CONSTITUYEN EN TODAS LAS CIRCUNSTANCIAS EL DEBER PRIMORDIAL DEL ODONTÓLOGO. "
+    ld: /img/quotes-orthodontics.jpg
+    pt: /img/quotes-orthodontics-portrait.jpg
+  content: CREÍA DIFÍCIL OBTENER BUENOS RESULTADOS EN UN CASO TAN COMPLEJO COMO EL MÍO. USÉ APARATOS FIJOS POR AÑO Y MEDIO PARA QUE ME PUDIERAN OPERAR Y CORREGIR LA POSICIÓN DE LOS MAXILARES. AHORA SOY OTRA, LOS DOCTORES ENDEREZARON MIS DIENTES Y TRANSFORMARON MI CARA. ALGO FANTÁSTICO. "
 procedures:
   display: true
   title: ¡Dele a su Salud el Valor que se Merece!

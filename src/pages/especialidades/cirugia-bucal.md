@@ -24,7 +24,7 @@ lightQuote:
   color: '#fff'
   display: true
   img:
-    ld: /img/quotes-phillosophy.jpg
+    ld: /img/quotes-oral-surgery.jpg
     pt: /img/quotes-oral-surgery-portrait.jpg
   content: FUI SOMETIDO A VARIAS EXTRACCIONES Y DOS INJERTOS DE HUESO COMO PREPARACIÓN PREVIA A LA COLOCACIÓN DE IMPLANTES DENTALES, Y DE VERDAD, NO ME PUDO IR MEJOR CON EL DR.GARABÁN. ES MUY SUTIL EN SU TRABAJO Y SE PERCIBE DE INMEDIATO SU GRAN DESTREZA Y EXPERIENCIA PROFESIONAL. "
 procedures:

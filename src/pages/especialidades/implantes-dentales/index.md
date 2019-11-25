@@ -15,18 +15,18 @@ hero:
 quote:
   title: ''
   body: >
-    Es siempre el resultado de la búsqueda de la excelencia profesional y de un esfuerzo inteligente por el mejoramiento continuo. La capacitación permanente en nuevas tendencias y filosofías terapéuticas, la honestidad, el uso eficiente de los recursos y el trato cordial a las personas generan los mayores niveles de satisfacción en todos nuestros pacientes.
-  author: María José Tirado
+    Es verdaderamente gratificante percibir día a día como los implantes dentales mejoran la calidad de vida y la salud de las personas. El hecho de poder comer y masticar con comodidad, hablar con normalidad y sonreír sin temor, son beneficios de invalorable repercusión.
+  author: Dr. Castor José Garabán Povea
   footer:
-    position: Coordinación Clínica
+    position: Cirujano bucal
     clinic: DENTAL VIP, Especialidades Odontológicas s.c.
 lightQuote:
-  color: '#fff'
+  color: '#ededed'
   display: true
   img:
-    ld: /img/quotes-phillosophy.jpg
+    ld: /img/quotes-dental-implants.jpg
     pt: /img/quotes-dental-implants-portrait.jpg
-  content: EL RESPETO A LA VIDA Y A LA INTEGRIDAD DE LA PERSONA HUMANA, EL FOMENTO Y LA PRESERVACIÓN DE LA SALUD, COMO COMPONENTE DEL DESARROLLO Y BIENESTAR SOCIAL Y SU PROYECCIÓN EFECTIVA A LA COMUNIDAD, CONSTITUYEN EN TODAS LAS CIRCUNSTANCIAS EL DEBER PRIMORDIAL DEL ODONTÓLOGO. "
+  content: AHORA QUE LLEVO IMPLANTES NO PUEDO ENTENDER CÓMO ESTUVE TANTO TIEMPO USANDO DENTADURAS REMOVIBLES. POR UN MIEDO TONTO A UNA PEQUEÑA CIRUGÍA PASÉ AÑOS OCULTANDO MI SONRISA, TAPÁNDOME LA BOCA CON LA MANO PARA QUE NO ME VIERAN EL PLÁSTICO Y LOS GANCHOS DE LOS PUENTES. "
 procedures:
   display: true
   title: ¡Dele a su Salud el Valor que se Merece!

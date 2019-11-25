@@ -10,7 +10,7 @@ const Reason = props => {
     <div
       className={`reason-child-content ${type === 1 ? 'dv-pd-r' : 'dv-pd-l'}`}
     >
-      <Img className="img-reason" fluid={img} alt={nameimg} />
+      <Img className="img-reason" fluid={img.childImageSharp.fluid} alt={nameimg} />
 
       <div className="data-reason">
         <p className="dv-title-reason">{title}</p>

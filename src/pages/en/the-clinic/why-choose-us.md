@@ -12,6 +12,33 @@ hero:
     <span style="color:white">Why Choose Us</span>
   indicator: true
   halfSize: false
+moreinfoFinancing:
+  display: false
+  type: 2
+  imgparallax: /img/parallax-why-choose-us.jpg
+  title: ''
+  subtitle: ''
+  otherinfo1: ''
+  otherinfo2: ''
+  paragraphs:
+    - paragraph: ''
+    
+checkout:
+  display: false
+  title: ''
+  options:
+    - img: /img/icon-bank-transfer.png
+      title: ''
+      subTitle: ''
+
+  checkout:
+    - img: /img/icon-paypal.png
+      to: /
+      text: ''
+  banner:
+      aside: >
+          ''
+      img: /img/icon-travel.png
 heading:
   display: true
   classname:  section-reasons
@@ -60,63 +87,88 @@ reasons:
   - type: 1
     img: /img/icon-number-01.jpg  
     nameimg: reason1
-    title: Reconocido Equipo de Odontólogos Especialistas
+    title: Renowned Team of Specialist Dentists
     paragraph:
-      Profesionales Universitarios de alto nivel con estudios de Postgrado en las diferentes ramas de la Odontología clínica. Todas las Especialidades en el mismo lugar.
+      High Level University Professionals with Postgraduate Studies in the different areas of clinical Dentistry. All Specialties in the same place.
   - type: 2
     img: /img/icon-number-02.jpg 
     nameimg: reason2
-    title: Modernas y Cómodas Instalaciones
+    title: Modern and Comfortable Facilities
     paragraph:
-      Ambiente Tranquilo Relajado y de Máximo Confort con servicio de Internet (zona Wi-Fi). Consultorios Privados y Totalmente Independientes.
+      Quiet, Relaxed and Maximum Comfort Environment with Internet service (Wi-Fi zone). Private and Totally Independent Dental Rooms.
   - type: 1
     img: /img/icon-number-03.jpg 
     nameimg: reason3
-    title: La Mejor Tecnología
+    title: The Best Technology
     paragraph:
-      Contamos con los equipos de Última Generación a nivel mundial. Siempre estamos a la vanguardia en Innovación Odontológica.
+      We have the Latest Generation Equipments Worldwide. We are always at the Forefront of Dental Innovation.
   - type: 2
     img: /img/icon-number-04.jpg  
     nameimg: reason4
-    title: Experiencia y Ética Profesional
+    title: Experience and Professional Ethics
     paragraph:
-      Odontólogos de Amplia Trayectoria e Incuestionable Vocación. Un Equipo Humano Verdaderamente Comprometido con lo que Hace.
+      Dentists with Ample Trajectory and Unquestionable Vocation. A Human Team Truly Committed to what it Does.
   - type: 1
     img: /img/icon-number-05.jpg 
     nameimg: reason5
-    title: Atención Totalmente Personalizada
+    title: Fully Personalized Attention
     paragraph:
-      No somos un centro de atención masiva y por ende NO delegamos funciones. Usted será siempre atendido por su Especialista de Confianza.
+      We are not a center of mass attention and therefore we do NOT delegate functions. You will always be attended by your Trusted Specialist.
   - type: 2
     img: /img/icon-number-06.jpg
     nameimg: reason6
-    title: Organización y Mínimo Lapso de Espera
+    title: Organization and Minimum Waiting Time
     paragraph:
-      Valoramos y respetamos su tiempo por eso Trabajamos Bajo un Sistema de Previa Cita que nos permite Optimizar Nuestro Servicio.
+      We value and respect your time, that is why We Work Under a Prior Appointment System that allows us to Optimize Our Service.
   - type: 1
     img: /img/icon-number-07.jpg
     nameimg: reason7
-    title: Excelente Ubicación
+    title: Excellent Location
     paragraph:
-      Estamos en el Municipio Chacao en el "centro del este" de la ciudad capital dentro de un Complejo Urbanístico Empresarial de gran actividad económica y comercial.
+      We are in the Chacao Municipality, in the "center of the east" of the capital city, within a Business Urban Complex of great economic and commercial activity.
   - type: 2
     img: /img/icon-number-08.jpg
     nameimg: reason8
-    title: Seguridad y Fácil Acceso
+    title: Security and Easy Access
     paragraph:
-      Numerosa Vigilancia Privada más de 2.000 Puestos de Estacionamiento a su disposición y entrada peatonal desde el sistema subterráneo Metro de Caracas.
+      Numerous Private Surveillance, more than 2,000 Parking Positions at your disposal and pedestrian entrance from the underground system Metro de Caracas.
   - type: 1
     img: /img/icon-number-09.jpg 
     nameimg: reason9
-    title: Precios Justos y Verdaderamente Competitivos
-    paragraph: Con seguridad los mejores en Odontología de Alto Standing.
+    title: Fair and Truly Competitive Prices
+    paragraph: Surely the Bests in High Standing Dentistry.
   - type: 2
     img: /img/icon-number-10.jpg
     nameimg: reason10
-    title: Financiamiento y Facilidades de Pago
+    title: Financing and Payment Facilities
     paragraph:
-      Flexibilidad en el cobro de honorarios profesionales Planes Especiales de Financiamiento y Punto de Venta Comercial para el pago con Tarjetas de Débito y Crédito.
+      Flexibility in the collection of professional fees, Special Financing Plans and Commercial Point of Sale for payment with Debit and Credit Cards.
 
+social:
+  display: false
+  imgparallax:
+  title: ''
+  subtitle: ''
+  additionalText: ''
+  icons:
+    - icon:
+        img: false
+        class: ''
+      alt: ''
+      nameicon: ''
+      link:
+        href: /en/blog/
+        target: ''
+        rel: ''
+banner:
+  display: false
+  img: /img/banner-financing.png
+  paragraphs:
+    - paragraph1:
+        ''
+      paragraph2:
+        ''
+          
 procedures:
   display: true
   title: ¡One Specialty for each treatment!
