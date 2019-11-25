@@ -1,7 +1,7 @@
 ---
 templateKey: professionals-page
-language: es
-title: Professional staff
+language: en
+title: Professional Staff
 redirects: /profesionales/
 hero:
   display: true
@@ -15,31 +15,111 @@ hero:
 heading:
   display: true
   classname:  section-reasons
-  title: ¡Máxima Capacitación y Experiencia!
+  title: Maximum Training and Experience!
   content: >
-    <p class="dv-subtitle text-center">Un reconocido equipo de Odontólogos Especialistas con amplia formación académica de cuarto nivel, larga trayectoria asistencial y sólido liderazgo en la profesión; plenamente identificado con la excelencia y óptima calidad de servicio.</p>
-subTitle:
-  text: >
-    <h1 class="roboto dark">Personal de Clínica, Laboratorio y Administración</h1>
+    <p class="dv-subtitle text-center">A recognized team of Specialist Dentists with extensive fourth level academic training, long care trajectory and solid leadership in the profession; completely identified with excellence and optimum quality of service.
+    </p>
+
 asides:
   display: true
   sections:
     - align: right
       title: >
-        <h3 style="font-weight:300;font-family:Roboto">Dr. José Miguel Gómez Díez</h3>
-        <h5 style="font-family:Bebas;background:#333;color:#fff">ORTODONCIA - ORTOPEDIA DENTOFACIAL</h5>
+        <h3 style="font-weight:300;" class="roboto">Dr. Castor José Garabán Povea</h3>
+        <h5 class="bebas" style="padding:5px 5px 0px 5px;font-weight:normal;letter-spacing:2px;background:#333;color:#fff">ORAL SURGERY - IMPLANTS</h5>
       content: >
-        <ul>
-          <li><strong>Odontólogo</strong>&nbsp;<em>(Universidad Central de Venezuela, 1996).</em></li>
-          <li><strong>Maestría en Ortodoncia</strong>&nbsp;<em>(Universidad Autónoma de Tamaulipas, México, 2003).</em></li>
-          <li>Fellowship in Clinical Orthodontics.</li>
-          <li>Especialización en Técnica de Arco Recto&nbsp;<em>(Straigth Wire System).</em></li>
-          <li>Entrenamiento avanzado en Oclusión y Disfunción Cráneomandibular.</li>
-          <li>Numerosas estancias de formación académica en España, México y USA.</li>
-          <li>Dedicación exclusiva a la Especialidad de Ortodoncia y Ortopedia Dentofacial.</li>
-          <li>Miembro del Colegio de Odontólogos de Venezuela.</li>
-          <li>Miembro del Colegio de Odontólogos Metropolitano.</li>
-          <li>Miembro del Colegio de Odontólogos del Estado Miranda.</li>
+        <ul style="font-weight:400;list-style:none">
+          <li><strong>Doctor of Dental Surgery</strong>&nbsp;<em>(Universidad Central de Venezuela, 1994)</em>.</li>
+          <li><strong>Specialist Degree in Oral Surgery </strong>&nbsp;<em>(Universidad Central de Venezuela, 2006)</em>.</li>
+          <li>Postgraduate Course in Oral Implantology and Implant Prosthodontics.</li>
+          <li>Diploma in Osseointegration and Peri-Implant Bone Regeneration.</li>
+          <li>Permanent training in Conservative and Microinvasive Surgical Techniques. </li>
+          <li>Clinical Expert in the management of multiple systems of Advanced Oral Implantology. </li>
+          <li>Academic Assistant Professor at the Faculty of Dentistry, U.C.V. </li>
+          <li>Member of Colegio de Odontólogos de Venezuela.</li>
+          <li>Member of Colegio de Odontólogos Metropolitano.</li>
+          <li>Member of Sociedad Venezolana de Cirugía Buco-Maxilofacial&nbsp;<em>(S.V.C.B.M.F.)</em>.</li>
+        </ul>
+      image: /img/professionals-dr-castor-jose-garaban-povea.png
+      footer:
+        display: true
+        image:
+          src: /img/professionals-dr-castor-jose-garaban-povea-studies.jpg
+          display: true
+        button:
+          text: ''
+          to: ''
+          display: false
+    - align: left
+      title: >
+        <h3 style="font-weight:300;" class="roboto">Dr. Filomena Montemurro Tafuri</h3>
+        <h5 class="bebas" style="padding:5px 5px 0px 5px;font-weight:normal;letter-spacing:2px;background:#333;color:#fff">PROSTHESIS - DENTAL AESTHETICS</h5>
+      content: >
+        <ul style="font-weight:400;list-style:none">
+          <li><strong>Doctor of Dental Surgery</strong>&nbsp;<em>(Universidad Santa María, 2001)</em>.</li>
+          <li><strong>Specialist in Prosthodontics</strong>&nbsp;<em>(Collegio dei Docenti di Odontoiatria, Italia, 2003).</em></li>
+          <li>Advanced Course in Aesthetic and Restorative Dentistry&nbsp;<em>(U.S.M., 2004).</em></li>
+          <li>Master in design and confection of Implant Supported Restorations.</li>
+          <li>Residence in applied clinical Prosthodontics and Implantology.</li>
+          <li>Multiple training seminars in Smile Design and CAD-CAM Technologies.</li>
+          <li>Diploma in Dental Ceramics, Occlusion and Operative Dentistry.</li>
+          <li>Private Practice limited to the area of Dental Aesthetics, Prosthetics and Oral Rehabilitation.</li>
+          <li>Member of Colegio de Odontólogos de Venezuela.</li>
+          <li>Member of Colegio de Odontólogos Metropolitano.</li>
+        </ul>
+      image: /img/professionals-dr-filomena-montemurro-tafuri.png
+      footer:
+        display: true
+        image:
+          src: /img/professionals-dr-filomena-montemurro-tafuri-studies.jpg
+          display: true
+        button:
+          text: ''
+          to: ''
+          display: false
+    - align: right
+      title: >
+        <h3 style="font-weight:300;" class="roboto">Dr. Javier Martínez Téllez</h3>
+        <h5 class="bebas" style="padding:5px 5px 0px 5px;font-weight:normal;letter-spacing:2px;background:#333;color:#fff">GENERAL DENTISTRY - PERIODONTICS</h5>
+      content: >
+        <ul style="font-weight:400;list-style:none">
+          <li><strong>Dentist</strong>&nbsp;<em>(Universidad Central de Venezuela, 2000).</em></li>
+          <li><strong>Postgraduate course in Integral Stomatology of the Adult</strong>&nbsp;<em>( Universidad Santa María, 2004).</em></li>
+          <li><strong>Specialist Degree in Periodontics</strong>&nbsp;<em>(Universidad Central de Venezuela, 2014).</em></li>
+          <li>Aspiring to the degree of DOCTOR OF DENTISTRY.</li>
+          <li>Diploma in Advanced Guided Tissue Regeneration Techniques.</li>
+          <li>Author of several articles in national and international journals.</li>
+          <li>Practice focused on the prevention and treatment of Periodontal Pathology.</li>
+          <li>Member of Colegio de Odontólogos de Venezuela.</li>
+          <li>Member of Colegio de Odontólogos Metropolitano.</li>
+          <li>Member of Sociedad Venezolana de Periodontología.</li>
+        </ul>
+      image: /img/professionals-dr-javier-martinez-tellez.png
+      footer:
+        display: true
+        image:
+          src: /img/professionals-dr-javier-martinez-tellez-studies.jpg
+          display: true
+        button:
+          text: ''
+          to: ''
+          display: false
+    - align: left
+      title: >
+        <h3 style="font-weight:300;" class="roboto">Dr. José Miguel Gómez Díez</h3>
+        <h5 class="bebas" style="padding:5px 5px 0px 5px;font-weight:normal;letter-spacing:2px;background:#333;color:#fff">ORTHODONTICS - DENTOFACIAL ORTHOPEDICS</h5>
+      content: >
+        <ul style="font-weight:400;list-style:none">
+          <li><strong>Doctor of Dental Surgery</strong>&nbsp;<em>(Universidad Central de Venezuela, 1996).</em></li>
+          <li><strong>Master Degree in Orthodontics</strong>&nbsp;<em>(Universidad Autónoma de Tamaulipas, México, 2003).</em></li>
+          <li>Fellowship Program in Clinical Orthodontics.</li>
+          <li>Straight Wire System Certification Course.</li>
+          <li>Advanced Training in Occlusion and Craniomandibular Dysfunction.</li>
+          <li>Numerous stays of academic formation in Spain, Mexico and USA.</li>
+          <li>Exclusive dedication to the Specialty of Orthodontics and Dentofacial Orthopedics.</li>
+          <li>Member of Colegio de Odontólogos de Venezuela.</li>
+          <li>Member of Colegio de Odontólogos Metropolitano.</li>
+          <li>Member of Colegio de Odontólogos del Estado Miranda.</li>
         </ul>
       image: /img/professionals-dr-jose-miguel-gomez-diez.png
       footer:
@@ -50,150 +130,78 @@ asides:
         button:
           text: ''
           to: ''
+          display: false
+    - align: right
+      title: >
+        <h3 style="font-weight:300;" class="roboto">Dr. Vianka Xaviera Torres</h3>
+        <h5 class="bebas" style="padding:5px 5px 0px 5px;font-weight:normal;letter-spacing:2px;background:#333;color:#fff">GENERAL DENTISTRY - ENDODONTICS </h5>
+      content: >
+        <ul style="font-weight:400;list-style:none">
+          <li><strong>Doctor of Dental Surgery</strong>&nbsp;<em>(Universidad Central de Venezuela, 2000).</em></li>
+          <li><strong>Endodontics Postgraduate course</strong>&nbsp;<em>(Universidad Autónoma de Tamaulipas, México, 2003)</em>.</li>
+          <li>Diploma in Pharmacotherapy and Immunopharmacology.</li>
+          <li>Clinical Expert in the management of Endo-Periodontal and Endo-Prosthetic Lesions.</li>
+          <li>Advanced training in the practical use of Nickel-Titanium Rotary Systems.</li>
+          <li>Certified formation in Thermoplastic Condensation and Obturation Techniques.</li>
+          <li>Attendance at more than 50 theoretical and practical courses of the Specialty.</li>
+          <li>Member of Colegio de Odontólogos de Venezuela.</li>
+          <li>Member of Colegio de Odontólogos Metropolitano.</li>
+          <li>Member of Colegio de Odontólogos del Estado Miranda.</li>
+        </ul>
+      image: /img/professionals-dra-vianka-xaviera-torres.png
+      footer:
+        display: true
+        image:
+          src: /img/professionals-dra-vianka-xaviera-torres-studies.jpg
           display: true
-sections:
-  display: false
-  sections:  
-  - type: 1
-    titleimage: /img/icon-clinic-chair.jpg
-    contentimage: /img/sections-facilities.jpg 
-    titlecontent: In the clinic…
-    content: >
-      <p class="light-font">
-        The DENTAL VIP clinic has been conceived and designed so that the
-          patient feels immersed in a cozy atmosphere and enjoys&nbsp;
-          <strong>a relaxed, calm and maximum comfort climate,</strong> from the
-          moment he is received and throughout his visit.&nbsp;
-          <strong>
-            We have modern and comfortable facilities, the best cutting-edge
-            technology, the most advanced equipments and a recognized group of
-            high-level Specialist Dentists.&nbsp;
-          </strong>
-          This allows us to offer a new concept in Dentistry:
-          <em>&nbsp;modern, integral and specialized.</em>
-      </p>
-      <p class="light-font">
-         A privileged location with easy access, the availability of structural
-          parking into the building and the permanent presence of a large
-          private security staff are also an essential part of our conception of
-          service, of our intention to make your overall experience something
-          positive and our great effort&nbsp;
-          <strong>
-            to make your visit calendar as comfortable, expeditious and safe as
-            possible.
-          </strong>
-      </p>
-  - type: 2
-    titleimage: /img/icon-teeth-implants.jpg
-    contentimage: /img/sections-treatment.jpg
-    titlecontent: In the treatment...
-    content: >
-      <p class="light-font">
-        As our main concern is your health, in DENTAL VIP&nbsp;
-          <strong>
-            we work with the highest quality materials and instruments.&nbsp;
-          </strong>
-          We guarantee ethics in services and optimal results in the resolution
-          of highly complex clinical cases. For this, we use&nbsp;
-          <strong>
-            professional competence, commitment, flexibility and innovation
-            capacity.
-          </strong>
-          In addition, we are a multidisciplinary team that is constantly
-          evolving, training us every day in the new techniques and procedures
-          that allow us to further improve the aesthetic and functional results
-          of all our treatments.
-      </p>
-      <p class="light-font">
-        In our work we always make sure to provide&nbsp;
-          <strong>
-            a fully customized Medical-Dental service tailored to your
-            needs.&nbsp;
-          </strong>
-          Our clinical coordinator will make the Specialists work as a team,
-          putting at your disposal&nbsp;
-          <strong>
-            experience, scientific knowledge and the latest advances in the
-            field of oral health.
-          </strong>
-      </p>
-  - type: 1
-    titleimage: /img/icon-handshake.jpg
-    contentimage: /img/sections-humanity.jpg
-    titlecontent: In the human...
-    content: >
-      <p class="light-font">
-        We have set ourselves as north to ensure that patients receive the
-          best care, so we always offer&nbsp;
-          <strong>
-            a personal, friendly, sincere and very professional deal by the
-            entire human team that works in the institution.
-          </strong>
-          Transparency, honesty, tolerance and equity in collaboration
-          constitute our basis for success, harmony and job satisfaction.
-          Although the results of the treatment always be your main motivation,
-          we will try to go further to exceed expectations, achieve your full
-          approval and&nbsp;
-          <strong>
-            consolidate us as a reference center for close friends and family.
-          </strong>
-      </p>
-
-      <p class="light-font">
-         Our philosophy is well reflected in our great effort &nbsp;
-          <strong>
-            to achieve good communication between the Dentist and the
-            Patient.&nbsp;
-          </strong>
-          For us it is essential that you get to understand and reason what your
-          dental problem is, what were its causes and what are its consequences
-          and therapeutic alternatives, so that together we can give it solution
-          and can also prevent its recurrence. Remember that &nbsp;
-          <strong>prevention is the cornerstone of any health strategy.</strong>
-      </p>
-  - type: 2
-    titleimage: /img/icon-money.jpg
-    contentimage: /img/sections-economics.jpg
-    titlecontent: In the economic...
-    content:
-      <p class="light-font">
-        Many patients go to a dental insurance, a franchise or a popular
-          clinic for the price they offer, but generally the care is very basic,
-          massive, little specialized and offered by itinerant dentists who are
-          just beginning in the profession.&nbsp;
-          <strong>
-            When it comes to private attention, always mistrust of free
-            consultations, 2x1 offers and excessively low fees, since they
-            usually hide a great deterioration in the quality of care
-          </strong>
-          that can put your health at risk and make you easy prey to
-          professional malpractice. Work very fast, attend to many patients,
-          delegate functions and spare the most in academic training,
-          infrastructure, technology, biosafety and expenses of clinical
-          material is a common philosophy in those who tender cheap dentistry.
-      </p>
-      <p class="light-font">
-        DENTAL VIP offers&nbsp;
-          <strong>
-            dedication, personalization, excellence and exclusivity,
-          </strong>
-          combining the best of Specialized Integrated Dentistry with the most
-          current and relevant technology, all
-          <strong>&nbsp;at fair and truly favorable prices,</strong> surely
-          below those of our direct competition.
-      </p>
-
+        button:
+          text: ''
+          to: ''
+          display: false
+personal:
+  display: true
+  title: >
+    <h1 style="font-weight:300!important;background:#ededed;" class="roboto dark">Clinic, Laboratory and Administration Staff</h1>
+  cards:
+    - image: /img/personal-angelo-sansone-ruggero.jpg
+      title: DLT. Angelo Sansone Ruggero
+      position: Fixed Prosthesis and Dental Ceramics
+    - image: /img/personal-denis-diaz-alvarez.jpg
+      title: DLT. Denis Díaz Álvarez
+      position: Acrylics and Removable Dentures
+    - image: /img/personal-vanesa-hernandez.jpg
+      title: DLT. Vanesa Hernández
+      position: Functional Devices and Active Plates
+    - image: /img/personal-aymara-guillen-portillo.jpg
+      title: Reception and Patient Care
+      position: Reception and attention to Patient
+    - image: /img/personal-maria-betancourt-matos.jpg
+      title: María Betancourt Matos
+      position: Dental Hygienist
+    - image: /img/personal-gisela-garcia.jpg
+      title: Gisela García
+      position: Dental Hygienist
+    - image: /img/personal-paola-rivas.jpg
+      title: Paola Rivas
+      position: Financial Management
+    - image: /img/personal-esteban-garrido.jpg
+      title: Lic. Esteban Garrido
+      position: Administration and Accounting
+    - image: /img/personal-maria-jose-tirado.jpg
+      title: María José Tirado
+      position: Office Coordination and Social Media
+      
 procedures:
   display: true
-  title: ¡Dele a su Salud el Valor que se Merece!
+  title: Top Quality Dental Center!
   procedures:
-    - title: Por Que elegirnos
-      to: /la-clinica/why-choose-us/
+    - title: Why Choose Us
+      to: /en/the-clinic/why-choose-us/
       img: /img/procedures-why-choose-us.png
-    - title: Tecnología
-      to: /la-clinica/tecnologia/
+    - title: Facilities
+      to: /en/the-clinic/facilities/
+      img: /img/procedures-facilities.jpg
+    - title: Technology
+      to: /en/the-clinic/technology/
       img: /img/procedures-technology.jpg
-    - title: Profesionales
-      to:  /profesionales/
-      img: /img/procedures-professionals.png
 ---

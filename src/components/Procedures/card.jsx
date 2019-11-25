@@ -2,9 +2,11 @@ import React, { useState } from "react";
 import classnames from "classnames";
 import PropTypes from "prop-types";
 import Img from "gatsby-image";
+import showdown from "showdown";
+const converter = new showdown.Converter();
 
 const Card = props => {
-  const { to, title, img, length } = props;
+  const { to, title, img, length, info } = props;
   const [hovered, setHovered] = useState(false);
   const toggleHover = value => {
     setHovered(value);
@@ -24,7 +26,8 @@ const Card = props => {
         toggleHover("slideInDownProcedures");
       }}
       className={classnames(
-        "row-eq-height  col-xs-12  col-sm-6 col-md-6 col-lg-4"
+        "row-eq-height  col-xs-12  col-sm-6 col-md-6 col-lg-4",
+        info && 'with-text'
       )}
       href={to}
     >
@@ -51,42 +54,20 @@ const Card = props => {
           />
         )}
 
-        {true && (
+        {info && (
           <div
             className={classnames("procedures-additional-text", hovered && hovered !== 'slideInDownProcedures' && 'visible')}
-            style={{
-              position: "absolute",
-              bottom: 0,
-              display: "flex",
-              justifyContent: "center",
-              width: "100%",
-              alignItems: "center",
-              height: "10vw",
-              minHeight: "180px",
-              maxHeight: "200px"
-            }}
           >
             <div>
-              <img
-                src="https://dentalvip.com.ve/wp-content/uploads/2018/08/contacto-footer-icon2.png"
-                style={{ maxWidth: "33px" }}
-              />
-              <p
-                style={{
-                  fontSize: "12px",
-                  lineHeight: "1.428571429",
-                  color: "#fff",
-                  fontWeight: "lighter"
+              <Img className="icon" fluid={info.image.childImageSharp.fluid} style={{ width: "50px", margin: 'auto' }} />
+              <br></br>
+              <div
+                dangerouslySetInnerHTML={{
+                  __html: converter.makeHtml(info.text)
                 }}
               >
-                Estacionamiento Multicentro Empresarial del Este.
-                <br className="visible-xs visible-sm visible-md visible-lg" />
-                Accesos por:{" "}
-                <br className="hidden-xs hidden-sm visible-md visible-lg" />
-                Av. Francisco de Miranda (<em>sentido Este</em>)
-                <br className="hidden-xs hidden-sm visible-md visible-lg" />
-                Av. Libertador (<em>sentido Oeste</em>)
-              </p>
+             
+              </div>
             </div>
           </div>
         )}

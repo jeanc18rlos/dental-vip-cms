@@ -13,9 +13,15 @@ section.dv-side-content {
         display: flex;
         flex-wrap: wrap;
         min-height: calc(100vh - 75px);
+        &.dv-margin-bottom{
+          @media screen and (min-width: 850px) {
+            margin-bottom: 120px;
+          } 
+        }
         &.right {
           @media screen and (min-width: 850px) {
             flex-direction: row-reverse;
+            min-height: auto;
           }
         }
         .image {
@@ -25,6 +31,7 @@ section.dv-side-content {
           width: 50%;
           @media screen and (max-width: 850px) {
             width: 100%;
+            min-height: 300px;
           }
         }
         .dv-content {
@@ -33,6 +40,10 @@ section.dv-side-content {
           @media screen and (max-width: 850px) {
             width: 100%;
             padding: 0;
+            padding-bottom: 90px;
+            min-height: auto;
+            padding-top: 23px;
+            ;
           }
           min-height: calc(100vh - 75px);
           margin: 0;
@@ -49,6 +60,7 @@ section.dv-side-content {
             }
           }
           main {
+            
             &.no-bottom {
               padding-bottom: 0;
             }
@@ -61,12 +73,21 @@ section.dv-side-content {
             &.dv-border-bottom {
               border-bottom: 1px solid #eee;
             }
+            @media screen and (max-width:850px) {
+              border: 0 !important;
+              padding-bottom: 0;
+              padding-top: 10px;
+            }
             > * {
               padding-left: 0;
             }
             main {
               padding-bottom: 40px;
               padding-top: 40px;
+              @media screen and (max-width:850px) {
+                margin-bottom: -15px;
+                padding-bottom: 0;
+              }
             }
           }
           header {
@@ -131,6 +152,9 @@ section.dv-side-content {
           }
 
           footer {
+            @media screen and (max-width: 850px) {
+              padding-top: 40px;
+            }
             button {
             }
             .image {

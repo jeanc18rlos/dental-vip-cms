@@ -19,10 +19,23 @@ export const SpecialtiesPageTemplate = ({
   return (
     <div>
       {hero && hero.display && <DVhero {...hero} />}
+      <section class="dv-specialties-heading">
+        <div class="container-fluid dv-main-menu">
+          <img
+            class="image"
+            src="https://dentalvip.com.ve/wp-content/uploads/2018/09/protesis-icon.jpg"
+            alt="Prótesis Icon"
+          />
+          <p>
+            Las consecuencias psicológicas asociadas a la ausencia de dientes
+            generan mucha inseguridad en las personas y cambios conductuales
+            capaces de limitar, e incluso destruir; sus relaciones sociales,
+            afectivas y laborales.
+          </p>
+        </div>
+      </section>
       <Quotes {...quote} />
-      {
-        lightQuote && lightQuote.display && <Quote {...lightQuote} />
-      }
+      {lightQuote && lightQuote.display && <Quote {...lightQuote} />}
       {procedures && procedures.display && <Procedures {...procedures} />}
     </div>
   );
@@ -114,7 +127,7 @@ export const pageQuery = graphql`
                 }
               }
             }
-          }  
+          }
           content
         }
         procedures {

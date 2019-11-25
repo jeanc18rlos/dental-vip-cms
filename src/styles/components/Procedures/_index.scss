@@ -4,13 +4,30 @@ section.dv-procedures {
   padding-right: 1vw;
   padding-top: 50px;
   background: $white;
-  .procedures-additional-text{
+  .procedures-additional-text {
     opacity: 0;
     visibility: hidden;
     transition: all 1s cubic-bezier(0.42, 0, 0.35, 0.93);
-    &.visible{
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    height: 10vw;
+    min-height: 180px;
+    max-height: 200px;
+    font-size: 12px;
+    line-height: 1.428571429;
+    color: #fff;
+    font-weight: 500;
+    &.visible {
       opacity: 1;
       visibility: visible;
+      @media screen and (max-width: 850px) {
+        background: #f8f9fac2;
+        color: #000;
+      }
     }
   }
   .dv-page-titles {
@@ -19,7 +36,7 @@ section.dv-procedures {
     margin-bottom: 56px;
     margin-top: 47px;
     color: #333 !important;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 300;
   }
 
@@ -30,7 +47,6 @@ section.dv-procedures {
       cursor: pointer;
       justify-content: center;
       margin-bottom: 50px;
-
       &:hover {
         .dv-image-div {
           filter: brightness(0.5);
@@ -54,7 +70,7 @@ section.dv-procedures {
 
       h3 {
         color: #333;
-        font-family: 'Roboto', sans-serif;
+        font-family: "Roboto", sans-serif;
         font-size: 13px;
         font-weight: 400;
         margin-bottom: 13px !important;

@@ -22,6 +22,7 @@ const Procedures = props => {
                 to={i.to}
                 title={i.title}
                 img={i.img}
+                info={i.info}
               />
             )
           })}

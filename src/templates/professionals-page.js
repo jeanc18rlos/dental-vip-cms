@@ -1,7 +1,5 @@
 import React from "react";
-import PropTypes from "prop-types";
 import { graphql } from "gatsby";
-import Img from "gatsby-image";
 import Whitespace from "../components/Whitespace";
 import Layout from "../Layout";
 import DVhero from "../components/DV-Hero";
@@ -10,27 +8,23 @@ import Procedures from "../components/Procedures";
 import SEO from "../components/seo";
 import SetLang from "../components/setLang";
 import BasicContent from "../components/BasicContent";
-import InfoSection from "../components/InfoSection";
-
+import DVcards from "../components/DV-Cards";
 export const ProfessionalsPageTemplate = ({
   width,
   hero,
   procedures,
   asides,
   heading,
-  subTitle,
-  sections
+  personal
 }) => {
   return (
     <div>
       {hero && hero.display && <DVhero {...hero} />}
       {heading && <BasicContent {...heading} />}
-      {false && <InfoSection {...{ sections: sections.sections }} />}
       {asides && (
         <DVsideContent borderBottom={true} width={width} {...asides} />
       )}
-      {asides && <Whitespace bgColor="#fff" />}
-      {subTitle && <Whitespace bgColor="#EDEDED" {...subTitle} />}
+      {personal && <DVcards {...personal} />}
       {procedures && procedures.display && <Procedures {...procedures} />}
     </div>
   );
@@ -43,28 +37,26 @@ const ProfessionalsPage = ({ data }) => {
     title,
     redirects,
     hero,
-    sections,
     heading,
-    subTitle,
     procedures,
+    personal,
     asides
   } = data.markdownRemark.frontmatter;
 
   return (
     <Layout>
       <SEO title={title} />
-      <SetLang link={redirects} />
+      <SetLang language={language} link={redirects} />
       <ProfessionalsPageTemplate
         {...{
           templateKey,
           language,
           heading,
-          subTitle,
           title,
           redirects,
-          sections,
           hero,
           procedures,
+          personal,
           asides
         }}
       />
@@ -82,9 +74,22 @@ export const pageQuery = graphql`
     ) {
       frontmatter {
         language
+        redirects
         title
-        subTitle {
-          text
+        personal {
+          display
+          title
+          cards {
+            image{
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            title
+            position
+          }
         }
         asides {
           display
@@ -117,29 +122,6 @@ export const pageQuery = graphql`
                 display
               }
             }
-          }
-        }
-
-        sections {
-          display
-          sections {
-            type
-            titleimage {
-              childImageSharp {
-                fluid(maxWidth: 1600, quality: 100) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            contentimage {
-              childImageSharp {
-                fluid(maxWidth: 1600, quality: 100) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            titlecontent
-            content
           }
         }
         hero {
