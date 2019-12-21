@@ -1,7 +1,7 @@
-import React from 'react'
-import { Link, useStaticQuery, graphql } from 'gatsby'
-import PropTypes from 'prop-types'
-import Img from 'gatsby-image'
+import React from "react";
+import { Link, useStaticQuery, graphql } from "gatsby";
+import PropTypes from "prop-types";
+import Img from "gatsby-image";
 
 const Footer = props => {
   const images = useStaticQuery(graphql`
@@ -14,7 +14,7 @@ const Footer = props => {
         }
       }
     }
-  `)
+  `);
   const {
     teethLogo,
     logo,
@@ -30,20 +30,20 @@ const Footer = props => {
     address,
     copyright,
     prismicIcon,
-    legal,
-  } = props
+    legal
+  } = props;
   return (
     <footer id="dv-footer">
       <div className="dp-location">
         <div className="container-fluid dv-main-menu">
-          <>
+          <div style={{ maxWidth: "400px", margin: "auto" }}>
             <Img
               fluid={images.mobileTeeth.childImageSharp.fluid}
               alt="DentalVip Logo"
               className="mobile-teeth-logo"
             />
             <br className="conditionall-br" />
-          </>
+          </div>
 
           <img src={logo} alt="DentalVip Logo" className="div-img-foot" />
           <p className="dv-slogan">{slogan}</p>
@@ -58,7 +58,7 @@ const Footer = props => {
 
             <div className="dv-phone-div">
               {phones.map((i, k) => {
-                const index = k
+                const index = k;
                 return (
                   <div key={index} className="dv-inline dv-mr-7perct">
                     <a href={`tel:${i.number}`}>
@@ -66,7 +66,7 @@ const Footer = props => {
                     </a>
                     {k + 1}
                   </div>
-                )
+                );
               })}
             </div>
 
@@ -100,7 +100,7 @@ const Footer = props => {
               className="copyright-icon"
             />
             {copyright.text}
-            {copyright.tools.prismic}{' '}
+            {copyright.tools.prismic}{" "}
             <img
               src={prismicIcon}
               alt="DentalVIP - WordPress"
@@ -110,7 +110,7 @@ const Footer = props => {
           <br />
           <div className="dv-legal-links">
             {legal.map((i, k) => {
-              const index = k
+              const index = k;
               return [
                 <Link key={`${i.title}-${index}`} to={i.link}>
                   {i.title}
@@ -118,18 +118,18 @@ const Footer = props => {
 
                 k + 2 <= legal.length && (
                   <span key={`span-${i.title}-${index}`}> - </span>
-                ),
-              ]
+                )
+              ];
             })}
           </div>
           <br />
         </div>
       </div>
     </footer>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;
 Footer.propTypes = {
   teethLogo: PropTypes.string.isRequired,
   logo: PropTypes.string.isRequired,
@@ -147,9 +147,9 @@ Footer.propTypes = {
   copyright: PropTypes.objectOf(
     PropTypes.oneOfType([
       PropTypes.objectOf(PropTypes.string),
-      PropTypes.string,
+      PropTypes.string
     ])
   ).isRequired,
   prismicIcon: PropTypes.string.isRequired,
-  legal: PropTypes.arrayOf(PropTypes.objectOf(PropTypes.string)).isRequired,
-}
+  legal: PropTypes.arrayOf(PropTypes.objectOf(PropTypes.string)).isRequired
+};

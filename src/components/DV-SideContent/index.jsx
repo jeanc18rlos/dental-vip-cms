@@ -2,9 +2,9 @@ import React from "react";
 import Section from "./Section";
 
 const DVsideContent = props => {
-  const { sections, width, borderBottom } = props;
+  const { classname, sections, width, borderBottom, borderTop } = props;
   return (
-    <section className="dv-side-content">
+    <section className={`dv-side-content ${props.classname}`}>
       <div>
         <main>
           {sections &&
@@ -12,6 +12,7 @@ const DVsideContent = props => {
               const id = key;
               return (
                 <Section
+                borderTop={borderTop}
                   borderBottom={borderBottom}
                   position={ id === sections.length -1 ? 'last' : id}
                   key={`dv-side-content-${id}`}

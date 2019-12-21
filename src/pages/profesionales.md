@@ -4,6 +4,7 @@ language: es
 title: Profesionales
 redirects: /en/professional-staff/
 
+# Main Hero
 hero:
   display: true
   type: default
@@ -14,6 +15,15 @@ hero:
   indicator: false
   halfSize: true
 
+# Main Heading
+heading:
+  display: true
+  classname:  section-reasons
+  title: ¡Máxima Capacitación y Experiencia!
+  content: >
+    <p class="dv-subtitle text-center">Un reconocido equipo de Odontólogos Especialistas con amplia formación académica de cuarto nivel, larga trayectoria asistencial y sólido liderazgo en la profesión; plenamente identificado con la excelencia y óptima calidad de servicio.</p>
+
+# Responsive Aside Paragraphs
 asides:
   display: true
   sections:
@@ -153,6 +163,7 @@ asides:
           to: ''
           display: false
 
+# Responsive Clinic staff cards
 personal:
   display: true
   title: >
@@ -185,13 +196,13 @@ personal:
     - image: /img/personal-maria-jose-tirado.jpg
       title: María José Tirado
       position: Coordinación Clínica y Social Media
-heading:
-  display: true
-  classname:  section-reasons
-  title: ¡Máxima Capacitación y Experiencia!
-  content: >
-    <p class="dv-subtitle text-center">Un reconocido equipo de Odontólogos Especialistas con amplia formación académica de cuarto nivel, larga trayectoria asistencial y sólido liderazgo en la profesión; plenamente identificado con la excelencia y óptima calidad de servicio.</p>
 
+# Contact Form
+form:
+  title: ¡Consúltenos Ahora Mismo!
+  img: /img/parallax-form-specialties.png
+
+# Procedures 
 procedures:
   display: true
   title: ¡Dele a su Salud el Valor que se Merece!

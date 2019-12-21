@@ -3,6 +3,8 @@ templateKey: professionals-page
 language: en
 title: Professional Staff
 redirects: /profesionales/
+
+# Main Hero
 hero:
   display: true
   type: default
@@ -12,6 +14,8 @@ hero:
     <span class="dark" class="dark">Professional staff</span>
   indicator: false
   halfSize: true
+
+# Main Heading
 heading:
   display: true
   classname:  section-reasons
@@ -20,6 +24,7 @@ heading:
     <p class="dv-subtitle text-center">A recognized team of Specialist Dentists with extensive fourth level academic training, long care trajectory and solid leadership in the profession; completely identified with excellence and optimum quality of service.
     </p>
 
+# Responsive Aside Paragraphs
 asides:
   display: true
   sections:
@@ -158,6 +163,8 @@ asides:
           text: ''
           to: ''
           display: false
+
+# Responsive Clinic staff cards
 personal:
   display: true
   title: >
@@ -190,7 +197,12 @@ personal:
     - image: /img/personal-maria-jose-tirado.jpg
       title: María José Tirado
       position: Office Coordination and Social Media
-      
+
+# Contact Form
+form:
+  title: Consult Us Right Now!
+  img: /img/parallax-form-specialties.png
+# Procedures 
 procedures:
   display: true
   title: Top Quality Dental Center!

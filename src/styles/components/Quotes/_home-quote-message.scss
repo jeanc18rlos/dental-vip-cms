@@ -66,7 +66,7 @@
     font-family: $roboto;
   }
 }
-@media #{$sm-mob-ld, $st-mob-ld,  $lg-mob-ld} {
+@media screen and (max-width:850px){
   #dv-home-message {
     .dv-main-menu {
       padding-left: 5vw;
@@ -80,8 +80,8 @@
     padding: 79px 0 87px;
   }
 }
-$touch: 'only screen and (max-width: 850px)';
-@media #{$touch,$sm-mob-pt, $st-mob-pt, $lg-mob-pt, $sm-mob-ld, $st-mob-ld, $lg-mob-ld} {
+
+@media screen and (max-width:850px) and (orientation: landscape) {
   #dv-home-message {
     .dv-quote-hr {
       width: 90%;
@@ -118,7 +118,7 @@ $touch: 'only screen and (max-width: 850px)';
   }
 }
 
-@media #{$sm-mob-pt, $st-mob-pt, $lg-mob-pt, $sm-mob-ld, $st-mob-ld, $lg-mob-ld, $st-tab-pt, $lg-tab-pt} {
+@media screen and (max-width:850px) and (orientation: portrait) {
   #dv-home-message {
     .dv-quote-hr {
       width: 90%;
@@ -146,7 +146,7 @@ $touch: 'only screen and (max-width: 850px)';
   }
 }
 
-@media #{$sm-mob-ld} {
+@media screen and (max-width:570px) and (orientation: landscape) {
   #dv-home-message {
     blockquote {
       &:before {

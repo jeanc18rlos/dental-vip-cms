@@ -1,3 +1,4 @@
+
 .dv-parallax {
   display: flex;
   align-items: center;
@@ -46,6 +47,7 @@
 .dv-parallax-layer-portrait {
   display: none;
 }
+
 
 @media only screen and (min-width: 850px) and (orientation: landscape) {
   .dv-parallax-layer-desktop {

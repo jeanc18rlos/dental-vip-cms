@@ -4,8 +4,9 @@
   background: $dark-grey;
   text-align: center;
   width: 100%;
-
   .dp-location {
+    padding-left: calc( 5vw - 14px);
+    padding-right: calc( 5vw - 14px);
     background-color: $dark-grey;
     color: $light-grey;
     width: 100%;
@@ -24,7 +25,7 @@
         display: none;
         margin-bottom: 40px;
         margin-top: 10px;
-        max-width: 80vh or 400px;
+        max-width: 80vh;
         margin: auto;
         width: 80%;
         @media screen and( max-width: 850px) {
@@ -102,11 +103,18 @@
             border-right: 0.5em solid $dark-grey;
             display: inline-block;
             max-width: 120px;
+            @media screen and (max-width: 320px) {
+              display: block !important;
+              margin: 15px auto !important;
+            }
           }
 
           hr {
             border-top: 1px solid $line-grey !important;
             margin-top: -16px;
+            @media screen and (max-width: 320px) {
+              display: none !important;
+            }
           }
         }
 
@@ -133,6 +141,8 @@
   }
 
   .dv-copyright {
+    padding-left: calc( 5vw - 14px);
+    padding-right: calc( 5vw - 14px);
     background-color: $footer-black;
     font-family: $roboto;
     font-weight: 400;

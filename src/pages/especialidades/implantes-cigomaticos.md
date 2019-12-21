@@ -3,30 +3,312 @@ templateKey: specialties-page
 language: es
 title: Implantes Cigomáticos
 redirects: /en/specialties/dental-implants/
+
+# Hero Section
 hero:
   display: true
   type: default
-  image: /img/hero-dental-implants.png
+  image: /img/hero-zygomatic-implants.jpg
   parallax: false
   title: >
     <span class="bebas" style="font-family:Bebas Neue Bold;color:white;font-weight:lighter">Implantes Cigomáticos</span>
   indicator: false
   halfSize: true
+
+# Heading Section
+specialtiesHeading:
+  display: true
+  img: /img/icon-zygomatic-implants.png
+  content: Sin duda, la mejor alternativa para aquellos pacientes con gran pérdida de hueso en sus maxilares y en los que ya no es posible colocar implantes dentales convencionales. “Una solución óptima a un problema complejo.”.
+
+# Aside section
+paragraphSection:
+  body: >
+    <p>
+      Cuando se pierden uno o varios dientes, y no son reemplazados a la brevedad,
+      se inicia de inmediato un lento pero progresivo proceso de reabsorción a nivel
+      del hueso maxilar que va mermando en ancho y alto la cantidad de estructura
+      ósea disponible, y necesaria, para la colocación de implantes dentales. “Lo
+      que no se usa se atrofia”, y es precisamente lo que le sucede al REBORDE
+      MAXILAR EDÉNTULO, naturalmente, a consecuencia de la falta de estimulación por
+      ausencia de cargas funcionales. De modo que
+      <strong>
+        si transcurre mucho tiempo entre la ablasión dental y la intención de
+        rehabilitación, es muy probable que para entonces ya no exista el suficiente
+        material óseo capaz de garantizar un buen anclaje primario y una adecuada
+        oseointegración de los dispositivos convencionales</strong>
+      de títanio, que una vez implantados, deberían funcionar como sustitutos
+      artificiales de las raíces dentarias y sólidos soportes para la fijación de
+      estructuras protésicas.
+    </p>
+    <p>
+      Afortunadamente en muchos casos, cuando el defecto del reborde es leve y bien
+      localizado, es posible recurrir sin inconvenientes al emplazamiento de
+      INJERTOS autólogos o sintéticos como paso previo o simultáneo a la colocación
+      de implantes dentales. Sin embargo, si la pérdida ósea es muy grande y
+      generalizada, estos procedimientos suelen volverse muy incómodos, complejos,
+      extensos e impredecibles, ya que implican la necesidad de generar una gran
+      herida corporal a nivel de pelvis o cabeza para recolectar tacos de hueso de
+      cresta ilíaca o calota, altas posibilidades de rechazo por la crueldad propia
+      de la técnica quirúrgica y un período de cicatrización tisular que podría
+      abarcar hasta 5 o 6 meses de espera, antes de poder continuar con el
+      tratamiento.
+    </p>
+    <p>
+      Ante tales eventualidades,
+      <strong>es muchas veces preferible olvidarse del maxilar y de los injertos, y fijar
+        los implantes a otros huesos de la región orofacial</strong>, siendo por su compacta estructura y cercanía anatómica los huesos MALAR O
+      CIGOMÁTICO (que forma el pómulo) y esfenoides, los de preferencia. De modo que
+      <strong>los implantes cigomáticos no son más que dispositivos dentales especiales,
+        mucho más largos que los convencionales</strong>
+      <em>(entre 30 y 55 mm de longitud) </em>y que nos permiten elaborar sin
+      inconvenientes dentaduras fijas aún en los casos de atrofia maxilar severa o
+      avanzada; y es por ello que, en conjunto con los implantes pterigoideos
+      <em>(muy similares a los cigomáticos y que se anclan a nivel de la sutura
+        pterigomaxilar)</em>, se les conoce también en el argot popular como
+      <strong>“implantes dentales para pacientes con poco hueso”.</strong> Y es que
+      en definitiva, la relativa sencillez de su implantación
+      <em>(en relación a la colocación de injertos múltiples)</em>, la ausencia de
+      morbilidad de una zona donante y un periodo de curación mucho más corto y
+      favorable para el paciente, sugieren a estos IMPLANTES LARGOS como una
+      alternativa más simple y segura para casos extremos, en comparación con otras
+      técnicas de regeneración ósea e implantología oral.
+    </p>    
+  image: /img/aside-zygomatic-implants.jpg
+
+# Quote Section
 quote:
   title: ''
   body: >
-    Es siempre el resultado de la búsqueda de la excelencia profesional y de un esfuerzo inteligente por el mejoramiento continuo. La capacitación permanente en nuevas tendencias y filosofías terapéuticas, la honestidad, el uso eficiente de los recursos y el trato cordial a las personas generan los mayores niveles de satisfacción en todos nuestros pacientes.
-  author: María José Tirado
+   El tratamiento con implantes cigomáticos es un procedimiento que implica una intervención de cirugía mayor, en block quirúrgico de ambiente hospitalario, anestesia general y todos los recursos de soporte vital que, indiscutiblemente, amerita el caso.
+  author: Dr. Castor José Garabán Povea
   footer:
-    position: Coordinación Clínica
+    position: Cirujano Bucal
     clinic: DENTAL VIP, Especialidades Odontológicas s.c.
+
+# Parallax Section
+plainParallax:
+  image: /img/parallax-zygomatic-implants.jpg
+
+# Faq Section
+faq:
+  title:  Preguntas Frecuentes
+  blocks:
+    - questions:
+
+      - question: ¿En qué consiste la fase de estudio y planificación del tratamiento?
+        answer: >
+          <p>En realidad es muy amplia y abarca muchas consideraciones, pero una de las más relevantes es la valoración del estado de la estructura ósea y dental del paciente a través de una tomografía volumétrica en 3D. Esta prueba proporciona al Especialista valiosa información y le permiten, a priori, constatar que la persona realmente no puede ser tratada con implantes dentales convencionales.</p>
+      - question: ¿Qué pacientes pueden someterse a esta técnica de implantología oral?
+        answer: >
+          <p>En principio, todos aquellos que hayan perdido dientes y mucho volumen óseo en sus estructuras maxilares, y que por supuesto; aspiren a una rehabilitación de mucha más calidad que la que le pueda ofrecer cualquier opción con dentaduras removibles.</p>
+      - question: ¿Cuáles son las causas de la pérdida del hueso?
+        answer: >
+          <p>Son múltiples, pero entre las más comunes encontramos la edad, la enfermedad periodontal crónica, infecciones de origen odontogénico, accidentes y traumatismos faciales, extracción traumática de dientes y restos radiculares, uso prolongado de dentaduras removibles, quistes e infecciones respiratorias o de senos paranasales, resección de procesos tumorales, y por supuesto; la reabsorción fisiológica a consecuencia del desinterés o imposibilidad de reemplazar en tiempo razonable las piezas dentales perdidas.</p>
+      - question: ¿Existe algún límite de edad para optar al procedimiento?
+        answer: >
+          <p>En adultos ninguna, siempre y cuando las expectativas de vida de la persona justifiquen la inversión de tiempo y dinero. De hecho, gran parte de nuestros pacientes sobrepasan los 65 años de edad.</p>
+      - question: ¿Qué porcentaje de éxito tiene en la actualidad?
+        answer: >
+          <p>¡Extraordinario!, superior al de los implantes convencionales y muy cercano al 100 % de los casos, con una tasa de supervivencia media del 95% a los 10 años.</p>
+      - question: ¿Es un tratamiento doloroso?
+        answer: >
+          <p>En lo absoluto, ya que casi siempre se efectúa bajo anestesia general. Además, el postoperatorio suele ser muy llevadero, con pocas molestias y permite que el paciente se reincorpore en muy corto plazo a su vida cotidiana. Aun así, la prescripción de un protocolo analgésico completamente individualizado será de rutina y garantizará un control efectivo del dolor postquirúrgico en los casos más rebeldes. </p>
+      - question: ¿Podría realizarse solo con sedación y anestesia local?
+        answer: >
+          <p>Ocasionalmente, y solo en condiciones quirúrgicas muy favorables. Sin embargo, para su tranquilidad y la nuestra, en DENTAL VIP jamás desestimamos la delicadeza del procedimiento y siempre preferimos la anestesia general en block quirúrgico y ambiente hospitalario para este tipo de intervenciones.</p>
+      - question: ¿De qué material están fabricados estos implantes?
+        answer: >
+          <p>De aleaciones de titanio para alto rendimiento. El grado de pureza del titanio viene determinado por el porcentaje máximo de oxígeno en el que se produce, siendo el de grado 1 el de mayor pureza, ya que su contenido en oxígeno y hierro es muy bajo. En total y al día de hoy, existen unos 40 grados para denominar las diferentes aleaciones de titanio, que abarcan desde el titanio puro hasta combinaciones con vanadio, paladio, rutenio, aluminio, estaño y molibdeno. Sin embargo, la aleación de titanio grado 5 representa a la fecha más del 50% del uso total de titanio a nivel mundial y se considera un material altamente biocompatible y con cualidades biomecánicas superiores al titanio puro.</p>
+      - question: ¿Cuáles son sus verdaderas ventajas?
+        answer: >
+          <p>En comparación con las tradicionales técnicas de implantología oral, que contemplan heroicas reconstrucciones alveolares con injertos autólogos múltiples, los implantes largos ofrecen las siguientes ventajas:</p>
+          <ol>
+            <li>Evitan el alto riesgo de rechazo asociado a los injertos maxilares.
+            </li>
+            <li>Reducen considerablemente el tiempo total de tratamiento.
+            </li>
+            <li>Implican un procedimiento mucho más conservador, seguro y predecible.
+            </li>
+            <li>Mayores probabilidades de éxito, ya que el hueso malar es muy compacto y prácticamente inmune a la reabsorción ósea (no así los injertos). 
+            </li>
+            <li>Menor morbilidad, ya que no es necesario intervenir en regiones anatómicas extraorales para recolectar hueso.
+            </li>
+            <li>Alta posibilidad de carga inmediata (prótesis fija el mismo día).
+            </li>
+            <li>Postoperatorio más corto y favorable para el paciente.
+            </li>
+            <li>Mejor pronóstico a corto, mediano y largo plazo.
+            </li>  
+          </ol>
+          <p>Además, el protocolo de implantes cigomáticos garantiza la función de barrera, estabilidad biomecánica y correcta distribución de las fuerzas masticatorias a través de los pilares maxilomalares; evitando así las sobrecargas y el fracaso ocasional por fatiga.
+          </p>
+      - question: ¿Cuáles riesgos y contraindicaciones existen?
+        answer: >
+          <p>La mayoría de los estudios citan a la sinusitis y comunicación bucosinusal como las complicaciones postoperatorias que aparecen con mayor frecuencia, con una incidencia de 4,93 por cada 100 implantes colocados. Sin embargo, se considera una prevalencia tan baja que corrobora aún más la alta tasa de éxito que se consigue con estos implantes.
+          En relación a las contraindicaciones, tenemos que, sin tomar en consideración cualquier condición o enfermedad sistémica que pudiera impedir un acto quirúrgico, son muy pocas, y generalmente todas asociadas a patologías o infecciones preexistentes dentro del seno o antro maxilar. De modo que en algunos casos, la interconsulta y tratamiento previo con un Otorrino, pudiera ser imprescindible.
+          </p>
+    - questions:
+
+      - question: ¿Cómo es y cuánto tiempo dura la cirugía?
+        answer: >
+          <p>Las 4 técnicas más destacadas son la de Bránemark, la de Stella y Warner (Sinus Slot Technique), la técnica paramaxilar o extrasinusal y la técnica ZAGA (Zygoma Anatomy-Guided Approach) del Dr. Carlos Aparicio. En la técnica clásica o de Branemark se colocan los implantes cigomáticos maniobrando a través del seno maxilar, hasta alcanzar el arco cigomático. En la de Stella y Warner se logra una visualización más directa de la base del hueso malar, gracias a la apertura de una amplia ventana en la pared lateral del antro paranasal. En la extrasinusal, los implantes se colocan por fuera del hueso maxilar, sin involucrar al seno; y en la metodología ZAGA, se contempla cualquier combinación posible de las 3 técnicas anteriores, con la finalidad de ejecutar una cirugía más individualizada y adaptada a la anatomía particular de cada persona.</p>
+          <p>Lógicamente, en función de la complejidad del caso, número de dispositivos a implantar, tipo de abordaje seleccionado, y por supuesto, la destreza del Cirujano; entre 30 y 120 minutos suele oscilar el período de tiempo necesario para anestesiar, hacer incisiones, diseccionar tejidos, estipular medidas y aproximaciones, seleccionar los implantes, fresar y perforar, atornillar, limpiar y suturar la herida.</p>
+      - question: ¿Puede cualquier Especialista realizar este tipo de operación?
+        answer: >
+          <p>Este procedimiento, aunque no es exclusivo de nuestra clínica, no es tan común en la práctica habitual, debido a que muy pocos Odontólogos están verdaderamente capacitados para brindar estos tratamientos. La habilidad quirúrgica pertinente para la colocación de implantes cigomáticos requiere de un alto nivel de experiencia, impecable dominio de la anatomía de cabeza y cuello y un entrenamiento quirúrgico muy avanzado. De modo que solo un Cirujano Maxilofacial, realmente experimentado, será el profesional indicado.</p>
+      - question: ¿Me podría quedar alguna marca o cicatriz en la cara?
+        answer: >
+          <p>¡Jamás!, ya que el procedimiento se ejecuta en su totalidad por vía intraoral.</p>
+      - question: ¿Es luego necesario permanecer hospitalizado?
+        answer: >
+          <p>Muy rara vez, y solo en caso de cualquier imprevisto o complicación quirúrgica que requiera de cuidados especiales.</p>
+      - question: ¿Cómo es el postoperatorio y cuánto tiempo tarda el paciente en recuperarse?
+        answer: >
+          <p>El postoperatorio no suele revestir mayores complicaciones, en tanto que el paciente cumpla escrupulosamente con las indicaciones suministradas. Las pautas a seguir pueden variar según cada intervención, el tipo de abordaje utilizado y las condiciones particulares de cada caso; pero la medicación (antibióticos, analgésicos y antiinflamatorios), aplicación local de frío, el reposo y la higiene oral son fundamentales para conseguir una recuperación lo más rápida y satisfactoria posible. Usualmente, entre 2 y 5 días es el tiempo que tardan la mayoría de las personas en reiniciar sus actividades habituales.</p>
+      - question: ¿Son estos implantes más costosos que los implantes normales?
+        answer: >
+          <p>¡Indudablemente!, tomando en consideración que son hasta 4 veces más largos que los convencionales y se necesita mucho más titanio para su fabricación, requieren quirófano y anestesia general, instrumental y componentes quirúrgicos de diseño avanzado, una intervención de cirugía mayor más larga e invasiva y la participación de un experto Cirujano Maxilofacial.</p>
+      - question: ¿Qué tipo de prótesis se puede después confeccionar?
+        answer: >
+          <p>Usualmente una prótesis híbrida de metal-acrílico o metal-porcelana.</p>
+      - question: ¿Solo se utilizan para fijar dentaduras completas, es decir, cuando faltan todos los dientes?
+        answer: >
+          <p>Tradicionalmente así era, ya que fue un procedimiento diseñado a tal fin, con 4 implantes en total, 2 a cada lado del maxilar. Sin embargo, en la actualidad se aplican modificaciones de la técnica original que permiten ubicar el implante cigomático o pterigoideo en una posición adecuada y compatible con una rehabilitación en base a prótesis parcial fija (coronas y puentes cerámicos). De hecho, hoy en día son múltiples las posibilidades que ofrecen estos implantes, desde la colocación de un único dispositivo asimétrico, hasta innumerables combinaciones con implantes convencionales, lógicamente para dar solución a la gran mayoría de los casos, y en algunos, hasta para reducir costes.</p>
+      - question: ¿Es posible colocar una prótesis fija el mismo día de la intervención, aunque sea una provisional?
+        answer: >
+          <p>Muchas veces sí, ya que el anclaje multicortical y el probado diseño del ápice de estos implantes proporcionan generalmente una gran estabilidad primaria. No obstante, es solo después de la cirugía, que se decidirá si se instala una prótesis fija o una convencional con alivios en las zonas donde emerjan las plataformas intraorales. Luego, una vez transcurrido el período de oseointegración, al cabo de 4, 5 o 6 meses, es que se realiza la rehabilitación protésica definitiva.</p>
+      - question: Culminado el tratamiento, ¿qué debo hacer para conservar mis implantes toda la vida?
+        answer: >
+          <p>Básicamente conservarse en buen estado de salud general, practicar muy buena higiene oral y acudir regularmente al Odontólogo. En estos casos, es muy recomendable realizar un seguimiento vitalicio (clínico y radiográfico) del paciente, para poder detectar a tiempo cualquier proceso infeccioso incipiente o desajuste de los componentes protésicos que pudieran generar males mayores. Además, usualmente recomendamos remover la prótesis cada 6 meses para inspeccionar y limpiar los implantes y aditamentos protésicos, el tejido blando que les rodea y la base o cara interna de la estructura protésica. </p>
+
+# Clinic Cases
+clinicCases:
+  title: Cirugía Bucal - Casos Clínicos
+  items:
+    - image: /img/clinic-cases-oral-surgery-es-01-thumb.jpg
+      title: > 
+        <h6>Exposición de implantes Dentales </h6>
+    - image: /img/clinic-cases-oral-surgery-es-02-thumb.jpg
+      title: >
+        <h6>Extracción de Cordal Inferior </h6>
+    - image: /img/clinic-cases-oral-surgery-es-03-thumb.jpg
+      title: >
+        <h6>Exodoncia, Injerto de Hueso e Implante Inmediato </h6>
+    - image: /img/clinic-cases-oral-surgery-es-04-thumb.jpg
+      title: >
+        <h6>Extracciones Múltiples </h6>
+    - image: /img/clinic-cases-oral-surgery-es-05-thumb.jpg
+      title: >
+        <h6>Frenilectomía </h6>
+    - image: /img/clinic-cases-oral-surgery-es-06-thumb.jpg
+      title: >
+        <h6>Regeneración ósea con hueso autólogo </h6>
+    - image: /img/clinic-cases-oral-surgery-es-07-thumb.jpg
+      title: >
+        <h6>Exposición de Canino Incluído </h6>
+    - image: /img/clinic-cases-oral-surgery-es-08-thumb.jpg
+      title: >
+        <h6>Sinus Lift </h6>
+    - image: /img/clinic-cases-oral-surgery-es-09-thumb.jpg
+      title: >
+        <h6>Biopsia Excisional </h6>
+    - image: /img/clinic-cases-oral-surgery-es-10-thumb.jpg
+      title: >
+        <h6>Apicectomía </h6>
+    - image: /img/clinic-cases-oral-surgery-es-11-thumb.jpg 
+      title: >
+        <h6>Implantología con Plasma Rico en Fibrina <em>(PRF)</em> </h6>
+    - image: /img/clinic-cases-oral-surgery-es-12-thumb.jpg
+      title: >
+        <h6>Eliminación de Torus Mandibulares </h6>
+    - image: /img/clinic-cases-oral-surgery-es-13-thumb.jpg
+      title: >
+        <h6>Elevación de Seno Maxilar e Implantes Dentales </h6>
+    - image: /img/clinic-cases-oral-surgery-es-14-thumb.jpg
+      title: >
+        <h6>Regeneración Tisular Guiada </h6>
+    - image: /img/clinic-cases-oral-surgery-es-15-thumb.jpg
+      title: >
+        <h6>Reconstrucción de Tabla Ósea Vestibular </h6>
+    - image: /img/clinic-cases-oral-surgery-es-16-thumb.jpg
+      title: >
+        <h6>Extracción Simple de Restos Radiculares </h6>
+    - image: /img/clinic-cases-oral-surgery-es-17-thumb.jpg
+      title: >
+        <h6>Resección Quirúrgica de Lesión Fibromatosa </h6>
+    - image: /img/clinic-cases-oral-surgery-es-18-thumb.jpg
+      title: >
+        <h6>Pilar de Cicatrización </h6>
+    - image: /img/clinic-cases-oral-surgery-es-19-thumb.jpg
+      title: >
+        <h6>Corticotomía para Expansión de Reborde Alveolar </h6>
+    - image: /img/clinic-cases-oral-surgery-es-20-thumb.jpg
+      title: >
+        <h6>Odontectomía de Cordal Superior Incluida </h6>
+    - image: /img/clinic-cases-oral-surgery-es-21-thumb.jpg
+      title: >
+        <h6>Extracción de un Primer Molar Superior </h6>
+  lightbox:
+    placeholder: ''
+    type: ''
+    images: 
+      - image: /img/clinic-cases-oral-surgery-es-01.jpg
+      - image: /img/clinic-cases-oral-surgery-es-02.jpg
+      - image: /img/clinic-cases-oral-surgery-es-03.jpg
+      - image: /img/clinic-cases-oral-surgery-es-04.jpg
+      - image: /img/clinic-cases-oral-surgery-es-05.jpg
+      - image: /img/clinic-cases-oral-surgery-es-06.jpg
+      - image: /img/clinic-cases-oral-surgery-es-07.jpg
+      - image: /img/clinic-cases-oral-surgery-es-08.jpg
+      - image: /img/clinic-cases-oral-surgery-es-09.jpg
+      - image: /img/clinic-cases-oral-surgery-es-10.jpg
+      - image: /img/clinic-cases-oral-surgery-es-11.jpg
+      - image: /img/clinic-cases-oral-surgery-es-12.jpg
+      - image: /img/clinic-cases-oral-surgery-es-13.jpg
+      - image: /img/clinic-cases-oral-surgery-es-14.jpg
+      - image: /img/clinic-cases-oral-surgery-es-15.jpg
+      - image: /img/clinic-cases-oral-surgery-es-16.jpg
+      - image: /img/clinic-cases-oral-surgery-es-17.jpg
+      - image: /img/clinic-cases-oral-surgery-es-18.jpg
+      - image: /img/clinic-cases-oral-surgery-es-19.jpg
+      - image: /img/clinic-cases-oral-surgery-es-20.jpg
+      - image: /img/clinic-cases-oral-surgery-es-21.jpg
+# Responsive Aside Paragraphs
+asides:
+  display: false
+  sections:
+    - align: right
+      title: >
+        <h3>''</h3>
+      content: >
+        <p>''</p>
+      image: /img/professionals-dr-castor-jose-garaban-povea.png
+      footer:
+        display: true
+        image:
+          src: /img/professionals-dr-castor-jose-garaban-povea-studies.jpg
+          display: true
+        button:
+          text: ''
+          to: ''
+          display: false
+  
+# Testimonial Section
 lightQuote:
   color: '#fff'
   display: true
   img:
     ld: /img/quotes-phillosophy.jpg
-    pt: /img/quotes-phillosophy-portrait.jpg
-  content: EL RESPETO A LA VIDA Y A LA INTEGRIDAD DE LA PERSONA HUMANA, EL FOMENTO Y LA PRESERVACIÓN DE LA SALUD, COMO COMPONENTE DEL DESARROLLO Y BIENESTAR SOCIAL Y SU PROYECCIÓN EFECTIVA A LA COMUNIDAD, CONSTITUYEN EN TODAS LAS CIRCUNSTANCIAS EL DEBER PRIMORDIAL DEL ODONTÓLOGO. "
+    pt: /img/quotes-zygomatic-implants-portrait.jpg
+  content: ESTA TÉCNICA ES UNA VERDADERA BENDICIÓN, Y MÁS AÚN LUEGO DE UNA EXPERIENCIA COMO LA MÍA, EN LA QUE POR DESCONOCIMIENTO O DESIDIA, UN ODONTÓLOGO DE MI PAÍS ME CONDENÓ A USAR POR AÑOS UNAS DENTADURAS REMOVIBLES QUE NO SE SUJETABAN POR NADA DEL MUNDO.”
+
+# Contact Form
+form:
+  title: ¡Consúltenos Ahora Mismo!
+  img: /img/parallax-form-specialties.png
+
+# Procedures Section
 procedures:
   display: true
   title: ¡Dele a su Salud el Valor que se Merece!

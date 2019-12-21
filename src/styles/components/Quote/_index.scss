@@ -48,7 +48,7 @@
         &.portrait {
           display: none;
         }
-        @media screen and (orientation: portrait) and (max-width: 765px) {
+        @media screen and (max-width: 850px) {
           &.portrait {
             display: flex;
           }
@@ -62,7 +62,7 @@
 }
 
 // Desktop views
-@media #{$sm-des, $st-des, $lg-des} {
+@media screen and (min-width: 1024px) {
   #quote-cp {
     padding-top: 33px;
   }
@@ -97,7 +97,7 @@
 }
 
 // Tablet views
-@media #{$st-tab-pt, $st-tab-ld, $lg-tab-pt, $lg-tab-ld} {
+@media screen and (min-width: 850px) {
   #quote-cp {
     padding-top: 6px;
 
@@ -132,7 +132,7 @@
 }
 
 // Portrait mobile views
-@media #{$sm-mob-pt, $st-mob-pt, $lg-mob-pt} {
+@media screen and (max-width: 768px) and (orientation: portrait) {
   #quote-cp {
     padding-top: 6px;
 
@@ -171,13 +171,13 @@
 }
 
 // Landscape mobile views
-@media #{$lg-mob-ld, $sm-mob-ld, $st-mob-ld} {
+@media screen and (max-width: 850px) and (orientation: landscape) {
   #quote-cp {
     padding-top: 6px;
 
     .dv-content-quote {
       padding: 0 5vw;
-      text-align: left !important;
+      text-align: center !important;
 
       .dv-comilla {
         padding: 120px 1vw 90px;
