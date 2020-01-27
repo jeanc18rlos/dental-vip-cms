@@ -212,7 +212,7 @@ asides:
       title: >
         <h3 style="color:#333;font-family:'Bebas Neue Bold'">Para unos Dientes ¡Más Blancos y Hermosos!</h3>
       content: >
-        <p  style="font-weight:400">Contamos con el mejor sistema LED <em>(Light Emitting Diode)</em> de luz fría para blanqueamiento dental. En solo una sesión de 45 minutos es capaz de aclarar el color de los dientes hasta en ocho tonos, sin ningún tipo de riesgo potencial y con unos resultados verdaderamente sorprendentes.</p>
+        <p style="font-weight:400">Contamos con el mejor sistema LED <em>(Light Emitting Diode)</em> de luz fría para blanqueamiento dental. En solo una sesión de 45 minutos es capaz de aclarar el color de los dientes hasta en ocho tonos, sin ningún tipo de riesgo potencial y con unos resultados verdaderamente sorprendentes.</p>
       image: /img/sections-aesthetic-dentistry-zoom.jpg
       footer:
         display: true

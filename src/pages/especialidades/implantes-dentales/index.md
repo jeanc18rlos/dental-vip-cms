@@ -205,23 +205,53 @@ clinicCases:
       - image: /img/clinic-cases-dental-implants-es-21.jpg
 # Responsive Aside Paragraphs
 asides:
-  display: false
+  display: true 
   sections:
     - align: right
       title: >
-        <h3>''</h3>
+        <h3 style="color:#333;font-family:'Bebas Neue Bold'">¡CON TODAS LAS VENTAJAS DEL HEXÁGONO INTERNO!</h3>
       content: >
-        <p>''</p>
-      image: /img/professionals-dr-castor-jose-garaban-povea.png
+        <p style="font-weight:400">La configuración estructural que provee el sistema de conexión más estable y eficiente del momento, que cuenta con la mayor tasa de compatibilidad comercial y que promueve la apariencia más estética y natural del supra elemento protésico final.</p>
+      image: /img/sections-hexagon-dental-implants.jpg
       footer:
         display: true
         image:
-          src: /img/professionals-dr-castor-jose-garaban-povea-studies.jpg
+          src: /img/sections-icons-hexagon-dental-implants.jpg
           display: true
         button:
           text: ''
           to: ''
           display: false
+    - align: left
+      title: >
+        <h3 style="color:#333;font-family:'Bebas Neue Bold'">Diagnóstico y Planificación 3D</h3>
+      content: >
+        <p style="font-weight:400">La aparición y desarrollo de técnicas avanzadas de visualización volumétrica ha supuesto para la comunidad dental la posibilidad de acceder a la reconstrucción 3D para determinar con seguridad la posición exacta en la que debe ser implantado cada dispositivo.</p>
+      image: /img/sections-dental-implants-3d-diagnosis.jpg
+      footer:
+        display: true
+        image:
+          src: /img/sections-icons-hexagon-dental-implants.jpg
+          display: false  
+        button:
+          text: Más Información 
+          to: '/'
+          display: true
+    - align: right
+      title: >
+        <h3 style="color:#333;font-family:'Bebas Neue Bold'">Prótesis Sobre Implantes</h3>
+      content: >
+        <p style="font-weight:400">Transcurrido el período de oseointegración, se destapan los implantes y se confecciona la prótesis definitiva previamente contemplada. Según el caso, podrá ser total o parcial, fija o removible y de metal-porcelana, metal-acrílico, totalcerámica o resina poliacrílica termopolimerizable.</p>
+      image: /img/sections-dental-implants-implant-supported-restorations.jpg 
+      footer:
+        display: true
+        image:
+          src: /img/sections-dental-implants-implant-supported-restorations.jpg 
+          display: false
+        button:
+          text: Más Información 
+          to: '/'
+          display: true
   
 # Testimonial Section
 lightQuote:

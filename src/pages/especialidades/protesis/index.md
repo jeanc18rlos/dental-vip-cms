@@ -112,71 +112,71 @@ faq:
 
 # Clinic Cases
 clinicCases:
-  title: Cirugía Bucal - Casos Clínicos
+  title: Prótesis - Casos Clínicos
   items:
     - image: /img/clinic-cases-prosthodontics-es-01-thumb.jpg
       title: > 
-        <h6>Exposición de implantes Dentales </h6>
+        <h6>Desgaste Dental Severo </h6>
     - image: /img/clinic-cases-prosthodontics-es-02-thumb.jpg
       title: >
-        <h6>Extracción de Cordal Inferior </h6>
+        <h6>Reemplazo de Prótesis Parcial Fija</h6>
     - image: /img/clinic-cases-prosthodontics-es-03-thumb.jpg
       title: >
-        <h6>Exodoncia, Injerto de Hueso e Implante Inmediato </h6>
+        <h6>Sustitución de Dentaduras Removibles</h6>
     - image: /img/clinic-cases-prosthodontics-es-04-thumb.jpg
       title: >
-        <h6>Extracciones Múltiples </h6>
+        <h6>Rehabilitación Oral Avanzada </h6>
     - image: /img/clinic-cases-prosthodontics-es-05-thumb.jpg
       title: >
-        <h6>Frenilectomía </h6>
+        <h6>Dental Extreme Makeover </h6>
     - image: /img/clinic-cases-prosthodontics-es-06-thumb.jpg
       title: >
-        <h6>Regeneración ósea con hueso autólogo </h6>
+        <h6>Prótesis Fija Dentosoportada </h6>
     - image: /img/clinic-cases-prosthodontics-es-07-thumb.jpg
       title: >
-        <h6>Exposición de Canino Incluído </h6>
+        <h6>Diseño Cerámico con Tecnología CAD-CAM </h6>
     - image: /img/clinic-cases-prosthodontics-es-08-thumb.jpg
       title: >
-        <h6>Sinus Lift </h6>
+        <h6>Ferulización por Enfermedad Periodontal </h6>
     - image: /img/clinic-cases-prosthodontics-es-09-thumb.jpg
       title: >
-        <h6>Biopsia Excisional </h6>
+        <h6>Retratamiento Protésico </h6>
     - image: /img/clinic-cases-prosthodontics-es-10-thumb.jpg
       title: >
-        <h6>Apicectomía </h6>
+        <h6>Valplast®</h6>
     - image: /img/clinic-cases-prosthodontics-es-11-thumb.jpg 
       title: >
-        <h6>Implantología con Plasma Rico en Fibrina <em>(PRF)</em> </h6>
+        <h6>Agenesia de Incisivos Laterales Superiores </h6>
     - image: /img/clinic-cases-prosthodontics-es-12-thumb.jpg
       title: >
-        <h6>Eliminación de Torus Mandibulares </h6>
+        <h6>1ra Fase Restauradora en un Caso Complejo </h6>
     - image: /img/clinic-cases-prosthodontics-es-13-thumb.jpg
       title: >
-        <h6>Elevación de Seno Maxilar e Implantes Dentales </h6>
+        <h6>Coronas jacket de Porcelana </h6>
     - image: /img/clinic-cases-prosthodontics-es-14-thumb.jpg
       title: >
-        <h6>Regeneración Tisular Guiada </h6>
+        <h6>Bruxismo Extremo </h6>
     - image: /img/clinic-cases-prosthodontics-es-15-thumb.jpg
       title: >
-        <h6>Reconstrucción de Tabla Ósea Vestibular </h6>
+        <h6>Reconstrucción Estética y Funcional</h6>
     - image: /img/clinic-cases-prosthodontics-es-16-thumb.jpg
       title: >
-        <h6>Extracción Simple de Restos Radiculares </h6>
+        <h6>Sistema Cerámico IPS E-MAX® CAD </h6>
     - image: /img/clinic-cases-prosthodontics-es-17-thumb.jpg
       title: >
-        <h6>Resección Quirúrgica de Lesión Fibromatosa </h6>
+        <h6>All-on-four </h6>
     - image: /img/clinic-cases-prosthodontics-es-18-thumb.jpg
       title: >
-        <h6>Pilar de Cicatrización </h6>
+        <h6>Rehabilitación Mixta </h6>
     - image: /img/clinic-cases-prosthodontics-es-19-thumb.jpg
       title: >
-        <h6>Corticotomía para Expansión de Reborde Alveolar </h6>
+        <h6>Coronas Sobre Implantes Dentales </h6>
     - image: /img/clinic-cases-prosthodontics-es-20-thumb.jpg
       title: >
-        <h6>Odontectomía de Cordal Superior Incluida </h6>
+        <h6>Corona de Disilicato en Incisivo Central </h6>
     - image: /img/clinic-cases-prosthodontics-es-21-thumb.jpg
       title: >
-        <h6>Extracción de un Primer Molar Superior </h6>
+        <h6>Dentadura Total Mucosoportada Superior</h6>
   lightbox:
     placeholder: ''
     type: ''
@@ -204,23 +204,54 @@ clinicCases:
       - image: /img/clinic-cases-prosthodontics-es-21.jpg
 # Responsive Aside Paragraphs
 asides:
-  display: false
+  display: true
   sections:
     - align: right
       title: >
-        <h3>''</h3>
+        <h3 style="color:#333;font-family:'Bebas Neue Bold'">¡All Ceramic... All You Need!</h3>
       content: >
-        <p>''</p>
-      image: /img/professionals-dr-castor-jose-garaban-povea.png
+        <p style="font-weight:400">Un sistema que nos permite seleccionar el material de cerámica sin metal más apropiado para cada situación, en función de la indicación inicial y requerimientos de resistencia. Disilicato de Litio para restauraciones individuales y Óxido de Zirconio para estructuras extensas.</p>
+      image: /img/sections-prosthodontics-ceramic.jpg
       footer:
         display: true
         image:
-          src: /img/professionals-dr-castor-jose-garaban-povea-studies.jpg
+          src: /img/sections-prosthodontics-icon-ceramic.jpg  
           display: true
         button:
           text: ''
           to: ''
           display: false
+    - align: left
+    
+      title: >
+        <h3 style="color:#333;font-family:'Bebas Neue Bold'">Tipos de Prótesis Dental</h3>
+      content: >
+        <p  style="font-weight:400">Parciales y totales, fijas y removibles, convencionales e implantoasistidas, acrílicas y de porcelana. Múltiples son las alternativas para sustituir los dientes que lamentablemente se hayan perdido, o que sea imposible conservar por más tiempo en boca.</p>
+      image: /img/sections-prosthodontics-prosthesis-types.jpg
+      footer:
+        display: true
+        image:
+          src: /img/sections-prosthodontics-prosthesis-types.jpg
+          display: false
+        button:
+          text: Más Información 
+          to: '/'
+          display: true
+    - align: right
+      title: >
+        <h3 style="color:#333;font-family:'Bebas Neue Bold'">Tecnología CAD-CAM</h3>
+      content: >
+        <p  style="font-weight:400">Es la tecnología más innovadora disponible en prótesis fija y supone un gran adelanto con relación a la odontología convencional. La empleamos para fabricar incrustaciones de porcelana, coronas y puentes, prótesis sobre implantes y en otros tratamientos restauradores indirectos.</p>
+      image: /img/sections-prosthodontics-cad-cam.png
+      footer:
+        display: true
+        image:
+          src: /img/sections-icons-aesthetic-dentistry.jpg
+          display: false
+        button:
+          text: Más Información 
+          to: '/'
+          display: true
   
 # Testimonial Section
 lightQuote:

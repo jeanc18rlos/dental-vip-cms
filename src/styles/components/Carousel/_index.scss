@@ -371,6 +371,7 @@
     .dv-testimonial-photo.gatsby-image-wrapper {
       height: 100px;
       justify-content: center;
+      align-items: center;
       margin: auto;
       overflow: hidden;
       position: relative;
@@ -427,6 +428,7 @@
     .slick-slider {
       .slick-slide {
         div.item {
+          align-items: center;
           display: flex !important;
           flex-direction: column !important;
           justify-content: center;

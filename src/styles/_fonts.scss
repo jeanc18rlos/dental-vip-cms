@@ -1,8 +1,6 @@
 $bebas-bold: 'Bebas Neue Bold';
 $roboto: 'Roboto';
 
-
-
 // Roboto Fonts
 @mixin Roboto($thickness, $isItalic: false) {
   font-family: $roboto;

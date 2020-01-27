@@ -97,7 +97,7 @@ export const SpecialtiesPageTemplate = ({
       <DVfaq {...faq} />
 
       <Carousel {...lazyLightBox} {...clinicCases} type="responsive" />
-      {width <= 850 && <Whitespace bgColor="#fff" />}
+      {width <= 850 && asides.display && <Whitespace bgColor="#fff" />}
       {asides.display && (
         <DVsideContent borderBottom={false} borderTop={false}  classname="specialties" width={width} {...asides} />
       )}

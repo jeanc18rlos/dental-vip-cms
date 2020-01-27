@@ -184,122 +184,139 @@ faq:
 
 # Clinic Cases
 clinicCases:
-  title: Cirugía Bucal - Casos Clínicos
+  title: Implantes Cigomáticos - Casos Clínicos
   items:
-    - image: /img/clinic-cases-oral-surgery-es-01-thumb.jpg
+    - image: /img/clinic-cases-zygomatic-implants-es-01-thumb.jpg
       title: > 
-        <h6>Exposición de implantes Dentales </h6>
-    - image: /img/clinic-cases-oral-surgery-es-02-thumb.jpg
+        <h6>Cigomático unilateral </h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-02-thumb.jpg
       title: >
-        <h6>Extracción de Cordal Inferior </h6>
-    - image: /img/clinic-cases-oral-surgery-es-03-thumb.jpg
+        <h6>carga inmediata </h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-03-thumb.jpg
       title: >
-        <h6>Exodoncia, Injerto de Hueso e Implante Inmediato </h6>
-    - image: /img/clinic-cases-oral-surgery-es-04-thumb.jpg
+        <h6>Implantación mixta y función inmediata </h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-04-thumb.jpg
       title: >
-        <h6>Extracciones Múltiples </h6>
-    - image: /img/clinic-cases-oral-surgery-es-05-thumb.jpg
+        <h6>Control postquirúrgico y prótesis definitiva</h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-05-thumb.jpg
       title: >
-        <h6>Frenilectomía </h6>
-    - image: /img/clinic-cases-oral-surgery-es-06-thumb.jpg
+        <h6>Resolución estética en reborde atrófico</h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-06-thumb.jpg
       title: >
-        <h6>Regeneración ósea con hueso autólogo </h6>
-    - image: /img/clinic-cases-oral-surgery-es-07-thumb.jpg
+        <h6>Técnica zaga</h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-07-thumb.jpg
       title: >
-        <h6>Exposición de Canino Incluído </h6>
-    - image: /img/clinic-cases-oral-surgery-es-08-thumb.jpg
+        <h6>Aspecto quirúrgico y postquirúrgico</h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-08-thumb.jpg
       title: >
-        <h6>Sinus Lift </h6>
-    - image: /img/clinic-cases-oral-surgery-es-09-thumb.jpg
+        <h6>técnica clásica de branemark</h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-09-thumb.jpg
       title: >
-        <h6>Biopsia Excisional </h6>
-    - image: /img/clinic-cases-oral-surgery-es-10-thumb.jpg
+        <h6>prótesis híbrida metal-acrílico</h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-10-thumb.jpg
       title: >
-        <h6>Apicectomía </h6>
-    - image: /img/clinic-cases-oral-surgery-es-11-thumb.jpg 
+        <h6>Reimplantación</h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-11-thumb.jpg 
       title: >
-        <h6>Implantología con Plasma Rico en Fibrina <em>(PRF)</em> </h6>
-    - image: /img/clinic-cases-oral-surgery-es-12-thumb.jpg
+        <h6>Dentadura total implantosoportada </h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-12-thumb.jpg
       title: >
-        <h6>Eliminación de Torus Mandibulares </h6>
-    - image: /img/clinic-cases-oral-surgery-es-13-thumb.jpg
+        <h6>Restitución de la plenitud facial </h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-13-thumb.jpg
       title: >
-        <h6>Elevación de Seno Maxilar e Implantes Dentales </h6>
-    - image: /img/clinic-cases-oral-surgery-es-14-thumb.jpg
+        <h6>All-on-6 </h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-14-thumb.jpg
       title: >
-        <h6>Regeneración Tisular Guiada </h6>
-    - image: /img/clinic-cases-oral-surgery-es-15-thumb.jpg
+        <h6>Técnica paramaxilar o extrasinusal</h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-15-thumb.jpg
       title: >
-        <h6>Reconstrucción de Tabla Ósea Vestibular </h6>
-    - image: /img/clinic-cases-oral-surgery-es-16-thumb.jpg
+        <h6>antes y después </h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-16-thumb.jpg
       title: >
-        <h6>Extracción Simple de Restos Radiculares </h6>
-    - image: /img/clinic-cases-oral-surgery-es-17-thumb.jpg
+        <h6>implantacion con prf</h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-17-thumb.jpg
       title: >
-        <h6>Resección Quirúrgica de Lesión Fibromatosa </h6>
-    - image: /img/clinic-cases-oral-surgery-es-18-thumb.jpg
+        <h6>inicio fase restauradora</h6>
+    - image: /img/clinic-cases-zygomatic-implants-es-18-thumb.jpg
       title: >
-        <h6>Pilar de Cicatrización </h6>
-    - image: /img/clinic-cases-oral-surgery-es-19-thumb.jpg
-      title: >
-        <h6>Corticotomía para Expansión de Reborde Alveolar </h6>
-    - image: /img/clinic-cases-oral-surgery-es-20-thumb.jpg
-      title: >
-        <h6>Odontectomía de Cordal Superior Incluida </h6>
-    - image: /img/clinic-cases-oral-surgery-es-21-thumb.jpg
-      title: >
-        <h6>Extracción de un Primer Molar Superior </h6>
+        <h6>híbrida metal-porcelana</h6>
   lightbox:
     placeholder: ''
     type: ''
     images: 
-      - image: /img/clinic-cases-oral-surgery-es-01.jpg
-      - image: /img/clinic-cases-oral-surgery-es-02.jpg
-      - image: /img/clinic-cases-oral-surgery-es-03.jpg
-      - image: /img/clinic-cases-oral-surgery-es-04.jpg
-      - image: /img/clinic-cases-oral-surgery-es-05.jpg
-      - image: /img/clinic-cases-oral-surgery-es-06.jpg
-      - image: /img/clinic-cases-oral-surgery-es-07.jpg
-      - image: /img/clinic-cases-oral-surgery-es-08.jpg
-      - image: /img/clinic-cases-oral-surgery-es-09.jpg
-      - image: /img/clinic-cases-oral-surgery-es-10.jpg
-      - image: /img/clinic-cases-oral-surgery-es-11.jpg
-      - image: /img/clinic-cases-oral-surgery-es-12.jpg
-      - image: /img/clinic-cases-oral-surgery-es-13.jpg
-      - image: /img/clinic-cases-oral-surgery-es-14.jpg
-      - image: /img/clinic-cases-oral-surgery-es-15.jpg
-      - image: /img/clinic-cases-oral-surgery-es-16.jpg
-      - image: /img/clinic-cases-oral-surgery-es-17.jpg
-      - image: /img/clinic-cases-oral-surgery-es-18.jpg
-      - image: /img/clinic-cases-oral-surgery-es-19.jpg
-      - image: /img/clinic-cases-oral-surgery-es-20.jpg
-      - image: /img/clinic-cases-oral-surgery-es-21.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-01.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-02.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-03.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-04.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-05.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-06.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-07.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-08.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-09.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-10.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-11.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-12.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-13.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-14.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-15.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-16.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-17.jpg
+      - image: /img/clinic-cases-zygomatic-implants-es-18.jpg
 # Responsive Aside Paragraphs
 asides:
-  display: false
+  display: true
   sections:
     - align: right
       title: >
-        <h3>''</h3>
+        <h3 style="color:#333;font-family:'Bebas Neue Bold'">DIAGNÓSTICO Y PLANIFICACIÓN 3D</h3>
       content: >
-        <p>''</p>
-      image: /img/professionals-dr-castor-jose-garaban-povea.png
+        <p style="font-weight:400">Nunca planificamos la cirugía con una simple placa radiográfica, ya que consideramos imprescindibles el uso de la Tomografía Axial Computarizada <i>(TAC)</i> y un programa informático que permita analizar estructuras, interpretar datos y determinar las proyecciones quirúrgicas más favorables.</p>
+      image: /img/sections-3d-diagnosis.png
       footer:
         display: true
         image:
-          src: /img/professionals-dr-castor-jose-garaban-povea-studies.jpg
-          display: true
-        button:
-          text: ''
-          to: ''
+          src: /img/sections-icons-aesthetic-dentistry.jpg
           display: false
-  
+        button:
+          text: Más Información 
+          to: '/'
+          display: true
+    - align: left
+      title: >
+        <h3 style="color:#333;font-family:'Bebas Neue Bold'">SEDACIÓN Y ANESTESIA GENERAL</h3>
+      content: >
+        <p style="font-weight:400">Siempre bajo la responsabilidad de un Médico Especialista en anestesiología, reanimación y terapia del dolor, con habilidad de titular las drogas que se administren y experticia en el manejo de la vía aérea, monitoreo de las constantes vitales y aplicación de técnicas de resucitación.</p>
+      image: /img/sections-sedation.png
+      footer:
+        display: true
+        image:
+          src: /img/sections-icons-aesthetic-dentistry.jpg
+          display: false
+        button:
+          text: Más Información 
+          to: '/'
+          display: true
+    - align: right
+      title: >
+        <h3 style="color:#333;font-family:'Bebas Neue Bold'">SOLUCIONES PROTÉSICAS</h3>
+      content: >
+        <p style="font-weight:400">Al igual que con los implantes dentales convencionales, son variadas las opciones disponibles a la hora de rehabilitar implantes cigomáticos. Aunque el diseño y confección de dentaduras híbridas metal-acrílico suele ser lo más habitual, las estructuras de porcelana aplican con total propiedad.</p>
+      image: /img/sections-prosthesis.png
+      footer:
+        display: true
+        image:
+          src: /img/sections-icons-aesthetic-dentistry.jpg
+          display: false
+        button:
+          text: Más Información 
+          to: '/'
+          display: true
 # Testimonial Section
 lightQuote:
-  color: '#fff'
+  color: '#ededed'
   display: true
   img:
-    ld: /img/quotes-phillosophy.jpg
+    ld: /img/quotes-zygomatic-implants-landscape.jpg
     pt: /img/quotes-zygomatic-implants-portrait.jpg
   content: ESTA TÉCNICA ES UNA VERDADERA BENDICIÓN, Y MÁS AÚN LUEGO DE UNA EXPERIENCIA COMO LA MÍA, EN LA QUE POR DESCONOCIMIENTO O DESIDIA, UN ODONTÓLOGO DE MI PAÍS ME CONDENÓ A USAR POR AÑOS UNAS DENTADURAS REMOVIBLES QUE NO SE SUJETABAN POR NADA DEL MUNDO.”
 

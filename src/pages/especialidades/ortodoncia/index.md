@@ -113,71 +113,71 @@ faq:
 
 # Clinic Cases
 clinicCases:
-  title: Cirugía Bucal - Casos Clínicos
+  title: Ortodoncia - Casos Clínicos
   items:
     - image: /img/clinic-cases-orthodontics-es-01-thumb.jpg
       title: > 
-        <h6>Exposición de implantes Dentales </h6>
+        <h6>Apiñamiento Superior e Inferior </h6>
     - image: /img/clinic-cases-orthodontics-es-02-thumb.jpg
       title: >
-        <h6>Extracción de Cordal Inferior </h6>
+        <h6>Maloclusión Clase II Esquelética</h6>
     - image: /img/clinic-cases-orthodontics-es-03-thumb.jpg
       title: >
-        <h6>Exodoncia, Injerto de Hueso e Implante Inmediato </h6>
+        <h6>Apiñamiento Severo y Brackets Estéticos</h6>
     - image: /img/clinic-cases-orthodontics-es-04-thumb.jpg
       title: >
-        <h6>Extracciones Múltiples </h6>
+        <h6>Extracción de 4 Premolares </h6>
     - image: /img/clinic-cases-orthodontics-es-05-thumb.jpg
       title: >
-        <h6>Frenilectomía </h6>
+        <h6>Canino Superior Ectópico </h6>
     - image: /img/clinic-cases-orthodontics-es-06-thumb.jpg
       title: >
-        <h6>Regeneración ósea con hueso autólogo </h6>
+        <h6>Sin Extracciones</h6>
     - image: /img/clinic-cases-orthodontics-es-07-thumb.jpg
       title: >
-        <h6>Exposición de Canino Incluído </h6>
+        <h6>Biprotrusión Dentoalveolar </h6>
     - image: /img/clinic-cases-orthodontics-es-08-thumb.jpg
       title: >
-        <h6>Sinus Lift </h6>
+        <h6>Brackets Autoligables</h6>
     - image: /img/clinic-cases-orthodontics-es-09-thumb.jpg
       title: >
-        <h6>Biopsia Excisional </h6>
+        <h6>Ortodoncia en Dentición Mixta</h6>
     - image: /img/clinic-cases-orthodontics-es-10-thumb.jpg
       title: >
-        <h6>Apicectomía </h6>
+        <h6>Discrepancia Dentomaxilar Superior </h6>
     - image: /img/clinic-cases-orthodontics-es-11-thumb.jpg 
       title: >
-        <h6>Implantología con Plasma Rico en Fibrina <em>(PRF)</em> </h6>
+        <h6>Extracciones Superiores</h6>
     - image: /img/clinic-cases-orthodontics-es-12-thumb.jpg
       title: >
-        <h6>Eliminación de Torus Mandibulares </h6>
+        <h6>Deformidad Dental y Apiñamiento</h6>
     - image: /img/clinic-cases-orthodontics-es-13-thumb.jpg
       title: >
-        <h6>Elevación de Seno Maxilar e Implantes Dentales </h6>
+        <h6>Mordida Profunda </h6>
     - image: /img/clinic-cases-orthodontics-es-14-thumb.jpg
       title: >
-        <h6>Regeneración Tisular Guiada </h6>
+        <h6>Antes y Después</h6>
     - image: /img/clinic-cases-orthodontics-es-15-thumb.jpg
       title: >
-        <h6>Reconstrucción de Tabla Ósea Vestibular </h6>
+        <h6>Antes y Después</h6>
     - image: /img/clinic-cases-orthodontics-es-16-thumb.jpg
       title: >
-        <h6>Extracción Simple de Restos Radiculares </h6>
+        <h6>Antes y Después</h6>
     - image: /img/clinic-cases-orthodontics-es-17-thumb.jpg
       title: >
-        <h6>Resección Quirúrgica de Lesión Fibromatosa </h6>
+        <h6>Antes y Después </h6>
     - image: /img/clinic-cases-orthodontics-es-18-thumb.jpg
       title: >
-        <h6>Pilar de Cicatrización </h6>
+        <h6>Antes y Después</h6>
     - image: /img/clinic-cases-orthodontics-es-19-thumb.jpg
       title: >
-        <h6>Corticotomía para Expansión de Reborde Alveolar </h6>
+        <h6>Antes y Después </h6>
     - image: /img/clinic-cases-orthodontics-es-20-thumb.jpg
       title: >
-        <h6>Odontectomía de Cordal Superior Incluida </h6>
+        <h6>Antes y Después</h6>
     - image: /img/clinic-cases-orthodontics-es-21-thumb.jpg
       title: >
-        <h6>Extracción de un Primer Molar Superior </h6>
+        <h6>Antes y Después  </h6>
   lightbox:
     placeholder: ''
     type: ''
@@ -205,23 +205,56 @@ clinicCases:
       - image: /img/clinic-cases-orthodontics-es-21.jpg
 # Responsive Aside Paragraphs
 asides:
-  display: false
+  display: true
   sections:
     - align: right
       title: >
-        <h3>''</h3>
+        <h3 style="color:#333;font-family:'Bebas Neue Bold'">¡Un Final Feliz y Transparente!</h3>
       content: >
-        <p>''</p>
-      image: /img/professionals-dr-castor-jose-garaban-povea.png
+        <p style="font-weight:400">Al retirar los brackets, es siempre necesario utilizar un dispositivo artificial que mantenga los dientes en su nueva posición. Por ser casi invisible, cómodo y fácil de usar, un retenedor plástico transparente termoformado al vacío es siempre nuestra mejor recomendación.</p>
+      image: /img/sections-orthodontics-invisalign.jpg
       footer:
         display: true
         image:
-          src: /img/professionals-dr-castor-jose-garaban-povea-studies.jpg
+          src: /img/sections-orthodontics-icon-invisalign.png
           display: true
         button:
           text: ''
           to: ''
           display: false
+    - align: left
+    
+      title: >
+        <h3 style="color:#333;font-family:'Bebas Neue Bold'">Aparatos Estéticos</h3>
+      content: >
+        <p  style="font-weight:400">Gracias a su color, textura y transparencia los brackets estéticos de Porcelana o Cristales de Zafiro se mimetizan con el esmalte dental y son particularmente propicios para aquellas personas que por su trabajo o actividad social deseen un tratamiento de muy bajo perfil pero comprobada calidad clínica.</p>
+      image: /img/sections-orthodontics-asthetic-braces.jpg
+      footer:
+        display: true
+        image:
+          src: /img/sections-icons-aesthetic-dentistry.jpg
+          display: false
+        button:
+          text: Más Información 
+          to: '/'
+          display: true
+    - align: right
+      title: >
+        <h3 style="color:#333;font-family:'Bebas Neue Bold'">¡Cuide sus Brackets!</h3>
+      content: >
+        <p  style="font-weight:400"><b>Indicaciones para personas con aparatos fijos.
+        </b></br></br>Jamás olvide que una adecuada técnica de higiene oral y la permanente colaboración del paciente con su tratamiento son requisitos indispensables para el éxito del mismo.</p>
+      image: /img/sections-orthodontics-brackets-care.jpg
+      footer:
+        display: true
+        image:
+          src: /img/sections-icons-aesthetic-dentistry.jpg
+          display: false
+        button:
+          text: Más Información 
+          to: '/'
+          display: true
+   
   
 # Testimonial Section
 lightQuote:

@@ -112,71 +112,71 @@ faq:
 
 # Clinic Cases
 clinicCases:
-  title: Cirugía Bucal - Casos Clínicos
+  title: Odontología General - Casos Clínicos
   items:
     - image: /img/clinic-cases-general-dentistry-es-01-thumb.jpg
       title: > 
-        <h6>Exposición de implantes Dentales </h6>
+        <h6>Abrasiones Cervicales</h6>
     - image: /img/clinic-cases-general-dentistry-es-02-thumb.jpg
       title: >
-        <h6>Extracción de Cordal Inferior </h6>
+        <h6>fractura de amalgama</h6>
     - image: /img/clinic-cases-general-dentistry-es-03-thumb.jpg
       title: >
-        <h6>Exodoncia, Injerto de Hueso e Implante Inmediato </h6>
+        <h6>Restauración de Caries Interproximales </h6>
     - image: /img/clinic-cases-general-dentistry-es-04-thumb.jpg
       title: >
-        <h6>Extracciones Múltiples </h6>
+        <h6>Ferulización por traumatismo Dental</h6>
     - image: /img/clinic-cases-general-dentistry-es-05-thumb.jpg
       title: >
-        <h6>Frenilectomía </h6>
+        <h6>Tratamiento de la Caries Dental </h6>
     - image: /img/clinic-cases-general-dentistry-es-06-thumb.jpg
       title: >
-        <h6>Regeneración ósea con hueso autólogo </h6>
+        <h6>Cavidades Clase III y Resinas Fotocuradas</h6>
     - image: /img/clinic-cases-general-dentistry-es-07-thumb.jpg
       title: >
-        <h6>Exposición de Canino Incluído </h6>
+        <h6>Prótesis Fija Provisional</h6>
     - image: /img/clinic-cases-general-dentistry-es-08-thumb.jpg
       title: >
-        <h6>Sinus Lift </h6>
+        <h6>Dentadura Parcial Removible <em>(DPR)</em> Superior</h6>
     - image: /img/clinic-cases-general-dentistry-es-09-thumb.jpg
       title: >
-        <h6>Biopsia Excisional </h6>
+        <h6>Fractura del Borde Incisal</h6>
     - image: /img/clinic-cases-general-dentistry-es-10-thumb.jpg
       title: >
-        <h6>Apicectomía </h6>
+        <h6>Tratamiento de Lesión en Lengua </h6>
     - image: /img/clinic-cases-general-dentistry-es-11-thumb.jpg 
       title: >
-        <h6>Implantología con Plasma Rico en Fibrina <em>(PRF)</em> </h6>
+        <h6>Reemplazo de Prótesis Dentomucosoportada</h6>
     - image: /img/clinic-cases-general-dentistry-es-12-thumb.jpg
       title: >
-        <h6>Eliminación de Torus Mandibulares </h6>
+        <h6>Incrustación de Porcelana</h6>
     - image: /img/clinic-cases-general-dentistry-es-13-thumb.jpg
       title: >
-        <h6>Elevación de Seno Maxilar e Implantes Dentales </h6>
+        <h6>Tartrectomía o Limpieza Dental</h6>
     - image: /img/clinic-cases-general-dentistry-es-14-thumb.jpg
       title: >
-        <h6>Regeneración Tisular Guiada </h6>
+        <h6>Reconstrucción con Composite de Microrelleno </h6>
     - image: /img/clinic-cases-general-dentistry-es-15-thumb.jpg
       title: >
-        <h6>Reconstrucción de Tabla Ósea Vestibular </h6>
+        <h6>Corona Totalcerámica</h6>
     - image: /img/clinic-cases-general-dentistry-es-16-thumb.jpg
       title: >
-        <h6>Extracción Simple de Restos Radiculares </h6>
+        <h6>Implante Dental y Corona de Zirconio</h6>
     - image: /img/clinic-cases-general-dentistry-es-17-thumb.jpg
       title: >
-        <h6>Resección Quirúrgica de Lesión Fibromatosa </h6>
+        <h6>Profilaxis y Pulido Dental</h6>
     - image: /img/clinic-cases-general-dentistry-es-18-thumb.jpg
       title: >
-        <h6>Pilar de Cicatrización </h6>
+        <h6>Prótesis Removible sin Ganchos Visibles</h6>
     - image: /img/clinic-cases-general-dentistry-es-19-thumb.jpg
       title: >
-        <h6>Corticotomía para Expansión de Reborde Alveolar </h6>
+        <h6>DPR de Acrílico Termopolimerizable</h6>
     - image: /img/clinic-cases-general-dentistry-es-20-thumb.jpg
       title: >
-        <h6>Odontectomía de Cordal Superior Incluida </h6>
+        <h6>Pernos de Fibra y Coronas libres de Metal</h6>
     - image: /img/clinic-cases-general-dentistry-es-21-thumb.jpg
       title: >
-        <h6>Extracción de un Primer Molar Superior </h6>
+        <h6>Coronas de Zirconio en Incisivos Superiores </h6>
   lightbox:
     placeholder: ''
     type: ''

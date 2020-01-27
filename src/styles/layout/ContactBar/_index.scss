@@ -1,7 +1,16 @@
 #dv-contact-nav {
+  display: flex;
+  align-items: center;
   height: 45px !important;
-  @include Roboto(700);
   font-size: 12px;
+  @media screen and (max-width:1200px) {
+    font-size: 10px;
+  }
+  >.row{
+    width: -webkit-fill-available;
+  }
+  @include Roboto(700);
+  
   z-index: 100;
 
   &.light-nav {
@@ -181,7 +190,7 @@
     justify-content: flex-end;
   }
 
-  @media #{$sm-mob-ld, $sm-mob-pt, $st-mob-pt, $st-mob-ld, $lg-mob-pt, $lg-mob-ld, $st-tab-pt, $st-tab-ld, $lg-tab-pt, $lg-tab-ld} {
+  @media screen and (max-width: 1024px) {
     display: none;
   }
 }
@@ -198,6 +207,7 @@
 @include tiny-desktop-screen {
   .dv-large-text {
     max-width: 30vw;
+    min-width: 340px;
   }
 }
 

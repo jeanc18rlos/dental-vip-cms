@@ -170,62 +170,62 @@ faq:
 
 # Clinic Cases
 clinicCases:
-  title: Cirugía Bucal - Casos Clínicos
+  title: Sedación Consciente - Galería
   items:
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-01-thumb.jpg
       title: > 
-        <h6>Exposición de implantes Dentales </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-02-thumb.jpg
       title: >
-        <h6>Extracción de Cordal Inferior </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-03-thumb.jpg
       title: >
-        <h6>Exodoncia, Injerto de Hueso e Implante Inmediato </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-04-thumb.jpg
       title: >
-        <h6>Extracciones Múltiples </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-05-thumb.jpg
       title: >
-        <h6>Frenilectomía </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-06-thumb.jpg
       title: >
-        <h6>Regeneración ósea con hueso autólogo </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-07-thumb.jpg
       title: >
-        <h6>Exposición de Canino Incluído </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-08-thumb.jpg
       title: >
-        <h6>Sinus Lift </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-09-thumb.jpg
       title: >
-        <h6>Biopsia Excisional </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-10-thumb.jpg
       title: >
-        <h6>Apicectomía </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-11-thumb.jpg 
       title: >
-        <h6>Implantología con Plasma Rico en Fibrina <em>(PRF)</em> </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-12-thumb.jpg
       title: >
-        <h6>Eliminación de Torus Mandibulares </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-13-thumb.jpg
       title: >
-        <h6>Elevación de Seno Maxilar e Implantes Dentales </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-14-thumb.jpg
       title: >
-        <h6>Regeneración Tisular Guiada </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-15-thumb.jpg
       title: >
-        <h6>Reconstrucción de Tabla Ósea Vestibular </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-16-thumb.jpg
       title: >
-        <h6>Extracción Simple de Restos Radiculares </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-17-thumb.jpg
       title: >
-        <h6>Resección Quirúrgica de Lesión Fibromatosa </h6>
+        <i></i>
     - image: /img/clinic-cases-sedation-and-general-anesthesia-es-18-thumb.jpg
       title: >
-        <h6>Pilar de Cicatrización </h6>
+        <i></i>
 
   lightbox:
     placeholder: ''
@@ -275,7 +275,7 @@ lightQuote:
   color: '#fff'
   display: true
   img:
-    ld: /img/quotes-phillosophy.jpg
+    ld: /img/quotes-sedation-and-general-anesthesia-landscape.jpg
     pt: /img/quotes-sedation-and-general-anesthesia-portrait.jpg
   content: COMO EN MUCHAS PERSONAS DE MI GENERACIÓN, EL MIEDO A LOS ODONTÓLOGOS SE PRODUJO POR UNA PÉSIMA EXPERIENCIA EN LA NIÑEZ, PERO GRACIAS A LA SEDACIÓN, PERDÍ EL PÁNICO Y ME HE PODIDO COLOCAR VARIOS IMPLANTES DENTALES.”
   
