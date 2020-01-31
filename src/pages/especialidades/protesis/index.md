@@ -1,8 +1,8 @@
 ---
 templateKey: specialties-page
-language: es
-title: Prótesis
-redirects: /en/specialties/prosthodontics/
+language: en
+title: Prosthodontics
+redirects: /especialidades/protesis/
 
 # Hero Section
 hero:
@@ -11,7 +11,7 @@ hero:
   image: /img/hero-prosthodontics.jpg
   parallax: false
   title: >
-    <span class="bebas" style="font-family:Bebas Neue Bold;color:white;font-weight:lighter">Prótesis</span>
+    <span class="bebas" style="font-family:Bebas Neue Bold;color:white;font-weight:lighter">PROSTHODONTICS</span>
   indicator: false
   halfSize: true
 

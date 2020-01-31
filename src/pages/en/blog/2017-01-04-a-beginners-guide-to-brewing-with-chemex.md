@@ -1,13 +1,14 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: ¡Por Qué NO a los Precios y Presupuestos Virtuales!
+date: 2019-02-25T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/hero-home.jpg
+language: en
+featuredimage: /img/blog-post-1.jpg
+author: José Miguel Gómez Díez
 description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
 tags:
-  - brewing
-  - chemex
+  - OPINIÓN Y ACTUALIDAD
 ---
 ![chemex](/img/hero-home.jpg)
 

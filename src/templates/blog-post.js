@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
-import Layout from '../components/Layout'
+import Layout from '../Layout'
 import Content, { HTMLContent } from '../components/Content'
 import SEO from "../components/seo";
 import SetLang from "../components/setLang";
@@ -61,7 +61,6 @@ const BlogPost = ({ data }) => {
   return (
     <Layout>
       <SEO title={post.frontmatter.title} />
-      <SetLang link={post.frontmatter.redirects} />
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}

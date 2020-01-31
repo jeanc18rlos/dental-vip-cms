@@ -169,13 +169,13 @@ clinicCases:
     - image: /img/clinic-cases-dental-implants-es-18-thumb.jpg
       title: >
         <h6>Prótesis Fija Convencional e Implante Unitario</h6>
-    - image: /img/clinic-cases-oral-surgery-es-19-thumb.jpg
+    - image: /img/clinic-cases-dental-implants-es-19-thumb.jpg
       title: >
         <h6>Prótesis Fija Superior Implantosoportada</h6>
-    - image: /img/clinic-cases-oral-surgery-es-20-thumb.jpg
+    - image: /img/clinic-cases-dental-implants-es-20-thumb.jpg
       title: >
         <h6>Rehabilitación Bimaxilar con Implantes Dentales</h6>
-    - image: /img/clinic-cases-oral-surgery-es-21-thumb.jpg
+    - image: /img/clinic-cases-dental-implants-es-21-thumb.jpg
       title: >
         <h6>Implante en Zona de Alto Compromiso Estético</h6>
   lightbox:

@@ -8,7 +8,7 @@ class BlogRoll extends React.Component {
     super(props);
 
     // an example array of items to be paged
-    const exampleItems = this.props.data.allMarkdownRemark.edges
+    const exampleItems = this.props.data.posts.edges
 
     this.state = {
       exampleItems: exampleItems,
@@ -23,7 +23,7 @@ class BlogRoll extends React.Component {
   }
   render() {
     const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
+    const { edges: posts } = data.posts
 
     return [
       < div className="col-md-9" >
@@ -52,7 +52,7 @@ class BlogRoll extends React.Component {
                         className="title has-text-primary is-size-4"
                         to={post.fields.slug}
                       >
-                        {post.frontmatter.title}
+                        {post.frontmatter.author} | {post.frontmatter.title}
                       </Link>
                       <br />
                       <span className="subtitle is-size-5 is-block">
@@ -65,7 +65,7 @@ class BlogRoll extends React.Component {
                     <br />
                     <br />
                     <Link className="button" to={post.fields.slug}>
-                      Keep Reading
+                      {data.home.frontmatter.structure.post.readMore}
                   </Link>
                   </p>
                 </article>
@@ -76,17 +76,17 @@ class BlogRoll extends React.Component {
         </div>
         <Pagination items={this.state.exampleItems} onChangePage={this.onChangePage} />
       </div >, <div className="col-xs-12 col-md-3 sidebar dv-sidebar">
-        <h4>Búsqueda</h4>
+        <h4>{data.home.frontmatter.structure.aside.search.search}</h4>
         <hr />
         <div className="dv-search-area-blog">
           <form method="get" action="https://dentalvip.com.ve/" id="form4">
-            <input type="text" name="s" placeholder="Buscar" />
+            <input type="text" name="s" placeholder={`${data.home.frontmatter.structure.aside.search.placeholder}`} />
             <button type="submit" form="form4" value="Submit" className="dv-btn-submit-search-sd">
               <i id="dv-search-icon-spr" className="icon-search" />
             </button>
           </form>
         </div>
-        <h4 className="dv-latest-post">Últimos Posts</h4>
+        <h4 className="dv-latest-post">{data.home.frontmatter.structure.aside.latestPosts}</h4>
         <hr />
         <div className="dv-recent-content">
           <img src="https://dentalvip.com.ve/wp-content/uploads/2019/02/POR-QUE-NO-A-LOS-PRECIOS-Y-PRESUPUESTOS-VIRTUALES.jpg" />
@@ -104,7 +104,7 @@ class BlogRoll extends React.Component {
           <img src="https://dentalvip.com.ve/wp-content/uploads/2019/02/CUIDADOS-DESPUES-DE-UN-BLANQUEAMIENTO-DENTAL.jpg" />
           <p className="dv-title"><a href="https://dentalvip.com.ve/cuidados-despues-de-un-blanqueamiento-dental/">Cuidados Después de un Blanqueamiento Dental</a></p>
         </div>
-        <h4 className="dv-latest-post dv-lp-35">Categorías</h4>
+        <h4 className="dv-latest-post dv-lp-35">{data.home.frontmatter.structure.aside.categories}</h4>
         <hr />
         <li className="cat-item cat-item-16"><a href="https://dentalvip.com.ve/category/blanqueamiento-dental/">BLANQUEAMIENTO DENTAL</a>
         </li>
@@ -126,16 +126,16 @@ class BlogRoll extends React.Component {
         </li>
         <li className="cat-item cat-item-15"><a href="https://dentalvip.com.ve/category/salud-bucodental/">SALUD BUCODENTAL</a>
         </li>
-        <h4 className="dv-latest-post dv-latest-post-susc">Suscripción</h4>
+        <h4 className="dv-latest-post dv-latest-post-susc">{data.home.frontmatter.structure.aside.subscribe}</h4>
         <hr />
         <div className="tnp tnp-subscription dv-newsletter-sidebar">
           <img src="https://dentalvip.com.ve/wp-content/themes/DentalVip/assets/vip.jpg" alt="VIP Newsletter" className="icon-news" />
-          <h5>¡Regístrese ahora para recibir las últimas actualizaciones en su correo!</h5>
+          <h5>{data.home.frontmatter.structure.aside.form.message}</h5>
           <form method="post" action="http://dentalvip.roraimasolutions.com/?na=s" onsubmit="return newsletter_check(this)">
             <input type="hidden" name="nlang" defaultValue />
-            <div className="tnp-field tnp-field-firstname"><input className="tnp-firstname" type="text" name="nn" required placeholder="Nombre" /></div>
-            <div className="tnp-field tnp-field-email"><input className="tnp-email" type="email" name="ne" required placeholder="E-mail" /></div>
-            <div className="tnp-field tnp-field-button"><input className="tnp-submit" type="submit" defaultValue="Enviar" />
+            <div className="tnp-field tnp-field-firstname"><input className="tnp-firstname" type="text" name="nn" required placeholder={`${data.home.frontmatter.structure.aside.form.name}`} /></div>
+            <div className="tnp-field tnp-field-email"><input className="tnp-email" type="email" name="ne" required placeholder={data.home.frontmatter.structure.aside.form.email} /></div>
+            <div className="tnp-field tnp-field-button"><input className="tnp-submit" type="submit" defaultValue={`${data.home.frontmatter.structure.aside.form.send}`} />
             </div>
           </form>
         </div>
@@ -148,45 +148,10 @@ class BlogRoll extends React.Component {
 
 BlogRoll.propTypes = {
   data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
+    posts: PropTypes.shape({
       edges: PropTypes.array,
     }),
   }),
 }
 
-export default () => (
-  <StaticQuery
-    query={graphql`
-      query BlogRollQuery {
-        allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
-        ) {
-          edges {
-            node {
-              excerpt(pruneLength: 400)
-              id
-              fields {
-                slug
-              }
-              frontmatter {
-                title
-                templateKey
-                date(formatString: "MMMM DD, YYYY")
-                featuredpost
-                featuredimage {
-                  childImageSharp {
-                    fluid(maxWidth: 800, quality: 100) {
-                      ...GatsbyImageSharpFluid
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    `}
-    render={(data, count) => <BlogRoll data={data} count={count} />}
-  />
-)
+export default BlogRoll

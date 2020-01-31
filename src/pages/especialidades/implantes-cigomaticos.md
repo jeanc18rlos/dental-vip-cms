@@ -2,7 +2,7 @@
 templateKey: specialties-page
 language: es
 title: Implantes Cigomáticos
-redirects: /en/specialties/dental-implants/
+redirects: /en/specialties/zygomatic-implants/
 
 # Hero Section
 hero:

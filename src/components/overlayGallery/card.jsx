@@ -1,10 +1,11 @@
-import React from 'react'
-import classnames from 'classnames'
-import { isMobile } from 'react-device-detect'
-import Img from 'gatsby-image'
-import PropTypes from 'prop-types'
-import showdown from 'showdown'
-const converter = new showdown.Converter()
+import React from "react";
+import classnames from "classnames";
+import { isMobile } from "react-device-detect";
+import Img from "gatsby-image";
+import PropTypes from "prop-types";
+import showdown from "showdown";
+import { navigate } from "gatsby";
+const converter = new showdown.Converter();
 
 const Card = props => {
   const {
@@ -21,45 +22,45 @@ const Card = props => {
     placeholder,
     type,
     openPopupbox,
-    index,
-  } = props
+    index
+  } = props;
   return isMobile ? (
     <div
       role="button"
       tabIndex={0}
       onClick={() => {
-        return activeCard !== index && setActiveCard(index)
+        return activeCard !== index && setActiveCard(index);
       }}
       onKeyDown={() => {
-        return activeCard !== index && setActiveCard(index)
+        return activeCard !== index && setActiveCard(index);
       }}
       className={classnames(
-        isMasonry && 'masonry-gallery',
-        'gallery-card col-xs-12 col-sm-6 col-md-6 col-lg-4'
+        isMasonry && "masonry-gallery",
+        "gallery-card col-xs-12 col-sm-6 col-md-6 col-lg-4"
       )}
     >
       <div
         className={classnames(
-          'gallery-ob',
-          activeCard === index && 'hover',
-          isMasonry && 'masonry-gallery'
+          "gallery-ob",
+          activeCard === index && "hover",
+          isMasonry && "masonry-gallery"
         )}
       >
         <div
           role="button"
           tabIndex={0}
           onClick={e => {
-            e.preventDefault()
-            return setActiveCard(index)
+            e.preventDefault();
+            return setActiveCard(index);
           }}
           onKeyDown={e => {
-            e.preventDefault()
-            return setActiveCard(index)
+            e.preventDefault();
+            return setActiveCard(index);
           }}
           className={classnames(
-            'close-feature',
-            isMasonry && 'masonry-gallery',
-            activeCard === index && 'hover'
+            "close-feature",
+            isMasonry && "masonry-gallery",
+            activeCard === index && "hover"
           )}
         >
           <div className="wrap">
@@ -69,97 +70,109 @@ const Card = props => {
         <div className="mobile-wrap">
           <div
             className={classnames(
-              'animated',
-              type === 'gridGallery' && 'gridGallery',
-              activeCard === index && 'zoomIn'
+              "animated",
+              type === "gridGallery" && "gridGallery",
+              activeCard === index && "zoomIn"
             )}
           >
             <h3>{title}</h3>
-            <div dangerouslySetInnerHTML={{ __html: converter.makeHtml(body) }} />
-           
-            {action && type === 'singleGallery' ? (
+            <div
+              dangerouslySetInnerHTML={{ __html: converter.makeHtml(body) }}
+            />
+
+            {action && type === "singleGallery" ? (
               <button
                 type="button"
                 className="gallery-btn text-button"
                 onClick={e => {
-                  e.preventDefault()
-                  setActiveCard(index)
-                  return openPopupbox(0)
+                  e.preventDefault();
+                  setActiveCard(index);
+                  return openPopupbox(0);
                 }}
               >
                 {placeholder}
               </button>
             ) : (
-              ''
+              ""
             )}
-            {action && type === 'gridGallery' ? (
+            {action && type === "gridGallery" ? (
               <button
                 type="button"
                 className="gallery-btn"
                 onClick={e => {
-                  e.preventDefault()
-                  setActiveCard(index)
-                  return openPopupbox(index)
+                  e.preventDefault();
+                  setActiveCard(index);
+                  return openPopupbox(index);
                 }}
               >
                 <i className="icon-search" />
               </button>
             ) : (
-              ''
+              ""
             )}
-            {!action && isMobile && type === 'singleGallery' && (
-              <a href={link} type="button" className="gallery-btn">
-                {' '}
+            {!action && isMobile && type === "singleGallery" && (
+              <a
+                onClick={() => {
+                  navigate(link);
+                }}
+                type="button"
+                className="gallery-btn"
+              >
+                {" "}
                 {placeholder}
               </a>
             )}
           </div>
         </div>
       </div>
-      
-      { bg.childImageSharp ? <Img
-        alt="dentalvip"
-        className={classnames(isMasonry && 'masonry-gallery')}
-        fluid={bg.childImageSharp.fluid}
-      /> : <img
-      alt="dentalvip"
-      className={classnames(isMasonry && 'masonry-gallery')}
-      src={bg}
-    />}
+
+      {bg.childImageSharp ? (
+        <Img
+          alt="dentalvip"
+          className={classnames(isMasonry && "masonry-gallery")}
+          fluid={bg.childImageSharp.fluid}
+        />
+      ) : (
+        <img
+          alt="dentalvip"
+          className={classnames(isMasonry && "masonry-gallery")}
+          src={bg}
+        />
+      )}
     </div>
   ) : (
     <div
       onMouseOver={() => {
-        return setActiveCard(index)
+        return setActiveCard(index);
       }}
       onFocus={() => {
-        return null
+        return null;
       }}
       onMouseLeave={() => {
-        return resetActiveCard()
+        return resetActiveCard();
       }}
       role="button"
       tabIndex={0}
       className={classnames(
-        isMasonry && 'masonry-gallery',
-        'gallery-card col-xs-12  col-sm-6 col-md-6 col-lg-4'
+        isMasonry && "masonry-gallery",
+        "gallery-card col-xs-12  col-sm-6 col-md-6 col-lg-4"
       )}
     >
       <div
         className={classnames(
-          'gallery-ob',
-          activeCard === index && 'hover',
-          isMasonry && 'masonry-gallery'
+          "gallery-ob",
+          activeCard === index && "hover",
+          isMasonry && "masonry-gallery"
         )}
       >
         <div
           role="button"
           tabIndex={0}
           className={classnames(
-            'close-feature',
-            isMasonry && 'masonry-gallery',
-            activeCard === index && isMobile && 'hover',
-            activeCard === index && !isMobile && 'hidden'
+            "close-feature",
+            isMasonry && "masonry-gallery",
+            activeCard === index && isMobile && "hover",
+            activeCard === index && !isMobile && "hidden"
           )}
         >
           <div className="wrap">
@@ -168,36 +181,38 @@ const Card = props => {
         </div>
         <a
           onClick={e => {
-            if (!link || link === '#') {
-              e.preventDefault()
+            if (!link || link === "#") {
+              e.preventDefault();
             }
           }}
           {...(action &&
-            type === 'singleGallery' && {
+            type === "singleGallery" && {
               onClick: e => {
-                e.preventDefault()
-                return openPopupbox(0)
-              },
+                e.preventDefault();
+                return openPopupbox(0);
+              }
             })}
           {...(action &&
-            type === 'gridGallery' && {
+            type === "gridGallery" && {
               onClick: e => {
-                e.preventDefault()
-                return openPopupbox(index)
-              },
+                e.preventDefault();
+                return openPopupbox(index);
+              }
             })}
           href={link}
         >
           <div
             className={classnames(
-              'animated',
-              type === 'gridGallery' && 'gridGallery',
-              activeCard === index && 'zoomIn'
+              "animated",
+              type === "gridGallery" && "gridGallery",
+              activeCard === index && "zoomIn"
             )}
           >
             <h3>{title}</h3>
-            <div dangerouslySetInnerHTML={{ __html: converter.makeHtml(body) }} />
-            {action && type === 'gridGallery' && (
+            <div
+              dangerouslySetInnerHTML={{ __html: converter.makeHtml(body) }}
+            />
+            {action && type === "gridGallery" && (
               <button type="button" className="gallery-btn">
                 <i className="icon-search" />
               </button>
@@ -205,20 +220,24 @@ const Card = props => {
           </div>
         </a>
       </div>
-      { bg.childImageSharp ? <Img
-        alt="dentalvip"
-        className={classnames(isMasonry && 'masonry-gallery')}
-        fluid={bg.childImageSharp.fluid}
-      /> : <img
-      alt="dentalvip"
-      className={classnames(isMasonry && 'masonry-gallery')}
-      src={bg}
-    />}
+      {bg.childImageSharp ? (
+        <Img
+          alt="dentalvip"
+          className={classnames(isMasonry && "masonry-gallery")}
+          fluid={bg.childImageSharp.fluid}
+        />
+      ) : (
+        <img
+          alt="dentalvip"
+          className={classnames(isMasonry && "masonry-gallery")}
+          src={bg}
+        />
+      )}
     </div>
-  )
-}
+  );
+};
 
-export default Card
+export default Card;
 Card.propTypes = {
   link: PropTypes.string.isRequired,
   bg: PropTypes.objectOf(
@@ -236,5 +255,5 @@ Card.propTypes = {
 
   type: PropTypes.string.isRequired,
   openPopupbox: PropTypes.func.isRequired,
-  index: PropTypes.oneOfType([PropTypes.string, PropTypes.number]).isRequired,
-}
+  index: PropTypes.oneOfType([PropTypes.string, PropTypes.number]).isRequired
+};
