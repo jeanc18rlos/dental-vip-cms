@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql, StaticQuery } from 'gatsby'
+import { Link, graphql, StaticQuery, navigate } from 'gatsby'
+import { kebabCase } from 'lodash'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 import Pagination from '../components/Pagination'
 class BlogRoll extends React.Component {
@@ -52,11 +53,11 @@ class BlogRoll extends React.Component {
                         className="title has-text-primary is-size-4"
                         to={post.fields.slug}
                       >
-                        {post.frontmatter.author} | {post.frontmatter.title}
+                      {post.frontmatter.title}
                       </Link>
                       <br />
                       <span className="subtitle is-size-5 is-block">
-                        {post.frontmatter.date}
+                      {data.home.frontmatter.structure.post.by} {post.frontmatter.author.name} | {post.frontmatter.date} | {post.frontmatter.tags}
                       </span>
                     </p>
                   </header>
@@ -88,44 +89,35 @@ class BlogRoll extends React.Component {
         </div>
         <h4 className="dv-latest-post">{data.home.frontmatter.structure.aside.latestPosts}</h4>
         <hr />
-        <div className="dv-recent-content">
-          <img src="https://dentalvip.com.ve/wp-content/uploads/2019/02/POR-QUE-NO-A-LOS-PRECIOS-Y-PRESUPUESTOS-VIRTUALES.jpg" />
-          <p className="dv-title"><a href="https://dentalvip.com.ve/por-que-no-a-los-precios-y-presupuestos-virtuales/">¡Por Qué NO a los Precios y Presupuestos Virtuales!</a></p>
-        </div>
-        <div className="dv-recent-content">
-          <img src="https://dentalvip.com.ve/wp-content/uploads/2019/02/QUE-ES-LA-ODONTOLOGIA-BASADA-EN-LA-EVIDENCIA.jpg" />
-          <p className="dv-title"><a href="https://dentalvip.com.ve/que-es-la-odontologia-basada-en-la-evidencia/">¿Qué es la Odontología Basada en la Evidencia?</a></p>
-        </div>
-        <div className="dv-recent-content">
-          <img src="https://dentalvip.com.ve/wp-content/uploads/2019/02/CUANTO-PUEDE-DURAR-UN-DIENTE-DESPUES-DE-UNA-ENDODONCIA.jpg" />
-          <p className="dv-title"><a href="https://dentalvip.com.ve/cuantos-anos-puede-durar-un-diente-despues-de-una-endodoncia/">¿Cuántos Años Puede Durar un Diente Después de una Endodoncia?</a></p>
-        </div>
-        <div className="dv-recent-content">
-          <img src="https://dentalvip.com.ve/wp-content/uploads/2019/02/CUIDADOS-DESPUES-DE-UN-BLANQUEAMIENTO-DENTAL.jpg" />
-          <p className="dv-title"><a href="https://dentalvip.com.ve/cuidados-despues-de-un-blanqueamiento-dental/">Cuidados Después de un Blanqueamiento Dental</a></p>
-        </div>
+        {
+          data.latestPosts.edges.map(i => {
+            return <div className="dv-recent-content">
+              <PreviewCompatibleImage
+                          imageInfo={{
+                            image: i.node.frontmatter.featuredimage,
+                            alt: `featured image thumbnail for post ${ i.node.frontmatter.title}`,
+                          }}
+                        />
+            <p className="dv-title"><a onClick={()=>{
+              navigate(i.node.fields.slug)
+            }}>{ i.node.frontmatter.title}</a></p>
+          </div>
+          })
+        }
+   
+        
         <h4 className="dv-latest-post dv-lp-35">{data.home.frontmatter.structure.aside.categories}</h4>
         <hr />
-        <li className="cat-item cat-item-16"><a href="https://dentalvip.com.ve/category/blanqueamiento-dental/">BLANQUEAMIENTO DENTAL</a>
-        </li>
-        <li className="cat-item cat-item-12"><a href="https://dentalvip.com.ve/category/carillas-de-porcelana/">CARILLAS DE PORCELANA</a>
-        </li>
-        <li className="cat-item cat-item-18"><a href="https://dentalvip.com.ve/category/diagnostico-y-planificacion/">DIAGNÓSTICO Y PLANIFICACIÓN</a>
-        </li>
-        <li className="cat-item cat-item-10"><a href="https://dentalvip.com.ve/category/diseno-de-sonrisa/">DISEÑO DE SONRISA</a>
-        </li>
-        <li className="cat-item cat-item-14"><a href="https://dentalvip.com.ve/category/higiene-y-prevencion/">HIGIENE Y PREVENCIÓN</a>
-        </li>
-        <li className="cat-item cat-item-9"><a href="https://dentalvip.com.ve/category/implantes-dentales/">IMPLANTES DENTALES</a>
-        </li>
-        <li className="cat-item cat-item-17"><a href="https://dentalvip.com.ve/category/opinion-y-actualidad/">OPINIÓN Y ACTUALIDAD</a>
-        </li>
-        <li className="cat-item cat-item-13"><a href="https://dentalvip.com.ve/category/ortodoncia/">ORTODONCIA</a>
-        </li>
-        <li className="cat-item cat-item-11"><a href="https://dentalvip.com.ve/category/protesis-estomatologica/">PRÓTESIS ESTOMATOLÓGICA</a>
-        </li>
-        <li className="cat-item cat-item-15"><a href="https://dentalvip.com.ve/category/salud-bucodental/">SALUD BUCODENTAL</a>
-        </li>
+        {
+          data.categories.group.map(tag => (
+            <li key={tag.fieldValue}>
+              <Link to={`/${data.home.frontmatter.language === 'es' ? 'categorias' : 'en/categories'}/${kebabCase(tag.fieldValue)}/`}>
+                {tag.fieldValue} ({tag.totalCount})
+              </Link>
+            </li>
+          ))
+        }
+       
         <h4 className="dv-latest-post dv-latest-post-susc">{data.home.frontmatter.structure.aside.subscribe}</h4>
         <hr />
         <div className="tnp tnp-subscription dv-newsletter-sidebar">

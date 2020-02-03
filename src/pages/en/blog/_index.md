@@ -3,7 +3,7 @@ templateKey: 'default'
 title: 'Blog'
 language: en
 featuredimage: /img/hero-home.jpg
-redirects: /404
+redirects: /blog/
 
 # Hero Section
 hero:

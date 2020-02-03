@@ -34,6 +34,7 @@ exports.createPages = ({ actions, graphql }) => {
             frontmatter {
               tags
               templateKey
+              language
             }
           }
         }
@@ -49,6 +50,7 @@ exports.createPages = ({ actions, graphql }) => {
 
     posts.forEach(edge => {
       const id = edge.node.id
+      const language = edge.node.frontmatter.language
       createPage({
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,
@@ -57,31 +59,52 @@ exports.createPages = ({ actions, graphql }) => {
         ),
         // additional data can be passed via context
         context: {
+
           id,
+          language
         },
       })
     })
 
     // Tag pages:
     let tags = []
+    let entags = []
     // Iterate through each post, putting all found tags into `tags`
     posts.forEach(edge => {
       if (_.get(edge, `node.frontmatter.tags`)) {
-        tags = tags.concat(edge.node.frontmatter.tags)
+        if( _.get(edge, `node.frontmatter.language`) === 'en'){
+          entags = entags.concat(edge.node.frontmatter.tags)
+        } else if(_.get(edge, `node.frontmatter.language`) === 'es') {
+          tags = tags.concat(edge.node.frontmatter.tags)
+        }
       }
     })
     // Eliminate duplicate tags
+    entags = _.uniq(entags)
     tags = _.uniq(tags)
 
     // Make tag pages
-    tags.forEach(tag => {
-      const tagPath = `/tags/${_.kebabCase(tag)}/`
+    entags.forEach(tag => {
+      const tagPath = `/en/categories/${_.kebabCase(tag)}/`
 
       createPage({
         path: tagPath,
         component: path.resolve(`src/templates/tags.js`),
         context: {
           tag,
+          language: 'en'
+        },
+      })
+    })
+    tags.forEach(tag => {
+      const tagPath = `/categorias/${_.kebabCase(tag)}/`
+
+      createPage({
+        path: tagPath,
+        component: path.resolve(`src/templates/tags.js`),
+        context: {
+          tag,
+          language: 'es'
         },
       })
     })
