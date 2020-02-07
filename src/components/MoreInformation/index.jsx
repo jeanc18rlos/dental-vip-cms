@@ -1,7 +1,6 @@
 // Dependencies
 import React from 'react'
 import BackgroundImage from 'gatsby-background-image'
-import PropTypes from 'prop-types'
 
 const MoreInformation = props => {
   const { moreinfo, classname, titlebutton } = props
@@ -78,8 +77,3 @@ const MoreInformation = props => {
 }
 
 export default MoreInformation
-MoreInformation.propTypes = {
-  moreinfo: PropTypes.string.isRequired,
-  classname: PropTypes.string.isRequired,
-  titlebutton: PropTypes.string.isRequired,
-}

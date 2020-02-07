@@ -6,7 +6,6 @@ import {
   DropdownItem,
 } from 'reactstrap'
 import { navigate } from 'gatsby'
-import PropTypes from 'prop-types'
 import  usaIcon from '../../img/layout/icons/usa.png'
 import esIcon from '../../img/layout/icons/spain.png'
 const ContactBar = props => {
@@ -29,6 +28,7 @@ const ContactBar = props => {
                 <i className="icon-map-marker-alt" /> {location}
               </div>
               <div
+                role="button"
                 onMouseLeave={() => {
                   toggleDrop(false)
                 }}
@@ -129,14 +129,3 @@ const ContactBar = props => {
 }
 
 export default ContactBar
-
-ContactBar.propTypes = {
-  schedule: PropTypes.string.isRequired,
-  phone: PropTypes.element.isRequired,
-  location: PropTypes.string.isRequired,
-  lang: PropTypes.string.isRequired,
-  langRedir: PropTypes.string.isRequired,
-  dropdown: PropTypes.bool.isRequired,
-  toggleDrop: PropTypes.func.isRequired,
-  setLang: PropTypes.func.isRequired,
-}

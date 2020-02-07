@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react'
-import PropTypes from 'prop-types'
 import Modal from '../Modal'
 const Financing = props => {
   const { classname } = props
@@ -120,7 +119,3 @@ const Financing = props => {
 }
 
 export default Financing
-
-Financing.propTypes = {
-  classname: PropTypes.string.isRequired,
-}

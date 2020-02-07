@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 
 const Quotes = props => {
   const { title, body, author, footer } = props
@@ -26,9 +25,3 @@ const Quotes = props => {
   )
 }
 export default Quotes
-Quotes.propTypes = {
-  title: PropTypes.string.isRequired,
-  body: PropTypes.string.isRequired,
-  author: PropTypes.string.isRequired,
-  footer: PropTypes.objectOf(PropTypes.string).isRequired,
-}

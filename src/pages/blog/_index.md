@@ -1,6 +1,6 @@
 ---
 templateKey: 'default'
-title: 'Blog'
+title: Blog
 language: es
 featuredimage: /img/hero-home.jpg
 redirects: /en/blog/

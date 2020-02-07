@@ -1,6 +1,5 @@
 // Dependencies
 import React from 'react'
-import PropTypes from 'prop-types'
 import InfoContent from './InfoContent'
 
 const InfoSection = props => {
@@ -32,16 +31,3 @@ const InfoSection = props => {
 }
 
 export default InfoSection
-InfoSection.propTypes = {
-  sections: PropTypes.arrayOf(
-    PropTypes.exact({
-      type: PropTypes.string,
-      titleimage: PropTypes.string,
-      titlecontent: PropTypes.string,
-      contentimg: PropTypes.string,
-      description1: PropTypes.string,
-      description2: PropTypes.string,
-    })
-  ).isRequired,
-  nameClass: PropTypes.string.isRequired,
-}

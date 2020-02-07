@@ -241,7 +241,7 @@ clinicCases:
       title: >
         <h6>híbrida metal-porcelana</h6>
   lightbox:
-    placeholder: ''
+    placeholder: GIRE EL DISPOSITIVO PARA AMPLIAR LAS IMAGENES
     type: ''
     images: 
       - image: /img/clinic-cases-zygomatic-implants-es-01.jpg

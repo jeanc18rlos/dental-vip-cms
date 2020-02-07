@@ -178,7 +178,7 @@ clinicCases:
       title: >
         <h6>Coronas de Zirconio en Incisivos Superiores </h6>
   lightbox:
-    placeholder: ''
+    placeholder: GIRE EL DISPOSITIVO PARA AMPLIAR LAS IMAGENES
     type: ''
     images: 
       - image: /img/clinic-cases-general-dentistry-es-01.jpg

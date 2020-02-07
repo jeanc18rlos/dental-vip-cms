@@ -178,7 +178,7 @@ clinicCases:
       title: >
         <h6>ZIRCONIA CROWNS ON SUPERIOR INCISORS</h6>
   lightbox:
-    placeholder: ''
+    placeholder: ROTATE THE DEVICE TO ENLARGE THE IMAGES
     type: ''
     images: 
       - image: /img/clinic-cases-general-dentistry-en-01.jpg

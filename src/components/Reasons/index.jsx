@@ -1,6 +1,5 @@
 // Dependencies
 import React from 'react'
-import PropTypes from 'prop-types'
 
 // Component child
 import Reason from './Reason'
@@ -31,16 +30,3 @@ const Reasons = props => {
 }
 
 export default Reasons
-
-Reasons.propTypes = {
-  classname: PropTypes.string.isRequired,
-  reasons: PropTypes.arrayOf(
-    PropTypes.exact({
-      type: PropTypes.string,
-      img: PropTypes.string,
-      nameimg: PropTypes.string,
-      title: PropTypes.string,
-      paragraph: PropTypes.string,
-    })
-  ).isRequired,
-}

@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import classnames from "classnames";
-import PropTypes from "prop-types";
 import Img from "gatsby-image";
 import showdown from "showdown";
+import { navigate } from "gatsby";
 const converter = new showdown.Converter();
 
 const Card = props => {
@@ -27,9 +27,9 @@ const Card = props => {
       }}
       className={classnames(
         "row-eq-height  col-xs-12  col-sm-6 col-md-6 col-lg-4",
-        info && 'with-text'
+        info && "with-text"
       )}
-      href={to}
+      onClick={()=>{navigate(to)}}
     >
       <div
         className={classnames(
@@ -49,6 +49,7 @@ const Card = props => {
           />
         ) : (
           <img
+            alt="card-img"
             className={classnames("dv-image-div", length <= 3 && "big")}
             src={img}
           />
@@ -56,18 +57,23 @@ const Card = props => {
 
         {info && (
           <div
-            className={classnames("procedures-additional-text", hovered && hovered !== 'slideInDownProcedures' && 'visible')}
+            className={classnames(
+              "procedures-additional-text",
+              hovered && hovered !== "slideInDownProcedures" && "visible"
+            )}
           >
             <div>
-              <Img className="icon" fluid={info.image.childImageSharp.fluid} style={{ width: "50px", margin: 'auto' }} />
+              <Img
+                className="icon"
+                fluid={info.image.childImageSharp.fluid}
+                style={{ width: "50px", margin: "auto" }}
+              />
               <br></br>
               <div
                 dangerouslySetInnerHTML={{
                   __html: converter.makeHtml(info.text)
                 }}
-              >
-             
-              </div>
+              ></div>
             </div>
           </div>
         )}
@@ -77,11 +83,3 @@ const Card = props => {
 };
 
 export default Card;
-Card.propTypes = {
-  to: PropTypes.string.isRequired,
-  title: PropTypes.string.isRequired,
-  img: PropTypes.objectOf(
-    PropTypes.oneOfType([PropTypes.string, PropTypes.number])
-  ).isRequired,
-  length: PropTypes.number.isRequired
-};

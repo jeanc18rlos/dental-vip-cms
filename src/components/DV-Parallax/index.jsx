@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Img from "gatsby-image";
 import classnames from "classnames";
-import PropTypes from "prop-types";
 import showdown from "showdown";
 const converter = new showdown.Converter();
 

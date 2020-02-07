@@ -212,7 +212,7 @@ elements:
 lightbox:
   display: true
   type: singleGallery
-  placeholder: GIRE EL DISPOSITIVO PARA AMPLIAR LAS IMÁGENES
+  placeholder: ROTATE THE DEVICE TO ENLARGE THE IMAGES
   images:
     - image: /img/lightbox-smiles-01-en.jpg
     - image: /img/lightbox-smiles-02-en.jpg

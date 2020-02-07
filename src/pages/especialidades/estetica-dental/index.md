@@ -180,7 +180,7 @@ clinicCases:
       title: >
         <h6>Antes y Después</h6>
   lightbox:
-    placeholder: ''
+    placeholder: GIRE EL DISPOSITIVO PARA AMPLIAR LAS IMAGENES
     type: ''
     images: 
       - image: /img/clinic-cases-aesthetic-dentistry-es-01.jpg
@@ -236,7 +236,7 @@ asides:
           display: false
         button:
           text: Más Información 
-          to: '/'
+          to: '/especialidades/estetica-dental/diseno-digital-de-sonrisa/'
           display: true
     - align: right
       title: >
@@ -251,7 +251,7 @@ asides:
           display: false
         button:
           text: Más Información 
-          to: '/'
+          to: '/especialidades/estetica-dental/carillas-de-porcelana/'
           display: true
   
 # Testimonial Section

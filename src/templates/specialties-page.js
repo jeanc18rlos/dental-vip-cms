@@ -38,7 +38,7 @@ export const SpecialtiesPageTemplate = ({
     display: clinicCases.lightbox.display,
     type: clinicCases.lightbox.type,
     placeholder: clinicCases.lightbox.placeholder,
-    images: clinicCases.lightbox.images.map(i => {
+    images: clinicCases.lightbox.images.map((i,k) => {
       return {
         renderItem: () => {
           return i.image.childImageSharp ? (
@@ -47,7 +47,7 @@ export const SpecialtiesPageTemplate = ({
               fluid={i.image.childImageSharp.fluid}
             />
           ) : (
-            <img className="lightbox-lazy" src={i.image} />
+            <img className="lightbox-lazy"  alt={`gallery-${k}`} src={i.image} />
           );
         }
       };
@@ -57,8 +57,8 @@ export const SpecialtiesPageTemplate = ({
     <div>
       {hero && hero.display && <DVhero {...hero} />}
       {specialtiesHeading && specialtiesHeading.display && (
-        <section class="dv-specialties-heading">
-          <div class="container-fluid dv-main-menu">
+        <section className="dv-specialties-heading">
+          <div className="container-fluid dv-main-menu">
             <Img
               className="image"
               fluid={specialtiesHeading.img.childImageSharp.fluid}

@@ -1,6 +1,5 @@
 // Dependencies
 import React from 'react'
-import PropTypes from 'prop-types'
 import Img from 'gatsby-image'
 
 const Reason = props => {
@@ -21,11 +20,3 @@ const Reason = props => {
 }
 
 export default Reason
-
-Reason.propTypes = {
-  img: PropTypes.string.isRequired,
-  nameimg: PropTypes.string.isRequired,
-  title: PropTypes.string.isRequired,
-  paragraph: PropTypes.string.isRequired,
-  type: PropTypes.string.isRequired,
-}

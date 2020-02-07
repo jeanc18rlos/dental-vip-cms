@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import Fade from "react-reveal/Fade";
 import Img from "gatsby-image";
 import classnames from "classnames";
-import PropTypes from "prop-types";
 import showdown from "showdown";
 const converter = new showdown.Converter();
 
@@ -46,6 +45,7 @@ const AnimatedHero = props => {
         />
       ) : (
         <img
+          alt="hero"
           src={image}
           className={classnames(scale && "scale", "dv-hero-bg")}
         />
@@ -75,11 +75,12 @@ const PlainHero = props => {
       {image.childImageSharp ? (
         <Img
           loading="eager"
+          alt="hero"
           className={classnames("dv-hero-bg")}
           fluid={image.childImageSharp.fluid}
         />
       ) : (
-        <img src={image} className={classnames("dv-hero-bg")} />
+        <img alt="hero" src={image} className={classnames("dv-hero-bg")} />
       )}
 
       {title && (

@@ -1,8 +1,8 @@
 ---
 templateKey: specialties-page
-language: en
-title: Prosthodontics
-redirects: /especialidades/protesis/
+language: es
+title: Prótesis
+redirects: /en/specialties/prosthodontics/
 
 # Hero Section
 hero:
@@ -11,7 +11,7 @@ hero:
   image: /img/hero-prosthodontics.jpg
   parallax: false
   title: >
-    <span class="bebas" style="font-family:Bebas Neue Bold;color:white;font-weight:lighter">PROSTHODONTICS</span>
+    <span class="bebas" style="font-family:Bebas Neue Bold;color:white;font-weight:lighter">Prótesis</span>
   indicator: false
   halfSize: true
 
@@ -178,7 +178,7 @@ clinicCases:
       title: >
         <h6>Dentadura Total Mucosoportada Superior</h6>
   lightbox:
-    placeholder: ''
+    placeholder: GIRE EL DISPOSITIVO PARA AMPLIAR LAS IMAGENES
     type: ''
     images: 
       - image: /img/clinic-cases-prosthodontics-es-01.jpg
@@ -235,7 +235,7 @@ asides:
           display: false
         button:
           text: Más Información 
-          to: '/'
+          to: '/especialidades/protesis/tipos-de-protesis/'
           display: true
     - align: right
       title: >
@@ -250,7 +250,7 @@ asides:
           display: false
         button:
           text: Más Información 
-          to: '/'
+          to: '/especialidades/protesis/tecnologia-cad-cam/'
           display: true
   
 # Testimonial Section

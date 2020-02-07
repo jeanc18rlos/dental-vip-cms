@@ -182,7 +182,7 @@ clinicCases:
       title: >
         <h6>IMPLANT IN ZONE OF HIGH AESTHETIC COMMITMENT</h6>
   lightbox:
-    placeholder: ''
+    placeholder: ROTATE THE DEVICE TO ENLARGE THE IMAGES
     type: ''
     images: 
       - image: /img/clinic-cases-dental-implants-en-01.jpg

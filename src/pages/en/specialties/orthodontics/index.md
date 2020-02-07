@@ -180,7 +180,7 @@ clinicCases:
       title: >
         <h6>BEFORE AND AFTER   </h6>
   lightbox:
-    placeholder: ''
+    placeholder: ROTATE THE DEVICE TO ENLARGE THE IMAGES
     type: ''
     images: 
       - image: /img/clinic-cases-orthodontics-en-01.jpg

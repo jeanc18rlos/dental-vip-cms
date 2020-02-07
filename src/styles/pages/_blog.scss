@@ -1,0 +1,413 @@
+/* General Blog styles */
+
+.columns {
+  > div {
+    margin-bottom: 50px;
+  }
+  @media screen and (max-width: 768px) {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  .col-md-6 {
+    display: flex;
+    margin-bottom: 50px;
+  }
+}
+
+.blog-list-item {
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+  border: 1px solid #d8d8d8;
+  height: 100%;
+  &:hover {
+    .gatsby-image-wrapper,
+    .post-meta a,
+    p a.button {
+      opacity: 0.5;
+      color: #555;
+    }
+  }
+  .gatsby-image-wrapper {
+    min-height: 275px;
+    background-size: cover;
+    background-position: center;
+    border-bottom: 3px solid rgba(145, 197, 8, 0.6);
+  }
+  .post-meta {
+    border-top: 5px solid #202020;
+    padding: 3% 7%;
+    text-align: left;
+    a {
+      font-family: "Bebas Neue Bold";
+      font-weight: normal;
+      font-size: 18px;
+      color: #333;
+    }
+  }
+  span {
+    font-size: 10px;
+    font-weight: 400;
+  }
+  p {
+    padding: 0 7% 3%;
+    font-size: 14px;
+    line-height: 20px;
+    color: #333;
+    font-weight: 400;
+    a.button {
+      font-family: "Bebas Neue Bold";
+      font-size: 14px;
+      color: #91c508;
+    }
+  }
+}
+
+.category-header {
+  margin: 2vw 0;
+  margin-left: 2vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+  margin-top: 84px;
+
+  margin-bottom: 50px;
+  font-family: Roboto, sans-serif;
+  color: #222;
+  text-align: center;
+  text-transform: uppercase;
+  border: 1px solid #222;
+  font-weight: 400;
+  h1 {
+    font-weight: 300;
+    line-height: 54px;
+    font-size: 24px;
+    margin: 0 !important;
+    border: none !important;
+    padding-bottom: 0 !important;
+  }
+}
+
+/* Blog Post Styles */
+.post-content {
+  padding: 100px 5vw 0;
+  > .row {
+    margin: 0;
+  }
+  .post-wrapper {
+    @media (min-width: 768px) {
+      padding-right: 5vw;
+      padding-left: 0;
+    }
+    .gatsby-image-wrapper {
+      margin-top: 58px;
+      border-bottom: 5px solid #91c508;
+    }
+    h1 {
+      margin-top: -5px;
+      font-size: 36px;
+      line-height: 40px;
+      font-family: "Bebas Neue Bold";
+      font-weight: normal;
+      color: #333;
+    }
+
+    .content {
+      border-top: 10px solid #222;
+      color: #555;
+      font-weight: 400;
+      hr {
+        width: 80%;
+        border-top: 2px solid #222;
+      }
+    }
+    .post-info {
+      font-weight: 400;
+      color: #666;
+      font-family: Roboto, sans-serif;
+      padding-bottom: 15px;
+      font-size: 13px;
+      line-height: 18px;
+    }
+  }
+}
+
+/* Author Description */
+.dv-author-desc {
+  margin: 0;
+  .dv-padding {
+    padding: 0 3%;
+  }
+  p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #999;
+  }
+  hr {
+    border-color: #222;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #222;
+  }
+  .dv-author-name {
+    color: #999;
+    font-family: Bebas Neue Bold;
+    font-size: 1.3888888889vw;
+  }
+  padding: 2%;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  border: 1px solid #222;
+  .dv-autor-img {
+    border: 0 !important;
+    margin: 0 !important;
+    width: 100%;
+    max-width: 115px;
+    border-radius: 50%;
+  }
+}
+
+/* Featured Posts */
+.featured-title {
+  font-family: Bebas Neue Bold;
+  color: #333;
+  font-size: 30px;
+  padding: 0;
+}
+
+.featured-post {
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 100px;
+  border: none;
+  flex-direction: column;
+  margin-right: 2em;
+  display: inline-flex;
+  width: fit-content;
+
+  &:hover {
+    .dv-title,
+    .gatsby-image-wrapper {
+      opacity: 0.5;
+    }
+  }
+  .dv-title {
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 5px;
+    line-height: 20px;
+    width: 125px;
+    text-align: center;
+    color: #333;
+  }
+  .gatsby-image-wrapper {
+    width: 125px;
+    height: 125px;
+    margin: 0 !important;
+    border: solid 0px !important;
+    opacity: 1;
+  }
+}
+
+/*  Blog Sidebar Styles */
+.dv-sidebar {
+  @media screen and (max-width: 768px) {
+    padding: 8% 8% calc(2% + 10px) !important;
+    margin: 0 5vw 90px;
+  }
+  height: fit-content;
+  background: #ededed;
+  margin-bottom: 100px;
+  padding: 2% 2% calc(2% + 10px) !important;
+  .dv-recent-content {
+    img,
+    .gatsby-image-wrapper {
+      max-width: 80px;
+      float: left;
+      width: 100%;
+      margin-right: 8px;
+    }
+  }
+
+  .dv-newsletter-sidebar {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    form{
+      width: 100%;
+    }
+    input {
+      width: 93%;
+      margin-top: 4px;
+      margin-bottom: 14px;
+      border: 1px solid #ddd;
+      background: #f4f4f4;
+      border-radius: 3px;
+      padding: 5px;
+      font-size: 14px;
+      color: #333;
+      font-weight: 400;
+      padding-left: 5px;
+    }
+    button.tnp-submit {
+      width: 93%;
+      font-size: 15px;
+      text-transform: uppercase;
+      font-weight: 700;
+      background: #91c508;
+      padding: 4px 20px;
+      transition: all 0.8s;
+      text-decoration: none;
+      border: none;
+      margin-bottom: 18px;
+      color: #fff;
+      &:hover {
+        background: #222;
+        color: white;
+      }
+    }
+    h5 {
+      list-style: none;
+      font-size: 14px;
+      font-weight: 400;
+      color: #333;
+      line-height: 1.5;
+    }
+
+    img {
+      max-width: 160px;
+      margin: 10%;
+      display: flex;
+    }
+  }
+  li {
+    list-style: none;
+
+    font-size: 14px;
+    line-height: 2;
+    font-weight: 400;
+    a {
+      color: #333;
+    }
+    :hover {
+      color: #9b9a9a !important;
+    }
+  }
+  hr {
+    margin-top: 0 !important;
+    border-top: 2px solid #767575;
+  }
+  .dv-recent-content .dv-title {
+    margin-left: 90px;
+    font-size: 14px;
+    padding: 0 0em 2em;
+    line-height: 1.42857143;
+    font-weight: 400;
+    a {
+      color: #333;
+    }
+    :hover {
+      color: #9b9a9a !important;
+    }
+  }
+  h4 {
+    font-family: "Bebas Neue Bold";
+    font-weight: normal;
+    font-size: 18px;
+    color: #333;
+  }
+  .dv-latest-post {
+    margin-top: 77px;
+  }
+
+  .dv-search-area-blog {
+    form {
+      display: flex;
+      button {
+        width: fit-content;
+        text-align: center;
+        justify-content: center;
+        padding: 0 1em;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+      }
+      input {
+        display: flex;
+        width: 100%;
+      }
+    }
+    border: solid 1px black;
+    input {
+      border: none;
+      display: inline-flex;
+      border-right: 1px solid black;
+      background: none;
+      font-weight: 400;
+      font-size: 14px;
+      padding: 4px;
+    }
+    button {
+      border: none;
+      background: none;
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+      padding: 4px 15px;
+    }
+  }
+}
+
+/* Pagination */
+.pagination {
+  margin-top: 25px;
+  margin-bottom: 97px;
+  align-items: center;
+  justify-content: center;
+  li {
+    font-weight: 300;
+  }
+}
+.pagination > li:first-child > a,
+.pagination > li:first-child > span {
+  margin-left: 0;
+}
+.pagination > .disabled > a,
+.pagination > .disabled > a:focus,
+.pagination > .disabled > a:hover,
+.pagination > .disabled > span,
+.pagination > .disabled > span:focus,
+.pagination > .disabled > span:hover {
+  color: #ddd !important;
+  cursor: not-allowed;
+  background-color: #fff;
+  border-color: #ddd;
+}
+.pagination > li > a,
+.pagination > li > span {
+  position: relative;
+  float: left;
+  padding: 6px 12px;
+  margin-left: -1px;
+  line-height: 1.42857143;
+  color: #337ab7;
+  text-decoration: none;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 9px 15px;
+  margin: 2px;
+  color: #000;
+}
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li.active > span,
+.pagination > li.active > a {
+  background-color: #222;
+  color: #fff !important;
+}

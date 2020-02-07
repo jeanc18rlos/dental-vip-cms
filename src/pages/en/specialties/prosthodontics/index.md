@@ -11,7 +11,7 @@ hero:
   image: /img/hero-prosthodontics.jpg
   parallax: false
   title: >
-    <span class="bebas" style="font-family:Bebas Neue Bold;color:white;font-weight:lighter">Prótesis</span>
+    <span class="bebas" style="font-family:Bebas Neue Bold;color:white;font-weight:lighter">Prosthodontics</span>
   indicator: false
   halfSize: true
 
@@ -196,7 +196,7 @@ clinicCases:
       title: >
         <h6>MUCO-SUPPORTED COMPLETE DENTURE</h6>
   lightbox:
-    placeholder: ''
+    placeholder: ROTATE THE DEVICE TO ENLARGE THE IMAGES
     type: ''
     images: 
       - image: /img/clinic-cases-prosthodontics-en-01.jpg

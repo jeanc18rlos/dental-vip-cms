@@ -10,7 +10,6 @@ import {
   NavLink,
 } from 'reactstrap'
 import { isMobile } from 'react-device-detect'
-import PropTypes from 'prop-types'
 import classnames from 'classnames'
 import { Link, navigate } from 'gatsby'
 import  usaIcon from '../../img/layout/icons/usa.png'
@@ -180,8 +179,8 @@ const Header = props => {
                     to={i.to}
                   >
                     {i.title}{' '}
-                    <span class="dv-more">
-                      <i class="icon-angle-down" />
+                    <span className="dv-more">
+                      <i className="icon-angle-down" />
                     </span>
                   </Link>
 

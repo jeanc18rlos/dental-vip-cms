@@ -1,6 +1,5 @@
 import React from 'react'
 import Img from 'gatsby-image'
-import PropTypes from 'prop-types'
 
 const Specialties = props => {
   const { paragraph, slogan, title, features } = props
@@ -55,19 +54,3 @@ const Specialties = props => {
 }
 
 export default Specialties
-
-Specialties.propTypes = {
-  title: PropTypes.string.isRequired,
-  paragraph: PropTypes.string.isRequired,
-  slogan: PropTypes.string.isRequired,
-  features: PropTypes.arrayOf(
-    PropTypes.exact({
-      to: PropTypes.string,
-      img: PropTypes.objectOf(
-        PropTypes.oneOfType([PropTypes.string, PropTypes.number])
-      ).isRequired,
-      description: PropTypes.string,
-      title: PropTypes.string,
-    })
-  ).isRequired,
-}

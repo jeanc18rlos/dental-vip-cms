@@ -1,6 +1,6 @@
 import React from "react";
 import BackgroundImage from "gatsby-background-image";
-import PropTypes from "prop-types";
+
 
 const HomeParallax = props => {
   const { stadistics, landscape, portrait, desktop, portraitxl } = props;
@@ -61,15 +61,3 @@ const HomeParallax = props => {
 };
 
 export default HomeParallax;
-HomeParallax.propTypes = {
-  width: PropTypes.number.isRequired,
-  height: PropTypes.number.isRequired,
-  desktopHome: PropTypes.string.isRequired,
-  landscapeHome: PropTypes.string.isRequired,
-  portraitHome: PropTypes.string.isRequired,
-  portraitxlHome: PropTypes.string.isRequired,
-  stadisticsHome: PropTypes.objectOf(
-    PropTypes.oneOfType([PropTypes.string, PropTypes.number])
-  ).isRequired,
-  dpr: PropTypes.number.isRequired
-};

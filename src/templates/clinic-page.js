@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Img from "gatsby-image";
 import Layout from "../Layout";
@@ -17,18 +16,7 @@ import Whitespace from "../components/Whitespace";
 import InfoImage from "../components/InfoImage";
 import Financing from "../components/Financing";
 import Checkout from "../components/DV-Checkout";
-/*
-HERO ---ready
-HEADING ---ready
-CONTENT 
-GALLERY ---ready
-SECTIONS ---ready
-QUOTE ---ready
-PARALLAX
-social
-payment-options
-PROCEDURES ---ready
-*/
+
 export const ClinicPageTemplate = ({
   hero,
   heading,
@@ -47,16 +35,23 @@ export const ClinicPageTemplate = ({
     display: lightbox.display,
     type: lightbox.type,
     placeholder: lightbox.placeholder,
-    images: lightbox.images.map(i => {
+    images: lightbox.images.map((i, k) => {
       return {
         renderItem: () => {
           return i.image.childImageSharp ? (
             <Img
+            imgStyle={{ objectPosition: 'center'}} 
+              key={`image-${k}`}
               className="lightbox-lazy facilities"
               fluid={i.image.childImageSharp.fluid}
             />
           ) : (
-            <img className="lightbox-lazy" src={i.image} />
+            <img
+              className="lightbox-lazy"
+              alt={`image-${k}`}
+              key={`image-${k}`}
+              src={i.image}
+            />
           );
         }
       };
@@ -76,9 +71,7 @@ export const ClinicPageTemplate = ({
           elements={elements}
         />
       )}
-      {
-        checkout && checkout.display && <Checkout {...checkout} />
-      }
+      {checkout && checkout.display && <Checkout {...checkout} />}
       {gallery.display && <Whitespace bgColor="#fff" />}
       {sections.display && <InfoSection {...{ sections: sections.sections }} />}
       {lightQuote && lightQuote.display && <Quote {...lightQuote} />}
@@ -132,7 +125,6 @@ const ClinicPage = ({ data }) => {
           procedures
         }}
       />
-      
     </Layout>
   );
 };
@@ -164,7 +156,7 @@ export const pageQuery = graphql`
           indicator
           halfSize
         }
-        moreinfoFinancing{
+        moreinfoFinancing {
           display
           type
           imgparallax {

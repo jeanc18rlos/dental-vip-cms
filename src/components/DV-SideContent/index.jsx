@@ -4,7 +4,7 @@ import Section from "./Section";
 const DVsideContent = props => {
   const { classname, sections, width, borderBottom, borderTop } = props;
   return (
-    <section className={`dv-side-content ${props.classname}`}>
+    <section className={`dv-side-content ${classname}`}>
       <div>
         <main>
           {sections &&

@@ -17,6 +17,7 @@ const DVfaq = ({ title, blocks }) => {
         {blocks.map((block, key) => {
           return (
             <div
+              key={`block-faq-${key}`}
               className="col-xs-12 col-md-6 accordion md-accordion panel-group dv-npl dv-npr-mob"
               id="accordionEx"
               role="tablist"
@@ -26,7 +27,7 @@ const DVfaq = ({ title, blocks }) => {
                 return (
                   <div className="panel panel-default">
                     <div
-                      id="headingTwo0"
+                      key={`block-faq-${key}-question-${k}`}
                       className="panel-heading accordion-toggle collapsed"
                       data-toggle="collapse"
                       data-parent="#accordionEx,#accordionEx1"
@@ -54,8 +55,7 @@ const DVfaq = ({ title, blocks }) => {
                         dangerouslySetInnerHTML={{
                           __html: converter.makeHtml(i.answer)
                         }}
-                      >
-                      </div>
+                      ></div>
                     </Collapse>
                   </div>
                 );

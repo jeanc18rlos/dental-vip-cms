@@ -171,7 +171,7 @@ clinicCases:
       title: >
         <h6>Retratamiento, Desobturación Y Núcleo Artificial</h6>
   lightbox:
-    placeholder: ''
+    placeholder: GIRE EL DISPOSITIVO PARA AMPLIAR LAS IMAGENES
     type: ''
     images: 
       - image: /img/clinic-cases-endodontics-es-01.jpg

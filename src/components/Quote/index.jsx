@@ -1,6 +1,5 @@
 // Dependencies
 import React from 'react'
-import PropTypes from 'prop-types'
 import Img from 'gatsby-image'
 
 const Quote = props => {
@@ -23,8 +22,4 @@ const Quote = props => {
 }
 
 export default Quote
-Quote.propTypes = {
-  img: PropTypes.string.isRequired,
-  content: PropTypes.string.isRequired,
-  nameclass: PropTypes.string.isRequired,
-}
+

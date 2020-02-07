@@ -202,7 +202,7 @@ clinicCases:
       title: >
         <h6>METAL-PORCELAIN FULL ARCH HYBRID PROSTHESIS</h6>
   lightbox:
-    placeholder: ''
+    placeholder: ROTATE THE DEVICE TO ENLARGE THE IMAGES
     type: ''
     images: 
       - image: /img/clinic-cases-zygomatic-implants-en-01.jpg

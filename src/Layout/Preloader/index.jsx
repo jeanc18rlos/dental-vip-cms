@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 
 const Preloader = props => {
   const { preloader, title } = props
@@ -38,7 +37,3 @@ const Preloader = props => {
   )
 }
 export default Preloader
-Preloader.propTypes = {
-  preloader: PropTypes.string.isRequired,
-  title: PropTypes.string.isRequired,
-}

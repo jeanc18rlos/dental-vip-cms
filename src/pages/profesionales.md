@@ -200,7 +200,7 @@ personal:
 # Contact Form
 form:
   title: ¡Consúltenos Ahora Mismo!
-  img: /img/parallax-form-specialties.png
+  img: /img/parallax-form-professionals.jpg
 
 # Procedures 
 procedures:

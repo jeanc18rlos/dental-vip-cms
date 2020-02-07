@@ -196,7 +196,7 @@ clinicCases:
       title: >
         <h6>POCKET REDUCTION SURGERY</h6>
   lightbox:
-    placeholder: ''
+    placeholder: ROTATE THE DEVICE TO ENLARGE THE IMAGES
     type: ''
     images: 
       - image: /img/clinic-cases-periodontics-en-01.jpg

@@ -1,6 +1,5 @@
 // Dependencies
 import React from 'react'
-import PropTypes from 'prop-types'
 import Img from 'gatsby-image'
 import showdown from "showdown";
 const converter = new showdown.Converter();
@@ -50,13 +49,3 @@ const InfoContent = props => {
 }
 
 export default InfoContent
-
-InfoContent.propTypes = {
-  type: PropTypes.string.isRequired,
-  titleimage: PropTypes.string.isRequired,
-  titlecontent: PropTypes.string.isRequired,
-  contentimage: PropTypes.string.isRequired,
-  description1: PropTypes.string.isRequired,
-  description2: PropTypes.string.isRequired,
-  id: PropTypes.string.isRequired,
-}

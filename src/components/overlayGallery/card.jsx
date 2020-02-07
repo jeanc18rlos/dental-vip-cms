@@ -2,7 +2,6 @@ import React from "react";
 import classnames from "classnames";
 import { isMobile } from "react-device-detect";
 import Img from "gatsby-image";
-import PropTypes from "prop-types";
 import showdown from "showdown";
 import { navigate } from "gatsby";
 const converter = new showdown.Converter();
@@ -18,7 +17,6 @@ const Card = props => {
     setActiveCard,
     resetActiveCard,
     isMasonry,
-    width,
     placeholder,
     type,
     openPopupbox,
@@ -115,6 +113,7 @@ const Card = props => {
                 onClick={() => {
                   navigate(link);
                 }}
+                role="button"
                 type="button"
                 className="gallery-btn"
               >
@@ -238,22 +237,3 @@ const Card = props => {
 };
 
 export default Card;
-Card.propTypes = {
-  link: PropTypes.string.isRequired,
-  bg: PropTypes.objectOf(
-    PropTypes.oneOfType([PropTypes.string, PropTypes.number])
-  ).isRequired,
-  body: PropTypes.element.isRequired,
-  title: PropTypes.string.isRequired,
-  activeCard: PropTypes.oneOfType([PropTypes.string, PropTypes.bool])
-    .isRequired,
-  action: PropTypes.oneOfType([PropTypes.func, PropTypes.bool]).isRequired,
-  setActiveCard: PropTypes.func.isRequired,
-  resetActiveCard: PropTypes.func.isRequired,
-  isMasonry: PropTypes.oneOfType([PropTypes.string, PropTypes.bool]).isRequired,
-  width: PropTypes.number.isRequired,
-
-  type: PropTypes.string.isRequired,
-  openPopupbox: PropTypes.func.isRequired,
-  index: PropTypes.oneOfType([PropTypes.string, PropTypes.number]).isRequired
-};

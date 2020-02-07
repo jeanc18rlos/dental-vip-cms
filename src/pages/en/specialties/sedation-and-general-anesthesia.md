@@ -198,7 +198,7 @@ clinicCases:
         <i></i>
 
   lightbox:
-    placeholder: ''
+    placeholder: ROTATE THE DEVICE TO ENLARGE THE IMAGES
     type: ''
     images: 
       - image: /img/clinic-cases-sedation-and-general-anesthesia-en-01.jpg

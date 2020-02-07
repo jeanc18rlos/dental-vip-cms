@@ -50,8 +50,6 @@
     &:hover
       color: #222 !important
       background: white !important
-  .gallery-indicators
-    display: none
   &.masonry-gallery
     margin-top: auto!important
     margin-bottom: auto !important
@@ -290,16 +288,14 @@
         font-size: .85rem !important
 
 .lightbox-lazy
-  width: 86% !important
+  width: 90% !important
 .lightbox-lazy.facilities
-  width: 80% !important
+  width: 90% !important
 
-@media #{$sm-mob-pt,$st-mob-pt,$lg-mob-pt,$st-tab-pt,$lg-tab-pt}
-  .lightbox-lazy
+@media screen and (orientation: portrait)
+  .lightbox-lazy, .lightbox-lazy.facilities
     width: 100% !important
 
-  .gallery-indicators
-    display: block !important
 @media #{$st-mob-ld,$sm-mob-ld  }
   #overlayGallery
     .gallery-ob

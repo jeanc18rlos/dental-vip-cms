@@ -179,7 +179,7 @@ clinicCases:
       title: >
         <h6>Implante en Zona de Alto Compromiso Estético</h6>
   lightbox:
-    placeholder: ''
+    placeholder: GIRE EL DISPOSITIVO PARA AMPLIAR LAS IMAGENES
     type: ''
     images: 
       - image: /img/clinic-cases-dental-implants-es-01.jpg
@@ -235,7 +235,7 @@ asides:
           display: false  
         button:
           text: Más Información 
-          to: '/'
+          to: '/especialidades/implantes-dentales/diagnostico-y-planificacion-3d/'
           display: true
     - align: right
       title: >
@@ -250,7 +250,7 @@ asides:
           display: false
         button:
           text: Más Información 
-          to: '/'
+          to: '/especialidades/implantes-dentales/protesis-sobre-implantes/'
           display: true
   
 # Testimonial Section

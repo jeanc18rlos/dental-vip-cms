@@ -3,15 +3,12 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Img from "gatsby-image";
-import PropTypes from "prop-types";
 import classnames from "classnames";
 import { isMobile } from 'react-device-detect'
 import Card from './card'
-import showdown from "showdown";
 import LightBoxCarousel from "../LightBoxCarousel";
 import { PopupboxManager, PopupboxContainer } from "react-popupbox";
-
-const converter = new showdown.Converter();
+import { useStaticQuery, graphql } from "gatsby";
 
 const settings = {
   dots: true,
@@ -59,6 +56,17 @@ const altSettings = {
 const Carousel = props => {
   const { title, items,  width, type, images, placeholder  } = props;
   const [activeCard, setActiveCard] = useState(false);
+  const data = useStaticQuery(graphql`
+    query RotateImage2 {
+      file(relativePath: { eq: "icons-rotateDevice.png" }) {
+        childImageSharp {
+          fluid(maxWidth: 1600) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+    }
+  `);
   const openPopupbox = indexImg => {
     const content = (
       <div>
@@ -93,7 +101,7 @@ const Carousel = props => {
           }}
         >
           {
-            //<img src={rotateDevice} alt="rotate" style={{ maxWidth: '90px' }} />
+            <Img fluid={data.file.childImageSharp.fluid} alt="rotate" style={{ maxWidth: '90px', width: '100%', margin: 'auto' }}/>
           }
         </div>
 
@@ -132,7 +140,7 @@ const Carousel = props => {
             const key = index;
             return (
               <Card
-                index={index}
+                index={key}
                 type={type}
                 icon='icon-search'
                 action={true}
@@ -141,7 +149,7 @@ const Carousel = props => {
                 resetActiveCard={() => {
                   setActiveCard(false);
                 }}
-                
+              
                 width={width}
                 setActiveCard={title => {
                   return title === activeCard && isMobile
@@ -196,17 +204,3 @@ const Carousel = props => {
 };
 
 export default Carousel;
-
-Carousel.propTypes = {
-  title: PropTypes.string.isRequired,
-  items: PropTypes.arrayOf(
-    PropTypes.exact({
-      img: PropTypes.objectOf(
-        PropTypes.oneOfType([PropTypes.string, PropTypes.number])
-      ),
-      testimonial: PropTypes.string,
-      position: PropTypes.string,
-      name: PropTypes.string
-    })
-  ).isRequired
-};

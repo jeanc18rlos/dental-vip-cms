@@ -170,7 +170,7 @@ procedures:
       to: /especialidades/estetica-dental/
       img: /img/procedures-design.jpg
     - title: Brackets Estéticos
-      to: /especialidades/ortodoncia/aesthetic-devices/
+      to: /especialidades/ortodoncia/aparatos-esteticos/
       img: /img/procedures-brackets.jpg
 
 elements:

@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import Card from './card'
 
 const Procedures = props => {
@@ -33,15 +32,3 @@ const Procedures = props => {
 }
 
 export default Procedures
-Procedures.propTypes = {
-  title: PropTypes.string.isRequired,
-  procedures: PropTypes.arrayOf(
-    PropTypes.exact({
-      img: PropTypes.objectOf(
-        PropTypes.oneOfType([PropTypes.string, PropTypes.number])
-      ).isRequired,
-      title: PropTypes.string.isRequired,
-      to: PropTypes.string.isRequired,
-    })
-  ).isRequired,
-}

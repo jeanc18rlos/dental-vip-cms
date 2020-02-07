@@ -175,7 +175,7 @@ clinicCases:
       title: >
         <h6>RETREATMENT, DEOBTURATION AND POST AND CORE SYSTEM</h6>
   lightbox:
-    placeholder: ''
+    placeholder: ROTATE THE DEVICE TO ENLARGE THE IMAGES
     type: ''
     images: 
       - image: /img/clinic-cases-endodontics-en-01.jpg

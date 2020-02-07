@@ -1,16 +1,28 @@
 #BasicContent-cp {
   background: white;
+  &.bebas-title {
+    background-color: #ededed;
+    .dv-main-menu {
+      .dv-page-titles {
+        font-size: 40px;
+        line-height: 1.2;
+        font-weight: 700;
+        letter-spacing: 2px;
+        font-family: "Bebas Neue Bold";
+      }
+    }
+  }
   .dv-main-menu {
     .dv-page-titles {
       color: $bg-gray;
-      font-family: 'Roboto', sans-serif;
+      font-family: "Roboto", sans-serif;
       font-weight: 300 !important;
       text-align: center;
     }
 
     .dv-subtitle {
       color: $main-gray;
-      font-family: 'Roboto', sans-serif;
+      font-family: "Roboto", sans-serif;
       font-weight: 400;
     }
 
@@ -19,7 +31,7 @@
     }
     .dv-subtitle-small {
       color: $main-gray;
-      font-family: 'Roboto', sans-serif;
+      font-family: "Roboto", sans-serif;
       font-size: 12px;
       font-weight: 400;
       margin-bottom: 6px !important;
@@ -33,10 +45,10 @@
 }
 
 // Desktop views
-@media screen and (min-width:850px) {
+@media screen and (min-width: 850px) {
   #BasicContent-cp {
     padding: 0 5vw;
-
+   
     .dv-main-menu {
       padding: 107px 0 103px;
 
@@ -95,7 +107,13 @@
 @media screen and (max-width: 850px) {
   #BasicContent-cp {
     padding: 0 5vw;
-
+    &.bebas-title {
+      .dv-main-menu {
+        .dv-page-titles {
+          font-size: 40px;
+        }
+      }
+    }
     .dv-main-menu {
       padding: 80px 0;
 
@@ -115,31 +133,30 @@
   }
 }
 
-.dv-specialties-heading{
+.dv-specialties-heading {
   background: #202020;
   display: flex;
   justify-content: center;
   align-items: center;
-  >.dv-main-menu{
+  > .dv-main-menu {
     padding: 100px 5vw 78px;
     align-items: center;
     display: flex;
     justify-content: center;
     flex-direction: column;
-    @media screen and (max-width:850px) {
+    @media screen and (max-width: 850px) {
       padding: 90px 5vw 69px;
-      
     }
   }
-  .image{
+  .image {
     max-width: 72px;
     width: 100%;
     margin-bottom: 29px;
-    @media screen and (max-width:850px) {
+    @media screen and (max-width: 850px) {
       margin-bottom: 24px;
     }
   }
-  p{
+  p {
     max-width: 80%;
     font-size: 18px;
     font-weight: 300;
@@ -147,10 +164,10 @@
     font-style: italic;
     text-align: center;
     color: #ccc;
-    @media screen and (max-width:850px) {
+    @media screen and (max-width: 850px) {
       line-height: 24px;
-      
-      font-size: 17px; 
+
+      font-size: 17px;
     }
   }
 }

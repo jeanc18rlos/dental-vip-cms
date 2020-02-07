@@ -1,6 +1,5 @@
 // Depenencies
 import React from 'react'
-import PropTypes from 'prop-types'
 import BackgroundImage from 'gatsby-background-image'
 
 const FollowUs = props => {
@@ -42,14 +41,3 @@ const FollowUs = props => {
 }
 
 export default FollowUs
-
-FollowUs.propTypes = {
-  imgparallax: PropTypes.objectOf(
-    PropTypes.oneOf([PropTypes.string, PropTypes.number])
-  ).isRequired,
-  title: PropTypes.string.isRequired,
-  subtitle: PropTypes.string.isRequired,
-  icons: PropTypes.string.isRequired,
-  additionalText: PropTypes.string.isRequired,
-  nameClass: PropTypes.string.isRequired,
-}

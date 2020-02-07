@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import showdown from "showdown";
 const converter = new showdown.Converter();
 
@@ -14,6 +13,3 @@ const WhiteSpace = props => {
 }
 export default WhiteSpace
 
-WhiteSpace.propTypes = {
-  bgColor: PropTypes.string.isRequired,
-}

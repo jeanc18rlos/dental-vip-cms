@@ -178,7 +178,7 @@ clinicCases:
       title: >
         <h6>Reducción de Sacos Patológicos </h6>
   lightbox:
-    placeholder: ''
+    placeholder: GIRE EL DISPOSITIVO PARA AMPLIAR LAS IMAGENES
     type: ''
     images: 
       - image: /img/clinic-cases-periodontics-es-01.jpg

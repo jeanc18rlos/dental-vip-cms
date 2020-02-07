@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import ScrollUpButton from "react-scroll-up-button";
-import PropTypes from "prop-types";
 import Header from "./Header";
 import ContactBar from "./ContactBar";
 import Footer from "./Footer";
@@ -87,6 +86,3 @@ const Layout = ({ children }) => {
 };
 
 export default Layout;
-Layout.propTypes = {
-  children: PropTypes.arrayOf(PropTypes.element).isRequired
-};

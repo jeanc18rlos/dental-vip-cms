@@ -1,6 +1,5 @@
 import React from "react";
 import { Link, useStaticQuery, graphql } from "gatsby";
-import PropTypes from "prop-types";
 import Img from "gatsby-image";
 
 const Footer = props => {
@@ -16,7 +15,6 @@ const Footer = props => {
     }
   `);
   const {
-    teethLogo,
     logo,
     mainNumber,
     phones,
@@ -130,26 +128,3 @@ const Footer = props => {
 };
 
 export default Footer;
-Footer.propTypes = {
-  teethLogo: PropTypes.string.isRequired,
-  logo: PropTypes.string.isRequired,
-  mainNumber: PropTypes.objectOf(PropTypes.string).isRequired,
-  phones: PropTypes.arrayOf(PropTypes.objectOf(PropTypes.string.isRequired))
-    .isRequired,
-  partnerDark1: PropTypes.string.isRequired,
-  partnerDark2: PropTypes.string.isRequired,
-  partnerDark3: PropTypes.string.isRequired,
-  contact: PropTypes.objectOf(PropTypes.string).isRequired,
-  social: PropTypes.objectOf(PropTypes.string).isRequired,
-  veIcon: PropTypes.string.isRequired,
-  slogan: PropTypes.string.isRequired,
-  address: PropTypes.string.isRequired,
-  copyright: PropTypes.objectOf(
-    PropTypes.oneOfType([
-      PropTypes.objectOf(PropTypes.string),
-      PropTypes.string
-    ])
-  ).isRequired,
-  prismicIcon: PropTypes.string.isRequired,
-  legal: PropTypes.arrayOf(PropTypes.objectOf(PropTypes.string)).isRequired
-};

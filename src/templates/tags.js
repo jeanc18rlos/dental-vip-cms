@@ -1,39 +1,38 @@
 import React from "react";
-import { Link, graphql, StaticQuery } from "gatsby";
+import { graphql } from "gatsby";
 import Layout from "../Layout";
 import BlogRoll from "../components/BlogRoll";
-import DVhero from "../components/DV-Hero";
-import BasicContent from "../components/BasicContent";
 import SEO from "../components/seo";
 import SetLang from "../components/setLang";
 
 class TagRoute extends React.Component {
   render() {
-    const posts = this.props.data.posts.edges;
-    const postLinks = posts.map(post => (
-      <li key={post.node.fields.slug}>
-        <Link to={post.node.fields.slug}>
-          <h2 className="is-size-2">{post.node.frontmatter.title}</h2>
-        </Link>
-      </li>
-    ));
     const tag = this.props.pageContext.tag;
     const title = this.props.data.site.siteMetadata.title;
     const totalCount = this.props.data.posts.totalCount;
-    const tagHeader = `${totalCount} post${
-      totalCount === 1 ? "" : "s"
-    } tagged with “${tag}”`;
 
     return (
       <Layout>
         <SEO title={title} />
-        <SetLang language={this.props.data.home.frontmatter.language} link={this.props.data.home.frontmatter.language !== "es" ? "/blog/" : "/en/blog/"} />
+        <SetLang
+          language={this.props.data.home.frontmatter.language}
+          link={
+            this.props.data.home.frontmatter.language !== "es"
+              ? "/blog/"
+              : "/en/blog/"
+          }
+        />
         <section className="section">
           <div className="container">
             <div className="content row">
-            <header class="category-header">
-                        <h1 class="dv-page-titles dv-page-title-search">{this.props.data.home.frontmatter.language === "es" ? "Categoría" : "Category"}: {tag}</h1>
-                    </header>
+              <header className="category-header">
+                <h1 className="dv-page-titles dv-page-title-search">
+                  {this.props.data.home.frontmatter.language === "es"
+                    ? "Categoría"
+                    : "Category"}
+                  : {tag}
+                </h1>
+              </header>
               <BlogRoll data={this.props.data} count={totalCount} />
             </div>
           </div>

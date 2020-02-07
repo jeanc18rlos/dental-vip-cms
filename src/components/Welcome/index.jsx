@@ -1,6 +1,5 @@
 import React from 'react'
 import Img from 'gatsby-image'
-import PropTypes from 'prop-types'
 import showdown from 'showdown'
 
 const converter = new showdown.Converter()
@@ -40,19 +39,3 @@ const Welcome = props => {
 }
 
 export default Welcome
-Welcome.propTypes = {
-  logo: PropTypes.objectOf(
-    PropTypes.oneOfType([PropTypes.string, PropTypes.number])
-  ).isRequired,
-  slogan: PropTypes.string.isRequired,
-  partners: PropTypes.arrayOf(
-    PropTypes.exact({
-      image: PropTypes.objectOf(
-        PropTypes.oneOfType([PropTypes.string, PropTypes.number])
-      ),
-      name: PropTypes.string,
-    })
-  ).isRequired,
-  subTitle: PropTypes.string.isRequired,
-  body: PropTypes.element.isRequired,
-}

@@ -186,7 +186,7 @@ clinicCases:
       title: >
         <h6>MAXILLARY FIRST MOLAR EXTRACTION </h6>
   lightbox:
-    placeholder: ''
+    placeholder: ROTATE THE DEVICE TO ENLARGE THE IMAGES
     type: ''
     images: 
       - image: /img/clinic-cases-oral-surgery-en-01.jpg

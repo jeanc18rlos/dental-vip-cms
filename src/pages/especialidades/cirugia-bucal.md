@@ -188,7 +188,7 @@ clinicCases:
       title: >
         <h6>Extracción de un Primer Molar Superior </h6>
   lightbox:
-    placeholder: ''
+    placeholder: GIRE EL DISPOSITIVO PARA AMPLIAR LAS IMAGENES
     type: ''
     images: 
       - image: /img/clinic-cases-oral-surgery-es-01.jpg

@@ -201,7 +201,7 @@ personal:
 # Contact Form
 form:
   title: Consult Us Right Now!
-  img: /img/parallax-form-specialties.png
+  img: /img/parallax-form-professionals.jpg
 # Procedures 
 procedures:
   display: true

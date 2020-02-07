@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Img from "gatsby-image";
 import Layout from "../Layout";
@@ -28,7 +27,7 @@ export const IndexPageTemplate = ({
   const lazyLightBox = {
     type: lightbox.type,
     placeholder: lightbox.placeholder,
-    images: lightbox.images.map(i => {
+    images: lightbox.images.map((i,k) => {
       return {
         renderItem: () => {
           return i.image.childImageSharp ? (
@@ -37,7 +36,7 @@ export const IndexPageTemplate = ({
               fluid={i.image.childImageSharp.fluid}
             />
           ) : (
-            <img className="lightbox-lazy" src={i.image} />
+            <img className="lightbox-lazy" alt={`gallery-${k}`} src={i.image} />
           );
         }
       };
@@ -57,17 +56,7 @@ export const IndexPageTemplate = ({
   );
 };
 
-IndexPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  title: PropTypes.string,
-  heading: PropTypes.string,
-  subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
-  description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array
-  })
-};
+
 
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
@@ -93,13 +82,7 @@ const IndexPage = ({ data }) => {
   );
 };
 
-IndexPage.propTypes = {
-  data: PropTypes.shape({
-    markdownRemark: PropTypes.shape({
-      frontmatter: PropTypes.object
-    })
-  })
-};
+
 
 export default IndexPage;
 
