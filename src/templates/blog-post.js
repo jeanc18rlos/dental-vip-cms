@@ -36,20 +36,10 @@ export const BlogPostTemplate = ({
             <Img fluid={featuredimage.childImageSharp.fluid} alt={"images"} />
 
             <div className="content">
-              <br></br>
-              <br></br>
               <SharePanel slug={data.markdownRemark.fields.slug} />
-              <br></br>
-              <br></br>
-              <br></br>
               <PostContent content={content} />
             </div>
-            <br></br>
-            <br></br>
             <SharePanel slug={data.markdownRemark.fields.slug} />
-            <br></br>
-            <br></br>
-
             <div className="row col-xs-12 dv-author-desc">
               <div className="col-xs-12 col-sm-2 text-center">
                 <Img

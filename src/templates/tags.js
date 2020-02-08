@@ -23,14 +23,14 @@ class TagRoute extends React.Component {
           }
         />
         <section className="section">
-          <div className="container">
+          <div className="blog-container">
             <div className="content row">
-              <header className="category-header">
+              <header className="col-md-12  is-multiline category-header">
                 <h1 className="dv-page-titles dv-page-title-search">
                   {this.props.data.home.frontmatter.language === "es"
                     ? "Categoría"
                     : "Category"}
-                  : {tag}
+                  : <i><b>{tag}</b></i>
                 </h1>
               </header>
               <BlogRoll data={this.props.data} count={totalCount} />

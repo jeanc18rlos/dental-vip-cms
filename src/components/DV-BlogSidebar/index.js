@@ -1,11 +1,23 @@
 import React from "react";
 import { kebabCase } from "lodash";
 import PreviewCompatibleImage from "../PreviewCompatibleImage";
-import { Link } from "gatsby";
+import { Link, useStaticQuery, graphql } from "gatsby";
+import Img from "gatsby-image";
 
 const SideBar = ({ structure, latestPosts, categories, language }) => {
+  const icon = useStaticQuery(graphql`
+    query blogImage {
+      file(relativePath: { eq: "icons-blog-subscribe.png" }) {
+        childImageSharp {
+          fluid(maxWidth: 1600) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+    }
+  `);
   return (
-    <div className="col-xs-12 col-md-3 sidebar dv-sidebar">
+    <div className="col-xs-12 col-md-4 col-lg-3 sidebar dv-sidebar">
       <h4>{structure.aside.search.search}</h4>
       <hr />
       <div className="dv-search-area-blog">
@@ -39,7 +51,7 @@ const SideBar = ({ structure, latestPosts, categories, language }) => {
         );
       })}
 
-      <h4 className="dv-latest-post">{structure.aside.categories}</h4>
+      <h4 className="dv-categories">{structure.aside.categories}</h4>
       <hr />
       {categories.group.map(tag => (
         <li key={tag.fieldValue}>
@@ -53,19 +65,17 @@ const SideBar = ({ structure, latestPosts, categories, language }) => {
         </li>
       ))}
 
-      <h4 className="dv-latest-post">{structure.aside.subscribe}</h4>
+      <h4 className="dv-subscribe">{structure.aside.subscribe}</h4>
       <hr />
       <div className="tnp tnp-subscription dv-newsletter-sidebar">
-        <img
-          src="https://dentalvip.com.ve/wp-content/themes/DentalVip/assets/vip.jpg"
+        <Img
+          fluid={icon.file.childImageSharp.fluid}
           alt="VIP Newsletter"
           className="icon-news"
-        />
+       />
+
         <h5></h5>
-        <form
-          method="post"
-        >
-         
+        <form method="post">
           <div className="tnp-field tnp-field-firstname">
             <input
               className="tnp-firstname"

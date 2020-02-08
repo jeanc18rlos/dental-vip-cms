@@ -152,7 +152,7 @@ export default () => {
             <BasicContent {...data.home.frontmatter.heading} />
           )}
           <section className="section">
-            <div className="container">
+            <div className="blog-container">
               <div className="content row">
                 <BlogRoll data={data} count={count} />
               </div>
