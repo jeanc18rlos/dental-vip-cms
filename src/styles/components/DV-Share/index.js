@@ -7,7 +7,9 @@ import {
     EmailIcon,
     FacebookIcon,
     LinkedinIcon,
-    TwitterIcon
+    TwitterIcon,
+    WhatsappShareButton,
+    WhatsappIcon
 } from "react-share";
 const SharePanel = ({slug}) => {
     return <div className="share-panel">
@@ -20,6 +22,9 @@ const SharePanel = ({slug}) => {
         <LinkedinShareButton url={`dentalvip.com.ve${slug}`} style={{ marginRight: '10px' }}>
             <LinkedinIcon size={36} round={true} />
         </LinkedinShareButton>
+        <WhatsappShareButton url={`dentalvip.com.ve${slug}`} style={{ marginRight: '10px' }}>
+            <WhatsappIcon size={36} round={true} />
+        </WhatsappShareButton>
         <EmailShareButton url={`dentalvip.com.ve${slug}`} >
             <EmailIcon size={36} round={true} />
         </EmailShareButton>

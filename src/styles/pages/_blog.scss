@@ -1,5 +1,5 @@
 /* General Blog styles */
-.blog-container{
+.blog-container {
   width: 100%;
   padding-right: calc(5vw + 15px);
   padding-left: calc(5vw + 15px);
@@ -8,6 +8,9 @@
 }
 .columns {
   > div {
+    @media screen and (max-width: 850px) {
+      margin-bottom: 65px;
+    }
     margin-bottom: 75px;
   }
   @media screen and (max-width: 768px) {
@@ -70,15 +73,14 @@
     }
   }
 }
-.columns.is-multiline{
+.columns.is-multiline {
   padding: 0;
-  padding-right: calc(5vw - 30px) !important
+  padding-right: calc(5vw - 30px) !important;
 }
-.share-panel{
+.share-panel {
   margin: 48px 0 40px;
 }
 .category-header {
-
   display: flex;
   justify-content: center;
   align-items: center;
@@ -91,6 +93,14 @@
   text-transform: uppercase;
   border: 1px solid #222;
   font-weight: 400;
+  @media screen and (max-width: 850px) {
+    margin-top: 49px;
+    margin-bottom: 63px;
+    h1 {
+      line-height: 38px !important;
+      font-size: 20px !important;
+    }
+  }
   h1 {
     font-weight: 300;
     line-height: 54px;
@@ -104,8 +114,15 @@
 /* Blog Post Styles */
 .post-content {
   padding: 100px 5vw 0;
+  @media screen and (min-width: 768px) {
+    padding: 48px 5vw 0
+  }
+
+  
   > .row {
-    margin: 0;
+    @media (min-width: 768px) {
+      margin: 0;
+    }
   }
   .post-wrapper {
     @media (min-width: 768px) {
@@ -147,6 +164,20 @@
 
 /* Author Description */
 .dv-author-desc {
+  @media screen and (max-width: 850px) {
+    margin: 0;
+    padding: 11px 30px;
+    margin-top: 90px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 84px;
+    .dv-autor-img.gatsby-image-wrapper {
+      margin: auto !important;
+      margin-bottom: 16px !important;
+    }
+
+  }
   margin: 0;
   .dv-padding {
     padding: 0 3%;
@@ -167,7 +198,7 @@
   .dv-author-name {
     color: #999;
     font-family: Bebas Neue Bold;
-    font-size: 1.3888888889vw;
+    font-size: 18px;
   }
   padding: 2%;
   margin-top: 30px;
@@ -213,10 +244,10 @@
     line-height: 20px;
     width: 125px;
     text-align: left;
-    
-    a{
+
+    a {
       color: #333;
-      &:hover{
+      &:hover {
         color: #333;
       }
     }
@@ -232,9 +263,9 @@
 
 /*  Blog Sidebar Styles */
 .dv-sidebar {
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 767px) {
     padding: 8% 8% calc(2% + 10px) !important;
-    margin: 0 5vw 90px;
+    margin: 0 5vw 65px;
   }
   height: fit-content;
   background: #ededed;
@@ -257,7 +288,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    form{
+    form {
       width: 100%;
     }
     input {

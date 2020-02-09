@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
-title: ¡Dientes en un Día! Mito o Realidad
+title: > 
+  ¡Dientes en un Día! Mito o Realidad
 date: 2019-05-19T15:04:10.000Z
 featuredpost: false
 language: es

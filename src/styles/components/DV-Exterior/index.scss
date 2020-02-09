@@ -173,7 +173,8 @@
   }
   &.annexed{
     .image{
-      max-width: 370px;
+      margin-top: 7px;
+      max-width: 420px;
       width: calc(100% - 10vw);
     }
     .image-wrap {

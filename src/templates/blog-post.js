@@ -27,7 +27,7 @@ export const BlogPostTemplate = ({
     <section className="section">
       <div className="post-content">
         <div className="row">
-          <div className="col-md-9 post-wrapper">
+          <div className="col-xs-12 col-md-8 col-lg-9 post-wrapper">
             <h1>{title}</h1>
             <span className="post-info">
               {language === "es" ? "por" : "by"} {author.name} | {date} | {tags}
@@ -41,7 +41,7 @@ export const BlogPostTemplate = ({
             </div>
             <SharePanel slug={data.markdownRemark.fields.slug} />
             <div className="row col-xs-12 dv-author-desc">
-              <div className="col-xs-12 col-sm-2 text-center">
+              <div className="col-xs-12 col-lg-2 text-center">
                 <Img
                   className="dv-autor-img"
                   fluid={author.image.childImageSharp.fluid}

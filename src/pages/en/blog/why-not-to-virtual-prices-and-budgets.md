@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
-title: Why Not to Virtual Prices and Budgets!
+title: >
+  Why Not to Virtual Prices and Budgets!
 redirects: /blog/por-que-no-a-los-precios-y-presupuestos-virtuales
 date: 2019-02-25T15:04:10.000Z
 featuredpost: false

@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
-title: Amalgama Dental; Presente o Pasado
+title: >
+  Amalgama Dental: Presente o Pasado
 date: 2019-04-01T15:04:10.000Z
 featuredpost: false
 language: es

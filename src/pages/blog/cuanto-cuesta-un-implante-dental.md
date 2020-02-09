@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
-title: ¿Cuánto Cuesta un Implante Dental?
+title: >
+  ¿Cuánto Cuesta un Implante Dental?
 date: 2019-06-19T15:04:10.000Z
 featuredpost: false
 language: es

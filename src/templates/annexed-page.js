@@ -35,7 +35,7 @@ export const AnexedPageTemplate = ({
         }}
         className="dv-main-paragraph annexed row"
       >
-        <div className="image-wrap col-md-5 col-sm-12">
+        <div className="image-wrap col-md-6 col-sm-12">
           <Img
             className="image"
             style={{marginLeft: `${paragraphSection.align === 'left' ? '0' : '10vw'}`}}
@@ -45,7 +45,7 @@ export const AnexedPageTemplate = ({
         </div>
         <aside
           style={{ padding: 0 }}
-          className="col-md-7 col-sm-12"
+          className="col-md-6 col-sm-12"
           dangerouslySetInnerHTML={{
             __html: converter.makeHtml(paragraphSection.body)
           }}

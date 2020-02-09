@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
-title: ¿Cuántos Años Puede Durar un Diente Después de una Endodoncia?
+title: >
+  ¿Cuántos Años Puede Durar un Diente Después de una Endodoncia?
 date: 2019-03-14T15:04:10.000Z
 featuredpost: false
 redirects: en/blog/why-not-to-virtual-prices-and-budgets/

@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
-title: Carillas; Preparación Dentaria
+title: >
+  Carillas: Preparación Dentaria
 date: 2019-04-23T15:04:10.000Z
 featuredpost: false
 language: es

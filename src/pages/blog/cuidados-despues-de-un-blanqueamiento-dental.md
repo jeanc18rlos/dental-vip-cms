@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
-title: Cuidados Después de un Blanqueamiento Dental
+title: >
+  Cuidados Después de un Blanqueamiento Dental
 date: 2019-03-22T15:04:10.000Z
 featuredpost: false
 language: es
