@@ -4,6 +4,7 @@ title: >
   Amalgama Dental: Presente o Pasado
 date: 2019-04-01T15:04:10.000Z
 featuredpost: false
+published: true
 language: es
 redirects: en/blog/why-not-to-virtual-prices-and-budgets/
 featuredimage: /img/blog-post-5.jpg

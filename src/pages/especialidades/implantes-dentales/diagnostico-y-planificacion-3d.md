@@ -3,6 +3,7 @@ templateKey: annexed-page
 language: es
 title: Diagnóstico y Planificación 3D
 redirects: /en/specialties/dental-implants/3d-diagnosis-and-planning/
+published: true
 
 #1 Hero Section
 hero:
@@ -23,6 +24,92 @@ heading:
   content: >
     <p class="dv-subtitle text-center">En la actualidad es rutina transferir tratamientos diseñados virtualmente a la condición clínica real de nuestros pacientes, hecho que ha marcado un avance sin precedentes en el campo de la Rehabilitación Oral.</p>
 
+#3 Aside Section
+sidePanel: 
+  display: true
+  sections: 
+    - 
+      img: /img/sections-3d-radiography.jpg
+      section: > 
+        <div class="dv-sp-srv-cd"><h2 class="dv-srv-pl4 text-right dv-npr">¡Máxima precisión en la colocación de
+        sus implantes dentales!</h2><p class="dv-srv-pl text-right dv-npr">DENTAL VIP incorpora la tecnología de última generación en sus procedimientos de Implantología Oral, la Tomografía Volumétrica Digital de Haz Cónico <em>(CBVT - Cone Beam Volumetric Tomography)</em>, una herramienta de alto valor clínico que proporciona imágenes tridimensionales, precisas y de alta calidad digital.</p><p class="dv-srv-pl text-right dv-npr">La utilización de este recurso es esencial para la planificación quirúrgica del caso, particularmente cuando se van a colocar implantes en el sector posterior de la mandíbula y/o maxilar superior, ya que nos permite delimitar el conducto del nervio dentario inferior y conocer la distancia exacta entre reborde alveolar y seno maxilar, estructuras anatómicas que deben ser siempre respetadas para prevenir riesgos, complicaciones y fracasos operatorios.</p></div>
+    - 
+      img: /img/sections-3d-study.jpg
+      section: > 
+        <div class="dv-sp-srv-cd dv-sp-srv-cd-r45">
+          <h2 class="dv-srv-pr dv-npl">Un estudio cómodo, rápido y seguro...</h2>
+          <div class="row"><i class="icon-check circle col-md-2"></i><p class="dv-srv-pr dv-npl col-md-10">Baja dosis de radiación, mucho menor a la de un TAC convencional.</p></div>
+          <div class="row"><i class="icon-check circle col-md-2"></i><p class="dv-srv-pr dv-npl col-md-10">Corto tiempo de exposición, inferior a tres minutos.</p></div>
+          <div class="row"><i class="icon-check circle col-md-2"></i><p class="dv-srv-pr dv-npl col-md-10">Escaneado con el paciente en postura sentada.</p></div>
+          <div class="row"><i class="icon-check circle col-md-2"></i><p class="dv-srv-pr dv-npl col-md-10">Tomógrafo abierto que proporciona gran comodidad, evitando sensaciones de encierro o claustrofobia.</p></div>
+          <div class="row"><i class="icon-check circle col-md-2"></i><p class="dv-srv-pr dv-npl col-md-10">Información en formato DICOM que permite, a través de un software especial, un procedimiento único de visualización y planificación terapéutica.</p></div>
+          <div class="row"><i class="icon-check circle col-md-2"></i><p class="dv-srv-pr dv-npl col-md-10">Coste razonable.</p></div><img src="https://dentalvip.com.ve/wp-content/uploads/2018/09/impl-img7.jpg" alt="Logo" class="dv-sp-log"></div>
+
+#4 Slogan Section
+slogan:
+  link:
+    display: false
+    to: ''
+    text: ''
+  img: /img/slogan-teeth.jpg
+  title: >
+    3D: Implantología Avanzada con Criterio Protésico
+  description: Un verdadero enfoque Multidisciplinario de principio a fin, Prostodoncia y Cirugía en estrecha relación...
+
+#5 DDS Custom
+dds: 
+  display: false
+  heading: > 
+    ''
+  img: /img/dds-custom-block-smile.jpg
+  title: > 
+    ''
+  description: > 
+    ''
+  sections:
+    - img: /img/dds-custom-block-oval.png
+      description: > 
+        ''
+
+#6 Block gallery
+blockGallery:
+  img: 
+    display: false
+    img: /img/sections-dds-shoot.jpg
+  position: top
+  display: false
+  blocks:
+    - img: /img/sections-dds-shoot.jpg
+      title: >
+        <h1> hola </h1>
+      desc: >
+        <p> hola </p>
+
+implantTypes:
+  display: false
+  blocks:
+    - img: /img/implant-types-individual-crown.jpg
+      title: >
+        <h2 class="dv-div-title">Corona individual</h2>
+      desc: >
+        <p class="dv-srv-pr">Aunque el trabajo clínico y de laboratorio es mucho más complejo que el de una corona o funda dentosoportada <em>(sobre un diente natural)</em>, es la restauración más básica que se puede confeccionar sobre un implante oseointegrado. Están indicadas en casos de implantes unitarios y pueden ser de metal-porcelana, Disilicato de Litio u Óxido de Zirconio <em>(alta estética dental).</em></p>
+      icon: /img/icons-individual-crown.png
+
+# Custom Paragraph center img
+paragraph:
+  display: true
+  image: /img/info-block-3d.jpg
+  desc:
+    display: false
+    title: some
+    text: >
+      SOme text
+  blocks:
+  - title: Montaje del caso y encerado diagnóstico
+    text: Su objetivo es intentar reproducir el resultado final de la futura prótesis. Con él, el Especialista en Prostodoncia podrá determinar el número y posición exacta de los implantes requeridos y confeccionará una guía plástica termoformada para el momento de la cirugía.
+  - title: Intervención guiada con férula quirúrgica
+    text: La férula o guía quirúrgica es un prototipo, un dispositivo físico que orienta al Cirujano durante el acto de implantación, permitiéndole colocar cada elemento según lo dispuesto, con precisión espacial milimétrica e inclinación axial adecuada.
+  
 #7 Parallax Section
 plainParallax:
   image: /img/parallax-3d-diagnosis-and-planning.jpg
@@ -70,3 +157,8 @@ procedures:
 
 
 ---
+
+
+
+85047928226393
+

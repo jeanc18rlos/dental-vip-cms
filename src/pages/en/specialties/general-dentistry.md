@@ -3,7 +3,7 @@ templateKey: specialties-page
 language: en
 title: General Dentistry
 redirects: /especialidades/odontologia-general/
-
+published: true
 # Hero Section
 hero:
   display: true

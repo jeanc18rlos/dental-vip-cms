@@ -3,7 +3,7 @@ templateKey: specialties-page
 language: en
 title: Aesthetic Dentistry
 redirects: /especialidades/estetica-dental/
-
+published: true
 # Hero Section
 hero:
   display: true

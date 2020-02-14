@@ -3,6 +3,7 @@ templateKey: contact-page
 language: en
 title: Contact
 redirects: /contacto/
+published: true
 
 hero:
   display: true

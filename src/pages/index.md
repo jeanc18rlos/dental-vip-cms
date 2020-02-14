@@ -3,6 +3,8 @@ templateKey: index-page
 language: es
 redirects: /en/
 title: Inicio
+published: true
+
 hero:
   type: animated
   image: /img/hero-home.jpg

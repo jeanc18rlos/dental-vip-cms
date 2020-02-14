@@ -3,6 +3,8 @@ templateKey: clinic-page
 language: es
 title: Instalaciones
 redirects: /en/the-clinic/facilities/
+published: true
+
 hero:
   display: true
   type: default

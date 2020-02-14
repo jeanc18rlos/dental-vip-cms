@@ -3,6 +3,7 @@ templateKey: annexed-page
 language: es
 title: Carillas de porcelana
 redirects: /en/specialties/aesthetic-dentistry/porcelain-veneers
+published: true
 
 #1 Hero Section
 hero:
@@ -22,6 +23,88 @@ heading:
   title: Carillas de Porcelana
   content: >
     <p class="dv-subtitle text-center">Las carillas o facetas de porcelana son finas láminas de cerámica de entre 0.8 y 1.5 mm de espesor que, adheridas a la superficie frontal de los dientes, son capaces de modificar por completo su forma, textura, color y tamaño.</p>
+
+#3 Aside Section
+sidePanel: 
+  display: false
+  sections: 
+    - 
+      img: /img/sections-3d-radiography.jpg
+      section: > 
+        "''\n"
+    - 
+      img: /img/sections-3d-study.jpg
+      section: > 
+        "''\n"
+
+
+#4 Slogan Section
+slogan:
+  link:
+    display: false
+    to: ''
+    text: ''
+  img: /img/slogan-teeth.jpg
+  title: ¡10 Días nos serán Suficientes para Transformar su Vida!
+  description: Visítenos y en solo 3 o 4 sesiones de trabajo podremos diseñar y crear esa sonrisa que siempre ha soñado.
+
+#5 DDS Custom
+dds: 
+  display: false
+  heading: > 
+    ''
+  img: /img/dds-custom-block-smile.jpg
+  title: > 
+    ''
+  description: > 
+    ''
+  sections:
+    - img: /img/dds-custom-block-oval.png
+      description: > 
+        ''
+
+#6 Block gallery
+blockGallery:
+  img: 
+    display: false
+    img: /img/sections-dds-shoot.jpg
+  position: bottom
+  display: true
+  blocks:
+    - img: /img/gallery-blocks-dds-cut.jpg
+      title: >
+        <h1> ¿Es necesario tallar los dientes? </h1>
+      desc: >
+        <p> En el 85% de los casos será indispensable hacer un pequeño desgaste. De lo contrario, se generaría una restauración con sobrecontorno inaceptable, o bien, con un espesor de cerámica insuficiente, débil, con alto riesgo de fractura e incapaz de enmascarar el defecto estético de fondo </p>
+    - img: /img/gallery-blocks-dds-lasting.jpg
+      title: >
+        <h1> ¿Cuántos años durarán mis carillas? </h1>
+      desc: >
+        <p >Aunque la longevidad de la cerámica IPS e.max® va siempre a depender de múltiples factores como higiene oral, cumplimiento de chequeos periódicos y control de hábitos oclusales, entre otros; estimamos que entre 10 y 15 años será el tiempo de vida útil para la gran mayoría de nuestros diseños.</p>
+
+# Custom Paragraph center img
+paragraph:
+  display: false
+  image: /img/slogan-teeth.jpg
+  desc:
+    display: false
+    title: some
+
+    text: >
+      SOme text
+  blocks:
+  - title: SOme other title
+    text: SOme other text
+  
+implantTypes:
+  display: false
+  blocks:
+    - img: /img/implant-types-individual-crown.jpg
+      title: >
+        <h2 class="dv-div-title">Corona individual</h2>
+      desc: >
+        <p class="dv-srv-pr">Aunque el trabajo clínico y de laboratorio es mucho más complejo que el de una corona o funda dentosoportada <em>(sobre un diente natural)</em>, es la restauración más básica que se puede confeccionar sobre un implante oseointegrado. Están indicadas en casos de implantes unitarios y pueden ser de metal-porcelana, Disilicato de Litio u Óxido de Zirconio <em>(alta estética dental).</em></p>
+      icon: /img/icons-individual-crown.png
 
 #7 Parallax Section
 plainParallax:
@@ -56,7 +139,6 @@ procedures:
     - title: Rehabilitación Oral
       to: /especialidades/protesis/
       img: /img/procedures-rehabilitation.jpg
-
     - title: Técnologia cad-cam
       to: /especialidades/protesis/tecnologia-cad-cam/
       img: /img/procedures-cad-cam.jpg

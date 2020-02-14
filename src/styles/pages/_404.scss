@@ -1,4 +1,4 @@
-// 404-error Main Styles
+// 404 Error Page
 section.error-404 {
   text-align: center;
 
@@ -76,7 +76,7 @@ section.error-404 {
 }
 
 // Error 404 mobile Styles
-@media #{$sm-mob-ld, $sm-mob-pt, $st-mob-pt, $st-mob-ld, $lg-mob-pt, $lg-mob-ld, $st-tab-pt, $st-tab-ld, $lg-tab-pt, $lg-tab-ld} {
+@media #{only screen and (max-width: 850px)} {
   @media #{only screen and (orientation: portrait) and (max-width: 650px)} {
     section.error-404 .dv-search-area-blog form {
       width: auto !important;

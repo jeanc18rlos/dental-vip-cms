@@ -3,6 +3,7 @@ templateKey: annexed-page
 language: es
 title: Aparatos Estéticos
 redirects: /en/specialties/orthodontics/aesthetic-braces/
+published: true
 
 #1 Hero Section
 hero:
@@ -22,6 +23,104 @@ heading:
   title: Aparatos Estéticos
   content: >
     <p class="dv-subtitle text-center">Las nuevas tecnologías en Ortodoncia han permitido, cuando la apariencia es importante, el uso de materiales más cómodos y discretos que el acero, y que ayudan al paciente a sonreír sin problemas mientras avanza su tratamiento.</p>
+
+#3 Aside Section
+sidePanel: 
+  display: false
+  sections: 
+    - 
+      img: /img/sections-dds-shoot.jpg
+      section: > 
+        "''\n"
+    - 
+      img: /img/sections-dds-shoot.jpg
+      section: > 
+        "''\n"
+    - 
+      img: /img/sections-dds-shoot.jpg
+      section: >
+        "''\n"
+
+#4 Slogan Section
+slogan:
+  link:
+    display: false
+    to: ''
+    text: ''
+  img: /img/slogan-teeth.jpg
+  title: En DENTAL VIP Somos Verdaderos Expertos en Ortodoncia Estética
+  description: 20 años de trayectoria y más de 2.000 casos tratados con éxito nos avalan.
+#5 DDS Custom
+dds: 
+  display: false
+  heading: > 
+    ''
+  img: /img/dds-custom-block-smile.jpg
+  title: > 
+    ''
+  description: > 
+    ''
+  sections:
+    - img: /img/dds-custom-block-oval.png
+      description: > 
+        ''
+
+implantTypes:
+  display: false
+  blocks:
+    - img: /img/implant-types-individual-crown.jpg
+      title: >
+        <h2 class="dv-div-title">Corona individual</h2>
+      desc: >
+        <p class="dv-srv-pr">Aunque el trabajo clínico y de laboratorio es mucho más complejo que el de una corona o funda dentosoportada <em>(sobre un diente natural)</em>, es la restauración más básica que se puede confeccionar sobre un implante oseointegrado. Están indicadas en casos de implantes unitarios y pueden ser de metal-porcelana, Disilicato de Litio u Óxido de Zirconio <em>(alta estética dental).</em></p>
+      icon: /img/icons-individual-crown.png
+
+b&aSection:
+  display: false
+  title: >
+    ''
+  desc: >
+    ''
+  blocks:
+  - sections:
+    - img: /img/implant-types-individual-crown.jpg
+      title: >
+        <h2 class="dv-div-title">Corona individual</h2>
+# Custom Paragraph center img
+paragraph:
+  display: true
+  image: /img/info-block-advertisement.png
+  desc:
+    display: false
+    title: some
+    text: >
+      SOme text
+  blocks:
+  - title: ¡Porque cuidamos la imagen de nuestros pacientes!
+    text: Entendemos perfectamente que muchos adolescentes, profesionales, modelos, artistas y personas adultas se nieguen a exhibir aparatos en su dentadura. Por ello, siempre ofrecemos las alternativas que mejor se ajusten a sus necesidades.
+  - title: ¡Porque queremos satisfacer todas sus expectativas!
+    text: Sonrisas hermosas, radiantes y naturales a cualquier edad. En los últimos años, el uso de aparatología estética ha incrementado considerablemente los índices de aceptación y satisfacción de nuestros tratamientos de Ortodoncia.
+
+
+  
+#6 Block gallery
+blockGallery:
+  img: 
+    display: false
+    img: /img/sections-dds-shoot.jpg
+  position: top
+  display: true
+  blocks:
+    - img: /img/gallery-blocks-ceramic-brackets.jpg
+      title: >
+        <h1 class="top-title">Brackets Cerámicos</h1>
+      desc: >
+        <p  class="top-title">Son los brackets estéticos más utilizados y económicos del mercado. Los aparatos de Porcelana son reproducciones exactas de los brackets metálicos tradicionales, pero de un color similar al de los dientes. </p>
+    - img: /img/gallery-blocks-shappire-brackets.jpg
+      title: >
+        <h1 class="top-title"> Brackets de Zafiro </h1>
+      desc: >
+        <p  class="top-title">Estos brackets son prácticamente invisibles, ya que son fabricados con el Cristal de Zafiro, un elemento transparente y brillante que combinado con otros minerales se hace muy resistente.</p>
 
 #7 Parallax Section
 plainParallax:

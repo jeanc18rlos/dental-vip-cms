@@ -3,6 +3,7 @@ templateKey: annexed-page
 language: es
 title: ¡Cuide sus brackets!
 redirects: /en/specialties/orthodontics/brackets-care/
+published: true
 
 #1 Hero Section
 hero:
@@ -22,6 +23,85 @@ heading:
   title: ¡Cuide sus brackets!
   content: >
     <p class="dv-subtitle text-center">Si Usted ha iniciado un tratamiento de Ortodoncia es necesario que conozca la siguiente información y cumpla con estas sencillas indicaciones:</p>
+
+#3 Aside Section
+sidePanel: 
+  display: false
+  sections: 
+    - 
+      img: /img/sections-dds-shoot.jpg
+      section: > 
+        "''\n"
+    - 
+      img: /img/sections-dds-shoot.jpg
+      section: > 
+        "''\n"
+    - 
+      img: /img/sections-dds-shoot.jpg
+      section: >
+        "''\n"
+
+#4 Slogan Section
+slogan:
+  link:
+    display: false
+    to: ''
+    text: ''
+  img: /img/slogan-teeth.jpg
+  title: ¿Cuál Cepillo Dental es el Más Adecuado?
+  description: > 
+    Uno de filamentos suaves y perfil en forma de V que genere un triple efecto de limpieza: aparatos, dientes y encías.
+#5 DDS Custom
+dds: 
+  display: false
+  heading: > 
+    ''
+  img: /img/dds-custom-block-smile.jpg
+  title: > 
+    ''
+  description: > 
+    ''
+  sections:
+    - img: /img/dds-custom-block-oval.png
+      description: > 
+        ''
+# Custom Paragraph center img
+paragraph:
+  display: false
+  image: /img/slogan-teeth.jpg
+  desc:
+    display: false
+    title: some
+    text: >
+      SOme text
+  blocks:
+  - title: SOme other title
+    text: SOme other text
+
+implantTypes:
+  display: false
+  blocks:
+    - img: /img/implant-types-individual-crown.jpg
+      title: >
+        <h2 class="dv-div-title">Corona individual</h2>
+      desc: >
+        <p class="dv-srv-pr">Aunque el trabajo clínico y de laboratorio es mucho más complejo que el de una corona o funda dentosoportada <em>(sobre un diente natural)</em>, es la restauración más básica que se puede confeccionar sobre un implante oseointegrado. Están indicadas en casos de implantes unitarios y pueden ser de metal-porcelana, Disilicato de Litio u Óxido de Zirconio <em>(alta estética dental).</em></p>
+      icon: /img/icons-individual-crown.png
+
+#6 Block gallery
+blockGallery:
+  img: 
+    display: false
+    img: /img/sections-dds-shoot.jpg
+  position: top
+  display: false
+  blocks:
+    - img: /img/sections-dds-shoot.jpg
+      title: >
+        <h1> hola </h1>
+      desc: >
+        <p> hola </p>
+
 
 #7 Parallax Section
 plainParallax:

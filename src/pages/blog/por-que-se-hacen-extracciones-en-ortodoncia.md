@@ -4,6 +4,7 @@ title: ¿Por Qué se Hacen Extracciones en Ortodoncia?
 date: 2019-04-15T15:04:10.000Z
 featuredpost: false
 language: es
+published: true
 redirects: en/blog/why-not-to-virtual-prices-and-budgets/
 featuredimage: /img/blog-post-7.jpg
 author: 

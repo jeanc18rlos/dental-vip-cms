@@ -1,5 +1,6 @@
 module.exports = {
   siteMetadata: {
+    url: 'dentalvip.com.ve',
     title: 'Dental VIP',
     author: 'jean rojas',
     description:

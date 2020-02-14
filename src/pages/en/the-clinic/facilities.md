@@ -3,6 +3,7 @@ templateKey: clinic-page
 language: en
 title: Facilities
 redirects: /en/the-clinic/facilities/
+published: true
 hero:
   display: true
   type: default

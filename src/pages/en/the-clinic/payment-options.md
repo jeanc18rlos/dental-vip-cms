@@ -2,6 +2,7 @@
 templateKey: clinic-page
 language: en
 title: Payment Options
+published: true
 redirects: /
 hero:
   display: true

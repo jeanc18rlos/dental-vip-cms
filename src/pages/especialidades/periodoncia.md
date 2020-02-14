@@ -3,6 +3,7 @@ templateKey: specialties-page
 language: es
 title: Periodoncia
 redirects: /en/specialties/periodontics/
+published: true
 
 # Hero Section
 hero:

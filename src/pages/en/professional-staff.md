@@ -3,6 +3,7 @@ templateKey: professionals-page
 language: en
 title: Professional Staff
 redirects: /profesionales/
+published: true
 
 # Main Hero
 hero:

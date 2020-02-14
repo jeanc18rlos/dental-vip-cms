@@ -4,7 +4,7 @@ import Img from "gatsby-image";
 import Layout from "../Layout";
 import DVhero from "../components/DV-Hero";
 import Procedures from "../components/Procedures";
-import BasicContent from "../components/BasicContent";
+import DVTitle from "../components/DV-Title";
 import SEO from "../components/seo";
 import SetLang from "../components/setLang";
 import OverlayGallery from "../components/overlayGallery";
@@ -60,7 +60,7 @@ export const ClinicPageTemplate = ({
   return (
     <div>
       {hero && hero.display && <DVhero {...hero} />}
-      {heading && heading.display && <BasicContent {...heading} />}
+      {heading && heading.display && <DVTitle {...heading} />}
       {banner && banner.display && <InfoImage {...banner} />}
       {banner && banner.display && <Financing />}
       {reasons.display && <Reasons {...reasons} />}

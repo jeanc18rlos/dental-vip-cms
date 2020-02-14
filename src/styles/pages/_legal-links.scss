@@ -84,7 +84,7 @@ section.dv-static-legal {
   }
 }
 
-@media #{$sm-mob-ld, $sm-mob-pt, $st-mob-pt, $st-mob-ld, $lg-mob-pt, $lg-mob-ld, $st-tab-pt, $st-tab-ld, $lg-tab-pt, $lg-tab-ld} {
+@media screen and (max-width: 1024px) {
   section.dv-static-legal {
     padding: 11px 0 87px;
     margin-bottom: 0;

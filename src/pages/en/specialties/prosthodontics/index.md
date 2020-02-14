@@ -3,7 +3,7 @@ templateKey: specialties-page
 language: en
 title: Prosthodontics
 redirects: /especialidades/protesis/
-
+published: true
 # Hero Section
 hero:
   display: true

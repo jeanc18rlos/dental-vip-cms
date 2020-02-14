@@ -3,6 +3,7 @@ templateKey: annexed-page
 language: es
 title: Tecnología CAD-CAM
 redirects: /en/specialties/prosthodontics/cad-cam-technology
+published: true
 
 #1 Hero Section
 hero:
@@ -23,6 +24,89 @@ heading:
   content: >
     <p class="dv-subtitle text-center">Tecnología computarizada que permite el escaneo en 3D, digitalización y transferencia de datos a un software que diseña y confecciona el núcleo de cualquier tipo de restauración totalcerámica a través de la activación y control de un sistema robótico de microfresado.</p>
 
+#3 Aside Section
+sidePanel: 
+  display: false
+  sections: 
+    - 
+      img: /img/sections-dds-shoot.jpg
+      section: > 
+        "''\n"
+    - 
+      img: /img/sections-dds-shoot.jpg
+      section: > 
+        "''\n"
+    - 
+      img: /img/sections-dds-shoot.jpg
+      section: >
+        "''\n"
+
+
+#4 Slogan Section
+slogan:
+  link:
+    display: false
+    to: ''
+    text: ''
+  img: /img/slogan-teeth.jpg
+  title: ¡La Solución Más Estética y Natural para su Nueva Sonrisa!
+  description: Sin los indeseables bordes negros que resaltan a nivel de encía en muchas restauraciones fijas de núcleo metálico.
+
+#5 DDS Custom
+dds: 
+  display: false
+  heading: > 
+    ''
+  img: /img/dds-custom-block-smile.jpg
+  title: > 
+    ''
+  description: > 
+    ''
+  sections:
+    - img: /img/dds-custom-block-oval.png
+      description: > 
+        ''
+#6 Block gallery
+blockGallery:
+  img: 
+    display: true
+    img: /img/gallery-blocks-main-cad-cam.jpg
+  position: bottom
+  display: true
+  blocks:
+    - img: /img/sections-dds-shoot.jpg
+      title: >
+        <h1> ¿Cuándo Disilicato? </h1>
+      desc: >
+        <p> Al ser más translúcido, nos permite lograr un mejor mimetismo con los dientes naturales y es nuestro material de elección para confeccionar incrustaciones, carillas y coronas anteriores sobre sustrato claro. </p>
+    - img: /img/sections-dds-shoot.jpg
+      title: >
+        <h1> ¿Cuándo Zirconio? </h1>
+      desc: >
+        <p> Por su mayor opacidad y resistencia a la fractura, lo indicamos para coronas posteriores y sobre sustrato oscuro, puentes cerámicos anteriores y posteriores y rehabilitación de implantes dentales. </p>
+
+# Custom Paragraph center img
+paragraph:
+  display: false
+  image: /img/slogan-teeth.jpg
+  desc:
+    display: false
+    title: some
+    text: >
+      SOme text
+  blocks:
+  - title: SOme other title
+    text: SOme other text
+
+implantTypes:
+  display: false
+  blocks:
+    - img: /img/implant-types-individual-crown.jpg
+      title: >
+        <h2 class="dv-div-title">Corona individual</h2>
+      desc: >
+        <p class="dv-srv-pr">Aunque el trabajo clínico y de laboratorio es mucho más complejo que el de una corona o funda dentosoportada <em>(sobre un diente natural)</em>, es la restauración más básica que se puede confeccionar sobre un implante oseointegrado. Están indicadas en casos de implantes unitarios y pueden ser de metal-porcelana, Disilicato de Litio u Óxido de Zirconio <em>(alta estética dental).</em></p>
+      icon: /img/icons-individual-crown.png
 #7 Parallax Section
 plainParallax:
   image: /img/parallax-cad-cam.jpg

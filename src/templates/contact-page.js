@@ -7,13 +7,13 @@ import Procedures from "../components/Procedures";
 import SEO from "../components/seo";
 import SetLang from "../components/setLang";
 import FolowUs from "../components/FollowUs";
-import BasicContent from "../components/BasicContent";
+import DVTitle from "../components/DV-Title";
 
 export const ContactPageTemplate = ({ hero, heading, amenities, social }) => {
   return (
     <div>
       {hero && hero.display && <DVhero {...hero} />}
-      {heading && <BasicContent {...heading} />}
+      {heading && <DVTitle {...heading} />}
       <section className="dv-section-form row container">
         <div className="dv-contact-info col-xs-12 col-md-5 dv-npl">
           <div className="dv-main-menu-left">

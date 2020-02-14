@@ -6,6 +6,7 @@ date: 2019-03-14T15:04:10.000Z
 featuredpost: false
 redirects: en/blog/why-not-to-virtual-prices-and-budgets/
 language: es
+published: true
 featuredimage: /img/blog-post-3.jpg
 author: 
   image: /img/professionals-dr-jose-miguel-gomez-diez.png

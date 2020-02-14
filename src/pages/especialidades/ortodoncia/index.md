@@ -3,6 +3,7 @@ templateKey: specialties-page
 language: es
 title: Ortodoncia
 redirects: /en/specialties/orthodontics/
+published: true
 
 # Hero Section
 hero:

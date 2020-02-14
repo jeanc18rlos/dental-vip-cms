@@ -1,13 +1,6 @@
-// Burger parts
-//
-// (---) top    -> &::before
-// [---] middle -> &
-// (---) bottom -> &::after
-
-// Vendor prefixes
 $sass-burger-add-vendor-prefixes: true;
 $burger-height: 5px;
-$burger-gutter: 3px; // Burger
+$burger-gutter: 3px;
 
 @mixin burger(
   $width: 30px,

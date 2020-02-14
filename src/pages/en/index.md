@@ -2,7 +2,11 @@
 templateKey: index-page
 language: en
 redirects: /
-title: Homepage
+title: >
+  Homepage
+published: true
+
+# Hero Section
 hero:
   type: animated
   image: /img/hero-home.jpg
@@ -23,6 +27,7 @@ hero:
           INNOVATION AND PRESTIGE IN DENTISTRY
         </h1>
 
+# Welcome Section
 welcome:
   logo: /img/logo.png
   heading: CENTER FOR AESTHETICS AND ORAL REHABILITATION
@@ -48,6 +53,7 @@ welcome:
     - image: /img/partners-iti.jpg
       alt: International Team for Implantology
 
+# Quote Section
 quote:
   title: The Quality in Dentistry is not the fruit of chance.
   body: >
@@ -57,6 +63,7 @@ quote:
     position: Clinical Coordination
     clinic: DENTAL VIP, Especialidades Odontológicas s.c.
 
+# Testimonial Section
 testimonial:
   title: Testimonials and Ratings
   items:
@@ -85,12 +92,16 @@ testimonial:
         “I found myself in need of going to the clinic to treat some cavities and getting two root canal treatments. I would recommend to DENTAL VIP for the advice provided, for the easy access to its location, for the receptivity of its staff, for its impeccable facilities, and above all; because the procedures were executed without any kind of pain. Very good dentists”.
       position: Public Accountant
       name: José Luis Dávila
+
+# Parallax Section
 parallax:
   stadistics: /img/parallax-stadistics.jpg
   landscape: /img/parallax-stadistics-portrait-en.svg
   portrait: /img/parallax-stadistics-portrait-en.svg
   desktop: /img/parallax-stadistics-desktop-en.svg
   portraitxl: /img/parallax-stadistics-portrait-xl-en.svg
+
+# Specialties Section
 specialties:
   title: What Advantages Does Our Exclusive Work Methodology Offer You?
   paragraph: A newfangled multidisciplinary approach that makes possible the integrative management of knowledge and maximizes the resolution capacity of our healthcare team.
@@ -121,6 +132,7 @@ specialties:
       title: PROSTHESIS AND ORAL REHABILITATION
       description: Design and confection of ceramic crowns and prosthetic structures that restore the integrity of dental arches, aesthetics and masticatory function.
 
+# Procedures Section
 procedures:
   title: Featured Procedures
   procedures:
@@ -143,6 +155,7 @@ procedures:
       to: /en/specialties/orthodontics/aesthetic-devices/
       img: /img/procedures-brackets.jpg
 
+# Gallery Section
 elements:
   - link: /en/the-clinic/why-choose-us/
     bg: /img/gallery-why.png
@@ -209,6 +222,8 @@ elements:
         Venezuela and the world.
       </p>
     action: false
+
+# Lightbox Section
 lightbox:
   display: true
   type: singleGallery

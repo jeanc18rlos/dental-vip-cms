@@ -3,7 +3,7 @@ templateKey: specialties-page
 language: en
 title: Endodontics
 redirects: /especialidades/endodoncia/
-
+published: true
 # Hero Section
 hero:
   display: true

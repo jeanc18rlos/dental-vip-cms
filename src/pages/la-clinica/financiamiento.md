@@ -3,6 +3,8 @@ templateKey: clinic-page
 language: es
 title: Financiamento
 redirects: /en/
+published: true
+
 hero:
   display: true
   type: default

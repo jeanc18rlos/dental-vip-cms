@@ -3,6 +3,7 @@ templateKey: specialties-page
 language: es
 title: Implantes Dentales
 redirects: /en/specialties/dental-implants/
+published: true
 
 # Hero Section
 hero:

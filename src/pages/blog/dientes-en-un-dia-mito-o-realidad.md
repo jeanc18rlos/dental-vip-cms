@@ -5,6 +5,7 @@ title: >
 date: 2019-05-19T15:04:10.000Z
 featuredpost: false
 language: es
+published: true
 redirects: en/blog/why-not-to-virtual-prices-and-budgets/
 featuredimage: /img/blog-post-9.jpg
 author: 

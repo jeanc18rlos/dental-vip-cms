@@ -3,6 +3,8 @@ templateKey: clinic-page
 language: es
 title: Tecnología
 redirects: /en/the-clinic/technology/
+published: true
+
 hero:
   display: true
   type: default

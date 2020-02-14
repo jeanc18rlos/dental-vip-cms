@@ -3,6 +3,8 @@ templateKey: clinic-page
 language: es
 title: Filosofía
 redirects: /en/the-clinic/philosophy/
+published: true
+
 hero:
   display: true
   type: default

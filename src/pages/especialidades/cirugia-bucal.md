@@ -3,6 +3,7 @@ templateKey: specialties-page
 language: es
 title: Cirugía Bucal
 redirects: /en/specialties/oral-surgery/
+published: true
 
 # Hero Section
 hero:

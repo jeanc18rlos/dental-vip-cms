@@ -4,7 +4,7 @@ title: Blog
 language: en
 featuredimage: /img/hero-home.jpg
 redirects: /blog/
-
+published: false
 # Hero Section
 hero:
   display: true

@@ -3,6 +3,7 @@ templateKey: blog-post
 title: ¿Qué es la Odontología Basada en la Evidencia?
 date: 2019-02-28T15:04:10.000Z
 featuredpost: false
+published: true
 redirects: en/blog/why-not-to-virtual-prices-and-budgets/
 language: es
 featuredimage: /img/blog-post-2.jpg

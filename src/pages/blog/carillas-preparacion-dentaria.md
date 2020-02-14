@@ -4,6 +4,7 @@ title: >
   Carillas: Preparación Dentaria
 date: 2019-04-23T15:04:10.000Z
 featuredpost: false
+published: true
 language: es
 redirects: en/blog/why-not-to-virtual-prices-and-budgets/
 featuredimage: /img/blog-post-8.jpg

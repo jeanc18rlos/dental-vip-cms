@@ -3,7 +3,7 @@ import { graphql, StaticQuery } from 'gatsby'
 import Layout from '../../Layout'
 import BlogRoll from '../../components/BlogRoll'
 import DVhero from "../../components/DV-Hero";
-import BasicContent from "../../components/BasicContent";
+import DVTitle from "../../components/DV-Title";
 import SEO from "../../components/seo"
 import SetLang from "../../components/setLang"
 export default () => {
@@ -142,7 +142,7 @@ export default () => {
       {
         data.home.frontmatter.hero && <DVhero {...data.home.frontmatter.hero} />
       }
-      {data.home.frontmatter.heading && <BasicContent {...data.home.frontmatter.heading} />}
+      {data.home.frontmatter.heading && <DVTitle {...data.home.frontmatter.heading} />}
       <section className="section">
 
         <div className="blog-container">

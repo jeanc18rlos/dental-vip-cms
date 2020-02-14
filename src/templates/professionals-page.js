@@ -6,7 +6,7 @@ import DVsideContent from "../components/DV-SideContent";
 import Procedures from "../components/Procedures";
 import SEO from "../components/seo";
 import SetLang from "../components/setLang";
-import BasicContent from "../components/BasicContent";
+import DVTitle from "../components/DV-Title";
 import DVcards from "../components/DV-Cards";
 import BackgroundImage from "gatsby-background-image";
 export const ProfessionalsPageTemplate = ({
@@ -21,7 +21,7 @@ export const ProfessionalsPageTemplate = ({
   return (
     <div>
       {hero && hero.display && <DVhero {...hero} />}
-      {heading && <BasicContent {...heading} />}
+      {heading && <DVTitle {...heading} />}
       {asides && (
         <DVsideContent borderBottom={true} width={width} {...asides} />
       )}

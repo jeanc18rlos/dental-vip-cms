@@ -3,6 +3,7 @@ templateKey: clinic-page
 language: en
 title: Why choose us
 redirects: /la-clinica/por-que-elegirnos/
+published: true
 hero:
   display: true
   type: default

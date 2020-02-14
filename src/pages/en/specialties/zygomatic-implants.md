@@ -3,7 +3,7 @@ templateKey: specialties-page
 language: en
 title: Zygomatic Implants
 redirects: /especialidades/implantes-cigomaticos/
-
+published: true
 # Hero Section
 hero:
   display: true
