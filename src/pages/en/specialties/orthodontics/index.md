@@ -237,7 +237,7 @@ asides:
           display: false
         button:
           text: More Information
-          to: '/'
+          to: '/en/specialties/orthodontics/aesthetic-braces/'
           display: true
     - align: right
       title: >
@@ -253,7 +253,7 @@ asides:
           display: false
         button:
           text: More Information
-          to: '/'
+          to: '/en/specialties/orthodontics/take-care-of-your-brackets/'
           display: true
    
   

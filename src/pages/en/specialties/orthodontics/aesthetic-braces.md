@@ -1,8 +1,8 @@
 ---
 templateKey: annexed-page
-language: es
-title: Aparatos Estéticos
-redirects: /en/specialties/orthodontics/aesthetic-braces/
+language: en
+title: Aesthetic Braces
+redirects: /especialidades/ortodoncia/aparatos-esteticos/
 published: true
 
 #1 Hero Section
@@ -20,9 +20,9 @@ hero:
 heading:
   display: true
   classname: section-reasons bebas-title
-  title: Aparatos Estéticos
+  title: AESTHETIC BRACES
   content: >
-    <p class="dv-subtitle text-center">Las nuevas tecnologías en Ortodoncia han permitido, cuando la apariencia es importante, el uso de materiales más cómodos y discretos que el acero, y que ayudan al paciente a sonreír sin problemas mientras avanza su tratamiento.</p>
+    <p class="dv-subtitle text-center">The new technologies in Orthodontics have allowed, when the appearance is important, the use of materials more comfortable and discreet than steel, and that help the patient to smile without problems while advancing his treatment.</p>
 
 #3 Aside Section
 sidePanel: 
@@ -48,8 +48,8 @@ slogan:
     to: ''
     text: ''
   img: /img/slogan-teeth.jpg
-  title: En DENTAL VIP Somos Verdaderos Expertos en Ortodoncia Estética
-  description: 20 años de trayectoria y más de 2.000 casos tratados con éxito nos avalan.
+  title: In DENTAL VIP We Are True Experts in Aesthetic Orthodontics
+  description: 20 years of experience and more than 2,000 cases treated successfully support us.
 #5 DDS Custom
 steps:
   display: false
@@ -119,10 +119,10 @@ paragraph:
     text: >
       SOme text
   blocks:
-  - title: ¡Porque cuidamos la imagen de nuestros pacientes!
-    text: Entendemos perfectamente que muchos adolescentes, profesionales, modelos, artistas y personas adultas se nieguen a exhibir aparatos en su dentadura. Por ello, siempre ofrecemos las alternativas que mejor se ajusten a sus necesidades.
-  - title: ¡Porque queremos satisfacer todas sus expectativas!
-    text: Sonrisas hermosas, radiantes y naturales a cualquier edad. En los últimos años, el uso de aparatología estética ha incrementado considerablemente los índices de aceptación y satisfacción de nuestros tratamientos de Ortodoncia.
+  - title: Because we take care of the image of our patients!
+    text: We fully understand that many teenagers, professionals, models, artists and adults refuse to display metal devices on their teeth. Therefore, we always offer the alternatives that best fit their needs. 
+  - title: Because we want to satisfy all your expectations!
+    text: Beautiful, radiant and natural smiles at any age. In recent years, the use of aesthetic appliances has significantly increased the acceptance and satisfaction rates of all our orthodontic treatments.
 
 
   
@@ -136,14 +136,14 @@ blockGallery:
   blocks:
     - img: /img/gallery-blocks-ceramic-brackets.jpg
       title: >
-        <h1 class="top-title">Brackets Cerámicos</h1>
+        <h1 class="top-title">Ceramic Brackets</h1>
       desc: >
-        <p  class="top-title">Son los brackets estéticos más utilizados y económicos del mercado. Los aparatos de Porcelana son reproducciones exactas de los brackets metálicos tradicionales, pero de un color similar al de los dientes. </p>
+        <p  class="top-title">They are the most used and economical aesthetic brackets on the market. Porcelain appliances are exact reproductions of traditional metal brackets, but of a color similar to that of teeth.</p>
     - img: /img/gallery-blocks-shappire-brackets.jpg
       title: >
-        <h1 class="top-title"> Brackets de Zafiro </h1>
+        <h1 class="top-title"> Sapphire Brackets</h1>
       desc: >
-        <p  class="top-title">Estos brackets son prácticamente invisibles, ya que son fabricados con el Cristal de Zafiro, un elemento transparente y brillante que combinado con otros minerales se hace muy resistente.</p>
+        <p  class="top-title">These braces are practically invisible, since they are manufactured with Sapphire Crystal, a transparent and shiny element that combined with other minerals becomes very resistant.</p>
 
 #7 Parallax Section
 plainParallax:
@@ -154,20 +154,13 @@ paragraphSection:
   align: left
   body: >
     <p class="dv-div-title text-right">
-        ¡Porque no queremos interferir con su estilo de vida!
+        Because we do not want to interfere with your lifestyle!
     </p>
     <p class="dv-div-text text-right">
-        La gran mayoría de los pacientes desea una opción terapéutica que enderece
-        sus dientes con rapidez y eficacia, que ofrezca un aspecto pulcro y hermoso,
-        y que además; responda ante sus necesidades particulares.
+        The vast majority of patients want a therapeutic option that straightens their teeth quickly and effectively, that offers a neat and beautiful appearance, and that in addition; responds to their particular needs.
     </p>
     <p class="dv-div-text text-right">
-        Una de cada cinco personas que solicitan Ortodoncia son adultas y requieren
-        de una solución efectiva y verdaderamente estética. Los aparatos cerámicos y
-        cristalinos de reconocida calidad son apropiados para casi todos los tipos
-        de maloclusión conocida, trabajan de forma continua durante todo el
-        tratamiento y jamás limitan la actividad laboral, la vida social o la
-        práctica deportiva. <br />
+        One in five people applying for Orthodontics are adults and require an effective and truly aesthetic solution. Ceramic and crystalline devices of recognized quality are suitable for almost all types of known malocclusion, work continuously throughout the treatment and never limit work activity, social life or sports practice.<br />
         <br />
         <img
         src="https://dentalvip.com.ve/wp-content/uploads/2018/09/bracketsusa.jpg"
@@ -179,32 +172,32 @@ paragraphSection:
 
 # 9 Contact Form
 form:
-  title: ¡Consúltenos Ahora Mismo!
+  title: ¡Consult Us Right Now!
   img: /img/parallax-form-annexed-pages.jpg
 
 # 10 Procedures
 procedures:
   display: true
-  title: Otros Procedimientos
+  title: Other Procedures
   procedures:
-    - title: Diagnóstico y Planificación 3D
-      to: /especialidades/implantes-dentales/diagnostico-y-planificacion-3d/
+    - title: 3D DIAGNOSIS AND PLANNING
+      to: /en/specialties/dental-implants/3d-diagnosis-and-planning/
       img: /img/procedures-diagnostic.jpg
-    - title: Rehabilitación Oral
-      to: /especialidades/protesis/
+    - title: ORAL REHABILITATION
+      to: >
+        /en/specialties/prosthodontics/
       img: /img/procedures-rehabilitation.jpg
-    - title: Diseño digital de sonrisa
-      to: /especialidades/estetica-dental/diseno-digital-de-sonrisa/
-      img: /img/procedures-design.jpg
+    - title: DIGITAL SMILE DESIGN
+      to: /en/specialties/aesthetic-dentistry/digital-smile-design/
+      img: /en/img/procedures-design.jpg
 
-    - title: Técnologia cad-cam
-      to: /especialidades/protesis/tecnologia-cad-cam/
+    - title: CAD-CAM TECHNOLOGY
+      to: /en/specialties/prosthesis/cad-cam-technology/
       img: /img/procedures-cad-cam.jpg
-    - title: Carillas de porcelana
-      to: /especialidades/estetica-dental/carillas-de-porcelana/
+    - title: PORCELAIN VENEERS
+      to: /en/specialties/aesthetic-dentistry/porcelain-veneers/
       img: /img/procedures-veneers.jpg
-    - title: Prótesis sobre implantes
-      to: /especialidades/implantes-dentales/protesis-sobre-implantes/
+    - title: IMPLANT SUPPORTED RESTORATIONS
+      to: /en/specialties/dental-implants/implant-supported-restorations/
       img: /img/procedures-dental-implants.jpg
-
 ---

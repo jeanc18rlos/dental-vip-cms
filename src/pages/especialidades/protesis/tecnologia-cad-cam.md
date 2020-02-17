@@ -53,6 +53,26 @@ slogan:
   description: Sin los indeseables bordes negros que resaltan a nivel de encía en muchas restauraciones fijas de núcleo metálico.
 
 #5 DDS Custom
+steps:
+  display: false
+  blocks:
+  -
+    number: 1
+    description: >
+        ''
+    img:
+      display: true
+      images:
+        - src: /img/brackets-care-steps-1.jpg
+        - src: /img/brackets-care-steps-2.jpg
+    list:
+      display: false
+      rows:
+        - icon: /img/icons-brush.jpg
+          image: /img/brackets-care-steps-3.jpg
+          desc:
+            text: > 
+              ''
 dds: 
   display: false
   heading: > 
@@ -66,6 +86,48 @@ dds:
     - img: /img/dds-custom-block-oval.png
       description: > 
         ''
+listGallery:
+  position: top
+  type: Column
+  display: true
+  title: >
+    <h1>¿Cómo funciona?</h1>
+  desc: >
+    <p class="dv-div-text text-center dv-mb-83"><strong>CAD</strong> <em>(Computer Aided Design)</em> <strong>CAM</strong> <em>(Computer Aided Manufacturing).</em> El proceso paso a paso en nuestras instalaciones:</p>
+  blocks:
+  - sections:
+    - img: /img/cad-cam-list-1.jpg
+      number: 1
+      title: >
+        <h2>Preparación intraoral</h2><p class="dv-div-text list">Exposición de implantes dentales, selección y ubicación de dispositivos de transferencia, tallado de muñones, definición de líneas de terminación y análisis del espacio interoclusal.</p>
+    - img: /img/cad-cam-list-2.jpg
+      number: 2
+      title: >
+        <h2>Toma de impresión</h2><p class="dv-div-text list">Empacado del hilo separador y registro de preparaciones protésicas con materiales elastoméricos de alta fidelidad, generalmente a base de siliconas por adición.</p>
+    - img: /img/cad-cam-list-3.jpg
+      number: 3
+      title: >
+        <h2>Vaciado y troquelado del modelo maestro</h2><p class="dv-div-text list">Individualización de tallados y pilares protésicos para proveer mejor acceso y visualización de sus márgenes y límites biológicos.</p>
+    - img: /img/cad-cam-list-4.jpg
+      number: 4
+      title: >
+        <h2>Escaneo 3D y digitalización</h2><p class="dv-div-text list">Extrapolación digital tridimensional del modelo de trabajo mediante un sistema esférico de coordenadas que reproduce con precisión todos sus detalles geométricos.</p>
+    - img: /img/cad-cam-list-5.jpg
+      number: 5
+      title: >
+        <h2>Diseño informático</h2><p class="dv-div-text list">Creación y modelado 3D del producto deseado mediante un software informático que dibuja la infraestructura y transfiere los datos a un robot o máquina fresadora.</p>
+    - img: /img/cad-cam-list-6.jpg
+      number: 6
+      title: >
+        <h2>Fresado mecánico</h2><p class="dv-div-text list">La restauración creada en la computadora se talla de forma automática a partir de un bloque cerámico de Disilicato de Litio (LS2) u Óxido de Zirconio (ZrO2).</p>
+    - img: /img/cad-cam-list-7.jpg
+      number: 7
+      title: >
+        <h2>Prueba de cofias cerámicas</h2><p class="dv-div-text list">Verificación del contorno, integridad estructural, extensión, sellado, adaptación, estabilidad y asentamiento del esqueleto cerámico generado por el sistema.</p>
+    - img: /img/cad-cam-list-8.jpg
+      number: 8
+      title: >
+        <h2>Estratificación de porcelana</h2><p class="dv-div-text list">Acabado artístico manual para caracterizar la rehabilitación, añadir tinciones, lograr policromatismo y translucidez, afinar el color y reproducir detalles anatómicos.</p>
 #6 Block gallery
 blockGallery:
   img: 
@@ -129,23 +191,22 @@ procedures:
   display: true
   title: Otros Procedimientos
   procedures:
-    - title: Prótesis sobre implantes
-      to: /especialidades/implantes-dentales/protesis-sobre-implantes/
-      img: /img/procedures-dental-implants.jpg
+    - title: Rehabilitación Oral
+      to: /especialidades/protesis/
+      img: /img/procedures-rehabilitation.jpg
     - title: Diagnóstico y Planificación 3D
       to: /especialidades/implantes-dentales/diagnostico-y-planificacion-3d/
       img: /img/procedures-diagnostic.jpg
-    - title: Carillas de porcelana
-      to: /especialidades/estetica-dental/carillas-de-porcelana/
-      img: /img/procedures-veneers.jpg
-    - title: Técnologia cad-cam
-      to: /especialidades/protesis/tecnologia-cad-cam/
-      img: /img/procedures-cad-cam.jpg
     - title: Diseño digital de sonrisa
       to: /especialidades/estetica-dental/diseno-digital-de-sonrisa/
       img: /img/procedures-design.jpg
+    - title: Carillas de porcelana
+      to: /especialidades/estetica-dental/carillas-de-porcelana/
+      img: /img/procedures-veneers.jpg
     - title: Brackets Estéticos
       to: /especialidades/ortodoncia/aparatos-esteticos/
       img: /img/procedures-brackets.jpg
-
+    - title: Prótesis sobre implantes
+      to: /especialidades/implantes-dentales/protesis-sobre-implantes/
+      img: /img/procedures-dental-implants.jpg
 ---

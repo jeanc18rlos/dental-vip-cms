@@ -206,23 +206,54 @@ clinicCases:
 
 # Responsive Aside Paragraphs
 asides:
-  display: false
+  display: true
   sections:
     - align: right
       title: >
-        <h3>''</h3>
+        <h3 style="color:#333;font-family:'Bebas Neue Bold'">FOR A WHITER AND BEAUTIFUL TEETH!</h3>
       content: >
-        <p>''</p>
-      image: /img/professionals-dr-castor-jose-garaban-povea.png
+        <p style="font-weight:400">We have the best LED <em>(Light Emitting Diode)</em> cold light system for teeth whitening. In just a 45-minute session he is able to clarify the color of the teeth in up to eight shades, without any potential risk and with truly amazing results.</p>
+      image: /img/sections-aesthetic-dentistry-zoom.jpg
       footer:
         display: true
         image:
-          src: /img/professionals-dr-castor-jose-garaban-povea-studies.jpg
-          display: true
-        button:
-          text: ''
-          to: ''
+          src: /img/sections-icons-aesthetic-dentistry.jpg
           display: false
+        button:
+          text: More Information
+          to: '/en/specialties/aesthetic-dentistry/teeth-whitening'
+          display: true
+    - align: left
+      title: >
+        <h3 style="color:#333;font-family:'Bebas Neue Bold'">DIGITAL SMILE DESIGN <em>(DSD)</em></h3>
+      content: >
+        <p  style="font-weight:400">For emotional patients who give great value to their appearance, for those who know well the effects of their smile on others and who wish to go beyond the strict and outdated concept of health as a simple absence of disease.</p>
+      image: /img/sections-aesthetic-dentistry-dds.jpg
+      footer:
+        display: true
+        image:
+          src: /img/sections-icons-aesthetic-dentistry.jpg
+          display: false
+        button:
+          text: More Information
+          to: '/en/specialties/aesthetic-dentistry/digital-smile-design'
+          display: true
+    - align: right
+      title: >
+        <h3 style="color:#333;font-family:'Bebas Neue Bold'">PORCELAIN VENEERS</h3>
+      content: >
+        <p  style="font-weight:400">The aesthetic option par excellence to improve the general appearance of the smile or correct existing defects with conservative restorations that recreate the natural appearance of the teeth and provide a resistance comparable to tooth enamel.</p>
+      image: /img/sections-aesthetic-dentistry-veneers.jpg
+      footer:
+        display: true
+        image:
+          src: /img/sections-icons-aesthetic-dentistry.jpg
+          display: false
+        button:
+          text: More Information
+          to: '/en/specialties/aesthetic-dentistry/porcelain-veneers/'
+          display: true
+  
   
 # Testimonial Section
 lightQuote:

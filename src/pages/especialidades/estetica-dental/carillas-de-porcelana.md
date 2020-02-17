@@ -49,6 +49,26 @@ slogan:
   description: Visítenos y en solo 3 o 4 sesiones de trabajo podremos diseñar y crear esa sonrisa que siempre ha soñado.
 
 #5 DDS Custom
+steps:
+  display: false
+  blocks:
+  -
+    number: 1
+    description: >
+        ''
+    img:
+      display: true
+      images:
+        - src: /img/brackets-care-steps-1.jpg
+        - src: /img/brackets-care-steps-2.jpg
+    list:
+      display: false
+      rows:
+        - icon: /img/icons-brush.jpg
+          image: /img/brackets-care-steps-3.jpg
+          desc:
+            text: > 
+              ''
 dds: 
   display: false
   heading: > 
@@ -95,7 +115,51 @@ paragraph:
   blocks:
   - title: SOme other title
     text: SOme other text
-  
+
+listGallery:
+  position: top
+  type: column
+  display: true
+  title: >
+    <h1>¿Cuándo están indicadas?</h1>
+  desc: >
+    <p class="dv-div-text text-center dv-mb-83">En presencia de anomalías estéticas que comprometan la apariencia de la persona.  A continuación presentamos diversas <br> condiciones clínicas susceptibles a este tipo de restauración dental:</p>
+  blocks:
+  - sections:
+    - img: /img/b&a-1.jpg
+      number: 1
+      title: >
+        <p class="dv-div-text list"><i class="icon-check circle"></i>Diastemas o separaciones interdentales</p>
+    - img: /img/b&a-2.jpg
+      number: 1
+      title: >
+        <p class="dv-div-text list"><i class="icon-check circle"></i>Manchas o tinciones irreversibles</p>
+    - img: /img/b&a-3.jpg
+      number: 1
+      title: >
+        <p class="dv-div-text list"><i class="icon-check circle"></i>Malposición leve</p>
+    - img: /img/b&a-4.jpg
+      number: 1
+      title: >
+        <p class="dv-div-text list"><i class="icon-check circle"></i>Triángulos negros o troneras gingivales</p>
+  - sections:
+    - img: /img/b&a-5.jpg
+      number: 1
+      title: >
+        <p class="dv-div-text list"><i class="icon-check circle"></i>Fracturas coronarias</p>
+    - img: /img/b&a-6.jpg
+      number: 1
+      title: >
+        <p class="dv-div-text list"><i class="icon-check circle"></i>Alteraciones de forma, color y tamaño</p>
+    - img: /img/b&a-7.jpg
+      number: 1
+      title: >
+        <p class="dv-div-text list"><i class="icon-check circle"></i>Restauraciones antiguas o defectuosas</p>
+    - img: /img/b&a-8.jpg
+      number: 1
+      title: >
+        <p class="dv-div-text list"><i class="icon-check circle"></i>Necesidad de blanqueamiento permanente</p>
+
 implantTypes:
   display: false
   blocks:
@@ -130,9 +194,9 @@ procedures:
   display: true
   title: Otros Procedimientos
   procedures:
-    - title: Prótesis sobre implantes
-      to: /especialidades/implantes-dentales/protesis-sobre-implantes/
-      img: /img/procedures-dental-implants.jpg
+    - title: Diseño digital de sonrisa
+      to: /especialidades/estetica-dental/diseno-digital-de-sonrisa/
+      img: /img/procedures-design.jpg
     - title: Diagnóstico y Planificación 3D
       to: /especialidades/implantes-dentales/diagnostico-y-planificacion-3d/
       img: /img/procedures-diagnostic.jpg
@@ -142,9 +206,9 @@ procedures:
     - title: Técnologia cad-cam
       to: /especialidades/protesis/tecnologia-cad-cam/
       img: /img/procedures-cad-cam.jpg
-    - title: Carillas de porcelana
-      to: /especialidades/estetica-dental/carillas-de-porcelana/
-      img: /img/procedures-veneers.jpg
+    - title: Prótesis sobre implantes
+      to: /especialidades/implantes-dentales/protesis-sobre-implantes/
+      img: /img/procedures-dental-implants.jpg
     - title: Brackets Estéticos
       to: /especialidades/ortodoncia/aparatos-esteticos/
       img: /img/procedures-brackets.jpg

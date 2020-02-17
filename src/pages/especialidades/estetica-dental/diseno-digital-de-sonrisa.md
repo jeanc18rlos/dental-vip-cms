@@ -52,6 +52,26 @@ slogan:
   description: Definitivamente, el Diseño de Sonrisa revolucionó para siempre el estudio y ejercicio clínico de la Odontología Estética.
 
 #5 DDS Custom
+steps:
+  display: false
+  blocks:
+  -
+    number: 1
+    description: >
+        ''
+    img:
+      display: true
+      images:
+        - src: /img/brackets-care-steps-1.jpg
+        - src: /img/brackets-care-steps-2.jpg
+    list:
+      display: false
+      rows:
+        - icon: /img/icons-brush.jpg
+          image: /img/brackets-care-steps-3.jpg
+          desc:
+            text: > 
+              ''
 
 dds: 
   display: true
@@ -62,7 +82,7 @@ dds:
   title: > 
     <h2 class="dv-slogan-title">Morfología Dental y Visagismo: El Arte de Personalizar una Sonrisa</h2>
   description: > 
-    Es incuestionable que para realzar la belleza de una persona debemos siempre procurar armonía entre su rostro, sus rasgos faciales y la forma de sus dientes. Pero con la técnica del Visagismo vamos aún más allá y buscamos proyectar la personalidad del paciente a través del patrón geométrico de su sonrisa. Hoy en día sabemos que nuestro entendimiento inconsciente y emocional tiende a asociar las formas ovales con caracteres sensibles y melancólicos, las formas triangulares con personas dinámicas y extrovertidas, las rectangulares con temperamentos fuertes y dominantes y las cuadradas con individuos serios y discretos.</p>
+    Es incuestionable que para realzar la belleza de una persona debemos siempre procurar armonía entre su rostro, sus rasgos faciales y la forma de sus dientes. Pero con la técnica del Visagismo vamos aún más allá y buscamos proyectar la personalidad del paciente a través del patrón geométrico de su sonrisa. Hoy en día sabemos que nuestro entendimiento inconsciente y emocional tiende a asociar las formas ovales con caracteres sensibles y melancólicos, las formas triangulares con personas dinámicas y extrovertidas, las rectangulares con temperamentos fuertes y dominantes y las cuadradas con individuos serios y discretos.
   sections:
     - img: /img/dds-custom-block-oval.png
       description: > 
@@ -76,6 +96,7 @@ dds:
     - img: /img/dds-custom-block-cuadradra.png
       description: > 
         <p class="dv-div-text">Ausencia de dominancia</p><p class="dv-div-text">Ejes divergentes</p><p class="dv-div-text">Disposición horizontal</p>
+
 #6 Block gallery
 blockGallery:
   img: 
@@ -102,6 +123,21 @@ paragraph:
   blocks:
   - title: SOme other title
     text: SOme other text
+
+listGallery:
+  position: top
+  type: column
+  display: false
+  title: >
+    <h1>¿Cuándo están indicadas?</h1>
+  desc: >
+    <p class="dv-div-text text-center dv-mb-83">En presencia de anomalías estéticas que comprometan la apariencia de la persona.  A continuación presentamos diversas <br> condiciones clínicas susceptibles a este tipo de restauración dental:</p>
+  blocks:
+  - sections:
+    - img: /img/b&a-1.jpg
+      number: 1
+      title: >
+        <p class="dv-div-text list"><i class="icon-check circle"></i>Diastemas o separaciones interdentales</p>
 
 implantTypes:
   display: false
@@ -142,21 +178,23 @@ procedures:
   display: true
   title: Otros Procedimientos
   procedures:
-    - title: Técnologia cad-cam
-      to: /especialidades/protesis/tecnologia-cad-cam/
-      img: /img/procedures-cad-cam.jpg
+
+    - title: Carillas de porcelana
+      to: /especialidades/estetica-dental/carillas-de-porcelana/
+      img: /img/procedures-veneers.jpg
     - title: Diagnóstico y Planificación 3D
       to: /especialidades/implantes-dentales/diagnostico-y-planificacion-3d/
       img: /img/procedures-diagnostic.jpg
     - title: Rehabilitación Oral
-      to: /especialidades/protesis/
+      to: >
+        /especialidades/protesis/
       img: /img/procedures-rehabilitation.jpg
     - title: Prótesis sobre implantes
       to: /especialidades/implantes-dentales/protesis-sobre-implantes/
       img: /img/procedures-dental-implants.jpg
-    - title: Carillas de porcelana
-      to: /especialidades/estetica-dental/carillas-de-porcelana/
-      img: /img/procedures-veneers.jpg
+    - title: Técnologia cad-cam
+      to: /especialidades/protesis/tecnologia-cad-cam/
+      img: /img/procedures-cad-cam.jpg
     - title: Brackets Estéticos
       to: /especialidades/ortodoncia/aparatos-esteticos/
       img: /img/procedures-brackets.jpg

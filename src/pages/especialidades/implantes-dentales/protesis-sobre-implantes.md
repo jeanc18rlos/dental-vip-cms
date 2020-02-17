@@ -45,12 +45,27 @@ sidePanel:
 #4 Slogan Section
 slogan:
   link:
-    display: false
+    display: true
     to: /especialidades/estetica-dental/diseno-digital-de-sonrisa/
     text: Más Información
   img: /img/slogan-teeth.jpg
   title: Diseñamos su Sonrisa con Tecnología Computarizada CAD-CAM
   description: Nuestro equipo de Técnicos Dentales cuenta con más de 20 años de experiencia en restauraciones Implantoasistidas.
+
+listGallery:
+  position: top
+  type: column
+  display: false
+  title: >
+    <h1>¿Cuándo están indicadas?</h1>
+  desc: >
+    <p class="dv-div-text text-center dv-mb-83">En presencia de anomalías estéticas que comprometan la apariencia de la persona.  A continuación presentamos diversas <br> condiciones clínicas susceptibles a este tipo de restauración dental:</p>
+  blocks:
+  - sections:
+    - img: /img/b&a-1.jpg
+      number: 1
+      title: >
+        <p class="dv-div-text list"><i class="icon-check circle"></i>Diastemas o separaciones interdentales</p>
 
 implantTypes:
   display: true
@@ -101,6 +116,26 @@ paragraph:
   - title: Intervención guiada con férula quirúrgica
     text: La férula o guía quirúrgica es un prototipo, un dispositivo físico que orienta al Cirujano durante el acto de implantación, permitiéndole colocar cada elemento según lo dispuesto, con precisión espacial milimétrica e inclinación axial adecuada.
 #5 DDS Custom
+steps:
+  display: false
+  blocks:
+  -
+    number: 1
+    description: >
+        ''
+    img:
+      display: true
+      images:
+        - src: /img/brackets-care-steps-1.jpg
+        - src: /img/brackets-care-steps-2.jpg
+    list:
+      display: false
+      rows:
+        - icon: /img/icons-brush.jpg
+          image: /img/brackets-care-steps-3.jpg
+          desc:
+            text: > 
+              ''
 dds: 
   display: false
   heading: > 
@@ -152,18 +187,19 @@ procedures:
   display: true
   title: Otros Procedimientos
   procedures:
-    - title: Rehabilitación Oral
-      to: /especialidades/protesis/
-      img: /img/procedures-rehabilitation.jpg
+    - title: Diagnóstico y Planificación 3D
+      to: /especialidades/implantes-dentales/diagnostico-y-planificacion-3d/
+      img: /img/procedures-diagnostic.jpg
+
     - title: Técnologia cad-cam
       to: /especialidades/protesis/tecnologia-cad-cam/
       img: /img/procedures-cad-cam.jpg
     - title: Diseño digital de sonrisa
       to: /especialidades/estetica-dental/diseno-digital-de-sonrisa/
       img: /img/procedures-design.jpg
-    - title: Diagnóstico y Planificación 3D
-      to: /especialidades/implantes-dentales/diagnostico-y-planificacion-3d/
-      img: /img/procedures-diagnostic.jpg
+    - title: Rehabilitación Oral
+      to: /especialidades/protesis/
+      img: /img/procedures-rehabilitation.jpg
     - title: Brackets Estéticos
       to: /especialidades/ortodoncia/aparatos-esteticos/
       img: /img/procedures-brackets.jpg

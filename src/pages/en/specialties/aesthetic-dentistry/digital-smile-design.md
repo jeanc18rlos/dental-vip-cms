@@ -22,23 +22,36 @@ heading:
   title: DIGITAL SMILE DESIGN (DSD)
   content: >
     <p class="dv-subtitle text-center">It is a computing tool that allows us, through a digital photographic protocol, to record and study your proportions and dentofacial features, plan your ideal smile and simulate it graphically.</p>
-    
+
 #3 Aside Section
-sidePanel: 
+sidePanel:
   display: true
-  sections: 
-    - 
-      img: /img/sections-dds-shoot.jpg
-      section: > 
-        <div class="dv-sp-srv-cd"><h2 class="dv-srv-pr dv-srv-pr-45">Captura de imágenes</h2><p class="dv-srv-pr dv-srv-pr-45">Estamos plenamente convencidos de que la fotografía clínica es para la Estética dental lo que la radiografía es para la Odontología en general. "Una imagen dice más que mil palabras" y "una fotografía muestra más de mil detalles".</p><p class="dv-srv-pr dv-srv-pr-45">Nos valemos de una cámara reflex digital para registrar la boca y la cara del paciente desde varios ángulos y perfiles. Para realizar un buen trabajo es indispensable que las fotografías intra y extraorales cuenten con alta resolución, buena iluminación, nitidez y profundidad de campo. Normalmente nos manejamos bajo formato JPG.</p></div>
-    - 
-      img: /img/sections-dds-processing.jpg
-      section: > 
-        <div class="dv-sp-srv-cd"><h2 class="dv-srv-pl4 dv-pb-15em">Procesamiento informático</h2><p class="dv-srv-pl dv-srv-pl-pr">Un software profesional de tratamiento de imágenes nos permite medir y modificar la posición, la forma y las dimensiones de dientes y encías con la finalidad de reproducir el mejor resultado estético posible, claro está, bajo el criterio de la proporción áurea <i>(1/1.618)</i> y siempre dentro de los límites biológicamente viables.</p><p class="dv-srv-pl dv-srv-pl-pr">En DENTAL VIP nunca utilizamos plantillas ni prototipos seriados. Nuestros diseños son completamente personalizados, realistas y ajustados a la verdadera condición clínica de la persona. <strong>¡Solo mostramos lo que verdaderamente podemos lograr!</strong></p></div>
-    - 
-      img: /img/sections-dds-mock-up.jpg
+  sections:
+    - img: /img/sections-dds-shoot.jpg
       section: >
-        <div class="dv-sp-srv-cd"><h2 class="dv-srv-pr dv-srv-pr-45">Muck-up digital</h2><p class="dv-srv-pr dv-srv-pr-45">Es la proyección final, simulación y fotomontaje de la nueva sonrisa. En él, se podrán apreciar con detalle las bondades de todas y cada una de las intervenciones sugeridas por nuestro equipo de Especialistas. Si aún hubiese duda, procederíamos entonces a obtener un molde real de yeso para sobre él reproducir en cera de laboratorio el diseño contemplado y duplicarlo directamente en la boca del paciente con una resina acrílica especial. Esta férula o prototipo acrílico podrá ser utilizado hasta por una semana y sometido a la consideración de amigos y familiares cercanos.</p></div>
+        <div class="dv-sp-srv-cd">
+          <h2 class="dv-srv-pr dv-srv-pr-45">Images capture</h2>
+
+          <p class="dv-srv-pr dv-srv-pr-45">We are fully convinced that clinical photography is for Dental Aesthetics what radiography is for Dentistry in general. "A picture says more than a thousand words" and "a picture shows more than a thousand details”.</p>
+          
+          <p class="dv-srv-pr dv-srv-pr-45">We use a digital reflex camera to record the patient's mouth and face from various angles and profiles. To do a good job it is essential that intra and extraoral photographs have high resolution, good lighting, sharpness and depth of field. Normally we handle under JPG format.</p>
+        </div>
+    - img: /img/sections-dds-processing.jpg
+      section: >
+        <div class="dv-sp-srv-cd">
+          <h2 class="dv-srv-pl4 dv-pb-15em">Computer processing</h2>
+          
+          <p class="dv-srv-pl dv-srv-pl-pr">A professional image processing software allows us to measure and modify the position, shape and dimensions of teeth and gums in order to reproduce the best possible aesthetic result, of course, under the golden ratio criterion <i>(1/1.618)</i> and always within the biologically viable limits.</p>
+          
+          <p class="dv-srv-pl dv-srv-pl-pr">In DENTAL VIP we never use templates or serial prototypes. Our designs are completely personalized, realistic and adjusted to the true clinical condition of the person.  <strong>We only show what we can truly achieve!</strong></p>
+        </div>
+    - img: /img/sections-dds-mock-up.jpg
+      section: >
+        <div class="dv-sp-srv-cd">
+          <h2 class="dv-srv-pr dv-srv-pr-45">Digital mock-up</h2>
+          
+          <p class="dv-srv-pr dv-srv-pr-45">It is the final projection, simulation and photomontage of the new smile. In it, you will be able to appreciate in detail the benefits of each and every one of the interventions suggested by our team of Specialists. If there were still doubt, we would then proceed to obtain a real plaster cast to over it reproduce the design contemplated in laboratory wax and duplicate it directly in the patient's mouth with a special acrylic resin. This splint or acrylic prototype could be used for up to a week and be subjected to the consideration of friends and close family.</p>
+        </div>
 # Custom Paragraph center img
 paragraph:
   display: false
@@ -49,18 +62,33 @@ paragraph:
     text: >
       SOme text
   blocks:
-  - title: SOme other title
-    text: SOme other text
-  
+    - title: SOme other title
+      text: SOme other text
+
 #4 Slogan Section
 slogan:
   link:
     display: false
-    to: ''
-    text: ''
+    to: ""
+    text: ""
   img: /img/slogan-teeth.jpg
   title: Now You Can See the Final Result Before Starting Your Treatment!
   description: Definitely, the Smile Design revolutionized forever the study and clinical practice of Aesthetic Dentistry.
+
+listGallery:
+  position: top
+  type: column
+  display: false
+  title: >
+    <h1>¿Cuándo están indicadas?</h1>
+  desc: >
+    <p class="dv-div-text text-center dv-mb-83">En presencia de anomalías estéticas que comprometan la apariencia de la persona.  A continuación presentamos diversas <br> condiciones clínicas susceptibles a este tipo de restauración dental:</p>
+  blocks:
+    - sections:
+        - img: /img/b&a-1.jpg
+          number: 1
+          title: >
+            <p class="dv-div-text list"><i class="icon-check circle"></i>Diastemas o separaciones interdentales</p>
 
 implantTypes:
   display: false
@@ -73,22 +101,74 @@ implantTypes:
       icon: /img/icons-individual-crown.png
 
 #5 DDS Custom
-dds: 
+steps:
   display: false
+  blocks:
+  -
+    number: 1
+    description: >
+        ''
+    img:
+      display: true
+      images:
+        - src: /img/brackets-care-steps-1.jpg
+        - src: /img/brackets-care-steps-2.jpg
+    list:
+      display: false
+      rows:
+        - icon: /img/icons-brush.jpg
+          image: /img/brackets-care-steps-3.jpg
+          desc:
+            text: > 
+              ''
+
+dds: 
+  display: true
   heading: > 
-    ''
+    <div class="col-xs-12 col-sm-6 dv-div-left">
+      <div class="row">
+        <p class="dv-div-title dv-pb-15em">Approval and consent</p>
+        <p class="dv-div-text">The DSD concept involves the patient in the transformation process of his own smile, making him a co-designer of the treatment and allowing him to express his expectations to the work team, to finally achieve his absolute compliance and authorization for the clinical procedure.</p>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 dv-div-right">
+      <div class="row">
+        <p class="dv-div-title dv-pb-15em">Intraoral execution</p>
+        <p class="dv-div-text">Periodontal plastic surgery, teeth whitening, cosmetic contouring, adhesive restorations, veneers and total-ceramic crowns are the most common clinical interventions in a Smile Design. Usually, the participation of two or more Specialist Dentists is necessary.</p>
+      </div>
+    </div>
   img: /img/dds-custom-block-smile.jpg
   title: > 
-    ''
+    <h2 class="dv-slogan-title">Dental Morphology and Visagism: The Art of Customizing a Smile</h2>
   description: > 
-    ''
+    It is unquestionable that to enhance the beauty of a person we must always seek harmony between his face, his facial features and the shape of his teeth. But with the technique of Visagism we go even so further and seek to project the patient's personality through the geometric pattern of his smile. Today we know that our unconscious and emotional understanding tends to associate oval shapes with sensitive and melancholic characters, triangular shapes with dynamic and extroverted people, rectangular ones with strong and dominant temperaments and square ones with serious and discrete individuals.
   sections:
     - img: /img/dds-custom-block-oval.png
       description: > 
-        ''
+        <p class="dv-div-text">DOMINANT CENTRALS</p>
+        <p class="dv-div-text">ROUNDED CANINES</p>
+        <p class="dv-div-text">DELICATE LATERALS</p>
+        <p class="dv-div-text">ROUNDED ARCH</p>
+    - img: /img/dds-custom-block-triangular.png
+      description: > 
+        <p class="dv-div-text">ASCENDING SMILE</p>
+        <p class="dv-div-text">LINE CONVERGENT AXES</p>
+        <p class="dv-div-text">INCLINED CANINES</p>
+    - img: /img/dds-custom-block-rectangular.jpg
+      description: > 
+        <p class="dv-div-text">DOMINANT CENTRALS</p>
+        <p class="dv-div-text">FLAT INCISAL EDGES</p>
+        <p class="dv-div-text">AGGRESSIVE CANINES</p>
+        <p class="dv-div-text">VERTICAL AXES</p>
+    - img: /img/dds-custom-block-cuadradra.png
+      description: > 
+        <p class="dv-div-text">ABSENCE OF DOMINANCE</p>
+        <p class="dv-div-text">DIVERGENT AXES</p>
+        <p class="dv-div-text">HORIZONTAL LAYOUT</p>
+
 #6 Block gallery
 blockGallery:
-  img: 
+  img:
     display: false
     img: /img/sections-dds-shoot.jpg
   position: top
@@ -127,24 +207,25 @@ form:
 # 10 Procedures
 procedures:
   display: true
-  title: Otros Procedimientos
+  title: Other Procedures
   procedures:
-    - title: Técnologia cad-cam
-      to: /especialidades/protesis/tecnologia-cad-cam/
-      img: /img/procedures-cad-cam.jpg
-    - title: Diagnóstico y Planificación 3D
-      to: /especialidades/implantes-dentales/diagnostico-y-planificacion-3d/
-      img: /img/procedures-diagnostic.jpg
-    - title: Rehabilitación Oral
-      to: /especialidades/protesis/
-      img: /img/procedures-rehabilitation.jpg
-    - title: Prótesis sobre implantes
-      to: /especialidades/implantes-dentales/protesis-sobre-implantes/
-      img: /img/procedures-dental-implants.jpg
-    - title: Carillas de porcelana
-      to: /especialidades/estetica-dental/carillas-de-porcelana/
+    - title: PORCELAIN VENEERS
+      to: /en/specialties/aesthetic-dentistry/porcelain-veneers/
       img: /img/procedures-veneers.jpg
-    - title: Brackets Estéticos
-      to: /especialidades/ortodoncia/aparatos-esteticos/
+    - title: 3D DIAGNOSIS AND PLANNING
+      to: /en/specialties/dental-implants/3d-diagnosis-and-planning/
+      img: /img/procedures-diagnostic.jpg
+    - title: ORAL REHABILITATION
+      to: >
+        /en/specialties/prosthodontics/
+      img: /img/procedures-rehabilitation.jpg
+    - title: IMPLANT SUPPORTED RESTORATIONS
+      to: /en/specialties/dental-implants/implant-supported-restorations/
+      img: /img/procedures-dental-implants.jpg
+    - title: CAD-CAM TECHNOLOGY
+      to: /en/specialties/prosthesis/cad-cam-technology/
+      img: /img/procedures-cad-cam.jpg
+    - title: AESTHETIC BRACKETS
+      to: /en/specialties/orthodontics/aesthetic-devices/
       img: /img/procedures-brackets.jpg
 ---

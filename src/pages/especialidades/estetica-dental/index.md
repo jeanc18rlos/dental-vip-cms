@@ -218,11 +218,11 @@ asides:
         display: true
         image:
           src: /img/sections-icons-aesthetic-dentistry.jpg
-          display: true
-        button:
-          text: ''
-          to: ''
           display: false
+        button:
+          text: Más Información 
+          to: '/especialidades/estetica-dental/blanqueamiento-dental/'
+          display: true
     - align: left
       title: >
         <h3 style="color:#333;font-family:'Bebas Neue Bold'">Diseño Digital de Sonrisa (DDS)</h3>

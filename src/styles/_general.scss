@@ -450,7 +450,7 @@ a:hover {
 }
 
 // Slogan
-.dv-slogan {
+section.dv-slogan {
   padding: 105px 5vw 88px;
   text-align: center;
   justify-content: center;
@@ -493,6 +493,11 @@ a:hover {
   padding: calc(5vw + 15px);
   padding-bottom: 112px;
   padding-top: 112px;
+  > .row {
+    > .row {
+      padding: 0 15px;
+    }
+  }
   .dv-image-size,
   .dv-img-typo {
     width: 100%;
@@ -598,7 +603,7 @@ a:hover {
 
 .dv-block-gallery {
   padding: 120px calc(5vw - 15px) 27px;
-  .main-image{
+  .main-image {
     margin: 0 15px;
   }
   &.top-title {
@@ -637,18 +642,23 @@ a:hover {
 }
 .dv-implant-types {
   padding: 74px calc(5vw - 15px) 120px;
+
   .row {
     margin: 0;
   }
-  >.dv-main-menu > .row {
-    padding-bottom: 5px;
-    margin-top: 45px;
-    border-bottom: 30px solid #ededed;
-    > div {
-      padding: 0;
+  > .dv-main-menu {
+    > .row {
+      padding-bottom: 5px;
+      margin-top: 45px;
+      border-bottom: 30px solid #ededed;
+      > .row {
+        > div {
+          padding: 0;
+        }
+      }
     }
   }
-  .text-right{
+  .text-right {
     padding-right: 15px;
     text-align: right;
   }
@@ -658,6 +668,8 @@ a:hover {
   }
   .dv-repeat-logo {
     margin-top: 33px;
+    margin-left: 15px;
+    margin-right: 15px;
     max-width: 100px;
     float: right;
     width: 100%;
@@ -714,5 +726,172 @@ a:hover {
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
+  }
+}
+
+.dv-list-gallery {
+  padding: 110px 5vw 30px;
+  .dv-row-aligns {
+    .gatsby-image-wrapper {
+      border: solid 2px #a0a0a0;
+      width: fit-content;
+      height: fit-content;
+      padding: 0;
+    }
+  }
+  .dv-row-aligns:nth-child(even) {
+    flex-direction: row-reverse;
+  }
+  .dv-column {
+    display: flex;
+    justify-content: flex-start;
+    margin: 0 !important;
+    padding: 0px;
+    > .row {
+      margin: 0;
+      margin-bottom: 82px;
+    }
+  }
+  div.dv-row-type {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center;
+    img {
+      object-fit: contain !important;
+    }
+    .dv-div-text.list {
+      margin-bottom: 0;
+    }
+    h2 {
+      font-size: 20px;
+      margin-top: 8px;
+      font-weight: bold;
+      color: #333;
+    }
+    .number {
+      font-family: Bebas Neue Bold;
+      color: #91c508;
+      border: solid;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      padding-top: 7px;
+      width: 50px;
+      height: 50px;
+      align-items: center;
+      line-height: 0;
+      flex-direction: column;
+      font-weight: bold;
+      text-align: center;
+      font-size: 35px;
+    }
+    span {
+      text-align: center;
+    }
+  }
+  .dv-cp-img {
+    width: 100%;
+  }
+  h1 {
+    font-weight: 700;
+    line-height: 26px;
+    font-family: Roboto, sans-serif;
+    padding-bottom: 10px;
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+    font-size: 24px !important;
+  }
+  .text-center.dv-div-text {
+    font-size: 16px;
+    font-weight: 400;
+    width: 100%;
+    line-height: 24px;
+    margin-bottom: 85px;
+    color: #555;
+    font-family: Roboto, sans-serif;
+  }
+  i.circle {
+    color: white;
+    background: #91c508;
+    height: fit-content;
+    max-width: fit-content;
+    padding: 4px;
+    margin-left: 0;
+    margin-right: 15px;
+    font-size: 0.75em;
+    border-radius: 50%;
+  }
+  .dv-div-text.list {
+    font-size: 16px;
+    font-weight: 400;
+    width: 100%;
+    margin-top: 17px;
+    line-height: 24px;
+    margin-bottom: 81px;
+    color: #555;
+    font-family: Roboto, sans-serif;
+  }
+}
+
+.dv-steps {
+  margin: 0 !important;
+  padding: 94px calc(5vw - 15px) 80px;
+  .steps-list {
+    margin-bottom: 30px;
+    .dv-div-text {
+     
+      margin-bottom: 0;}
+  }
+  .paragraph-list {
+    margin-top: 25px;
+    margin-bottom: 9px;
+  }
+  .dv-sp-ads-img {
+    margin-top: 25px;
+    margin-bottom: 94px;
+  }
+  .row {
+    margin: 0;
+  }
+  .row.list-steps {
+    margin-bottom: 30px;
+    
+  }
+  .dv-div-text {
+    font-size: 16px;
+    text-align: center;
+    font-weight: 400;
+    width: 100%;
+    margin-top: 17px;
+    line-height: 24px;
+    margin-bottom: 32px;
+    color: #555;
+    font-family: Roboto, sans-serif;
+  }
+  .dv-num-imgs-icon {
+    max-width: 84px;
+    margin: auto;
+  }
+  .dv-numb {
+    font-family: Bebas Neue Bold;
+    color: #91c508;
+    border: solid;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    padding-top: 7px;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    line-height: 0;
+    flex-direction: column;
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
   }
 }

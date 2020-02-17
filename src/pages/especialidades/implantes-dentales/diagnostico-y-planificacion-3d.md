@@ -57,6 +57,26 @@ slogan:
   description: Un verdadero enfoque Multidisciplinario de principio a fin, Prostodoncia y Cirugía en estrecha relación...
 
 #5 DDS Custom
+steps:
+  display: false
+  blocks:
+  -
+    number: 1
+    description: >
+        ''
+    img:
+      display: true
+      images:
+        - src: /img/brackets-care-steps-1.jpg
+        - src: /img/brackets-care-steps-2.jpg
+    list:
+      display: false
+      rows:
+        - icon: /img/icons-brush.jpg
+          image: /img/brackets-care-steps-3.jpg
+          desc:
+            text: > 
+              ''
 dds: 
   display: false
   heading: > 
@@ -84,6 +104,20 @@ blockGallery:
         <h1> hola </h1>
       desc: >
         <p> hola </p>
+
+listGallery:
+  type: column
+  display: false
+  title: >
+    <h1>¿Cuándo están indicadas?</h1>
+  desc: >
+    <p class="dv-div-text text-center dv-mb-83">En presencia de anomalías estéticas que comprometan la apariencia de la persona.  A continuación presentamos diversas <br> condiciones clínicas susceptibles a este tipo de restauración dental:</p>
+  blocks:
+  - sections:
+    - img: /img/b&a-1.jpg
+      number: 1
+      title: >
+        <p class="dv-div-text list"><i class="icon-check circle"></i>Diastemas o separaciones interdentales</p>
 
 implantTypes:
   display: false
@@ -133,16 +167,6 @@ procedures:
   display: true
   title: Otros Procedimientos
   procedures:
-    - title: Carillas de porcelana
-      to: /especialidades/estetica-dental/carillas-de-porcelana/
-      img: /img/procedures-veneers.jpg
-    - title: Diseño digital de sonrisa
-      to: /especialidades/estetica-dental/diseno-digital-de-sonrisa/
-      img: /img/procedures-design.jpg
-    - title: Brackets Estéticos
-      to: /especialidades/ortodoncia/aparatos-esteticos/
-      img: /img/procedures-brackets.jpg
-
     - title: Prótesis sobre implantes
       to: /especialidades/implantes-dentales/protesis-sobre-implantes/
       img: /img/procedures-dental-implants.jpg
@@ -154,6 +178,18 @@ procedures:
     - title: Técnologia cad-cam
       to: /especialidades/protesis/tecnologia-cad-cam/
       img: /img/procedures-cad-cam.jpg
+      
+    - title: Carillas de porcelana
+      to: /especialidades/estetica-dental/carillas-de-porcelana/
+      img: /img/procedures-veneers.jpg
+    - title: Diseño digital de sonrisa
+      to: /especialidades/estetica-dental/diseno-digital-de-sonrisa/
+      img: /img/procedures-design.jpg
+    - title: Brackets Estéticos
+      to: /especialidades/ortodoncia/aparatos-esteticos/
+      img: /img/procedures-brackets.jpg
+
+
 
 
 ---

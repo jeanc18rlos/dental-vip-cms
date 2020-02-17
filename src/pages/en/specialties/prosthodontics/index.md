@@ -253,7 +253,7 @@ asides:
           display: false
         button:
           text: More Information
-          to: '/'
+          to: '/en/specialties/prosthodontics/types-of-dental-prosthesis/'
           display: true
     - align: right
       title: >
@@ -268,7 +268,7 @@ asides:
           display: false
         button:
           text: More Information
-          to: '/'
+          to: '/en/specialties/prosthodontics/cad-cam-technology/'
           display: true
   
 # Testimonial Section

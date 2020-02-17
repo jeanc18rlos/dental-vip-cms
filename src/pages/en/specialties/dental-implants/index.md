@@ -238,7 +238,7 @@ asides:
           display: false  
         button:
           text: More Information 
-          to: '/'
+          to: '/en/specialties/dental-implants/3d-diagnosis-and-planning'
           display: true
     - align: right
       title: >
@@ -253,7 +253,7 @@ asides:
           display: false
         button:
           text: More Information  
-          to: '/'
+          to: '/en/specialties/dental-implants/implant-supported-restorations/'
           display: true
   
 # Testimonial Section

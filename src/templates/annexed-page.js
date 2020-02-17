@@ -18,9 +18,11 @@ export const AnexedPageTemplate = ({
   slogan,
   sidePanel,
   paragraph,
+  steps,
   blockGallery,
   language,
   dds,
+  listGallery,
   heading,
   plainParallax,
   paragraphSection
@@ -126,10 +128,136 @@ export const AnexedPageTemplate = ({
           </div>
         </section>
       )}
+      {listGallery.display && listGallery.position === "top" && (
+        <section className="dv-list-gallery">
+          <div className="row dv-main-menu">
+            <div
+              className="col-md-12"
+              dangerouslySetInnerHTML={{
+                __html: converter.makeHtml(listGallery.title)
+              }}
+            />
+            <div
+              className="col-md-12"
+              dangerouslySetInnerHTML={{
+                __html: converter.makeHtml(listGallery.desc)
+              }}
+            />
+            {listGallery.blocks.map((i, k) => {
+              return (
+                <div
+                  className={`${
+                    listGallery.type !== "Column"
+                      ? "col-md-6"
+                      : "dv-column row col-md-12"
+                  }`}
+                >
+                  {i.sections.map((i, k) => {
+                    return listGallery.type !== "Column" ? (
+                      <div className="col-xs-12">
+                        <Img
+                          fluid={i.img.childImageSharp.fluid}
+                          alt="DentalVip"
+                          className="dv-cp-img"
+                        />
 
+                        <div
+                          dangerouslySetInnerHTML={{
+                            __html: converter.makeHtml(i.title)
+                          }}
+                        />
+                      </div>
+                    ) : (
+                      <div className="row col-md-6 dv-row-aligns">
+                        <Img
+                          fluid={i.img.childImageSharp.fluid}
+                          alt="DentalVip"
+                          className="dv-cp-img dv-row-type col-md-5"
+                        />
+
+                        <div className="dv-row-type col-md-7">
+                          <span className="number">{i.number}</span>
+                          <span
+                            dangerouslySetInnerHTML={{
+                              __html: converter.makeHtml(i.title)
+                            }}
+                          ></span>
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              );
+            })}
+          </div>
+        </section>
+      )}
+
+      {steps.display && (
+        <section className="dv-steps row">
+          {steps.blocks.map((i, k) => {
+            return (
+              k <= 1 && (
+                <div className="col-xs-12 dv-npl dv-npr dv-bcare-pb-text">
+                  <div className="row">
+                    <div className=" col-md-1 col-sm-2">
+                      <p className="dv-numb center-block">{i.number}</p>
+                    </div>
+                    <div
+                      className="col-md-11 col-sm-10 center-block"
+                      dangerouslySetInnerHTML={{
+                        __html: converter.makeHtml(i.description)
+                      }}
+                    />
+
+                    {i.img.display &&
+                      i.img.images.map(e => {
+                        return (
+                          <div className="col-xs-12 col-sm-6 dv-bcare-pb-text dv-bcare-desc-img">
+                            <Img
+                              fluid={e.src.childImageSharp.fluid}
+                              alt="Logo"
+                              className="dv-sp-ads-img dv-num-imgs dv-bcare-desc-ione"
+                            />
+                          </div>
+                        );
+                      })}
+                    {i.list.display &&
+                      i.list.rows.map(l => {
+                        return (
+                          <div className="row">
+                            <div className="col-xs-12 col-sm-6">
+                              <Img
+                                fluid={l.image.childImageSharp.fluid}
+                                alt="Logo"
+                                className="dv-sp-ads-logo dv-num-logo center-block"
+                              />
+                            </div>
+                            <div className="col-xs-12 col-sm-6">
+                              <Img
+                                fluid={l.icon.childImageSharp.fluid}
+                                alt="Logo"
+                                className="dv-sp-ads-img dv-num-imgs"
+                              />
+                              <p className="dv-div-text text-left">
+                                Hay que cepillarse inmediatamente después de
+                                cada
+                              </p>
+                            </div>
+                          </div>
+                        );
+                      })}
+                  </div>
+                </div>
+              )
+            );
+          })}
+        </section>
+      )}
       <BackgroundImage
         className="dv-slogan"
         fluid={slogan.img.childImageSharp.fluid}
+        Tag="section"
       >
         <div>
           <h2 className="dv-slogan-title">{slogan.title}</h2>
@@ -141,6 +269,134 @@ export const AnexedPageTemplate = ({
           )}
         </div>
       </BackgroundImage>
+      {steps.display && (
+        <section className="dv-steps row">
+          {steps.blocks.map((i, k) => {
+            return (
+              k >= 2 && (
+                <div className="col-xs-12 dv-npl dv-npr dv-bcare-pb-text">
+                  <div className="row">
+                    <div className="col-md-1 col-sm-2">
+                      <p className="dv-numb center-block">{i.number}</p>
+                    </div>
+                    <div
+                      className="col-md-11 col-sm-10 center-block"
+                      dangerouslySetInnerHTML={{
+                        __html: converter.makeHtml(i.description)
+                      }}
+                    />
+                    {i.img.display &&
+                      i.img.images.map(e => {
+                        return (
+                          <div className="col-xs-12 col-sm-6 dv-bcare-pb-text dv-bcare-desc-img">
+                            <Img
+                              fluid={e.src.childImageSharp.fluid}
+                              alt="Logo"
+                              className="dv-sp-ads-img dv-num-imgs dv-bcare-desc-ione"
+                            />
+                          </div>
+                        );
+                      })}
+                    {i.list.display && (
+                      <div className="paragraph-list">
+                        {i.list.rows.map(l => {
+                          return (
+                            <div className="row list-steps">
+                              <div className="col-xs-12 col-sm-6">
+                                <Img
+                                  fluid={l.image.childImageSharp.fluid}
+                                  alt="Logo"
+                                  className="dv-sp-ads-logo dv-num-logo center-block"
+                                />
+                              </div>
+                              <div className="col-xs-12 col-sm-6">
+                                <Img
+                                  fluid={l.icon.childImageSharp.fluid}
+                                  alt="Logo"
+                                  className="dv-sp-ads-img dv-num-imgs-icon"
+                                />
+                                <div
+                                  dangerouslySetInnerHTML={{
+                                    __html: converter.makeHtml(l.desc.text)
+                                  }}
+                                />
+                              </div>
+                            </div>
+                          );
+                        })}
+                      </div>
+                    )}
+                  </div>
+                </div>
+              )
+            );
+          })}
+        </section>
+      )}
+      {listGallery.display && listGallery.position === "bottom" && (
+        <section className="dv-list-gallery">
+          <div className="row dv-main-menu">
+            <div
+              className="col-md-12"
+              dangerouslySetInnerHTML={{
+                __html: converter.makeHtml(listGallery.title)
+              }}
+            />
+            <div
+              className="col-md-12"
+              dangerouslySetInnerHTML={{
+                __html: converter.makeHtml(listGallery.desc)
+              }}
+            />
+            {listGallery.blocks.map((i, k) => {
+              return (
+                <div
+                  className={`${
+                    listGallery.type !== "Column"
+                      ? "col-md-6"
+                      : "dv-column row col-md-12"
+                  }`}
+                >
+                  {i.sections.map((i, k) => {
+                    return listGallery.type !== "Column" ? (
+                      <div className="col-xs-12">
+                        <Img
+                          fluid={i.img.childImageSharp.fluid}
+                          alt="DentalVip"
+                          className="dv-cp-img"
+                        />
+
+                        <div
+                          dangerouslySetInnerHTML={{
+                            __html: converter.makeHtml(i.title)
+                          }}
+                        />
+                      </div>
+                    ) : (
+                      <div className="row col-md-6 dv-row-aligns">
+                        <Img
+                          fluid={i.img.childImageSharp.fluid}
+                          alt="DentalVip"
+                          className="dv-cp-img dv-row-type col-md-5"
+                        />
+
+                        <div className="dv-row-type col-md-7">
+                          <span className="number">{i.number}</span>
+                          <span
+                            dangerouslySetInnerHTML={{
+                              __html: converter.makeHtml(i.title)
+                            }}
+                          ></span>
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              );
+            })}
+          </div>
+        </section>
+      )}
       {paragraph.display && (
         <div>
           <section className="dv-info-ads">
@@ -159,8 +415,8 @@ export const AnexedPageTemplate = ({
               </div>
               <div className="right col-xs-12 col-sm-4">
                 <div className="row">
-                  <p className="dv-div-title">{paragraph.blocks[0].title}</p>
-                  <p className="dv-div-text">{paragraph.blocks[0].text}</p>
+                  <p className="dv-div-title">{paragraph.blocks[1].title}</p>
+                  <p className="dv-div-text">{paragraph.blocks[1].text}</p>
                 </div>
               </div>
               {paragraph.desc.display && (
@@ -522,12 +778,14 @@ const AnexedPage = ({ data }) => {
     form,
     paragraph,
     title,
+    steps,
     blockGallery,
     heading,
     redirects,
     implantTypes,
     dds,
     plainParallax,
+    listGallery,
     sidePanel,
     slogan,
     paragraphSection,
@@ -538,11 +796,12 @@ const AnexedPage = ({ data }) => {
   return (
     <Layout>
       <SEO title={title} />
-      <SetLang link={redirects} etLang language={language} />
+      <SetLang link={redirects} language={language} />
       <AnexedPageTemplate
         {...{
           paragraph,
           templateKey,
+          steps,
           heading,
           blockGallery,
           dds,
@@ -554,6 +813,7 @@ const AnexedPage = ({ data }) => {
           sidePanel,
           paragraphSection,
           hero,
+          listGallery,
           form,
           implantTypes,
           procedures
@@ -574,6 +834,7 @@ export const pageQuery = graphql`
       frontmatter {
         language
         title
+        redirects
         dds {
           display
           heading
@@ -611,6 +872,69 @@ export const pageQuery = graphql`
           indicator
           halfSize
         }
+        listGallery {
+          position
+          type
+          display
+          title
+          desc
+          blocks {
+            sections {
+              img {
+                childImageSharp {
+                  fluid(maxWidth: 1600, quality: 100) {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
+              number
+              title
+            }
+          }
+        }
+
+        steps {
+          display
+          blocks {
+            number
+            description
+            list {
+              display
+              rows {
+                icon {
+                  childImageSharp {
+                    fluid(maxWidth: 1600, quality: 100) {
+                      ...GatsbyImageSharpFluid
+                    }
+                  }
+                }
+                image {
+                  childImageSharp {
+                    fluid(maxWidth: 1600, quality: 100) {
+                      ...GatsbyImageSharpFluid
+                    }
+                  }
+                }
+                desc {
+                  text
+                }
+              }
+            }
+            img {
+              display
+              images {
+                src {
+                  childImageSharp {
+                    fluid(maxWidth: 1600, quality: 100) {
+                      ...GatsbyImageSharpFluid
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+
         paragraph {
           display
           image {
