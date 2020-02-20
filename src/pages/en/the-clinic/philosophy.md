@@ -95,7 +95,7 @@ sections:
           <strong>
             professional competence, commitment, flexibility and innovation
             capacity.
-          </strong>{' '}
+          </strong>
           In addition, we are a multidisciplinary team that is constantly
           evolving, training us every day in the new techniques and procedures
           that allow us to further improve the aesthetic and functional results
@@ -125,7 +125,7 @@ sections:
           <strong>
             a personal, friendly, sincere and very professional deal by the
             entire human team that works in the institution.
-          </strong>{' '}
+          </strong>
           Transparency, honesty, tolerance and equity in collaboration
           constitute our basis for success, harmony and job satisfaction.
           Although the results of the treatment always be your main motivation,
@@ -162,7 +162,7 @@ sections:
             When it comes to private attention, always mistrust of free
             consultations, 2x1 offers and excessively low fees, since they
             usually hide a great deterioration in the quality of care
-          </strong>{' '}
+          </strong>
           that can put your health at risk and make you easy prey to
           professional malpractice. Work very fast, attend to many patients,
           delegate functions and spare the most in academic training,
@@ -173,7 +173,7 @@ sections:
         DENTAL VIP offers&nbsp;
           <strong>
             dedication, personalization, excellence and exclusivity,
-          </strong>{' '}
+          </strong>
           combining the best of Specialized Integrated Dentistry with the most
           current and relevant technology, all
           <strong>&nbsp;at fair and truly favorable prices,</strong> surely

@@ -116,7 +116,8 @@ export const SpecialtiesPageTemplate = ({
             : "Para enviar un mensaje, es obligatorio rellenar todos los campos del formulario."}
         </div>
 
-        <form action="#" method="post" className="row">
+        <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" className="row">
+        <input type="hidden" name="form-name" value="contact" />
           <main className=" row col-xs-12 col-md-12 col-lg-6 col-xl-6 col-sm-12">
             <div className=" col-xs-12 col-md-6 col-sm-6">
               <span>
@@ -225,7 +226,7 @@ export const SpecialtiesPageTemplate = ({
               <span>
                 <input
                   type="tel"
-                  name="telefono"
+                  name="phone"
                   placeholder={
                     language === "es" ? "Número de teléfono" : "Phone Number"
                   }
