@@ -15,17 +15,26 @@ hero:
   indicator: true
   halfSize: false
 
-moreinfoFinancing:
-  display: false
-  type: 2
-  imgparallax: /img/parallax-why-choose-us.jpg
-  title: ''
-  subtitle: ''
-  otherinfo1: ''
-  otherinfo2: ''
-  paragraphs:
-    - paragraph: ''
-    
+bgText:
+  img: /img/parallax-why-choose-us.jpg
+  display: true
+  title: >
+    <h1>¿Vive Fuera de Venezuela?</h1>
+  body: >
+   <div>
+      <p class="dv-subtitle text-center text-white">¡También somos una opción!
+      </p><p class="text-left dv-subtitle">En la actualidad nuestro país se ha convertido en un importante destino de Turismo Dental y ya son muchos los pacientes foráneos que nos visitan para recibir una Atención Sanitaria de Primer Nivel.</p>
+      <p class="text-left dv-subtitle">Nuestra reconocida Calidad Asistencial y la posibilidad de Ahorrar Grandes Sumas de Dinero en tratamientos bucodentales de complejidad son dos ventajas competitivas difíciles de ignorar.</p>
+      <p class="text-left dv-subtitle">Para su comodidad contamos con una privilegiada ubicación y dos excelentes infraestructuras hoteleras situadas a menos de 50 metros de la clínica. CHACAO SUITES y SHELTER SUITES disponen de lindas y confortables habitaciones, estacionamiento, restaurantes y demás servicios que facilitarán y harán agradable su breve estadía en la ciudad de Caracas.</p>
+    </div>
+  footer: 
+    display: true
+    head: >
+      <h4>¿Pensando en viajar y visitarnos?</h4>
+    body: >
+      <h3>Conozca Más Acerca de Nuestro Protocolo Clínico de Actuación</h3>
+    link: /pacientes-del-exterior/
+
 
 checkout:
   display: false
@@ -171,7 +180,7 @@ banner:
         ''
       paragraph2:
         ''
-         
+        
 procedures:
   display: true
   title: ¡Una Especialidad para cada Tratamiento!

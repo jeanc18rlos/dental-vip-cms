@@ -14,6 +14,7 @@ hero:
     <span style="color:white">Financiamento</span>
   indicator: true
   halfSize: false
+  
 checkout:
   display: false
   title: ''
@@ -31,26 +32,83 @@ checkout:
           ''
       img: /img/icon-travel.png
 
-moreinfoFinancing:
+bgText:
+  img: /img/parallax-financing.jpg
   display: true
-  type: 2
-  imgparallax: /img/parallax-why-choose-us.jpg
-  title: Recaudos y Documentos a Consignar
-  subtitle: ¡También somos una opción!
-  otherinfo1: Le garantizamos un trámite simple, rápido y accesible para que Usted solo tenga que preocuparse de cosas más importantes.
-  otherinfo2: ¿Alguna Duda?
-  paragraphs:
-    - paragraph: Presupuesto en original emitido por DENTAL VIP, Especialidades Odontológicas s.c.
-    - paragraph: Planilla de solicitud de crédito debidamente cumplimentada en todos sus campos y firmada por el solicitante y su cónyuge (en caso de estar casado).
-    - paragraph: Fotocopia de la cédula de identidad vigente del solicitante y su cónyuge.
-    - paragraph: Fotocopia del registro único de información fiscal (RIF) vigente del solicitante y su cónyuge.
-    - paragraph: Constancia de trabajo en original o certificación de ingresos del solicitante y su cónyuge, con fecha de emisión no mayor a tres (3) meses.
-    - paragraph: Balance personal o mancomunado en original firmado por un contador público colegiado, con fecha de emisión no mayor a seis (6) meses.
-    - paragraph: Balance personal o mancomunado en original firmado por un contador público colegiado, con fecha de emisión no mayor a seis (6) meses.
-    - paragraph: Últimos tres (3) estados de cuentas corrientes, tarjetas de crédito y libretas de ahorro que el solicitante posea, sellados y firmados por el banco emisor.
-    - paragraph: Referencias bancarias, con fecha de emisión no mayor a dos (2) meses.
-    - paragraph: Última declaración de ISLR.
-
+  title: >
+    <h1>Recaudos y Documentos a Consignar</h1>
+  body: >
+    <ul class="dv-recaudos">
+          <li>
+            <i class="icon-check circle"></i
+            ><span
+              >Presupuesto en original emitido por DENTAL VIP, Especialidades
+              Odontológicas s.c.</span
+            >
+          </li>
+          <li>
+            <i class="icon-check circle"></i
+            ><span
+              >Planilla de solicitud de crédito debidamente cumplimentada en todos sus
+              campos y firmada por el solicitante y su cónyuge&nbsp;<em
+                >(en caso de estar casado).</em
+              ></span
+            >
+          </li>
+          <li>
+            <i class="icon-check circle"></i
+            ><span
+              >Fotocopia de la cédula de identidad vigente del solicitante y su
+              cónyuge.</span
+            >
+          </li>
+          <li>
+            <i class="icon-check circle"></i
+            ><span
+              >Fotocopia del registro único de información fiscal&nbsp;<em>(RIF)</em>
+              vigente del solicitante y su cónyuge.</span
+            >
+          </li>
+          <li>
+            <i class="icon-check circle"></i
+            ><span
+              >Constancia de trabajo en original o certificación de ingresos del
+              solicitante y su cónyuge, con fecha de emisión no mayor a
+              tres&nbsp;<em>(3)</em>&nbsp;meses.</span
+            >
+          </li>
+          <li>
+            <i class="icon-check circle"></i
+            ><span
+              >Balance personal o mancomunado en original firmado por un contador
+              público colegiado, con fecha de emisión no mayor a
+              seis&nbsp;<em>(6)</em>&nbsp;meses.</span
+            >
+          </li>
+          <li>
+            <i class="icon-check circle"></i
+            ><span
+              >Últimos tres<em>&nbsp;(3)</em>&nbsp;estados de cuentas corrientes,
+              tarjetas de crédito y libretas de ahorro que el solicitante posea,
+              sellados y firmados por el banco emisor.</span
+            >
+          </li>
+          <li>
+            <i class="icon-check circle"></i
+            ><span
+              >Referencias bancarias, con fecha de emisión no mayor a dos
+              <em>(2)</em> meses.</span
+            >
+          </li>
+          <li><i class="icon-check circle"></i><span>Última declaración de ISLR.</span></li>
+        </ul>
+  footer: 
+    display: true
+    head: >
+      <h3>Le garantizamos un trámite simple, rápido y accesible para que Usted solo tenga que preocuparse de cosas más importantes.</h3>
+    body: >
+      <h4>¿Alguna Duda?</h4>
+    link: /contacto
 
 heading:
   display: true

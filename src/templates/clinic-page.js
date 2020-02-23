@@ -1,6 +1,7 @@
 import React from "react";
-import { graphql } from "gatsby";
+import { graphql, Link } from "gatsby";
 import Img from "gatsby-image";
+import BackgroundImage from "gatsby-background-image";
 import Layout from "../Layout";
 import DVhero from "../components/DV-Hero";
 import Procedures from "../components/Procedures";
@@ -16,12 +17,15 @@ import Whitespace from "../components/Whitespace";
 import InfoImage from "../components/InfoImage";
 import Financing from "../components/Financing";
 import Checkout from "../components/DV-Checkout";
+import showdown from "showdown";
+const converter = new showdown.Converter();
 
 export const ClinicPageTemplate = ({
   hero,
   heading,
   gallery,
   lightbox,
+  language,
   elements,
   procedures,
   social,
@@ -29,6 +33,8 @@ export const ClinicPageTemplate = ({
   lightQuote,
   reasons,
   checkout,
+  bgText,
+
   sections
 }) => {
   const lazyLightBox = {
@@ -40,7 +46,7 @@ export const ClinicPageTemplate = ({
         renderItem: () => {
           return i.image.childImageSharp ? (
             <Img
-            imgStyle={{ objectPosition: 'center'}} 
+              imgStyle={{ objectPosition: "center" }}
               key={`image-${k}`}
               className="lightbox-lazy facilities"
               fluid={i.image.childImageSharp.fluid}
@@ -64,6 +70,44 @@ export const ClinicPageTemplate = ({
       {banner && banner.display && <InfoImage {...banner} />}
       {banner && banner.display && <Financing />}
       {reasons.display && <Reasons {...reasons} />}
+      {bgText.display && (
+        <BackgroundImage
+          className="dv-bg-text-parallax"
+          fluid={bgText.img.childImageSharp.fluid}
+        >
+          <div class="dv-main-menu">
+            <div
+              dangerouslySetInnerHTML={{
+                __html: converter.makeHtml(bgText.title)
+              }}
+            />
+            {/* Body */}
+            <div
+              dangerouslySetInnerHTML={{
+                __html: converter.makeHtml(bgText.body)
+              }}
+            />
+            <div
+              dangerouslySetInnerHTML={{
+                __html: converter.makeHtml(bgText.footer.text)
+              }}
+            />
+            <div
+              dangerouslySetInnerHTML={{
+                __html: converter.makeHtml(bgText.footer.head)
+              }}
+            />
+            <div
+              dangerouslySetInnerHTML={{
+                __html: converter.makeHtml(bgText.footer.body)
+              }}
+            />
+            <Link to={bgText.footer.link}>{
+              language === 'es' ? 'Más Información' : 'More Info'
+            }</Link>
+          </div>
+        </BackgroundImage>
+      )}
       {gallery.display && (
         <OverlayGallery
           {...(lazyLightBox.display && lazyLightBox)}
@@ -96,6 +140,7 @@ const ClinicPage = ({ data }) => {
     social,
     elements,
     reasons,
+    bgText,
     sections,
     checkout,
     procedures
@@ -108,6 +153,7 @@ const ClinicPage = ({ data }) => {
       <ClinicPageTemplate
         {...{
           templateKey,
+          language,
           banner,
           language,
           title,
@@ -119,6 +165,7 @@ const ClinicPage = ({ data }) => {
           lightbox,
           lightQuote,
           sections,
+          bgText,
           hero,
           heading,
           reasons,
@@ -156,22 +203,22 @@ export const pageQuery = graphql`
           indicator
           halfSize
         }
-        moreinfoFinancing {
-          display
-          type
-          imgparallax {
+        bgText {
+          img {
             childImageSharp {
               fluid(maxWidth: 1600, quality: 100) {
                 ...GatsbyImageSharpFluid
               }
             }
           }
-          subtitle
+          body
           title
-          otherinfo1
-          otherinfo2
-          paragraphs {
-            paragraph
+          display
+          footer {
+            display
+            head
+            body
+            link
           }
         }
         banner {

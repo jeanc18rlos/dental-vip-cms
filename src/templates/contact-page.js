@@ -9,77 +9,206 @@ import SetLang from "../components/setLang";
 import FolowUs from "../components/FollowUs";
 import DVTitle from "../components/DV-Title";
 
-export const ContactPageTemplate = ({ hero, heading, amenities, social }) => {
+export const ContactPageTemplate = ({
+  hero,
+  heading,
+  amenities,
+  social,
+  language
+}) => {
   return (
     <div>
       {hero && hero.display && <DVhero {...hero} />}
       {heading && <DVTitle {...heading} />}
-      <section className="dv-section-form row container">
+      <section className="dv-section-form row">
         <div className="dv-contact-info col-xs-12 col-md-5 dv-npl">
           <div className="dv-main-menu-left">
-            <h3 className="dv-company">DENTAL VIP, Especialidades Odontológicas s.c.</h3>
-            <h3><i className="icon-phone phone" /><span>Teléfonos</span></h3>
-            <p>+58 <em>(212)</em> 261.5251 <br />
+            <h3 className="dv-company">
+             DENTAL VIP, Especialidades Odontológicas s.c.
+            </h3>
+            <h3>
+              <i className="icon-phone phone" />
+              <span>{language === "es" ? "Teléfonos" : "Phones"} </span>
+            </h3>
+            <p>
+              +58 <em>(212)</em> 261.5251 <br />
               +58 <em>(212)</em> 261.3732 <br />
-              +58 <em>(212)</em> 261.3331</p>
-            <h3><i className="icon-map-marker-alt" /><span>Dirección</span></h3>
-            <p>Multicentro Empresarial del Este, Torre Miranda, <br className="hidden-xs hidden-sm visible-md visible-lg" />Núcleo A, Piso 14, Oficina 143-A, Chacao, Caracas,<br className="hidden-xs hidden-sm visible-md visible-lg" /> Venezuela. C.P. 1060</p>
-            <h3><i className="icon-clock" /><span>Horario de atención</span></h3>
-            <p>Lunes a Viernes</p>
+              +58 <em>(212)</em> 261.3331
+            </p>
+            <h3>
+              <i className="icon-map-marker-alt" />
+              <span>{language === "es" ? "Dirección" : "ADDRESS"}</span>
+            </h3>
+
+            {language === "es" ? (
+              <p>
+                Multicentro Empresarial del Este, Torre Miranda,{" "}
+                <br className="hidden-xs hidden-sm visible-md visible-lg" />
+                Núcleo A, Piso 14, Oficina 143-A, Chacao, Caracas,
+                <br className="hidden-xs hidden-sm visible-md visible-lg" />
+              </p>
+            ) : (
+              <p>
+                Venezuela. C.P. 1060 Multicentro Empresarial del Este, Miranda
+                <br className="hidden-xs hidden-sm visible-md visible-lg" />
+                Tower, Nucleus A, 14th Floor, Office 143-A, Chacao, Caracas,
+                <br className="hidden-xs hidden-sm visible-md visible-lg" />
+                Venezuela. P.C. 1060
+              </p>
+            )}
+
+            <h3>
+              <i className="icon-clock" />
+              <span>
+                {language === "es" ? "Horario de atención" : "CUSTOMER SERVICE HOURS"}{" "}
+              </span>
+            </h3>
+            <p>{language === "es" ? "Lunes a Viernes" : "Monday to Friday"}</p>
             <p>8:00 am - 5:00 pm</p>
-            <p className="dv-underline">PREVIA CITA</p>
+            <p className="dv-underline">
+              {language === "es" ? "PREVIA CITA" : "BY APPOINTMENT"}
+            </p>
             <img src="https://dentalvip.com.ve/wp-content/uploads/2018/08/qdc-contacto.jpg" />
           </div>
         </div>
         <div className="dv-contact-form col-xs-12 col-md-7">
           <div className="dv-form-content dv-main-menu-right dv-npr">
             <hr className="border-form" />
-            <div role="form" className="wpcf7" id="wpcf7-f1907-o1" lang="en-US" dir="ltr">
+            <div
+              role="form"
+              className="dv-form-wrapper"
+              id="wpcf7-f1907-o1"
+              lang="en-US"
+              dir="ltr"
+            >
               <div className="screen-reader-response" />
-              <form action="/contacto/#wpcf7-f1907-o1" method="post" className="wpcf7-form" noValidate="novalidate">
-                <div style={{ display: 'none' }}>
-                  <input type="hidden" name="_wpcf7" defaultValue={1907} />
-                  <input type="hidden" name="_wpcf7_version" defaultValue="5.0.3" />
-                  <input type="hidden" name="_wpcf7_locale" defaultValue="en_US" />
-                  <input type="hidden" name="_wpcf7_unit_tag" defaultValue="wpcf7-f1907-o1" />
-                  <input type="hidden" name="_wpcf7_container_post" defaultValue={0} />
-                </div>
+              <form
+                action="/contacto/#wpcf7-f1907-o1"
+                method="post"
+                noValidate="novalidate"
+              >
                 <div className="dv-contactform-error-msg col-xs-12 text-center">
-                  <i className="icon-exclamation-circle" />Para enviar un mensaje, es obligatorio rellenar todos los campos del formulario.
-          </div>
+                  <i className="icon-exclamation-circle" />
+                  {language === "es"
+                    ? "Para enviar un mensaje, es obligatorio rellenar todos los campos del formulario."
+                    : "To send a message it is mandatory to fill in all the fields of the form."}
+                </div>
                 <div className="col-xs-12 col-md-12 col-sm-12 contact-form-contacto dv-npr">
                   <div className="row">
                     <div className="col-xs-12 col-md-6 col-sm-6 dv-no-padding-left-mobile">
-                      <span className="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" defaultValue size={40} className="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Nombre" /></span>
+                      <span className="wpcf7-form-control-wrap your-name">
+                        <input
+                          type="text"
+                          name="your-name"
+                          size={40}
+                          className="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+                          aria-required="true"
+                          aria-invalid="false"
+                          placeholder={language === "es" ? "Nombre" : "First name"}
+                        />
+                      </span>
                     </div>
                     <div className="col-xs-12 col-md-6 col-sm-6 dv-no-padding-right-mobile ">
-                      <span className="wpcf7-form-control-wrap your-lastname"><input type="text" name="your-lastname" defaultValue size={40} className="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Apellido" /></span>
+                      <span className="wpcf7-form-control-wrap your-lastname">
+                        <input
+                          type="text"
+                          name="your-lastname"
+                          size={40}
+                          className="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+                          aria-required="true"
+                          aria-invalid="false"
+                          placeholder={
+                            language === "es" ? "Apellido" : "Last name"
+                          }
+                        />
+                      </span>
                     </div>
                     <div className="col-xs-12 col-md-6 col-sm-6 dv-no-padding-left-mobile">
-                      <span className="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" defaultValue size={40} className="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Correo electrónico" /></span>
+                      <span className="wpcf7-form-control-wrap your-email">
+                        <input
+                          type="email"
+                          name="your-email"
+                          size={40}
+                          className="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
+                          aria-required="true"
+                          aria-invalid="false"
+                          placeholder={
+                            language === "es" ? "Correo electrónico" : "E-mail"
+                          }
+                        />
+                      </span>
                     </div>
                     <div className="col-xs-12 col-md-6 col-sm-6 dv-no-padding-right-mobile ">
-                      <span className="wpcf7-form-control-wrap tel-617"><input type="tel" name="tel-617" defaultValue size={40} className="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel" aria-invalid="false" placeholder="Número de teléfono" /></span>
+                      <span className="wpcf7-form-control-wrap tel-617">
+                        <input
+                          type="tel"
+                          name="tel-617"
+                          size={40}
+                          className="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel"
+                          aria-invalid="false"
+                          placeholder={
+                            language === "es" ? "Número de teléfono" : "Phone Number"
+                          }
+                        />
+                      </span>
                     </div>
                     <div className="col-xs-12 col-md-6 col-sm-6 dv-no-padding-left-mobile">
-                      <span className="wpcf7-form-control-wrap city"><input type="text" name="city" defaultValue size={40} className="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Ciudad" /></span>
+                      <span className="wpcf7-form-control-wrap city">
+                        <input
+                          type="text"
+                          name="city"
+                          size={40}
+                          className="wpcf7-form-control wpcf7-text"
+                          aria-invalid="false"
+                          placeholder={language === "es" ? "Ciudad" : "City"}
+                        />
+                      </span>
                     </div>
                     <div className="col-xs-12 col-md-6 col-sm-6 dv-no-padding-right-mobile">
-                      <span className="wpcf7-form-control-wrap country"><input type="text" name="country" defaultValue size={40} className="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="País" /></span>
+                      <span className="wpcf7-form-control-wrap country">
+                        <input
+                          type="text"
+                          name="country"
+                          size={40}
+                          className="wpcf7-form-control wpcf7-text"
+                          aria-invalid="false"
+                          placeholder={language === "es" ? "País" : "Country"}
+                        />
+                      </span>
                     </div>
                     <div className="col-xs-12 col-md-12 col-sm-12 dv-no-padding-right-mobile dv-no-padding-left-mobile">
-                      <span className="wpcf7-form-control-wrap asunto"><input type="text" name="asunto" defaultValue size={40} className="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Asunto" /></span>
+                      <span className="wpcf7-form-control-wrap asunto">
+                        <input
+                          type="text"
+                          name="asunto"
+                          size={40}
+                          className="wpcf7-form-control wpcf7-text"
+                          aria-invalid="false"
+                          placeholder={language === "es" ? "Asunto" : "Subject"}
+                        />
+                      </span>
                     </div>
                     <div className="col-xs-12 col-md-12 col-sm-12 dv-no-padding-right-mobile dv-no-padding-left-mobile">
-                      <span className="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols={40} rows={6} className="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Escriba su mensaje" defaultValue={""} /></span>
+                      <span className="wpcf7-form-control-wrap your-message">
+                        <textarea
+                          name="your-message"
+                          cols={40}
+                          rows={6}
+                          className="wpcf7-form-control wpcf7-textarea"
+                          aria-invalid="false"
+                          placeholder={
+                            language === "es" ? "Escriba su mensaje" : "Comment or message"
+                          }
+                        />
+                      </span>
                     </div>
-                    <div className="col-xs-12 dv-captcha">
-                      <div className="wpcf7-form-control-wrap"><div data-sitekey="6LeteaEUAAAAAIWEnMu_DbYk4fP4qaD53ACkWYy9" className="wpcf7-form-control g-recaptcha wpcf7-recaptcha"><div style={{ width: '304px', height: '78px' }}><div><iframe src="https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LeteaEUAAAAAIWEnMu_DbYk4fP4qaD53ACkWYy9&co=aHR0cHM6Ly9kZW50YWx2aXAuY29tLnZlOjQ0Mw..&hl=es&v=TYDIjJAqCk6g335bFk3AjlC3&size=normal&cb=b7pyjvfj848" width={304} height={78} role="presentation" name="a-487y45gr9yt2" frameBorder={0} scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" /></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" className="g-recaptcha-response" style={{ width: '250px', height: '40px', border: '1px solid rgb(193, 193, 193)', margin: '10px 25px', padding: '0px', resize: 'none', display: 'none' }} defaultValue={""} /></div></div>
-                      
-                      </div>
-                    </div>
-                    <div className="col-xs-12 col-md-6 col-sm-6 col-sm-offset-6 col-md-offset-6 dv-no-padding-right-mobile dv-no-padding-left-mobile">
-                      <input type="submit" defaultValue="Enviar" className="wpcf7-form-control wpcf7-submit" />
+
+                    <div className="col-md-12">
+                      <input
+                        type="submit"
+                        value={language === "es" ? "Enviar" : "Submit"}
+                        className="form-submit"
+                      />
                     </div>
                   </div>
                 </div>
@@ -88,7 +217,9 @@ export const ContactPageTemplate = ({ hero, heading, amenities, social }) => {
                     <div className="wpcf7-response-output wpcf7-display-none" />
                   </div>
                 </div>
-              </form></div>      </div>
+              </form>
+            </div>{" "}
+          </div>
         </div>
       </section>
 

@@ -15,17 +15,20 @@ hero:
   indicator: true
   halfSize: false
 
-moreinfoFinancing:
+bgText:
+  img: /img/parallax-financing.jpg
   display: false
-  type: 2
-  imgparallax: /img/parallax-why-choose-us.jpg
-  title: ''
-  subtitle: ''
-  otherinfo1: ''
-  otherinfo2: ''
-  paragraphs:
-    - paragraph: ''
-    
+  title: >
+    <h1>Recaudos y Documentos a Consignar</h1>
+  body: >
+    ''
+  footer: 
+    display: true
+    head: >
+      <h4>;</h4>
+    body: >
+      <h3>¿Alguna Duda?</h3>
+    link: /contacto
 
 checkout:
   display: false
