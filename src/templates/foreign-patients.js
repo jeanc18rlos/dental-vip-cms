@@ -7,11 +7,81 @@ import DVhero from "../components/DV-Hero";
 import Procedures from "../components/Procedures";
 import SEO from "../components/seo";
 import SetLang from "../components/setLang";
+import showdown from "showdown";
+const converter = new showdown.Converter();
 
-export const ForeignPatientsPageTemplate = ({ language,hero, procedures, slogan,form }) => {
+export const ForeignPatientsPageTemplate = ({
+  language,
+  hero,
+  columns,
+  titleSection,
+  hostSection,
+  procedures,
+  slogan,
+  form
+}) => {
   return (
     <div>
       {hero && hero.display && <DVhero {...hero} />}
+      <section className="dv-phases-sections">
+        <div
+          className="container-fluid dv-main-menu"
+          dangerouslySetInnerHTML={{
+            __html: converter.makeHtml(columns.title)
+          }}
+        ></div>
+        <div className="dv-phases col-xs-12">
+          <div className="row dv-main-menu">
+            {columns.columns.map(i => {
+              return (
+                <div className="dv-phase-one text-center col-xs-12 col-sm-6">
+                  <div
+                    dangerouslySetInnerHTML={{
+                      __html: converter.makeHtml(i.head)
+                    }}
+                  />
+                  <div
+                    dangerouslySetInnerHTML={{
+                      __html: converter.makeHtml(i.body)
+                    }}
+                  />
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+
+      <section className={`dv-title-section ${titleSection.classname}`}>
+        <div className="container-fluid dv-main-menu">
+          <h1
+            className="dv-page-title"
+            dangerouslySetInnerHTML={{
+              __html: converter.makeHtml(titleSection.title)
+            }}
+          />
+          <div
+            dangerouslySetInnerHTML={{
+              __html: converter.makeHtml(titleSection.content)
+            }}
+          ></div>
+          <div className="dv-title-blocks row">
+            {titleSection.blocks.map((i, k) => {
+              return (
+                <div className="col-md-4">
+                  <Img className="image" fluid={i.img.childImageSharp.fluid} />
+                  <div
+                    className="content"
+                    dangerouslySetInnerHTML={{
+                      __html: converter.makeHtml(i.content)
+                    }}
+                  />
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      </section>
       <BackgroundImage
         className="dv-slogan"
         fluid={slogan.img.childImageSharp.fluid}
@@ -25,6 +95,50 @@ export const ForeignPatientsPageTemplate = ({ language,hero, procedures, slogan,
               {slogan.link.text}
             </Link>
           )}
+        </div>
+      </BackgroundImage>
+      <BackgroundImage
+        fluid={hostSection.bg.childImageSharp.fluid}
+        tag="section"
+        className="dv-host"
+      >
+        <div className="row container">
+          <div
+            className="col-xs-12 col-sm-6 dv-title-hotel"
+            dangerouslySetInnerHTML={{
+              __html: converter.makeHtml(hostSection.title)
+            }}
+          />
+          <div
+            className="col-xs-12 col-sm-6 col-sm-offset-6 dv-content-hotel"
+            dangerouslySetInnerHTML={{
+              __html: converter.makeHtml(hostSection.body)
+            }}
+          />
+          <div className="content-items row col-md-12">
+            {hostSection.columns.map((i, k) => {
+              return (
+                <a
+                  href={i.link}
+                  className="col-xs-12 col-sm-6 dv-hotel-href"
+                  target="_blank"
+                >
+                  <BackgroundImage
+                    className="dv-hotel-item col-xs-12 col-sm-12"
+                    fluid={i.img.childImageSharp.fluid}
+                  >
+                    <div
+                      dangerouslySetInnerHTML={{
+                        __html: converter.makeHtml(i.title)
+                      }}
+                      href={i.link}
+                      target="_blank"
+                    ></div>
+                  </BackgroundImage>
+                </a>
+              );
+            })}
+          </div>
         </div>
       </BackgroundImage>
       <BackgroundImage
@@ -259,10 +373,13 @@ const ForeignPatientsPage = ({ data }) => {
     templateKey,
     language,
     title,
+    titleSection,
+    columns,
     redirects,
     slogan,
     form,
     hero,
+    hostSection,
     procedures
   } = data.markdownRemark.frontmatter;
 
@@ -274,10 +391,13 @@ const ForeignPatientsPage = ({ data }) => {
         {...{
           templateKey,
           language,
+          columns,
           title,
           redirects,
           form,
+          hostSection,
           hero,
+          titleSection,
           procedures,
           slogan
         }}
@@ -292,12 +412,13 @@ export const pageQuery = graphql`
   query ForeignPatientsPageTemplate($id: String!) {
     markdownRemark(
       id: { eq: $id }
-      frontmatter: { templateKey: { eq: "clinic-page" } }
+      frontmatter: { templateKey: { eq: "foreign-patients" } }
     ) {
       frontmatter {
         language
         title
         redirects
+
         form {
           title
           img {
@@ -308,6 +429,7 @@ export const pageQuery = graphql`
             }
           }
         }
+
         slogan {
           link {
             display
@@ -323,6 +445,51 @@ export const pageQuery = graphql`
           }
           title
           description
+        }
+        columns {
+          title
+          columns {
+            head
+            body
+          }
+        }
+        hostSection {
+          bg {
+            childImageSharp {
+              fluid(maxWidth: 1600, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+          title
+          body
+          columns {
+            title
+            link
+            img {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
+        titleSection {
+          display
+          classname
+          title
+          content
+          blocks {
+            img {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            content
+          }
         }
         hero {
           display
