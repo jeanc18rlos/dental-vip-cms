@@ -664,6 +664,10 @@ section.dv-slogan {
   }
 }
 .dv-specialties-srv {
+  a{
+    border: solid 1px;
+    padding: .5em 2em;
+  }
   i.circle {
     color: white;
     background: #91c508;
@@ -689,7 +693,7 @@ section.dv-slogan {
     }
   }
   .dv-sp-srv-txt {
-    padding: 37px;
+    padding: 120px 75px;
   }
   > .row:nth-child(odd) {
     flex-direction: row-reverse;

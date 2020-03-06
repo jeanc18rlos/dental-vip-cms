@@ -50,10 +50,12 @@ prices:
       to: /en/
 
 parallaxTitle:
+  img: /img/parallax-dental-tourism.png
   title: >
     DEntal something
   subTitle: >
     dental anoth
+
 
 routes:
   title: >

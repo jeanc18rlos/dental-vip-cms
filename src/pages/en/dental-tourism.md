@@ -1,64 +1,298 @@
 ---
-templateKey: default
-language: es
-title: Turismo Dental
+templateKey: dental-tourism
+language: en
+title: Dental Tourism
 published: true
 redirects: /en/dental-tourism/
 hero:
   display: true
   type: default
-  image: /img/hero-financing.jpg
-  parallax: true
+  image: /img/hero-dental-tourism.png
+  parallax: false
   title: >
     <span style="color:white"> Save Up to 70% on High-End<br>Dental Treatments</span>
   indicator: true
-  halfSize: false
+  halfSize: true
+
 heading:
-  display: false
-  classname: default
-  title: default
-  content: default
+  display: true
+  classname:  section-reasons
+  title: Visit Us in Caracas and Get a VIP Smile!
+  content: >
+    <p class="dv-subtitle text-center">There are already thousands of patients who have found in Venezuela the best solution to their oral health needs, thanks to our reasonable cost structure and easy access to first level dental services. </p>
 
 prices:
   - title: Dental Implants
-    icon: /img/icon-oral-surgery.jpg
+    icon: /img/icon-dental-implants.jpg
     rows:
-      - procedure: nombre
+      - procedure: 3D Cone Beam Scanner
         price: 60$
         currency: USD
-      - procedure: nombre
-        price: 60$
+      - procedure: Conscious Sedation (optional)
+        price: 500$
         currency: USD
-      - procedure: nombre
-        price: 60$
+      - procedure: Single Dental Implant
+        price: 650$
         currency: USD
-      - procedure: nombre
-        price: 60$
-        currency: USD
-      - procedure: nombre
-        price: 60$
-        currency: USD
-      - procedure: nombre
-        price: 60$
-        currency: USD
-      - procedure: nombre
-        price: 60$
-        currency: USD
+      - procedure: Multiple Dental Implants
+        price: 600$
+        currency: USD each
+      - procedure: Sinus Lift
+        price: 850$
+        currency: USD 
+      - procedure: Synthetic Bone Graft
+        price: 200$
+        currency: USD per cc
     link:
       image: /img/icon-oral-surgery.jpg
       title: MORE INFO
-      to: /en/
+      to: /en/specialties/dental-implants
+      
+  - title: Dental Implants
+    icon: /img/icon-dental-implants.jpg
+    rows:
+      - procedure: 3D Cone Beam Scanner
+        price: 60$
+        currency: USD
+      - procedure: Conscious Sedation (optional)
+        price: 500$
+        currency: USD
+      - procedure: Single Dental Implant
+        price: 650$
+        currency: USD
+      - procedure: Multiple Dental Implants
+        price: 600$
+        currency: USD each
+      - procedure: Sinus Lift
+        price: 850$
+        currency: USD 
+      - procedure: Synthetic Bone Graft
+        price: 200$
+        currency: USD per cc
+    link:
+      image: /img/icon-oral-surgery.jpg
+      title: MORE INFO
+      to: /en/specialties/dental-implants
+
+  - title: Dental Implants
+    icon: /img/icon-dental-implants.jpg
+    rows:
+      - procedure: 3D Cone Beam Scanner
+        price: 60$
+        currency: USD
+      - procedure: Conscious Sedation (optional)
+        price: 500$
+        currency: USD
+      - procedure: Single Dental Implant
+        price: 650$
+        currency: USD
+      - procedure: Multiple Dental Implants
+        price: 600$
+        currency: USD each
+      - procedure: Sinus Lift
+        price: 850$
+        currency: USD 
+      - procedure: Synthetic Bone Graft
+        price: 200$
+        currency: USD per cc
+    link:
+      image: /img/icon-oral-surgery.jpg
+      title: MORE INFO
+      to: /en/specialties/dental-implants
+
+  - title: Dental Implants
+    icon: /img/icon-dental-implants.jpg
+    rows:
+      - procedure: 3D Cone Beam Scanner
+        price: 60$
+        currency: USD
+      - procedure: Conscious Sedation (optional)
+        price: 500$
+        currency: USD
+      - procedure: Single Dental Implant
+        price: 650$
+        currency: USD
+      - procedure: Multiple Dental Implants
+        price: 600$
+        currency: USD each
+      - procedure: Sinus Lift
+        price: 850$
+        currency: USD 
+      - procedure: Synthetic Bone Graft
+        price: 200$
+        currency: USD per cc
+    link:
+      image: /img/icon-oral-surgery.jpg
+      title: MORE INFO
+      to: /en/specialties/dental-implants
+
+  - title: Dental Implants
+    icon: /img/icon-dental-implants.jpg
+    rows:
+      - procedure: 3D Cone Beam Scanner
+        price: 60$
+        currency: USD
+      - procedure: Conscious Sedation (optional)
+        price: 500$
+        currency: USD
+      - procedure: Single Dental Implant
+        price: 650$
+        currency: USD
+      - procedure: Multiple Dental Implants
+        price: 600$
+        currency: USD each
+      - procedure: Sinus Lift
+        price: 850$
+        currency: USD 
+      - procedure: Synthetic Bone Graft
+        price: 200$
+        currency: USD per cc
+    link:
+      image: /img/icon-oral-surgery.jpg
+      title: MORE INFO
+      to: /en/specialties/dental-implants
+
+  - title: Dental Implants
+    icon: /img/icon-dental-implants.jpg
+    rows:
+      - procedure: 3D Cone Beam Scanner
+        price: 60$
+        currency: USD
+      - procedure: Conscious Sedation (optional)
+        price: 500$
+        currency: USD
+      - procedure: Single Dental Implant
+        price: 650$
+        currency: USD
+      - procedure: Multiple Dental Implants
+        price: 600$
+        currency: USD each
+      - procedure: Sinus Lift
+        price: 850$
+        currency: USD 
+      - procedure: Synthetic Bone Graft
+        price: 200$
+        currency: USD per cc
+    link:
+      image: /img/icon-oral-surgery.jpg
+      title: MORE INFO
+      to: /en/specialties/dental-implants
+
+  - title: Dental Implants
+    icon: /img/icon-dental-implants.jpg
+    rows:
+      - procedure: 3D Cone Beam Scanner
+        price: 60$
+        currency: USD
+      - procedure: Conscious Sedation (optional)
+        price: 500$
+        currency: USD
+      - procedure: Single Dental Implant
+        price: 650$
+        currency: USD
+      - procedure: Multiple Dental Implants
+        price: 600$
+        currency: USD each
+      - procedure: Sinus Lift
+        price: 850$
+        currency: USD 
+      - procedure: Synthetic Bone Graft
+        price: 200$
+        currency: USD per cc
+    link:
+      image: /img/icon-oral-surgery.jpg
+      title: MORE INFO
+      to: /en/specialties/dental-implants
+
+  - title: Dental Implants
+    icon: /img/icon-dental-implants.jpg
+    rows:
+      - procedure: 3D Cone Beam Scanner
+        price: 60$
+        currency: USD
+      - procedure: Conscious Sedation (optional)
+        price: 500$
+        currency: USD
+      - procedure: Single Dental Implant
+        price: 650$
+        currency: USD
+      - procedure: Multiple Dental Implants
+        price: 600$
+        currency: USD each
+      - procedure: Sinus Lift
+        price: 850$
+        currency: USD 
+      - procedure: Synthetic Bone Graft
+        price: 200$
+        currency: USD per cc
+    link:
+      image: /img/icon-oral-surgery.jpg
+      title: MORE INFO
+      to: /en/specialties/dental-implants
+
+  - title: Dental Implants
+    icon: /img/icon-dental-implants.jpg
+    rows:
+      - procedure: 3D Cone Beam Scanner
+        price: 60$
+        currency: USD
+      - procedure: Conscious Sedation (optional)
+        price: 500$
+        currency: USD
+      - procedure: Single Dental Implant
+        price: 650$
+        currency: USD
+      - procedure: Multiple Dental Implants
+        price: 600$
+        currency: USD each
+      - procedure: Sinus Lift
+        price: 850$
+        currency: USD 
+      - procedure: Synthetic Bone Graft
+        price: 200$
+        currency: USD per cc
+    link:
+      image: /img/icon-oral-surgery.jpg
+      title: MORE INFO
+      to: /en/specialties/dental-implants
+
+  - title: Dental Implants
+    icon: /img/icon-dental-implants.jpg
+    rows:
+      - procedure: 3D Cone Beam Scanner
+        price: 60$
+        currency: USD
+      - procedure: Conscious Sedation (optional)
+        price: 500$
+        currency: USD
+      - procedure: Single Dental Implant
+        price: 650$
+        currency: USD
+      - procedure: Multiple Dental Implants
+        price: 600$
+        currency: USD each
+      - procedure: Sinus Lift
+        price: 850$
+        currency: USD 
+      - procedure: Synthetic Bone Graft
+        price: 200$
+        currency: USD per cc
+    link:
+      image: /img/icon-oral-surgery.jpg
+      title: MORE INFO
+      to: /en/specialties/dental-implants
 
 parallaxTitle:
+  img: /img/parallax-dental-tourism.png
   title: >
-    DEntal something
+    <h1>Dental Extreme Makeover in Just 1 or 2 Weeks!</h1>
   subTitle: >
-    dental anoth
+    <p>A truly intensive and multidisciplinary treatment.</p>
 
 routes:
   title: >
-    MOst FRequent
-  image: /img/procedures-prosthesis.jpg
+    Most Frequent Routes
+  image: /img/icon-travel.png
   icons:
     clock: /img/procedures-prosthesis.jpg
     currency: /img/procedures-prosthesis.jpg
@@ -82,21 +316,51 @@ sidePanel:
   display: true
   sections: 
     - 
-      img: /img/sections-3d-radiography.jpg
+      img: /img/sections-dental-tourism-calculator.png
       section: > 
         <div class="dv-sp-srv-cd">
         
-        <h2 class="dv-srv-pl4 text-right dv-npr">Maximum precision in the placement of your dental implants!</h2>
+        <h2 class="dv-srv-pl4 text-left dv-npr">Do you already have a dental quote?</h2>
         
-        <p class="dv-srv-pl text-right dv-npr">DENTAL VIP incorporates the latest technology in its Oral Implantology procedures, the Cone Beam Volumetric Tomography <em>(CBVT – 3D Digital Scanner)</em>, a tool of high clinical value that provides three-dimensional, accurate and high quality digital images.</p>
+        <p class="dv-srv-pl text-left dv-npr">Have you visited several dentists and still can not find a treatment option that is truly within your means? Want to get more out of your money?
+        </p>
         
-        <p class="dv-srv-pl text-right dv-npr">The use of this resource is essential for the surgical planning of the case, particularly when implants are to be placed in the posterior sector of the mandible and/or upper jaw, since it allows us to delimit the canal of the inferior dental nerve and know the exact distance between alveolar ridge and maxillary sinus, anatomical structures that must always be respected to prevent risks, complications and operative failures.</p>
+        <p class="dv-srv-pl text-left dv-npr">Send us your budget to improve it and submit it to your consideration. We will surely surprise you!</p>
+        <br><br>
+        <a>LOAD FILE</a>
         </div>
+    - 
+      img: /img/sections-dental-tourism-hotel.png
+      section: > 
+        <div class="dv-sp-srv-cd">
+        
+        <h2 class="dv-srv-pl4 text-left dv-npr">Safety and comfortable hotels</h2>
+        
+        <p class="dv-srv-pl text-left dv-npr">Our privileged location allows us to have two excellent hotel infrastructures located less than 50 meters from the clinic. CHACAO SUITES and SHELTER SUITES offer nice and comfortable rooms, restaurants, private security and other services that will facilitate and make enjoyable your brief stay in Caracas city.
+        </p>
+        
+        <p class="dv-srv-pl text-left dv-npr">ESTIMATED COST PER DAY: 120 USD ALL INCLUSIVE REGIME.</p>
+        <br><br>
+        <a class="text-left">CHACAO SUITES</a> &nbsp;&nbsp;&nbsp; <a class="text-left">SHELTER SUITES</a>
+        </div>
+    - 
+      img: /img/sections-dental-tourism-24.png
+      section: > 
+        <div class="dv-sp-srv-cd">
+        
+        <h2 class="dv-srv-pl4 text-right dv-npr">Full travel assistance and permanent support</h2>
+        <p class="dv-srv-pl text-right dv-npr">Our administrative staff is able to provide you support in everything related to air tickets, airport-hotel-airport transfers and accommodation procedures.
+        </p>
+        
+        <p class="dv-srv-pl text-right dv-npr">Personalized attention 24 hours a day and the permanent accompaniment of a bilingual guide if you wish are an integral part of our conception of service, of our effort to make your experience as comfortable, fruitful and pleasant as possible.</p>
+        
+        <p class="dv-srv-pl text-right dv-npr">We will try to make you feel at home!</p>
+        </div>        
 
 # 9 Contact Form
 form:
   title: Consult Us Right Now!
-  img: /img/parallax-form-professionals.jpg
+  img: /img/parallax-form-annexed-pages.jpg
 
 blocksDescription:
   sections:
@@ -113,12 +377,19 @@ blocksDescription:
         content: >
           something
           
+# Procedures Section
 procedures:
-  display: false
-  title: default
+  display: true
+  title: We Are Just One Step Away!
   procedures:
-    - title: default
-      to: /error/
-      img: /img/procedures-prosthesis.jpg
+    - title: Facilities
+      to: /en/the-clinic/facilities/
+      img: /img/procedures-facilities.jpg
+    - title: Technology
+      to: /en/the-clinic/technology/
+      img: /img/procedures-technology.jpg
+    - title: Professional Staff
+      to:  /en/professional-staff/
+      img: /img/procedures-professionals.png
 
 ---

@@ -14,12 +14,14 @@ hero:
     <span style="color:white">Contact</span>
   indicator: false
   halfSize: true
+
 heading:
   display: true
   classname:  section-reasons
   title: We're at your service
   content: >
     <p class="dv-subtitle text-center">If you need additional information, want to make an inquiry, suggestions or reserve space on agenda, we can attend you by phone, using the form below or sending an email to  <a href="mailto:contacto@dentalvip.com.ve" style="color:#91c508">contacto@dentalvip.com.ve</a></p>
+    
 social:
   display: true
   imgparallax: /img/parallax-contact.png

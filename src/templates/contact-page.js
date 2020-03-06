@@ -91,11 +91,6 @@ export const ContactPageTemplate = ({
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 data-netlify-recaptcha="true"
-                action={
-                  language === "en"
-                    ? "/en/thank-you/"
-                    : "/gracias-por-contactarnos/"
-                }
                 name="Contact Form"
               >
                 <input type="hidden" name="form-name" value="Contact Form" />
