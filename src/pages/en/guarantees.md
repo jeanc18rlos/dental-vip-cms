@@ -1,5 +1,5 @@
 ---
-templateKey: clinic-page
+templateKey: default
 language: en
 title: Payment Options
 published: true
