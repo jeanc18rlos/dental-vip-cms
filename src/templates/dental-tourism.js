@@ -18,6 +18,7 @@ export const AnexedPageTemplate = ({
   heading,
   prices,
   procedures,
+  parallaxTitle,
   form
 }) => {
   return (
@@ -52,6 +53,32 @@ export const AnexedPageTemplate = ({
           );
         })}
       </section>
+      <BackgroundImage
+        className="dv-slogan"
+        fluid={parallaxTitle.img.childImageSharp.fluid}
+        Tag="section"
+        style={{
+          minHeight: '70vh',
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: "center"
+        }}
+      >
+        <div>
+          <h2
+            style={{ textShadow: "1px 1px 7px #0a0a0a" }}
+            className="dv-slogan-title"
+          >
+            {parallaxTitle.title}
+          </h2>
+          <p
+            style={{ textShadow: "1px 1px 7px #0a0a0a", fontWeight: 500 }}
+            className="dv-slogan-dsc"
+          >
+            {parallaxTitle.subTitle}
+          </p>
+        </div>
+      </BackgroundImage>
       {sidePanel.display && (
         <section className="dv-sp-int-white dv-sp-int-white-mob dv-sp-int-white-dds-mob">
           <div className="container-fluid dv-main-menu">
@@ -319,6 +346,7 @@ const AnexedPage = ({ data }) => {
     title,
     heading,
     redirects,
+    parallaxTitle,
     sidePanel,
     hero,
     procedures
@@ -337,6 +365,7 @@ const AnexedPage = ({ data }) => {
           title,
           redirects,
           sidePanel,
+          parallaxTitle,
           hero,
           form,
           procedures
@@ -373,7 +402,17 @@ export const pageQuery = graphql`
           indicator
           halfSize
         }
-
+        parallaxTitle {
+          img {
+            childImageSharp {
+              fluid(maxWidth: 1600, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+          title
+          subTitle
+        }
         heading {
           display
           classname

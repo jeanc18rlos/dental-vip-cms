@@ -664,9 +664,9 @@ section.dv-slogan {
   }
 }
 .dv-specialties-srv {
-  a{
+  a {
     border: solid 1px;
-    padding: .5em 2em;
+    padding: 0.5em 2em;
   }
   i.circle {
     color: white;
@@ -1250,6 +1250,77 @@ h1.thank-you-latest {
       font-size: 27px;
       left: 50%;
       transform: translateX(-50%);
+    }
+  }
+}
+
+.section-prices {
+  margin: 0;
+  padding: 0 5vw;
+  .prices {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    > div {
+      width: 100%;
+      max-width: 650px;
+    }
+    header {
+      width: 100%;
+      background: #91c508;
+      font-size: 26px;
+      font-weight: 300;
+      text-align: center;
+      color: white;
+      margin-bottom: 20px;
+      padding: 20px 0;
+    }
+    .price-link {
+      border: solid 1px black;
+      margin-top: 10px;
+      padding: 10px 25px;
+    }
+    .link-row {
+      width: 100%;
+      margin-bottom: 80px;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+    }
+    .price-row {
+      width: 100%;
+      margin-bottom: 20px;
+      background: #ededed;
+      background: #ededed;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1vw 5vw;
+
+      .procedure {
+        float: left;
+      }
+      .price {
+        font-size: 26px;
+        color: #91c508;
+        float: right;
+        span {
+          color: #555;
+          font-size: 15px;
+          font-weight: 300;
+        }
+      }
+    }
+    .icon-header {
+      width: 100%;
+      margin-bottom: 20px;
+      background: #222;
+      padding: 20px 0;
+      text-align: center;
+      .gatsby-image-wrapper {
+        max-width: 50px;
+        margin: auto;
+      }
     }
   }
 }

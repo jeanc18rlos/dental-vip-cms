@@ -285,9 +285,9 @@ prices:
 parallaxTitle:
   img: /img/parallax-dental-tourism.png
   title: >
-    <h1>Dental Extreme Makeover in Just 1 or 2 Weeks!</h1>
+    Dental Extreme Makeover in Just 1 or 2 Weeks!
   subTitle: >
-    <p>A truly intensive and multidisciplinary treatment.</p>
+    A truly intensive and multidisciplinary treatment.
 
 routes:
   title: >
