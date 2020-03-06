@@ -87,16 +87,16 @@ export const ContactPageTemplate = ({
               <div className="screen-reader-response" />
 
               <form
+                method="post"
+                data-netlify="true"
+                data-netlify-honeypot="bot-field"
                 data-netlify-recaptcha="true"
                 action={
                   language === "en"
-                    ? "/en/thank-you"
-                    : "gracias-por-contactarnos"
+                    ? "/en/thank-you/"
+                    : "/gracias-por-contactarnos/"
                 }
                 name="Contact Form"
-                method="POST"
-                data-netlify="true"
-                method="post"
               >
                 <input type="hidden" name="form-name" value="Contact Form" />
 
