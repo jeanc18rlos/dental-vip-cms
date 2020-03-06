@@ -28,6 +28,7 @@ export const preloader = {
 export const es = {
   search: {
     placeholder: 'Buscar',
+    linkSearch: '/blog/busqueda'
   },
   footer: {
     logo,
@@ -213,6 +214,7 @@ export const es = {
 export const en = {
   search: {
     placeholder: 'Search',
+    linkSearch: '/en/blog/search'
   },
   footer: {
     logo,

@@ -11,6 +11,7 @@ import {
 } from 'reactstrap'
 import { isMobile } from 'react-device-detect'
 import classnames from 'classnames'
+import { navigateTo } from 'gatsby-link'
 import { Link, navigate } from 'gatsby'
 import  usaIcon from '../../img/layout/icons/usa.png'
 import esIcon from '../../img/layout/icons/spain.png'
@@ -24,6 +25,7 @@ const Header = props => {
     width,
     theme,
     logo,
+    linkSearch,
     placeholder,
     links,
     social,
@@ -32,6 +34,7 @@ const Header = props => {
   const [specialties, setSpecialties] = useState(false)
   const [sidebar, setSidebar] = useState(false)
   const [isSearchOpen, setSearch] = useState(false)
+  const [searchText, setSearchText] = useState("default")
   const propis = {
     clinic,
     specialties,
@@ -120,14 +123,16 @@ const Header = props => {
           }}
         />
         <ModalBody>
-          <form>
+          <div className="form">
             <div className="input-group">
-              <input type="text" placeholder={placeholder} />
-              <button type="submit">
+              <input value={searchText} onChange={(e)=>{setSearchText(e.target.value)}} type="text" placeholder={placeholder} />
+              <button onClick={ ()=>{
+                navigate(`${linkSearch}?text=${searchText}`)
+              }}>
                 <i className="icon-search" />
               </button>
             </div>
-          </form>
+          </div>
         </ModalBody>
       </Modal>
       <div className="sidenav-backdrop" />

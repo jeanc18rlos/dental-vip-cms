@@ -3,13 +3,23 @@ import { Link } from "gatsby";
 import PreviewCompatibleImage from "./PreviewCompatibleImage";
 import Pagination from "../components/Pagination";
 import SideBar from "../components/DV-BlogSidebar";
+import * as _ from "lodash"
+
+const searchByText = (collection, text, exclude) => {
+  text = _.toLower(text);
+  return _.filter(collection, function(object) {
+    return _(object.node).omit(exclude).some(function(string) {
+      return _(string).toLower().normalize('NFD').replace(/[\u0300-\u036f]/g, "").includes(text);
+    });
+  });
+}
 
 class BlogRoll extends React.Component {
   constructor(props) {
     super(props);
 
     // an example array of items to be paged
-    const exampleItems = this.props.data.posts.edges;
+    let exampleItems =  this.props.data.posts.edges ;
 
     this.state = {
       exampleItems: exampleItems,
@@ -21,6 +31,11 @@ class BlogRoll extends React.Component {
   onChangePage(pageOfItems) {
     // update state with new page of items
     this.setState({ pageOfItems: pageOfItems });
+  }
+  componentDidMount(){
+    this.props.query && this.setState({
+      exampleItems:  searchByText(this.props.data.posts.edges, this.props.query.substr(6))
+    })
   }
   render() {
     const { data } = this.props;

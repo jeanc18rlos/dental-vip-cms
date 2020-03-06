@@ -95,7 +95,16 @@ social:
         href: /en/blog/
         target: ''
         rel: ''
-
+customBlocks:
+  display: true
+  heading: true
+  procedures: true
+  blocks:
+    - >
+      <div>
+        <p></P>
+        <p></P>
+      </div>
 sections:
   display: false
   sections:  

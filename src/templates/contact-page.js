@@ -88,12 +88,18 @@ export const ContactPageTemplate = ({
 
               <form
                 data-netlify-recaptcha="true"
-                action="/thank-you"
+                action={
+                  language === "en"
+                    ? "/en/thank-you"
+                    : "gracias-por-contactarnos"
+                }
                 name="Contact Form"
                 method="POST"
                 data-netlify="true"
                 method="post"
               >
+                <input type="hidden" name="form-name" value="Contact Form" />
+
                 <div className="dv-contactform-error-msg col-xs-12 text-center">
                   <i className="icon-exclamation-circle" />
                   {language === "es"
@@ -217,7 +223,10 @@ export const ContactPageTemplate = ({
                     </div>
 
                     <div className="col-md-12">
-                      <ReCAPTCHA theme="dark" sitekey="6LfsKd8UAAAAAIU7U_ovQrnMnSJE-C2PWSP7J17i" />
+                      <ReCAPTCHA
+                        theme="dark"
+                        sitekey="6LfsKd8UAAAAAIU7U_ovQrnMnSJE-C2PWSP7J17i"
+                      />
                       <input
                         type="submit"
                         value={language === "es" ? "Enviar" : "Submit"}

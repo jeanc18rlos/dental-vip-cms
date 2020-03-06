@@ -14,7 +14,16 @@ hero:
     <span style="color:white">Por Qué Elegirnos</span>
   indicator: true
   halfSize: false
-
+customBlocks:
+  display: true
+  heading: true
+  procedures: true
+  blocks:
+    - >
+      <div>
+        <p></P>
+        <p></P>
+      </div>
 bgText:
   img: /img/parallax-why-choose-us.jpg
   display: true

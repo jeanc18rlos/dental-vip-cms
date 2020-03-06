@@ -13,6 +13,16 @@ hero:
     <span style="color:white">Technology</span>
   indicator: true
   halfSize: false
+customBlocks:
+  display: true
+  heading: true
+  procedures: true
+  blocks:
+    - >
+      <div>
+        <p></P>
+        <p></P>
+      </div>
 checkout:
   display: false
   title: ''

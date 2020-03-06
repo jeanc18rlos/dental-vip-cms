@@ -13,6 +13,16 @@ hero:
     <span style="color:white">Facilities</span>
   indicator: true
   halfSize: false
+customBlocks:
+  display: true
+  heading: true
+  procedures: true
+  blocks:
+    - >
+      <div>
+        <p></P>
+        <p></P>
+      </div>
 bgText:
   img: /img/parallax-financing.jpg
   display: false

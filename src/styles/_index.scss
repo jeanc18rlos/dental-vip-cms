@@ -60,7 +60,7 @@
   height: 100% !important;
 }
 @media #{$sm-mob-ld, $sm-mob-pt, $st-mob-pt, $st-mob-ld, $lg-mob-pt, $lg-mob-ld, $st-tab-pt, $st-tab-ld, $lg-tab-pt, $lg-tab-ld} {
-  .modal-content .modal-body form .input-group {
+  .modal-content .modal-body .form .input-group {
     font-size: 30px !important;
   }
 }
@@ -99,7 +99,7 @@
     justify-content: center;
     padding: 1rem;
 
-    form {
+    .form {
       justify-content: center;
       display: flex;
       align-items: center;
