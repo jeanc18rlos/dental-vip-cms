@@ -8,6 +8,7 @@ import SEO from "../components/seo";
 import SetLang from "../components/setLang";
 import FolowUs from "../components/FollowUs";
 import DVTitle from "../components/DV-Title";
+import ReCAPTCHA from "react-google-recaptcha";
 
 export const ContactPageTemplate = ({
   hero,
@@ -24,7 +25,7 @@ export const ContactPageTemplate = ({
         <div className="dv-contact-info col-xs-12 col-md-5 dv-npl">
           <div className="dv-main-menu-left">
             <h3 className="dv-company">
-             DENTAL VIP, Especialidades Odontológicas s.c.
+              DENTAL VIP, Especialidades Odontológicas s.c.
             </h3>
             <h3>
               <i className="icon-phone phone" />
@@ -60,7 +61,9 @@ export const ContactPageTemplate = ({
             <h3>
               <i className="icon-clock" />
               <span>
-                {language === "es" ? "Horario de atención" : "CUSTOMER SERVICE HOURS"}{" "}
+                {language === "es"
+                  ? "Horario de atención"
+                  : "CUSTOMER SERVICE HOURS"}{" "}
               </span>
             </h3>
             <p>{language === "es" ? "Lunes a Viernes" : "Monday to Friday"}</p>
@@ -82,10 +85,14 @@ export const ContactPageTemplate = ({
               dir="ltr"
             >
               <div className="screen-reader-response" />
+
               <form
-                action="/contacto/#wpcf7-f1907-o1"
+                data-netlify-recaptcha="true"
+                action="/thank-you"
+                name="Contact Form"
+                method="POST"
+                data-netlify="true"
                 method="post"
-                noValidate="novalidate"
               >
                 <div className="dv-contactform-error-msg col-xs-12 text-center">
                   <i className="icon-exclamation-circle" />
@@ -104,7 +111,9 @@ export const ContactPageTemplate = ({
                           className="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
                           aria-required="true"
                           aria-invalid="false"
-                          placeholder={language === "es" ? "Nombre" : "First name"}
+                          placeholder={
+                            language === "es" ? "Nombre" : "First name"
+                          }
                         />
                       </span>
                     </div>
@@ -147,7 +156,9 @@ export const ContactPageTemplate = ({
                           className="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel"
                           aria-invalid="false"
                           placeholder={
-                            language === "es" ? "Número de teléfono" : "Phone Number"
+                            language === "es"
+                              ? "Número de teléfono"
+                              : "Phone Number"
                           }
                         />
                       </span>
@@ -197,13 +208,16 @@ export const ContactPageTemplate = ({
                           className="wpcf7-form-control wpcf7-textarea"
                           aria-invalid="false"
                           placeholder={
-                            language === "es" ? "Escriba su mensaje" : "Comment or message"
+                            language === "es"
+                              ? "Escriba su mensaje"
+                              : "Comment or message"
                           }
                         />
                       </span>
                     </div>
 
                     <div className="col-md-12">
+                      <ReCAPTCHA theme="dark" sitekey="6LfsKd8UAAAAAIU7U_ovQrnMnSJE-C2PWSP7J17i" />
                       <input
                         type="submit"
                         value={language === "es" ? "Enviar" : "Submit"}
