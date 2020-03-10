@@ -5,11 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: src/pages/especialidades
-  label: Especialidades
+  path: src/pages
+  label: Paginas
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  exclude: "**/en/"
+  new_doc_ext: md
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
