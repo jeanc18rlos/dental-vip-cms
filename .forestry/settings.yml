@@ -9,7 +9,7 @@ sections:
   label: Paginas
   create: all
   match: "**/*"
-  exclude: "/en/**"
+  exclude: "**/en/*"
   new_doc_ext: md
 upload_dir: static/img
 public_path: "/img"
