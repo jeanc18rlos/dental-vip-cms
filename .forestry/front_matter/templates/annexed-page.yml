@@ -1,0 +1,362 @@
+---
+label: annexed-page
+hide_body: false
+fields:
+- type: text
+  name: templateKey
+  label: templateKey
+- type: text
+  name: language
+  label: language
+- type: text
+  name: title
+  label: title
+- type: text
+  name: redirects
+  label: redirects
+- type: boolean
+  name: published
+  label: published
+- type: field_group
+  name: hero
+  label: hero
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: type
+    label: type
+  - type: file
+    name: image
+    label: image
+  - type: boolean
+    name: parallax
+    label: parallax
+  - type: text
+    name: title
+    label: title
+  - type: boolean
+    name: indicator
+    label: indicator
+  - type: boolean
+    name: halfSize
+    label: halfSize
+- type: field_group
+  name: heading
+  label: heading
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: classname
+    label: classname
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+- type: field_group
+  name: sidePanel
+  label: sidePanel
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: field_group_list
+    name: sections
+    label: sections
+    fields:
+    - type: file
+      name: img
+      label: img
+    - type: textarea
+      name: section
+      label: section
+- type: field_group
+  name: slogan
+  label: slogan
+  fields:
+  - type: field_group
+    name: link
+    label: link
+    fields:
+    - type: boolean
+      name: display
+      label: display
+    - type: text
+      name: to
+      label: to
+    - type: text
+      name: text
+      label: text
+  - type: file
+    name: img
+    label: img
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: description
+    label: description
+- type: field_group
+  name: steps
+  label: steps
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: field_group_list
+    name: blocks
+    label: blocks
+    fields:
+    - type: number
+      name: number
+      label: number
+    - type: text
+      name: description
+      label: description
+    - type: field_group
+      name: img
+      label: img
+      fields:
+      - type: boolean
+        name: display
+        label: display
+      - type: field_group_list
+        name: images
+        label: images
+        fields:
+        - type: file
+          name: src
+          label: src
+    - type: field_group
+      name: list
+      label: list
+      fields:
+      - type: boolean
+        name: display
+        label: display
+      - type: field_group_list
+        name: rows
+        label: rows
+        fields:
+        - type: file
+          name: icon
+          label: icon
+        - type: file
+          name: image
+          label: image
+        - type: field_group
+          name: desc
+          label: desc
+          fields:
+          - type: text
+            name: text
+            label: text
+- type: field_group
+  name: dds
+  label: dds
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: heading
+    label: heading
+  - type: file
+    name: img
+    label: img
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: description
+    label: description
+  - type: field_group_list
+    name: sections
+    label: sections
+    fields:
+    - type: file
+      name: img
+      label: img
+    - type: text
+      name: description
+      label: description
+- type: field_group
+  name: blockGallery
+  label: blockGallery
+  fields:
+  - type: field_group
+    name: img
+    label: img
+    fields:
+    - type: boolean
+      name: display
+      label: display
+    - type: file
+      name: img
+      label: img
+  - type: text
+    name: position
+    label: position
+  - type: boolean
+    name: display
+    label: display
+  - type: field_group_list
+    name: blocks
+    label: blocks
+    fields:
+    - type: file
+      name: img
+      label: img
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: desc
+      label: desc
+- type: field_group
+  name: listGallery
+  label: listGallery
+  fields:
+  - type: text
+    name: type
+    label: type
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: desc
+    label: desc
+  - type: field_group_list
+    name: blocks
+    label: blocks
+    fields:
+    - type: field_group_list
+      name: sections
+      label: sections
+      fields:
+      - type: file
+        name: img
+        label: img
+      - type: number
+        name: number
+        label: number
+      - type: textarea
+        name: title
+        label: title
+- type: field_group
+  name: implantTypes
+  label: implantTypes
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: field_group_list
+    name: blocks
+    label: blocks
+    fields:
+    - type: file
+      name: img
+      label: img
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: desc
+      label: desc
+    - type: file
+      name: icon
+      label: icon
+- type: field_group
+  name: paragraph
+  label: paragraph
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: file
+    name: image
+    label: image
+  - type: field_group
+    name: desc
+    label: desc
+    fields:
+    - type: boolean
+      name: display
+      label: display
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: text
+      label: text
+  - type: field_group_list
+    name: blocks
+    label: blocks
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: text
+      label: text
+- type: field_group
+  name: plainParallax
+  label: plainParallax
+  fields:
+  - type: file
+    name: image
+    label: image
+- type: field_group
+  name: paragraphSection
+  label: paragraphSection
+  fields:
+  - type: text
+    name: align
+    label: align
+  - type: textarea
+    name: body
+    label: body
+  - type: file
+    name: image
+    label: image
+- type: field_group
+  name: form
+  label: form
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: file
+    name: img
+    label: img
+- type: field_group
+  name: procedures
+  label: procedures
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: procedures
+    label: procedures
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: to
+      label: to
+    - type: file
+      name: img
+      label: img
