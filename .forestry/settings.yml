@@ -11,8 +11,16 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
-  - dental-tourism
   - blog-post
+  - dental-tourism
+  - clinic-page
+  - contact-page
+  - foreign-patients
+  - annexed-page
+  - home-page
+  - professionals-page
+  - thank-you
+  - specialties-page
 - type: directory
   path: src/pages
   label: Paginas
@@ -21,6 +29,16 @@ sections:
   exclude: "/en/**/*"
   new_doc_ext: md
   templates:
+  - blog-post
+  - dental-tourism
+  - clinic-page
+  - contact-page
+  - foreign-patients
+  - annexed-page
+  - home-page
+  - professionals-page
+  - thank-you
+  - specialties-page
   - blog-post
 upload_dir: static/img
 public_path: "/img"
