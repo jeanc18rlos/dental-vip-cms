@@ -1,0 +1,261 @@
+---
+label: specialties-page
+hide_body: true
+fields:
+- type: text
+  name: templateKey
+  label: templateKey
+- type: text
+  name: language
+  label: language
+- type: text
+  name: title
+  label: title
+- type: text
+  name: redirects
+  label: redirects
+- type: boolean
+  name: published
+  label: published
+- type: field_group
+  name: hero
+  label: hero
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: type
+    label: type
+  - type: file
+    name: image
+    label: image
+  - type: boolean
+    name: parallax
+    label: parallax
+  - type: textarea
+    name: title
+    label: title
+  - type: boolean
+    name: indicator
+    label: indicator
+  - type: boolean
+    name: halfSize
+    label: halfSize
+- type: field_group
+  name: specialtiesHeading
+  label: specialtiesHeading
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: file
+    name: img
+    label: img
+  - type: textarea
+    name: content
+    label: content
+- type: field_group
+  name: paragraphSection
+  label: paragraphSection
+  fields:
+  - type: textarea
+    name: body
+    label: body
+  - type: file
+    name: image
+    label: image
+- type: field_group
+  name: quote
+  label: quote
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: body
+    label: body
+  - type: text
+    name: author
+    label: author
+  - type: field_group
+    name: footer
+    label: footer
+    fields:
+    - type: text
+      name: position
+      label: position
+    - type: text
+      name: clinic
+      label: clinic
+- type: field_group
+  name: plainParallax
+  label: plainParallax
+  fields:
+  - type: file
+    name: image
+    label: image
+- type: field_group
+  name: faq
+  label: faq
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: blocks
+    label: blocks
+    fields:
+    - type: field_group_list
+      name: questions
+      label: questions
+      fields:
+      - type: text
+        name: question
+        label: question
+      - type: textarea
+        name: answer
+        label: answer
+- type: field_group
+  name: clinicCases
+  label: clinicCases
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: file
+      name: image
+      label: image
+    - type: text
+      name: title
+      label: title
+  - type: field_group
+    name: lightbox
+    label: lightbox
+    fields:
+    - type: text
+      name: placeholder
+      label: placeholder
+    - type: text
+      name: type
+      label: type
+    - type: field_group_list
+      name: images
+      label: images
+      fields:
+      - type: file
+        name: image
+        label: image
+- type: field_group
+  name: asides
+  label: asides
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: field_group_list
+    name: sections
+    label: sections
+    fields:
+    - type: text
+      name: align
+      label: align
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: content
+      label: content
+    - type: file
+      name: image
+      label: image
+    - type: field_group
+      name: footer
+      label: footer
+      fields:
+      - type: boolean
+        name: display
+        label: display
+      - type: field_group
+        name: image
+        label: image
+        fields:
+        - type: file
+          name: src
+          label: src
+        - type: boolean
+          name: display
+          label: display
+      - type: field_group
+        name: button
+        label: button
+        fields:
+        - type: text
+          name: text
+          label: text
+        - type: text
+          name: to
+          label: to
+        - type: boolean
+          name: display
+          label: display
+- type: field_group
+  name: lightQuote
+  label: lightQuote
+  fields:
+  - type: text
+    name: color
+    label: color
+  - type: boolean
+    name: display
+    label: display
+  - type: field_group
+    name: img
+    label: img
+    fields:
+    - type: file
+      name: ld
+      label: ld
+    - type: file
+      name: pt
+      label: pt
+  - type: textarea
+    name: content
+    label: content
+- type: field_group
+  name: form
+  label: form
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: file
+    name: img
+    label: img
+- type: field_group
+  name: procedures
+  label: procedures
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: procedures
+    label: procedures
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: to
+      label: to
+    - type: file
+      name: img
+      label: img
