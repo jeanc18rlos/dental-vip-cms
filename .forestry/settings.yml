@@ -11,6 +11,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
+  - dental-tourism
   - blog-post
 - type: directory
   path: src/pages
