@@ -17,7 +17,7 @@ hero:
 heading:
   display: true
   classname: section-reasons
-  title: We're at your fuckin service
+  title: We're at your service
   content: '<p class="dv-subtitle text-center">If you need additional information,
     want to make an inquiry, suggestions or reserve space on agenda, we can attend
     you by phone, using the form below or sending an email to  <a href="mailto:contacto@dentalvip.com.ve"
