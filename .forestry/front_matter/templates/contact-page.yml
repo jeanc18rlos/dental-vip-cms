@@ -1,0 +1,145 @@
+---
+label: contact-page
+hide_body: true
+fields:
+- type: text
+  name: templateKey
+  label: templateKey
+- type: text
+  name: language
+  label: language
+- type: text
+  name: title
+  label: title
+- type: text
+  name: redirects
+  label: redirects
+- type: boolean
+  name: published
+  label: published
+- type: field_group
+  name: hero
+  label: hero
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: type
+    label: type
+  - type: file
+    name: image
+    label: image
+  - type: boolean
+    name: parallax
+    label: parallax
+  - type: text
+    name: title
+    label: title
+  - type: boolean
+    name: indicator
+    label: indicator
+  - type: boolean
+    name: halfSize
+    label: halfSize
+- type: field_group
+  name: heading
+  label: heading
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: classname
+    label: classname
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+- type: field_group
+  name: social
+  label: social
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: file
+    name: imgparallax
+    label: imgparallax
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: subtitle
+    label: subtitle
+  - type: text
+    name: additionalText
+    label: additionalText
+  - type: field_group_list
+    name: icons
+    label: icons
+    fields:
+    - type: field_group
+      name: icon
+      label: icon
+      fields:
+      - type: boolean
+        name: img
+        label: img
+      - type: text
+        name: class
+        label: class
+    - type: text
+      name: alt
+      label: alt
+    - type: text
+      name: nameicon
+      label: nameicon
+    - type: field_group
+      name: link
+      label: link
+      fields:
+      - type: text
+        name: href
+        label: href
+      - type: text
+        name: target
+        label: target
+      - type: text
+        name: rel
+        label: rel
+- type: field_group
+  name: amenities
+  label: amenities
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: procedures
+    label: procedures
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: boolean
+      name: to
+      label: to
+    - type: file
+      name: img
+      label: img
+    - type: field_group
+      name: info
+      label: info
+      fields:
+      - type: file
+        name: image
+        label: image
+      - type: textarea
+        name: text
+        label: text
