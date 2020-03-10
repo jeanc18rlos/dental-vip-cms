@@ -1,0 +1,221 @@
+---
+label: home-page
+hide_body: true
+fields:
+- type: text
+  name: templateKey
+  label: templateKey
+- type: text
+  name: language
+  label: language
+- type: text
+  name: redirects
+  label: redirects
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: published
+  label: published
+- type: field_group
+  name: hero
+  label: hero
+  fields:
+  - type: text
+    name: type
+    label: type
+  - type: file
+    name: image
+    label: image
+  - type: field_group_list
+    name: captions
+    label: captions
+    fields:
+    - type: number
+      name: delay
+      label: delay
+    - type: text
+      name: content
+      label: content
+- type: field_group
+  name: welcome
+  label: welcome
+  fields:
+  - type: file
+    name: logo
+    label: logo
+  - type: text
+    name: heading
+    label: heading
+  - type: textarea
+    name: main
+    label: main
+  - type: text
+    name: location
+    label: location
+  - type: field_group_list
+    name: partners
+    label: partners
+    fields:
+    - type: file
+      name: image
+      label: image
+    - type: text
+      name: alt
+      label: alt
+- type: field_group
+  name: quote
+  label: quote
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: body
+    label: body
+  - type: text
+    name: author
+    label: author
+  - type: field_group
+    name: footer
+    label: footer
+    fields:
+    - type: text
+      name: position
+      label: position
+    - type: text
+      name: clinic
+      label: clinic
+- type: field_group
+  name: testimonial
+  label: testimonial
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: file
+      name: img
+      label: img
+    - type: textarea
+      name: testimonial
+      label: testimonial
+    - type: text
+      name: position
+      label: position
+    - type: text
+      name: name
+      label: name
+- type: field_group
+  name: parallax
+  label: parallax
+  fields:
+  - type: file
+    name: stadistics
+    label: stadistics
+  - type: file
+    name: landscape
+    label: landscape
+  - type: file
+    name: portrait
+    label: portrait
+  - type: file
+    name: desktop
+    label: desktop
+  - type: file
+    name: portraitxl
+    label: portraitxl
+- type: field_group
+  name: specialties
+  label: specialties
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: paragraph
+    label: paragraph
+  - type: text
+    name: slogan
+    label: slogan
+  - type: field_group_list
+    name: features
+    label: features
+    fields:
+    - type: text
+      name: to
+      label: to
+    - type: file
+      name: img
+      label: img
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: description
+      label: description
+- type: field_group
+  name: procedures
+  label: procedures
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: procedures
+    label: procedures
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: to
+      label: to
+    - type: file
+      name: img
+      label: img
+- type: field_group_list
+  name: elements
+  label: elements
+  fields:
+  - type: text
+    name: link
+    label: link
+  - type: file
+    name: bg
+    label: bg
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: placeholder
+    label: placeholder
+  - type: textarea
+    name: body
+    label: body
+  - type: boolean
+    name: action
+    label: action
+- type: field_group
+  name: lightbox
+  label: lightbox
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: type
+    label: type
+  - type: text
+    name: placeholder
+    label: placeholder
+  - type: field_group_list
+    name: images
+    label: images
+    fields:
+    - type: file
+      name: image
+      label: image
