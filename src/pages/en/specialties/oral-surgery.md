@@ -189,7 +189,7 @@ faq:
         sutures that, for being biodegradable, do not require a second clinical intervention
         for their removal.</p>\n"
 clinicCases:
-  title: Oral Surgery - Clinic Cases
+  title: Oral Surgery - Clinical Cases
   items:
   - image: "/img/clinic-cases-oral-surgery-en-01-thumb.jpg"
     title: "<h6>EXPOSURE OF DENTAL IMPLANTS</h6>\n"
