@@ -207,7 +207,7 @@ elements:
   placeholder: View gallery
   body: |
     <p class="d-none d-lg-block dv-text-feat">
-      Passion for beauty... Devotion to naturalness!.
+      Passion for beauty... Devotion to naturalness!
     </p> <p class="d-none d-lg-block dv-text-feat-100">
       A small sample of what we can do for you: modern, integral and
       specialized Dentistry.
