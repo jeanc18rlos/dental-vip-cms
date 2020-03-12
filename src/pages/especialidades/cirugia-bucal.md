@@ -42,8 +42,8 @@ paragraphSection:
     y sutura de la herida. Será siempre imprescindible, para el éxito final del procedimiento,
     que el operador conozca en detalle la función específica y aplicación clínica
     del numeroso instrumental quirúrgico de DIÉRESIS, EXCÉRESIS Y SINÉRESIS.</p>\n<p><b>La
-    Cirugía bucal es ciencia, arte y habilidad,</b> y aunque está regida por los mismos
-    principios de la Cirugía general, tiene sus propias peculiaridades que emanan
+    Cirugía Bucal es ciencia, arte y habilidad,</b> y aunque está regida por los mismos
+    principios de la Cirugía General, tiene sus propias peculiaridades que emanan
     de la zona anatómica a tratar. No en vano, <b>es la Especialidad más antigua de
     la Odontología.</b></p> \n"
   image: "/img/aside-oral-surgery.jpg"
