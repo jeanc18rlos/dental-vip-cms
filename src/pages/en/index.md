@@ -97,7 +97,7 @@ testimonial:
       and getting two root canal treatments. I would recommend to DENTAL VIP for the
       advice provided, for the easy access to its location, for the receptivity of
       its staff, for its impeccable facilities, and above all; because the procedures
-      were executed without any kind of pain. Very good dentists”.\n"
+      were executed without any kind of pain. Very good Dentists”.\n"
     position: Public Accountant
     name: José Luis Dávila
 parallax:
