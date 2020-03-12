@@ -104,7 +104,7 @@ testimonial:
       y hacerme dos tratamientos de conducto. Recomendaría a DENTAL VIP por la asesoría,
       por el fácil acceso a su locación, por la receptividad de su personal, por sus
       impecables instalaciones, y sobre todo; porque los procedimientos fueron ejecutados
-      sin ningún tipo de dolor. Muy buenos odontólogos”.\n"
+      sin ningún tipo de dolor. Muy buenos Odontólogos”.\n"
     position: Contador Público
     name: José Luis Dávila
 parallax:
