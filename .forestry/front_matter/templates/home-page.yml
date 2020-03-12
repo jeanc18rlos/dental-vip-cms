@@ -221,3 +221,4 @@ fields:
       label: image
 pages:
 - src/pages/en/index.md
+- src/pages/index.md
