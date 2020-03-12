@@ -214,7 +214,7 @@ clinicCases:
   - image: "/img/clinic-cases-oral-surgery-es-06-thumb.jpg"
     title: "<h6>Regeneración ósea con hueso autólogo </h6>\n"
   - image: "/img/clinic-cases-oral-surgery-es-07-thumb.jpg"
-    title: "<h6>Exposición de Canino Incluído </h6>\n"
+    title: "<h6>Exposición de Canino Incluido </h6>"
   - image: "/img/clinic-cases-oral-surgery-es-08-thumb.jpg"
     title: "<h6>Sinus Lift </h6>\n"
   - image: "/img/clinic-cases-oral-surgery-es-09-thumb.jpg"
