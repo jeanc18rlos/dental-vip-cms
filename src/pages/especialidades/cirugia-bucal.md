@@ -99,7 +99,7 @@ faq:
         la anestesia local troncular o infiltrativa es la de elección para las intervenciones
         de cirugía oral menor en medios ambulatorios. La sedación consciente con derivados
         de la benzodiazepina es la mejor opción para pacientes especiales o excesivamente
-        aprehensivos, sin embargo, requiere de la participación de un Médico anestesiólogo.</p>\n"
+        aprehensivos, sin embargo, requiere de la participación de un Médico Anestesiólogo.</p>\n"
     - question: "¿Qué es una extracción atraumática y cuál es su importancia?"
       answer: "<p>Los métodos quirúrgicos atraumáticos para la extracción de dientes
         tienen como objetivo preservar intacto el hueso que rodea a la raíz dental.
