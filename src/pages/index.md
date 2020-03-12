@@ -51,7 +51,7 @@ welcome:
   - image: "/img/partners-iti.jpg"
     alt: International Team for Implantology
 quote:
-  title: La calidad en Odontología no es fruto de la casualidad.
+  title: La Calidad en Odontología no es fruto de la casualidad.
   body: 'Es siempre el resultado de la búsqueda de la excelencia profesional y de
     un esfuerzo inteligente por el mejoramiento continuo. La capacitación permanente
     en nuevas tendencias y filosofías terapéuticas, la honestidad, el uso eficiente
