@@ -64,7 +64,7 @@ faq:
   title: Preguntas Frecuentes
   blocks:
   - questions:
-    - question: "¿Por qué elegir a un Especialista en Cirugía bucal?"
+    - question: "¿Por qué elegir a un Especialista en Cirugía Bucal?"
       answer: "<p>Porque es un amplio conocedor de la anatomía y patología oral, porque
         ejerce gran dominio sobre los principios médico-quirúrgicos contemporáneos
         y porque posee gran habilidad y destreza en el manejo de las técnicas clínicas
