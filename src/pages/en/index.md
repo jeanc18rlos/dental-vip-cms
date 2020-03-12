@@ -73,7 +73,7 @@ testimonial:
       and sure of myself. They made me a digital smile design, cut my gums, bleached
       my teeth and placed me four truly spectacular porcelain veneers. I would recommend
       them with my eyes closed”.\n"
-    position: Surgeon Physician
+    position: General Physician
     name: Viviana Hernández
   - img: "/img/testimonials-carlos.png"
     testimonial: "“After two orthodontic treatments and more than 5 years with braces,
