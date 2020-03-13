@@ -73,6 +73,6 @@ WARNING: usually it is not possible to send 3D studies by regular email as they 
 
 Also remember that our administrative staff is able to provide you support in everything related to air ticket office, airport-hotel-airport transfers and accommodation procedures. Please contact us immediately in case of any querie or further question.
 
-DENTAL VIP…making dentistry care simple and affordable.
+DENTAL VIP… making dentistry care simple and affordable.
 
 Visit us in Caracas and overcome once and for all any barrier that prevents you from show off white, healthy and beautiful teeth!
