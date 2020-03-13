@@ -1600,7 +1600,7 @@ h1.thank-you-latest {
 }
 .guarantees-content {
   background-color: white;
-  padding: 120px 5vw;
+  padding: 16px 120px 5vw;
   p {
     font-size: 16px;
     line-height: 24px;
@@ -1636,11 +1636,20 @@ h1.thank-you-latest {
   .message {
     border: solid 1px #333;
     margin: auto;
+    text-align: center;
     padding: 3vw;
-    font-weight: 400;
-    font-size: 16px;
+    font-weight: 300;
+    font-size: 28px;
     max-width: 1150px;
     margin-bottom: 120px;
+    ul{
+      list-style: disc;
+      li{
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 10px;
+      }
+    }
 
     &.green {
       border: solid 1px #91c508;

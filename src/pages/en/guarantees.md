@@ -79,7 +79,7 @@ bannerFooter:
     elit ac, mollis ornare diam.
   </p>
   <div class="message red">
-    <h2>Sed ante neque, auctor sit</h2>
+    Sed ante neque, auctor sit
     <ul>
       <li>elit ac, mollis ornare diam.</li>
       <li>elit ac, mollis ornare diam.</li>
