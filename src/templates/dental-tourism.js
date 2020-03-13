@@ -9,16 +9,20 @@ import SetLang from "../components/setLang";
 import BackgroundImage from "gatsby-background-image";
 import Img from "gatsby-image";
 import showdown from "showdown";
+import "flag-icon-css/css/flag-icon.min.css";
 const converter = new showdown.Converter();
 
-export const AnexedPageTemplate = ({
+export const DentalTourismPageTemplate = ({
   language,
   hero,
   sidePanel,
   heading,
+  routes,
   prices,
   procedures,
+  blocksDescription,
   parallaxTitle,
+  gallerySteps,
   form
 }) => {
   return (
@@ -26,7 +30,7 @@ export const AnexedPageTemplate = ({
       {hero && hero.display && <DVhero {...hero} />}
       {heading && heading.display && <DVTitle {...heading} />}
       <section className="section-prices row">
-        {prices.map(i => {
+        {prices.rows.map(i => {
           return (
             <div className="prices col-md-6 col-sm-12">
               <div>
@@ -36,11 +40,11 @@ export const AnexedPageTemplate = ({
                 </div>
                 {i.rows.map(i => {
                   return (
-                    <div className="price-row">
-                      <span className="procedure">{i.procedure}</span>
-                      <span className="price">
+                    <div className="price-row row">
+                      <span className="col-md-6 procedure">{i.procedure}</span>
+                      <span className="col-md-6 price">
                         {i.price}
-                        <span>{i.currency}</span>
+                        <span> {i.currency}</span>
                       </span>
                     </div>
                   );
@@ -52,37 +56,119 @@ export const AnexedPageTemplate = ({
             </div>
           );
         })}
+        <div className="converter">
+          <div
+            className="title"
+            dangerouslySetInnerHTML={{
+              __html: converter.makeHtml(prices.footer.title)
+            }}
+          ></div>
+          <a href={prices.footer.to}>
+            <Img
+              className="converter-img"
+              fluid={prices.footer.image.childImageSharp.fluid}
+            />
+          </a>
+        </div>
       </section>
       <BackgroundImage
         className="dv-slogan"
         fluid={parallaxTitle.img.childImageSharp.fluid}
         Tag="section"
         style={{
-          minHeight: '70vh',
-          display: 'flex',
-          justifyContent: 'center',
+          minHeight: "100vh",
+          display: "flex",
+          justifyContent: "center",
           alignItems: "center"
         }}
       >
         <div>
           <h2
-            style={{ textShadow: "1px 1px 7px #0a0a0a" }}
+            style={{
+              textShadow: "1px 1px 7px #0a0a0a",
+              fontSize: "40px !important"
+            }}
             className="dv-slogan-title"
           >
             {parallaxTitle.title}
           </h2>
           <p
-            style={{ textShadow: "1px 1px 7px #0a0a0a", fontWeight: 500 }}
+            style={{
+              textShadow: "1px 1px 7px #0a0a0a",
+              fontSize: "26px",
+              fontWeight: 500
+            }}
             className="dv-slogan-dsc"
           >
             {parallaxTitle.subTitle}
           </p>
         </div>
       </BackgroundImage>
+      <section className="departures">
+        <div
+          className="title"
+          dangerouslySetInnerHTML={{
+            __html: converter.makeHtml(routes.title)
+          }}
+        />
+        <Img
+          className="departures-logo main"
+          fluid={routes.image.childImageSharp.fluid}
+        />
+
+        <div className="col-md-12 row">
+          {routes.departures.map(i => {
+            return (
+              <div className="row col-md-6 departure">
+                <div className="col-md-3 departures-logo">
+                  <span class={`flag-icon flag-icon-${i.flag}`}></span>
+                </div>
+                <div className="row col-md-9">
+                  <p className="col-md-12 ">{i.from}</p>
+                  <p className="row col-md-12 dep-info">
+                    <div className="col-md-6">
+                      <Img
+                        className="departures-logo-clock"
+                        fluid={routes.icons.clock.childImageSharp.fluid}
+                      />
+                      <span>{i.time}</span>
+                    </div>
+                    <div className="col-md-6">
+                      <Img
+                        className="departures-logo-currency"
+                        fluid={routes.icons.currency.childImageSharp.fluid}
+                      />
+                      <span>{i.cost}</span>
+                    </div>
+                  </p>
+                </div>
+                <p className="col-md-12 visa">{i.visa}</p>
+                <hr />
+              </div>
+            );
+          })}
+        </div>
+        <div className="message">{routes.footer}</div>
+      </section>
+      <section className="gallery-steps">
+        <h1>{gallerySteps.title}</h1>
+        <div className="row">
+          {" "}
+          {gallerySteps.steps.map((i, k) => {
+            return (
+              <div className="col-md-4 step">
+                <h2>{i.title}</h2>
+                <span>{k + 1}</span>
+                <Img fluid={i.image.childImageSharp.fluid} />
+              </div>
+            );
+          })}
+        </div>
+      </section>
       {sidePanel.display && (
         <section className="dv-sp-int-white dv-sp-int-white-mob dv-sp-int-white-dds-mob">
           <div className="container-fluid dv-main-menu">
-            <section className="dv-specialties-srv">
+            <section className="left-aligned dv-specialties-srv">
               {sidePanel.sections.map((i, k) => {
                 return (
                   <div key={`side-${k}`} className="row">
@@ -331,7 +417,49 @@ export const AnexedPageTemplate = ({
           </aside>
         </form>
       </BackgroundImage>
-
+      <section className="row list-paragraph">
+        <div className="col-md-6 paragraph">
+          <div
+            className="title"
+            dangerouslySetInnerHTML={{
+              __html: converter.makeHtml(blocksDescription.sections.left.title)
+            }}
+          />
+          <hr></hr>
+          <div
+            className="content"
+            dangerouslySetInnerHTML={{
+              __html: converter.makeHtml(blocksDescription.sections.left.cuerpo)
+            }}
+          />
+          <Img
+            className="icon"
+            fluid={blocksDescription.sections.left.image.childImageSharp.fluid}
+          />
+        </div>
+        <div className="col-md-6 list">
+          {blocksDescription.sections.right.map(i => {
+            return (
+              <div className="item">
+                <Img className="icon" fluid={i.icon.childImageSharp.fluid} />
+                <hr />
+                <div
+                  className="title"
+                  dangerouslySetInnerHTML={{
+                    __html: converter.makeHtml(i.title)
+                  }}
+                />
+                <div
+                  className="content"
+                  dangerouslySetInnerHTML={{
+                    __html: converter.makeHtml(i.content)
+                  }}
+                />
+              </div>
+            );
+          })}
+        </div>
+      </section>
       {procedures && procedures.display && <Procedures {...procedures} />}
     </div>
   );
@@ -342,13 +470,16 @@ const AnexedPage = ({ data }) => {
     templateKey,
     language,
     form,
+    gallerySteps,
     prices,
     title,
     heading,
     redirects,
     parallaxTitle,
+    routes,
     sidePanel,
     hero,
+    blocksDescription,
     procedures
   } = data.markdownRemark.frontmatter;
 
@@ -356,14 +487,17 @@ const AnexedPage = ({ data }) => {
     <Layout>
       <SEO title={title} />
       <SetLang link={redirects} language={language} />
-      <AnexedPageTemplate
+      <DentalTourismPageTemplate
         {...{
           templateKey,
           heading,
           prices,
+          blocksDescription,
+          routes,
           language,
           title,
           redirects,
+          gallerySteps,
           sidePanel,
           parallaxTitle,
           hero,
@@ -402,6 +536,19 @@ export const pageQuery = graphql`
           indicator
           halfSize
         }
+        gallerySteps {
+          title
+          steps {
+            title
+            image {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
         parallaxTitle {
           img {
             childImageSharp {
@@ -419,23 +566,62 @@ export const pageQuery = graphql`
           title
           content
         }
+        blocksDescription {
+          sections {
+            left {
+              title
+              cuerpo
+              image {
+                childImageSharp {
+                  fluid(maxWidth: 1600, quality: 100) {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
+            }
+            right {
+              icon {
+                childImageSharp {
+                  fluid(maxWidth: 1600, quality: 100) {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
+              title
+              content
+            }
+          }
+        }
         prices {
-          title
-          icon {
-            childImageSharp {
-              fluid(maxWidth: 1600, quality: 100) {
-                ...GatsbyImageSharpFluid
+          footer {
+            title
+            to
+            image {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
               }
             }
           }
           rows {
-            procedure
-            price
-            currency
-          }
-          link {
             title
-            to
+            icon {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            rows {
+              procedure
+              price
+              currency
+            }
+            link {
+              title
+              to
+            }
           }
         }
         sidePanel {
@@ -449,6 +635,40 @@ export const pageQuery = graphql`
               }
             }
             section
+          }
+        }
+        routes {
+          title
+          image {
+            childImageSharp {
+              fluid(maxWidth: 1600, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+          icons {
+            clock {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            currency {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+          footer
+          departures {
+            from
+            flag
+            time
+            cost
+            visa
           }
         }
         form {

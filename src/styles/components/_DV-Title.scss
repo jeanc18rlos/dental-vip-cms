@@ -1,5 +1,8 @@
 .dv-title-section {
   background: $white;
+  .gatsby-image-wrapper{
+    max-width: 250px;
+  }
   &.bebas-title {
     background-color: $grey-back;
     .dv-main-menu {
