@@ -1,5 +1,5 @@
 ---
-label: dental-tourism
+label: dental tourism
 hide_body: true
 fields:
 - type: text
@@ -58,32 +58,13 @@ fields:
   - type: textarea
     name: content
     label: content
-- type: field_group_list
+- type: field_group
   name: prices
   label: prices
   fields:
-  - type: text
-    name: title
-    label: title
-  - type: file
-    name: icon
-    label: icon
-  - type: field_group_list
-    name: rows
-    label: rows
-    fields:
-    - type: text
-      name: procedure
-      label: procedure
-    - type: text
-      name: price
-      label: price
-    - type: text
-      name: currency
-      label: currency
   - type: field_group
-    name: link
-    label: link
+    name: footer
+    label: footer
     fields:
     - type: file
       name: image
@@ -94,6 +75,42 @@ fields:
     - type: text
       name: to
       label: to
+  - type: field_group_list
+    name: rows
+    label: rows
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: file
+      name: icon
+      label: icon
+    - type: field_group_list
+      name: rows
+      label: rows
+      fields:
+      - type: text
+        name: procedure
+        label: procedure
+      - type: text
+        name: price
+        label: price
+      - type: text
+        name: currency
+        label: currency
+    - type: field_group
+      name: link
+      label: link
+      fields:
+      - type: file
+        name: image
+        label: image
+      - type: text
+        name: title
+        label: title
+      - type: text
+        name: to
+        label: to
 - type: field_group
   name: parallaxTitle
   label: parallaxTitle
@@ -137,6 +154,9 @@ fields:
     - type: text
       name: from
       label: from
+    - type: text
+      name: flag
+      label: flag
     - type: text
       name: time
       label: time
@@ -205,7 +225,7 @@ fields:
       - type: text
         name: title
         label: title
-      - type: text
+      - type: textarea
         name: cuerpo
         label: cuerpo
       - type: file
@@ -221,7 +241,7 @@ fields:
       - type: text
         name: title
         label: title
-      - type: text
+      - type: textarea
         name: content
         label: content
 - type: field_group
