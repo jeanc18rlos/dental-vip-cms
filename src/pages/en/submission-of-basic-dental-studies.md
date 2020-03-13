@@ -11,10 +11,9 @@ author:
   image: "/img/professionals-dr-jose-miguel-gomez-diez.png"
   name: José Miguel Gómez Díez
   title: DR.
-  description: As is logical, and before traveling, it is highly recommended that
-    we know your general health status, personal expectations and oral conditions
-    to determine the indication and feasibility of performing the surgical, restorative
-    or cosmetic desired procedures.
+  description: Specialist Dentist in Orthodontics, Clinical Coordinator of DENTAL
+    VIP, Dental Specialties s.c. and truly passionate about the analysis, discussion,
+    communication and dissemination of scientific information.
 description: ''
 tags: []
 
