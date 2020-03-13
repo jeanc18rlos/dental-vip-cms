@@ -48,3 +48,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- src/pages/en/submission-of-basic-dental-studies.md
