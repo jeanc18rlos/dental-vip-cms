@@ -68,10 +68,10 @@ To discard diabetes and sexually transmitted diseases.
 
 Once the files have been received _(in Word, PDF, JPG or PNG formats),_ your case will be immediately submitted to an exhaustive multidisciplinary evaluation by our specialists team to be able to issue a specific treatment proposal as soon as possible, including of course the final quote and estimated execution time.
 
-WARNING: usually it is not possible to send 3D studies by regular email as they form heavy files that exceed 25 MB. If you need to send a tomography or any other special record you should use tools such as Google Drive or Dropbox that allow you to first store the files in the cloud and then share a link to them by email. Please check the next post to get more information about it wwwfghhjkl
+**WARNING:** usually it is not possible to send 3D studies by regular email as they form heavy files that exceed 25 MB. If you need to send a tomography or any other special record you should use tools such as Google Drive or Dropbox that allow you to first store the files in the cloud and then share a link to them by email. Please check the next post to get more information about it wwwfghhjkl
 
 Also remember that our administrative staff is able to provide you support in everything related to air ticket office, airport-hotel-airport transfers and accommodation procedures. Please contact us immediately in case of any querie or further question.
 
-DENTAL VIP… making dentistry care simple and affordable.
+**DENTAL VIP…** making dentistry care simple and affordable.
 
 Visit us in Caracas and overcome once and for all any barrier that prevents you from show off white, healthy and beautiful teeth!
