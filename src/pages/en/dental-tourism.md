@@ -301,6 +301,7 @@ routes:
 
 '
     visa: No visa req
+    flag: co
 gallerySteps:
   title: 'making denstistry
 
