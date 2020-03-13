@@ -4,7 +4,7 @@ title: Submission of Basic Dental Studies
 date: 2020-03-12T00:00:00-04:00
 featuredpost: false
 language: en
-published: false
+published: true
 redirects: "/blog/submission-of-basic-dental-studies"
 featuredimage: "/img/submission of basic dental studies 1.png"
 author:
