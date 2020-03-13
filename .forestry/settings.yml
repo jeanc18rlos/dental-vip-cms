@@ -14,8 +14,8 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
+  - dental-tourism-2
   - blog-post
-  - dental-tourism
   - clinic-page
   - contact-page
   - foreign-patients
@@ -32,8 +32,8 @@ sections:
   exclude: "/en/**/*"
   new_doc_ext: md
   templates:
+  - dental-tourism-2
   - blog-post
-  - dental-tourism
   - clinic-page
   - contact-page
   - foreign-patients
