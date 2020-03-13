@@ -12,8 +12,8 @@ author:
   name: José Miguel Gómez Díez
   title: DR.
   description: Specialist Dentist in Orthodontics, Clinical Coordinator of DENTAL
-    VIP, Dental Specialties s.c. and truly passionate about the analysis, discussion,
-    communication and dissemination of scientific information.
+    VIP, Especialidades Odontológicas s.c. and truly passionate about the analysis,
+    discussion, communication and dissemination of scientific information.
 description: ''
 tags: []
 
