@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 title: Submission of Basic Dental Studies
-date: 2020-03-12T00:00:00-04:00
+date: 2020-03-12T04:00:00.000+00:00
 featuredpost: false
 language: en
 published: true
-redirects: "/blog/submission-of-basic-dental-studies"
+redirects: "/en/blog/"
 featuredimage: "/img/submission of basic dental studies 1.png"
 author:
   image: "/img/professionals-dr-jose-miguel-gomez-diez.png"
@@ -28,7 +28,11 @@ Count on with some clinical photographs and dental radiographs will be sufficien
 
 Listed below are the diagnostic resources that we need in the vast majority of cases to start the path to your new smile on the right foot:
 
-![Basic Diagnostic Records List for Cosmetic and Implant Dentistry.](/img/submission of basic dental studies 2.jpg)
+<div  class="color" style="max-width: 50%;">
+
+![](/img/submission of basic dental studies 2.jpg)
+
+</div>
 
 **1- CONSULTATION EMAIL _(Personal Data, Current Condition and Real Expectations)_**
 

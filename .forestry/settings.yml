@@ -7,8 +7,6 @@ sections:
 - type: document
   path: ".forestry/snippets/tip.snippet"
   label: littleImage.snippet
-  match: "**/*"
-  read_only: false
 - type: directory
   path: src/pages/en
   label: Pages
