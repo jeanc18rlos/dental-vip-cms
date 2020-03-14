@@ -232,7 +232,7 @@ faq:
         armonía con los dientes. De igual forma, es también posible modificar casi
         por completo el aspecto, tamaño y grosor de los labios a través de una pequeña
         cirugía estética denominada queiloplastía, habitualmente practicada por Médicos
-        especialistas en cirugía plástica orofacial.</p>\n"
+        Especialistas en cirugía plástica orofacial.</p>\n"
 clinicCases:
   title: Estética Dental - Casos Clínicos
   items:
