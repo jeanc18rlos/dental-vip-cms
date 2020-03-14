@@ -3,7 +3,7 @@ templateKey: dental-tourism
 language: en
 title: Dental Tourism
 published: true
-redirects: /en/dental-tourism/
+redirects: /turismo-dental/
 hero:
   display: true
   type: default

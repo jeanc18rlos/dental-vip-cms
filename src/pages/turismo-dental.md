@@ -1,7 +1,7 @@
 ---
 templateKey: dental-tourism
-language: en
-title: Dental Tourism
+language: es
+title: Turismo Dental
 published: true
 redirects: /en/dental-tourism/
 hero:
