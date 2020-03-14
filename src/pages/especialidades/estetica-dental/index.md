@@ -222,8 +222,9 @@ faq:
         clínicas de los dientes, la gingivectomía o remoción quirúrgica del tejido
         anómalo será la solución. Ahora bien, si la condición obedece a una alteración
         del desarrollo facial, a un crecimiento vertical excesivo del maxilar superior
-        (EVM), solo la impacción quirúrgica del mismo mediante una intervención de
-        cirugía ortognática maxilofacial (osteotomía de Le Fort I) solventará el problema.</p>\n"
+        <em>(EVM)</em>, solo la impacción quirúrgica del mismo mediante una intervención
+        de cirugía ortognática maxilofacial <em>(osteotomía de Le Fort I)</em> solventará
+        el problema.</p>\n"
     - question: "¿En qué consiste una cirugía plástica periodontal o gingivoplastía?"
       answer: "<p>Toda sonrisa está conformada por 3 elementos básicos: dientes, labios
         y encías. La gingivoplastía es un procedimiento que permite corregir la forma,
