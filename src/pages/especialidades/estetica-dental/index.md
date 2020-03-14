@@ -392,6 +392,6 @@ procedures:
   - title: Profesionales
     to: "/profesionales/"
     img: "/img/procedures-professionals.png"
-published: false
+published: true
 
 ---
