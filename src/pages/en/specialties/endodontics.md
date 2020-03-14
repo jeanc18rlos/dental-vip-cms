@@ -119,7 +119,7 @@ faq:
         instruments inside the canal, he could create steps and false pathways, coronary,
         cameral or root perforations, he could boost necrotic or organic remains to
         the periapice and generate sub or overobturations.</p>\n"
-    - question: "¿What is an overobturation??"
+    - question: What is an overobturation?
       answer: "<p>It consists of extravasation of a small amount of sealant or gutta
         percha into the periradicular area, outside the root of the tooth. Fortunately,
         numerous scientific articles support the success of the treatment even in
