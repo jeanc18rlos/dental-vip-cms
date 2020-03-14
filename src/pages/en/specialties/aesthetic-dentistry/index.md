@@ -223,7 +223,7 @@ faq:
         called Cheiloplasty, usually performed by Doctors Specializing in Orofacial
         Plastic Surgery.</p>\n"
 clinicCases:
-  title: Aesthetic Dentistry - Clinic Cases
+  title: Aesthetic Dentistry - Clinical Cases
   items:
   - image: "/img/clinic-cases-aesthetic-dentistry-en-01-thumb.jpg"
     title: "<h6>FRACTURE AND DENTAL MALPOSITION CORRECTION</h6>\n"
