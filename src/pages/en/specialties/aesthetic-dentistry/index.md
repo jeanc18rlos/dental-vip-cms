@@ -313,7 +313,7 @@ asides:
         src: "/img/sections-icons-aesthetic-dentistry.jpg"
         display: false
       button:
-        text: More Information
+        text: More Info
         to: "/en/specialties/aesthetic-dentistry/teeth-whitening"
         display: true
   - align: left
