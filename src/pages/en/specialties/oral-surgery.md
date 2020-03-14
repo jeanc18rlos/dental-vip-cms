@@ -212,7 +212,7 @@ clinicCases:
   - image: "/img/clinic-cases-oral-surgery-en-10-thumb.jpg"
     title: "<h6>APICECTOMY </h6>\n"
   - image: "/img/clinic-cases-oral-surgery-en-11-thumb.jpg"
-    title: "<h6>PLATELET-RICH FIBRIN <em><em>(PRF)</em> IN IMPLANT DENTISTRY</h6>\n"
+    title: "<h6>PLATELET-RICH FIBRIN <em>(PRF)</em> IN IMPLANT DENTISTRY</h6>"
   - image: "/img/clinic-cases-oral-surgery-en-12-thumb.jpg"
     title: "<h6>MANDIBULAR TORUS REMOVAL </h6>\n"
   - image: "/img/clinic-cases-oral-surgery-en-13-thumb.jpg"
