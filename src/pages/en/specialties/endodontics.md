@@ -120,10 +120,10 @@ faq:
         cameral or root perforations, he could boost necrotic or organic remains to
         the periapice and generate sub or overobturations.</p>\n"
     - question: What is an overobturation?
-      answer: "<p>It consists of extravasation of a small amount of sealant or gutta
-        percha into the periradicular area, outside the root of the tooth. Fortunately,
-        numerous scientific articles support the success of the treatment even in
-        cases where there has been a small over-sealing.</p>\n"
+      answer: "<p>It consists of extravasation of a small amount of sealant or gutta-percha
+        into the periradicular area, outside the root of the tooth. Fortunately, numerous
+        scientific articles support the success of the treatment even in cases where
+        there has been a small over-sealing.</p>\n"
     - question: What is an endodontic retreatment?
       answer: "<p>Root canal re-treatment is the intervention that is carried out
         to eliminate the filling material that is inside the canals of a tooth already
