@@ -89,7 +89,7 @@ faq:
         a rubber dam?
       answer: |
         <p>
-          The absolute isolation of the operative field allows to maintain at all times the conditions of asepsis and facilitates the procedures of antisepsis. In addition to preventing the entry of saliva <em>(substance rich in bacteria)</em>into the canals, the rubber dam improves the visibility of the area and prevents the patient from aspirating or swallowing instruments and chemicals substances during the treatment.</p>
+          The absolute isolation of the operative field allows to maintain at all times the conditions of asepsis and facilitates the procedures of antisepsis. In addition to preventing the entry of saliva <em>(substance rich in bacteria)</em> into the canals, the rubber dam improves the visibility of the area and prevents the patient from aspirating or swallowing instruments and chemicals substances during the treatment.</p>
   - questions:
     - question: What is conductometry?
       answer: "<p>It consists in determining the exact length between the apical constriction
