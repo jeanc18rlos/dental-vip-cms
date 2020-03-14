@@ -354,7 +354,7 @@ asides:
         src: "/img/sections-icons-aesthetic-dentistry.jpg"
         display: false
       button:
-        text: More Information
+        text: More Info
         to: "/en/specialties/aesthetic-dentistry/porcelain-veneers/"
         display: true
 lightQuote:
