@@ -328,10 +328,8 @@ asides:
         to: "/especialidades/estetica-dental/blanqueamiento-dental/"
         display: true
   - align: left
-    title: '<h3 style="color:#333;font-family:''Bebas Neue Bold''">Diseño Digital
-      de Sonrisa (DDS)</h3>
-
-'
+    title: <h3 style="color:#333;font-family:'Bebas Neue Bold'">Diseño Digital de
+      Sonrisa <em>(DDS)</em>
     content: '<p  style="font-weight:400">Para pacientes emocionales que dan gran
       valor a su apariencia, para aquellos que conocen bien los efectos de su sonrisa
       en los demás y que desean ir más allá del estricto y anticuado concepto de salud
