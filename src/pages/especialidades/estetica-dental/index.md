@@ -92,7 +92,7 @@ faq:
     - question: "¿Qué parámetros se emplean para elegir la forma de los nuevos dientes?"
       answer: "<p>Raza, sexo, edad, personalidad, tamaño y forma de la cara, biotipo
         y estado gingival, línea de la sonrisa, tipo de oclusión o mordida, y por
-        supuesto, las preferencias y gustos particulares del paciente. También es
+        supuesto; las preferencias y gustos particulares del paciente. También es
         muy importante trabajar siempre bajo el precepto de la proporción áurea o
         divina, tratar en lo posible de que las nuevas restauraciones guarden sintonía
         con uno de los parámetros más utilizados en cirugía plástica y medicina estética,
