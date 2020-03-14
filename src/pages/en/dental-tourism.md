@@ -56,8 +56,8 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
       to: "/en/specialties/dental-implants"
-  - title: Dental Implants
-    icon: "/img/icon-dental-implants.jpg"
+  - title: Zygomatic Implants
+    icon: "/img/icon-zygomatic-implants.png"
     rows:
     - procedure: 3D Cone Beam Scanner
       price: "$ 60"
