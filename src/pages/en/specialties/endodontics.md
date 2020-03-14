@@ -148,7 +148,7 @@ faq:
         cores, we recommend starting the root preparation two or three days after
         the endodontics is finished.</p>\n"
 clinicCases:
-  title: Endodontics - Clinic Cases
+  title: Endodontics - Clinical Cases
   items:
   - image: "/img/clinic-cases-endodontics-en-01-thumb.jpg"
     title: "<h6>RETREATMENT OF A LOWER FIRST MOLAR</h6>\n"
