@@ -41,7 +41,7 @@ prices:
       price: "$ 500"
       currency: USD
     - procedure: Single Dental Implant
-      price: "$ 650"
+      price: "$ 700"
       currency: USD
     - procedure: Multiple Dental Implants
       price: "$ 600"
