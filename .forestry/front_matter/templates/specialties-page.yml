@@ -264,5 +264,6 @@ fields:
       name: img
       label: img
 pages:
+- src/pages/en/specialties/endodontics.md
 - src/pages/en/specialties/oral-surgery.md
 - src/pages/especialidades/cirugia-bucal.md

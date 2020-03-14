@@ -48,5 +48,3 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- src/pages/en/blog/algun-titulo.md
