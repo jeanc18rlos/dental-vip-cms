@@ -195,7 +195,7 @@ faq:
     - question: "¿Qué es mejor entonces para un diente frontal, una carilla o una
         corona?"
       answer: "<p>Todo depende de las condiciones y exigencias clínicas del caso.
-        Antes de tomar una decisión, el Odontólogo estético debe evaluar factores
+        Antes de tomar una decisión, el Odontólogo Estético debe evaluar factores
         como el grado de integridad estructural del órgano, aspecto de los dientes
         vecinos, propiedades y características del esmalte, vitalidad pulpar, estado
         periodontal, índice de higiene oral, hábitos sociales y funcionales del paciente;
