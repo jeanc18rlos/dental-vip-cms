@@ -57,7 +57,7 @@ prices:
       title: MORE INFO
       to: "/en/specialties/dental-implants"
   - title: Zygomatic Implants
-    icon: "/img/icon-zygomatic-implants.png"
+    icon: "/img/ZIGOMATICOS.jpg"
     rows:
     - procedure: General Anesthesia
       price: "$ 650"
