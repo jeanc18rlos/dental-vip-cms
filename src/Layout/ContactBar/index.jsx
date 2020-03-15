@@ -29,6 +29,11 @@ const ContactBar = props => {
               </div>
               <div
                 role="button"
+                onFocus={
+                  ()=>{
+                    toggleDrop(true)
+                  }
+                }
                 onMouseLeave={() => {
                   toggleDrop(false)
                 }}

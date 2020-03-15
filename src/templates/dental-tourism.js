@@ -41,7 +41,12 @@ export const DentalTourismPageTemplate = ({
                 {i.rows.map(i => {
                   return (
                     <div className="price-row row">
-                      <span className="col-md-6 procedure">{i.procedure}</span>
+                      <span
+                        className="col-md-6 procedure"
+                        dangerouslySetInnerHTML={{
+                          __html: converter.makeHtml(i.procedure)
+                        }}
+                      ></span>
                       <span className="col-md-6 price">
                         {i.price}
                         <span> {i.currency}</span>

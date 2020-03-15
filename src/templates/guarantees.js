@@ -2,14 +2,10 @@ import React from "react";
 import { graphql } from "gatsby";
 import Layout from "../Layout";
 import DVhero from "../components/DV-Hero";
-import Procedures from "../components/Procedures";
-import DVTitle from "../components/DV-Title";
 import SEO from "../components/seo";
 import SetLang from "../components/setLang";
-import BackgroundImage from "gatsby-background-image";
 import Img from "gatsby-image";
 import showdown from "showdown";
-import "flag-icon-css/css/flag-icon.min.css";
 import Content, { HTMLContent } from "../components/Content";
 const converter = new showdown.Converter();
 
