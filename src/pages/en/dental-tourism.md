@@ -90,8 +90,8 @@ prices:
     - procedure: CAD/CAM Zirconia Crown
       price: "$ 570"
       currency: USD
-    - procedure: Single Dental Implant
-      price: "$ 650"
+    - procedure: Implant Supported Bridge
+      price: "$ 480 per unit"
       currency: USD
     - procedure: Multiple Dental Implants
       price: "$ 600"
