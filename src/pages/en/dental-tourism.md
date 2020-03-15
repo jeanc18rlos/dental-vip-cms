@@ -107,7 +107,7 @@ prices:
       title: MORE INFO
       to: "/en/specialties/dental-implants"
   - title: Aesthetic Dentistry
-    icon: "/img/icon-dental-implants.jpg"
+    icon: "/img/icon-aestetic-dentistry.jpg"
     rows:
     - procedure: Digital Smile Design
       price: "$ 50"
