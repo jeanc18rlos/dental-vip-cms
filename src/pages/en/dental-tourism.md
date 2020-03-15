@@ -182,7 +182,7 @@ prices:
       title: MORE INFO
       to: "/en/specialties/dental-implants"
   - title: Conventional Prosthesis
-    icon: "/img/icon-dental-implants.jpg"
+    icon: "/img/icon-prosthodontics.jpg"
     rows:
     - procedure: Metal-Porcelain Crowns and Bridges
       price: "$ 430"
