@@ -85,7 +85,7 @@ prices:
     icon: "/img/icon-dental-implants.jpg"
     rows:
     - procedure: Porcelain Fused to Metal Crown
-      price: "$ 60"
+      price: "$ 480"
       currency: USD
     - procedure: Conscious Sedation (optional)
       price: "$ 500"
