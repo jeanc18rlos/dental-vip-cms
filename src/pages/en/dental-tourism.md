@@ -93,9 +93,9 @@ prices:
     - procedure: Implant Supported Bridge
       price: "$ 480 per unit"
       currency: USD
-    - procedure: Multiple Dental Implants
-      price: "$ 600"
-      currency: USD each
+    - procedure: Snap on Denture
+      price: "$ 1,350"
+      currency: USD
     - procedure: Sinus Lift
       price: "$ 850"
       currency: USD
