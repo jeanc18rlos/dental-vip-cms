@@ -59,8 +59,8 @@ prices:
   - title: Zygomatic Implants
     icon: "/img/icon-zygomatic-implants.png"
     rows:
-    - procedure: 3D Cone Beam Scanner
-      price: "$ 60"
+    - procedure: General Anesthesia
+      price: "$ 650"
       currency: USD
     - procedure: Conscious Sedation (optional)
       price: "$ 500"
