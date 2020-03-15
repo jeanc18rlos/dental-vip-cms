@@ -82,7 +82,7 @@ prices:
       title: MORE INFO
       to: "/en/specialties/dental-implants"
   - title: Implant Supported Restorations
-    icon: "/img/icon-dental-implants.jpg"
+    icon: "/img/ICON-IMPLANT SUPPORT.jpg"
     rows:
     - procedure: Porcelain Fused to Metal Crown
       price: "$ 480"
