@@ -66,7 +66,7 @@ prices:
       price: "$ 800"
       currency: USD
     - procedure: Unilateral Zygomatic Implant
-      price: "$ 2,500"
+      price: "$ 2,800"
       currency: USD
     - procedure: Bilateral Zygomatic Implants
       price: "$ 2,500"
