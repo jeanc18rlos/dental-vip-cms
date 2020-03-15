@@ -62,8 +62,8 @@ prices:
     - procedure: General Anesthesia
       price: "$ 650"
       currency: USD
-    - procedure: Conscious Sedation (optional)
-      price: "$ 500"
+    - procedure: Hospital Fees
+      price: "$ 800"
       currency: USD
     - procedure: Single Dental Implant
       price: "$ 650"
