@@ -207,7 +207,7 @@ prices:
       title: MORE INFO
       to: "/en/specialties/dental-implants"
   - title: General Dentistry
-    icon: "/img/icon-dental-implants.jpg"
+    icon: "/img/icon-general-dentistry.jpg"
     rows:
     - procedure: General Cleaning
       price: "$ 40"
