@@ -132,7 +132,7 @@ prices:
       title: MORE INFO
       to: "/en/specialties/dental-implants"
   - title: Endodontics
-    icon: "/img/icon-dental-implants.jpg"
+    icon: "/img/icon-endodontics.jpg"
     rows:
     - procedure: Root Canal Therapy
       price: "$ 190"
