@@ -112,9 +112,9 @@ prices:
     - procedure: Digital Smile Design
       price: "$ 50"
       currency: USD
-    - procedure: Conscious Sedation (optional)
-      price: "$ 500"
-      currency: USD
+    - procedure: Gum Contouring Surgery
+      price: "$ 120"
+      currency: USD per cuadrant
     - procedure: Single Dental Implant
       price: "$ 650"
       currency: USD
