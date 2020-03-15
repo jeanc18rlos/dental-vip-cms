@@ -373,20 +373,6 @@ routes:
 
 '
     visa: No visa required
-  - from: From BOGOTA
-    flag: co
-    time: 1 h:46 m
-    cost: '875.00 USD
-
-'
-    visa: No visa required
-  - from: From BOGOTA
-    flag: co
-    time: 1 h:46 m
-    cost: '875.00 USD
-
-'
-    visa: No visa required
 gallerySteps:
   title: 'making denstistry
 
