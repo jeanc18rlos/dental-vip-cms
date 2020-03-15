@@ -366,9 +366,9 @@ routes:
 
 '
     visa: No visa required
-  - from: From BOGOTA
-    flag: co
-    time: 1 h:46 m
+  - from: 'From: WILLEMSTAD'
+    flag: cw
+    time: 0 h:51 m
     cost: '875.00 USD
 
 '
