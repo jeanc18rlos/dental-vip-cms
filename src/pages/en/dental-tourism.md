@@ -157,7 +157,7 @@ prices:
       title: MORE INFO
       to: "/en/specialties/dental-implants"
   - title: Oral Surgery
-    icon: "/img/icon-dental-implants.jpg"
+    icon: "/img/icon-oral-surgery.jpg"
     rows:
     - procedure: Simple Extraction
       price: "$ 45"
