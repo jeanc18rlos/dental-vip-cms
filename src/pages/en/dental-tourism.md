@@ -81,10 +81,10 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
       to: "/en/specialties/dental-implants"
-  - title: Dental Implants
+  - title: Implant Supported Restorations
     icon: "/img/icon-dental-implants.jpg"
     rows:
-    - procedure: 3D Cone Beam Scanner
+    - procedure: Porcelain Fused to Metal Crown
       price: "$ 60"
       currency: USD
     - procedure: Conscious Sedation (optional)
