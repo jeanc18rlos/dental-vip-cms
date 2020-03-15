@@ -331,9 +331,9 @@ routes:
 
 '
     visa: No visa required
-  - from: From BOGOTA
-    flag: co
-    time: 1 h:46 m
+  - from: 'From: MADRID'
+    flag: es
+    time: 9 h:12 m
     cost: '875.00 USD
 
 '
