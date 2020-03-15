@@ -109,8 +109,8 @@ prices:
   - title: Aesthetic Dentistry
     icon: "/img/icon-dental-implants.jpg"
     rows:
-    - procedure: 3D Cone Beam Scanner
-      price: "$ 60"
+    - procedure: Digital Smile Design
+      price: "$ 50"
       currency: USD
     - procedure: Conscious Sedation (optional)
       price: "$ 500"
