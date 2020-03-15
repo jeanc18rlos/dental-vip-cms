@@ -181,27 +181,27 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
       to: "/en/specialties/dental-implants"
-  - title: Dental Implants
+  - title: Conventional Prosthesis
     icon: "/img/icon-dental-implants.jpg"
     rows:
-    - procedure: 3D Cone Beam Scanner
-      price: "$ 60"
+    - procedure: Metal-Porcelain Crowns and Bridges
+      price: "$ 430"
+      currency: USD per unit
+    - procedure: IPS e.max Crowns and Bridges
+      price: "$ 480"
+      currency: USD per unit
+    - procedure: Zirconia CAD/CAM Crowns and Bridges
+      price: "$ 550"
+      currency: USD per unit
+    - procedure: Removable Partial Denture
+      price: "$ 450"
       currency: USD
-    - procedure: Conscious Sedation (optional)
-      price: "$ 500"
+    - procedure: Regular Total Denture
+      price: "$ 550"
       currency: USD
-    - procedure: Single Dental Implant
-      price: "$ 650"
+    - procedure: Occlusal Guard
+      price: "$ 180"
       currency: USD
-    - procedure: Multiple Dental Implants
-      price: "$ 600"
-      currency: USD each
-    - procedure: Sinus Lift
-      price: "$ 850"
-      currency: USD
-    - procedure: Synthetic Bone Graft
-      price: "$ 200"
-      currency: USD per cc
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
