@@ -140,18 +140,18 @@ prices:
     - procedure: Root Canal Retreatment
       price: "$ 250"
       currency: USD
-    - procedure: Single Dental Implant
-      price: "$ 650"
+    - procedure: Post Space Preparation
+      price: "$ 50"
       currency: USD
-    - procedure: Multiple Dental Implants
-      price: "$ 600"
-      currency: USD each
-    - procedure: Sinus Lift
-      price: "$ 850"
+    - procedure: Post and Core Build Up
+      price: "$ 90"
       currency: USD
-    - procedure: Synthetic Bone Graft
-      price: "$ 200"
-      currency: USD per cc
+    - procedure: Apicoectomy or Root Resection
+      price: "$ 250"
+      currency: USD
+    - procedure: MTA Surgical Retrofilling
+      price: "$ 100"
+      currency: USD
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
