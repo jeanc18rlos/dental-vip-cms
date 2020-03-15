@@ -257,7 +257,7 @@ prices:
       title: MORE INFO
       to: "/en/specialties/dental-implants"
   - title: Orthodontics
-    icon: "/img/icon-dental-implants.jpg"
+    icon: "/img/icon-orthodontics.jpg"
     rows:
     - procedure: Metal Braces
       price: "$ 500"
