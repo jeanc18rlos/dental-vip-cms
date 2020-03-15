@@ -71,8 +71,8 @@ prices:
     - procedure: Bilateral Zygomatic Implants
       price: "$ 2,500"
       currency: USD each
-    - procedure: Sinus Lift
-      price: "$ 850"
+    - procedure: Quad Zygoma
+      price: "$ 9,800"
       currency: USD
     - procedure: Synthetic Bone Graft
       price: "$ 200"
