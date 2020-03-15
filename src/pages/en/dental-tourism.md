@@ -137,8 +137,8 @@ prices:
     - procedure: Root Canal Therapy
       price: "$ 190"
       currency: USD
-    - procedure: Conscious Sedation (optional)
-      price: "$ 500"
+    - procedure: Root Canal Retreatment
+      price: "$ 250"
       currency: USD
     - procedure: Single Dental Implant
       price: "$ 650"
