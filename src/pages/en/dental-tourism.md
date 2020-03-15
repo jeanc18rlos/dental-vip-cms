@@ -297,11 +297,8 @@ routes:
   icons:
     clock: "/img/icon- clock.png"
     currency: "/img/icon-currency.png"
-  footer: 'Aenean id efficitur massa. Sed massa metus, ultrices eu sem vitae, dignissim
-    ornare urna. Aliquam velit odio, ultricies sit amet libero eget, maximus mattis
-    sapien. Aliquam gravida lorem in enim varius,
-
-'
+  footer: When planning your trip we will need to check the availability of non-stop
+    flights and current rates.
   departures:
   - from: 'From: BOGOTA'
     flag: co
