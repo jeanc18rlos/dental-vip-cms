@@ -118,15 +118,15 @@ prices:
     - procedure: Dental Reshaping
       price: "$ 50"
       currency: USD per arch
-    - procedure: Multiple Dental Implants
-      price: "$ 600"
-      currency: USD each
-    - procedure: Sinus Lift
-      price: "$ 850"
+    - procedure: LED Teeth Whitening
+      price: "$ 180"
       currency: USD
-    - procedure: Synthetic Bone Graft
-      price: "$ 200"
-      currency: USD per cc
+    - procedure: Composite Direct Veneer
+      price: "$ 100"
+      currency: USD
+    - procedure: IPS e.max Ceramic Veneer
+      price: "$ 490"
+      currency: USD
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
