@@ -91,8 +91,8 @@ prices:
       price: "$ 570"
       currency: USD
     - procedure: Implant Supported Bridge
-      price: "$ 480 per unit"
-      currency: USD
+      price: "$ 480"
+      currency: USD per unit
     - procedure: Snap on Denture
       price: "$ 1,350"
       currency: USD
