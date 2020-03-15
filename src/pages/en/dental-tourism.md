@@ -68,8 +68,8 @@ prices:
     - procedure: Unilateral Zygomatic Implant
       price: "$ 2,500"
       currency: USD
-    - procedure: Multiple Dental Implants
-      price: "$ 600"
+    - procedure: Bilateral Zygomatic Implants
+      price: "$ 2,500"
       currency: USD each
     - procedure: Sinus Lift
       price: "$ 850"
