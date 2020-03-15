@@ -74,9 +74,9 @@ prices:
     - procedure: Quad Zygoma
       price: "$ 9,800"
       currency: USD
-    - procedure: Synthetic Bone Graft
-      price: "$ 200"
-      currency: USD per cc
+    - procedure: Temporary Denture
+      price: "$ 580"
+      currency: USD
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
