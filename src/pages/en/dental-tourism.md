@@ -256,27 +256,27 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
       to: "/en/specialties/dental-implants"
-  - title: Dental Implants
+  - title: Orthodontics
     icon: "/img/icon-dental-implants.jpg"
     rows:
-    - procedure: 3D Cone Beam Scanner
-      price: "$ 60"
-      currency: USD
-    - procedure: Conscious Sedation (optional)
+    - procedure: Metal Braces
       price: "$ 500"
+      currency: USD (Upper and Lower)
+    - procedure: Porcelain Braces
+      price: "$ 1,000"
+      currency: USD (Upper and Lower)
+    - procedure: Sapphire Braces
+      price: "$ 1,500"
+      currency: USD (Upper and Lower)
+    - procedure: Bonded Retainer
+      price: "$ 180"
       currency: USD
-    - procedure: Single Dental Implant
-      price: "$ 650"
+    - procedure: Essix or Hawley Retainer
+      price: "$ 150"
       currency: USD
-    - procedure: Multiple Dental Implants
-      price: "$ 600"
-      currency: USD each
-    - procedure: Sinus Lift
-      price: "$ 850"
+    - procedure: Dentofacial Orthopedic Devices
+      price: "$ 1,800"
       currency: USD
-    - procedure: Synthetic Bone Graft
-      price: "$ 200"
-      currency: USD per cc
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
