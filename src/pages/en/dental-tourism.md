@@ -131,11 +131,11 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
       to: "/en/specialties/dental-implants"
-  - title: Dental Implants
+  - title: Endodontics
     icon: "/img/icon-dental-implants.jpg"
     rows:
-    - procedure: 3D Cone Beam Scanner
-      price: "$ 60"
+    - procedure: Root Canal Therapy
+      price: "$ 190"
       currency: USD
     - procedure: Conscious Sedation (optional)
       price: "$ 500"
