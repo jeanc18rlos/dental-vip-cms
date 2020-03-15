@@ -65,8 +65,8 @@ prices:
     - procedure: Hospital Fees
       price: "$ 800"
       currency: USD
-    - procedure: Single Dental Implant
-      price: "$ 650"
+    - procedure: Unilateral Zygomatic Implant
+      price: "$ 2,500"
       currency: USD
     - procedure: Multiple Dental Implants
       price: "$ 600"
