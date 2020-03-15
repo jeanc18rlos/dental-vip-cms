@@ -114,7 +114,7 @@ prices:
       currency: USD
     - procedure: Gum Contouring Surgery
       price: "$ 120"
-      currency: USD per cuadrant
+      currency: USD per quadrant
     - procedure: Dental Reshaping
       price: "$ 50"
       currency: USD per arch
