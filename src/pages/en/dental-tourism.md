@@ -311,7 +311,7 @@ routes:
 '
     visa: No visa required
   - from: 'From: BRIDGETOWN'
-    flag: ba
+    flag: bb
     time: 1 h:33 m
     cost: '875.00 USD
 
