@@ -106,7 +106,7 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
       to: "/en/specialties/dental-implants"
-  - title: Dental Implants
+  - title: Aesthetic Dentistry
     icon: "/img/icon-dental-implants.jpg"
     rows:
     - procedure: 3D Cone Beam Scanner
