@@ -303,16 +303,16 @@ routes:
 
 '
   departures:
-  - from: From BOGOTA
+  - from: 'From: BOGOTA'
     flag: co
     time: 1 h:46 m
     cost: '875.00 USD
 
 '
     visa: No visa required
-  - from: From BOGOTA
-    flag: co
-    time: 1 h:46 m
+  - from: 'From: BRIDGETOWN'
+    flag: ba
+    time: 1 h:33 m
     cost: '875.00 USD
 
 '
