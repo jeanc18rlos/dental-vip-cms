@@ -96,8 +96,8 @@ prices:
     - procedure: Snap on Denture
       price: "$ 1,350"
       currency: USD
-    - procedure: Sinus Lift
-      price: "$ 850"
+    - procedure: All on Four
+      price: "$ 2,600"
       currency: USD
     - procedure: Synthetic Bone Graft
       price: "$ 200"
