@@ -87,8 +87,8 @@ prices:
     - procedure: Porcelain Fused to Metal Crown
       price: "$ 480"
       currency: USD
-    - procedure: Conscious Sedation (optional)
-      price: "$ 500"
+    - procedure: CAD/CAM Zirconia Crown
+      price: "$ 570"
       currency: USD
     - procedure: Single Dental Implant
       price: "$ 650"
