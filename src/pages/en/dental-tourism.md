@@ -99,9 +99,9 @@ prices:
     - procedure: All on Four
       price: "$ 2,600"
       currency: USD
-    - procedure: Synthetic Bone Graft
-      price: "$ 200"
-      currency: USD per cc
+    - procedure: Fixed Hybrid Denture
+      price: "$ 2,600"
+      currency: USD
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
