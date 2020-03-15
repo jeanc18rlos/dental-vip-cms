@@ -232,7 +232,7 @@ prices:
       title: MORE INFO
       to: "/en/specialties/dental-implants"
   - title: Periodontics
-    icon: "/img/icon-dental-implants.jpg"
+    icon: "/img/icon-periodontics.jpg"
     rows:
     - procedure: Scaling and Root Planing
       price: "$ 120"
