@@ -115,9 +115,9 @@ prices:
     - procedure: Gum Contouring Surgery
       price: "$ 120"
       currency: USD per cuadrant
-    - procedure: Single Dental Implant
-      price: "$ 650"
-      currency: USD
+    - procedure: Dental Reshaping
+      price: "$ 50"
+      currency: USD per arch
     - procedure: Multiple Dental Implants
       price: "$ 600"
       currency: USD each
