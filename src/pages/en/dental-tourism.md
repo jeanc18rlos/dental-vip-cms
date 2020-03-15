@@ -231,27 +231,27 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
       to: "/en/specialties/dental-implants"
-  - title: Dental Implants
+  - title: Periodontics
     icon: "/img/icon-dental-implants.jpg"
     rows:
-    - procedure: 3D Cone Beam Scanner
-      price: "$ 60"
+    - procedure: Scaling and Root Planing
+      price: "$ 120"
+      currency: USD per quadrant
+    - procedure: Open Curettage
+      price: "$ 180"
+      currency: USD per quadrant
+    - procedure: Mucogingival Surgery
+      price: "$ 250"
       currency: USD
-    - procedure: Conscious Sedation (optional)
-      price: "$ 500"
-      currency: USD
-    - procedure: Single Dental Implant
-      price: "$ 650"
-      currency: USD
-    - procedure: Multiple Dental Implants
-      price: "$ 600"
-      currency: USD each
-    - procedure: Sinus Lift
-      price: "$ 850"
-      currency: USD
-    - procedure: Synthetic Bone Graft
-      price: "$ 200"
-      currency: USD per cc
+    - procedure: Gum Grafting
+      price: "$ 180"
+      currency: USD per tooth
+    - procedure: Gingivectomy
+      price: "$ 120"
+      currency: USD per quadrant
+    - procedure: Guided Tissue Regeneration
+      price: "$ 350"
+      currency: USD per defect
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
