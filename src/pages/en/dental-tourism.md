@@ -206,27 +206,27 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
       to: "/en/specialties/dental-implants"
-  - title: Dental Implants
+  - title: General Dentistry
     icon: "/img/icon-dental-implants.jpg"
     rows:
-    - procedure: 3D Cone Beam Scanner
-      price: "$ 60"
+    - procedure: General Cleaning
+      price: "$ 40"
       currency: USD
-    - procedure: Conscious Sedation (optional)
-      price: "$ 500"
+    - procedure: Deep Cleaning and Prophylaxis
+      price: "$ 90"
       currency: USD
-    - procedure: Single Dental Implant
-      price: "$ 650"
+    - procedure: Composite Filling 1 Surface
+      price: "$ 50"
       currency: USD
-    - procedure: Multiple Dental Implants
-      price: "$ 600"
-      currency: USD each
-    - procedure: Sinus Lift
-      price: "$ 850"
+    - procedure: Composite Filling 2 Surfaces
+      price: "$ 70"
       currency: USD
-    - procedure: Synthetic Bone Graft
-      price: "$ 200"
-      currency: USD per cc
+    - procedure: Composite Filling 3 Surfaces
+      price: "$ 90"
+      currency: USD
+    - procedure: Ceramic Inlay/Onlay
+      price: "$ 420"
+      currency: USD
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
