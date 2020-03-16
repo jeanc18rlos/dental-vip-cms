@@ -136,7 +136,7 @@ faq:
   - questions:
     - question: Are dental implants very expensive?
       answer: "<p>Expensive is something that implies giving an overestimated value
-        to something that does not have it. Although by their nature <i>(pure titanium)</i>
+        to something that does not have it. Although by their nature <em>(pure titanium)</em>
         implants are more expensive than other dental alternatives, the fact of being
         able to eat and smile practically as with natural teeth makes them deserving
         of the highest value in any cost-benefit relationship.</p>\n"
