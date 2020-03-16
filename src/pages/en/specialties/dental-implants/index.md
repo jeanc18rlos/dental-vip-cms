@@ -173,7 +173,7 @@ faq:
         find. The traditional and even more common protocol is that of deferred load,
         which includes a period of 3-4 months of waiting between the surgical and
         prosthetic phases to allow complete maturation of the peri-implant bone tissue
-        <i>(osseointegration)</i>. During that period a removable provisional prosthesis
+        <em>(osseointegration)</em>. During that period a removable provisional prosthesis
         is usually made to temporarily solve the aesthetic problem.</p>\n"
     - question: Is it a definitive treatment, for a lifetime?
       answer: "<p>It would be irresponsible to offer a general estimate for all cases,
