@@ -121,7 +121,7 @@ faq:
     - question: Are all implants the same?
       answer: "<p>No, they vary considerably in diameter, length, conicity, type of
         connection and surface treatment. Previous radiographic studies, conical beam
-        volumetric tomography <i>(Cone Beam)</i> and the Surgeon's clinical experience
+        volumetric tomography <em>(Cone Beam)</em> and the Surgeon's clinical experience
         are key factors for your choice. Likewise, it is important to use trademarks
         recognized and backed by long-term research studies that guarantee their performance
         and functional longevity. In our clinic, and according to their level of quality,
