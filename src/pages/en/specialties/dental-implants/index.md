@@ -360,7 +360,7 @@ form:
   img: "/img/parallax-form-specialties.png"
 procedures:
   display: true
-  title: Give your Health the Value It Deserves!
+  title: Top Quality Dental Center!
   procedures:
   - title: Facilities
     to: "/en/the-clinic/facilities/"
