@@ -62,8 +62,8 @@ paragraphSection:
   image: "/img/aside-zygomatic-implants.jpg"
 quote:
   title: ''
-  body: 'The treatment with zygomatic implants is a procedure that involves a major
-    surgery intervention, in a surgical block of hospital environment, general anesthesia
+  body: 'The treatment with Zygomatic Implants is a procedure that involves a Maxillofacial
+    Surgery intervention, in a surgical block of hospital environment, general anesthesia
     and all the life support resources that, unquestionably, merit the case.
 
 '
