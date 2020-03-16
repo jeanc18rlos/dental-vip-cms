@@ -131,14 +131,15 @@ faq:
         the total treatment time.\n  </li>\n  <li>They involve a much more conservative,
         safe and predictable procedure.\n  </li>\n  <li>Higher chance of success,
         since the malar bone is very compact and virtually immune to bone resorption
-        (not so the grafts). \n  </li>\n  <li>Lower morbidity, since it is not necessary
-        to intervene on extraoral anatomical regions to collect bone.\n  </li>\n  <li>High
-        possibility of immediate loading (fixed prosthesis the same day).\n  </li>\n
-        \ <li>Shorter and more favorable postoperative for the patient.\n  </li>\n
-        \ <li>Best short, medium and long term forecast.\n  </li>  \n</ol> <p>In addition,
-        the zygomatic implants protocol guarantees the barrier function of, biomechanical
-        stability and correct distribution of the masticatory forces through the maxillomalar
-        pillars; thus avoiding overloads and occasional fatigue failures. </p>\n"
+        <em>(not so the grafts)</em>. \n  </li>\n  <li>Lower morbidity, since it is
+        not necessary to intervene on extraoral anatomical regions to collect bone.\n
+        \ </li>\n  <li>High possibility of immediate loading <em>(fixed prosthesis
+        the same day)</em>.\n  </li>\n  <li>Shorter and more favorable postoperative
+        for the patient.\n  </li>\n  <li>Best short, medium and long term forecast.\n
+        \ </li>  \n</ol> <p>In addition, the zygomatic implants protocol guarantees
+        the barrier function of, biomechanical stability and correct distribution
+        of the masticatory forces through the maxillomalar pillars; thus avoiding
+        overloads and occasional fatigue failures. </p>\n"
     - question: What risks and contraindications exist?
       answer: "<p>Most studies cite sinusitis and oroantral communication as the most
         frequent postoperative complications, with an incidence of 4.93 per 100 implants
