@@ -72,9 +72,10 @@ faq:
         anquilosis funcional entre un implante y su hueso receptor. Los implantes
         son de titanio, metal biocompatible y osteoinductor, capaz de estimular la
         diferenciación de osteoblastos e iniciar el proceso de cicatrización y regeneración
-        ósea (osteogénesis) a su alrededor. Este fenómeno es el que permite que un
-        implante se fije con firmeza al hueso, permanezca estable a lo largo del tiempo
-        y pueda ser utilizado con seguridad como base o pilar de prótesis dental.</p>\n"
+        ósea <em>(osteogénesis)</em> a su alrededor. Este fenómeno es el que permite
+        que un implante se fije con firmeza al hueso, permanezca estable a lo largo
+        del tiempo y pueda ser utilizado con seguridad como base o pilar de prótesis
+        dental.</p>\n"
     - question: "¿Cuándo están indicados los implantes dentales oseointegrados?"
       answer: "<p>Cuando sea necesario reponer uno, varios o incluso todos los dientes
         de la boca. Los implantes unitarios evitan la necesidad de tener que tallar,
