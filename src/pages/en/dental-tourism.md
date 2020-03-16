@@ -342,8 +342,8 @@ routes:
 
 '
     visa: No visa required
-  - from: 'From: PANAM'
-    flag: pan
+  - from: 'From: PANAMA'
+    flag: pa
     time: 2 h:17 m
     cost: '875.00 USD
 
