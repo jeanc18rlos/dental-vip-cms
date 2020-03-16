@@ -20,7 +20,7 @@ specialtiesHeading:
   img: "/img/ZIGOMATICOS.jpg"
   content: Undoubtedly, the best alternative for those patients with large bone loss
     in their upper jaws and in which it is no longer possible to place conventional
-    dental implants. “An optimal solution to a complex problem.”
+    dental implants. “An optimal solution to a complex problem".
 paragraphSection:
   body: "<p>\n When one or more teeth are lost, and they are not replaced as soon
     as possible, a slow but progressive process of reabsorption at the level of the
