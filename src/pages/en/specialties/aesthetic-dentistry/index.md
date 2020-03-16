@@ -334,7 +334,7 @@ asides:
         src: "/img/sections-icons-aesthetic-dentistry.jpg"
         display: false
       button:
-        text: More Info
+        text: More Information
         to: "/en/specialties/aesthetic-dentistry/digital-smile-design"
         display: true
   - align: right
