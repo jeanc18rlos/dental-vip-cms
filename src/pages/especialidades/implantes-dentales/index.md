@@ -59,7 +59,7 @@ quote:
 '
   author: Dr. Castor José Garabán Povea
   footer:
-    position: Cirujano bucal
+    position: Cirujano Bucal
     clinic: DENTAL VIP, Especialidades Odontológicas s.c.
 plainParallax:
   image: "/img/parallax-dental-implants.jpg"
