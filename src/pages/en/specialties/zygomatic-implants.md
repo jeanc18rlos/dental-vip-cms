@@ -155,8 +155,8 @@ faq:
       answer: "<p>The 4 most prominent techniques are that of Branemark, Stella and
         Warner <em>(Sinus Slot Technique)</em>, the paramaxillary or extrasinusal
         technique and the ZAGA <em>(Zygoma Anatomy-Guided Approach)</em> technique
-        of Dr. Carlos Aparicio. In the classical or Branemark technique, zygomatic
-        implants are placed maneuvering through the maxillary sinus, until the zygomatic
+        of Dr. Carlos Aparicio. In the classical or Branemark technique, Zygomatic
+        Implants are placed maneuvering through the maxillary sinus, until the zygomatic
         arch is reached. In the Stella and Warner's, a more direct visualization of
         the base of the malar bone is achieved, thanks to the opening of a large window
         in the lateral wall of the paranasal antrum. In the extrasinusal, the implants
