@@ -69,7 +69,7 @@ quote:
 '
   author: Dr. Castor José Garabán Povea
   footer:
-    position: Oral and Maxillofacial Surgeon
+    position: Maxillofacial Surgeon
     clinic: DENTAL VIP, Especialidades Odontológicas s.c.
 plainParallax:
   image: "/img/parallax-zygomatic-implants.jpg"
