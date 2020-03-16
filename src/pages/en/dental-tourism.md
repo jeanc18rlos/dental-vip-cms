@@ -336,7 +336,7 @@ routes:
 '
     visa: No visa required
   - from: 'From: MIAMI'
-    flag: eua
+    flag: us
     time: 3 h:14 m
     cost: '875.00 USD
 
