@@ -321,7 +321,7 @@ routes:
 
 '
     visa: No visa required
-  - from: 'From: KINGSTOWN'
+  - from: 'From: KINGSTOW'
     flag: vct
     time: 1 h:21 m
     cost: '875.00 USD
