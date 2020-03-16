@@ -183,8 +183,8 @@ faq:
         de encontrar. El protocolo tradicional y todavía más común es el de carga
         diferida, que contempla un lapso de entre 3 y 4 meses de espera entre las
         fases quirúrgica y protésica para permitir la completa maduración del tejido
-        óseo periimplantar (oseointegración). Durante ese período generalmente se
-        confecciona una prótesis provisional removible que solvente temporalmente
+        óseo periimplantar <em>(oseointegración)</em>. Durante ese período generalmente
+        se confecciona una prótesis provisional removible que solvente temporalmente
         el problema estético.</p>\n"
     - question: "¿Es un tratamiento definitivo, para toda la vida?"
       answer: "<p>Sería irresponsable ofrecer una estimación general para todos los
