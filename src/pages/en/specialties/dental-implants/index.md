@@ -188,7 +188,7 @@ faq:
       answer: "<p>There is no described cases of allergy or toxicity to titanium in
         the literature, so there can be no rejection itself. It may happen that an
         implant is not properly osseointegrated by an infectious process or localized
-        trauma <i>(usually by a premature or poorly developed prosthesis)</i> and
+        trauma <em>(usually by a premature or poorly developed prosthesis)</em> and
         it is necessary to replace it with another one to solve the problem. The success
         rate today, with high-end dental implants, is greater than 98% of cases.</p>\n"
     - question: What is peri-implantitis?
