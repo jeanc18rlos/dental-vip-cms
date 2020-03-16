@@ -199,7 +199,7 @@ faq:
       answer: "<p>No hay en la literatura ningún caso descrito de alergia o toxicidad
         al titanio, por lo que no puede existir un rechazo propiamente dicho. Puede
         ocurrir que un implante no se oseointegre adecuadamente por un proceso infeccioso
-        o trauma localizado (generalmente por una prótesis prematura o mal elaborada)
+        o trauma localizado <em>(generalmente por una prótesis prematura o mal elaborada)</em>
         y sea necesario sustituirlo por otro para solventar el problema. El porcentaje
         de éxito en la actualidad, con implantes de gama alta, es superior al 98%
         de los casos.</p>\n"
