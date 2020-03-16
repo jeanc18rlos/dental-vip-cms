@@ -153,22 +153,22 @@ faq:
   - questions:
     - question: How is the surgery and how long does it last?
       answer: "<p>The 4 most prominent techniques are that of Branemark, Stella and
-        Warner (Sinus Slot Technique), the paramaxillary or extrasinusal technique
-        and the ZAGA (Zygoma Anatomy-Guided Approach) technique of Dr. Carlos Aparicio.
-        In the classical or Branemark technique, zygomatic implants are placed maneuvering
-        through the maxillary sinus, until the zygomatic arch is reached. In the Stella
-        and Warner's, a more direct visualization of the base of the malar bone is
-        achieved, thanks to the opening of a large window in the lateral wall of the
-        paranasal antrum. In the extrasinusal, the implants are placed by the outside
-        the maxillary bone, without involving the sinus; and in the ZAGA methodology,
-        any possible combination of the 3 previous techniques is contemplated, in
-        order to perform a more individualized surgery, adapted to the particular
-        anatomy of each person. Logically, depending on the complexity of the case,
-        number of devices to be implanted, type of approach selected, and of course,
-        the skill of the Surgeon; between 30 and 120 minutes is the period of time
-        necessary to anesthetize, make incisions, dissect tissues, stipulate measures
-        and approximations, select implants, mill, drill, screw and clean, to finally,
-        suture the wound.</p>\n"
+        Warner <em>(Sinus Slot Technique)</em>, the paramaxillary or extrasinusal
+        technique and the ZAGA <em>(Zygoma Anatomy-Guided Approach)</em> technique
+        of Dr. Carlos Aparicio. In the classical or Branemark technique, zygomatic
+        implants are placed maneuvering through the maxillary sinus, until the zygomatic
+        arch is reached. In the Stella and Warner's, a more direct visualization of
+        the base of the malar bone is achieved, thanks to the opening of a large window
+        in the lateral wall of the paranasal antrum. In the extrasinusal, the implants
+        are placed by the outside the maxillary bone, without involving the sinus;
+        and in the ZAGA methodology, any possible combination of the 3 previous techniques
+        is contemplated, in order to perform a more individualized surgery, adapted
+        to the particular anatomy of each person. Logically, depending on the complexity
+        of the case, number of devices to be implanted, type of approach selected,
+        and of course, the skill of the Surgeon; between 30 and 120 minutes is the
+        period of time necessary to anesthetize, make incisions, dissect tissues,
+        stipulate measures and approximations, select implants, mill, drill, screw
+        and clean, to finally, suture the wound.</p>\n"
     - question: Can anyone specialist perform this type of intervention?
       answer: "<p>This procedure, although not exclusive to our clinic, is not as
         common in general practice, because very few Dentists are truly trained to
@@ -187,10 +187,10 @@ faq:
         as long as the patient scrupulously complies with the indications provided.
         The guidelines to follow may vary according to each intervention, the type
         of approach used and the particular conditions of each case; but medication
-        (antibiotics, analgesics and anti-inflammatories), local application of cold,
-        rest and oral hygiene are essential to achieve a recovery as quickly and satisfactorily
-        as possible. Usually, between 2 and 5 days is the time it takes for most people
-        to restart their usual activities.</p>\n"
+        <em>(antibiotics, analgesics and anti-inflammatories)</em>, local application
+        of cold, rest and oral hygiene are essential to achieve a recovery as quickly
+        and satisfactorily as possible. Usually, between 2 and 5 days is the time
+        it takes for most people to restart their usual activities.</p>\n"
     - question: Are these implants more expensive than normal implants?
       answer: "<p>Undoubtedly! taking into account that they are up to 4 times longer
         than conventional ones and much more titanium is needed for their manufacture,
@@ -205,9 +205,9 @@ faq:
         with 4 implants in total, 2 on each side of the upper jaw. However, at present,
         modifications of the original technique are applied that allow the zygomatic
         or pterygoid implant to be placed in a suitable position and compatible with
-        a rehabilitation based on fixed partial prosthodontics (crowns and ceramic
-        bridges). In fact, nowadays are multiple possibilities offered by these implants,
-        from the placement of a single asymmetric device, to countless combinations
+        a rehabilitation based on fixed partial prosthodontics <em>(crowns and ceramic
+        bridges)</em>. In fact, nowadays are multiple possibilities offered by these
+        implants, from the placement of a single asymmetric device, to countless combinations
         with conventional implants, logically to solve the vast majority of cases,
         and in some of them, even to reduce costs.</p>\n"
     - question: Is it possible to place a fixed prosthesis the same day of the intervention,
@@ -221,7 +221,7 @@ faq:
     - question: After the treatment, what should I do to keep my implants for a lifetime?
       answer: "<p>Basically keep yourself in good general health, practice very good
         oral hygiene and go to the dentist regularly. In these cases, it is highly
-        recommended to carry out a lifelong follow-up (clinical and radiographic)
+        recommended to carry out a lifelong follow-up <em>(clinical and radiographic)</em>
         of the patient, in order to detect in time any incipient infectious process
         or mismatch of the prosthetic components that could generate major evils.
         In addition, we usually recommend removing the prosthesis every 6 months to
