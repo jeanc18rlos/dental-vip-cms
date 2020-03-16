@@ -69,7 +69,7 @@ faq:
         is achieved between an implant and its recipient bone. The implants are made
         of titanium, biocompatible and osteoinducer metal, capable of stimulating
         osteoblast differentiation and initiating the process of healing and bone
-        regeneration <i>(osteogenesis)</i> around it. This phenomenon is what allows
+        regeneration <em>(osteogenesis)</em> around it. This phenomenon is what allows
         an implant to fix firmly to the bone, remain stable over time and can be safely
         used as a base or pillar of dental prostheses.</p>\n"
     - question: When are osseointegrated dental implants indicated?
