@@ -55,7 +55,7 @@ paragraphSection:
     pterygomaxillary suture)</em>, they are also known in popular slang as <strong>\"dental
     implants for patients with little bone\".</strong> And it is that in short, the
     relative simplicity of their implantation <em>(in relation to the placement of
-    multiple grafts)</em> , the absence of morbidity of a donor area and a much shorter
+    multiple grafts)</em>, the absence of morbidity of a donor area and a much shorter
     and favorable period of healing for the patient, suggest to these LONG IMPLANTS
     as a simpler and safer alternative for extreme cases, compared to other bone regeneration
     and oral implantology techniques.</p>   \n"
