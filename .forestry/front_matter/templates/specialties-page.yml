@@ -265,6 +265,7 @@ fields:
       label: img
 pages:
 - src/pages/en/specialties/aesthetic-dentistry/index.md
+- src/pages/en/specialties/dental-implants/index.md
 - src/pages/en/specialties/endodontics.md
 - src/pages/en/specialties/oral-surgery.md
 - src/pages/especialidades/cirugia-bucal.md
