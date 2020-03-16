@@ -39,9 +39,9 @@ paragraphSection:
     implants. <b>In our clinic the second phase of the treatment or prosthetic phase
     is always in charge of the Prosthodontics Specialist Dentist</b>, since no one
     better than him is able to handle the complicated principles and foundations of
-    occlusion physiology, that is, in the way he should relate that implant and that
-    prosthesis with the rest of the teeth when the patient comes into function to
-    eat and chew.</p> <p>Finally, and in pro of the long-term success of the treatment,
+    occlusion physiology, that is to say, in the way that implant and prosthesis should
+    be related to the rest of the teeth when the patient comes into fuction to eat
+    and chew.</p> <p>Finally, and in pro of the long-term success of the treatment,
     it is also imperative to highlight the importance of <b>complying with a good
     consensual periodontal maintenance protocol</b>, which at 12-month intervals,
     allows us to keep healthy gums and prosthetic elements in perfect aesthetic and
