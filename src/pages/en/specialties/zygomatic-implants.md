@@ -299,7 +299,7 @@ asides:
 '
     content: '<p style="font-weight:400">We never plan surgery with a simple radiographic
       plate, since we consider essentials the use of Computerized Axial Tomography
-      (CAT) and a computer program that allows us analyzing structures, interpreting
+      <em>(CAT)</em> and a computer program that allows us analyzing structures, interpreting
       data and determining the most favorable surgical projections.</p>
 
 '
