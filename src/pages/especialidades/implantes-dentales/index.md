@@ -146,10 +146,10 @@ faq:
   - questions:
     - question: "¿Son muy caros los implantes dentales?"
       answer: "<p>Caro es algo que implica dar un valor sobreestimado a algo que no
-        lo tiene. Aunque por su naturaleza (titanio puro) los implantes son más costosos
-        que otras alternativas odontológicas, el hecho de poder comer y sonreír prácticamente
-        igual que con los dientes naturales les hace merecedores del más alto valor
-        dentro de cualquier relación costo-beneficio.</p>\n"
+        lo tiene. Aunque por su naturaleza <em>(titanio puro)</em> los implantes son
+        más costosos que otras alternativas odontológicas, el hecho de poder comer
+        y sonreír prácticamente igual que con los dientes naturales les hace merecedores
+        del más alto valor dentro de cualquier relación costo-beneficio.</p>\n"
     - question: "¿Qué es un sistema All-on-Four?"
       answer: "<p>Es una técnica que permite la rehabilitación total fija con implantes
         en el maxilar superior o inferior del paciente totalmente edéntulo. Se fundamenta
