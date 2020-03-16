@@ -103,7 +103,7 @@ faq:
         a wall. In some cases it is not even necessary to take stitches.</p>\n"
     - question: Is this procedure very painful?
       answer: "<p>Not at all, as long as it is performed under a proper local anesthetic
-        technique. Our oral surgeon handles excellent surgical protocols and powerful
+        technique. Our Oral Surgeon handles excellent surgical protocols and powerful
         anesthetics that make the procedure simple, fast and painless. The postoperative
         period is usually very similar to a dental extraction.</p>\n"
     - question: Any prerequisites for the intervention?
