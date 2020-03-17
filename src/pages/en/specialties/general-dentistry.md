@@ -100,7 +100,7 @@ faq:
         and unlike it, it cannot be removed by the toothbrush. Only a professional
         cleaning can eliminate it.</p>\n"
     - question: Is it normal for the gums to bleed when I brushing my teeth?
-      answer: "<p>At all. Although such a phenomenon could be due to a systemic condition,
+      answer: "<p>At all! Although such a phenomenon could be due to a systemic condition,
         the usual cause is due to the chronic accumulation of dental plaque that generates
         a reversible inflammatory pathological entity known as gingivitis, but that
         aggravated, leads to the formation of tartar, pathological sacs, resorption
