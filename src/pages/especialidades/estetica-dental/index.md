@@ -23,9 +23,9 @@ specialtiesHeading:
 paragraphSection:
   body: "<p>En la sociedad actual, donde la imagen es tan importante, una apariencia
     agradable muchas veces significa la diferencia entre el éxito y el fracaso; personal
-    y profesional. De tal forma que <strong>una sonrisa sana y bonita no es un lujo
+    y profesional. De tal forma que <strong>una Sonrisa Sana y Bonita no es un lujo
     o capricho sino casi una necesidad. La gama de tratamientos a nuestro alcance
-    para corregir las imperfecciones dentales es cada vez más amplia y asequible,</strong>
+    para corregir las Imperfecciones Dentales es cada vez más amplia y asequible,</strong>
     y los resultados son cada vez más rápidos, seguros y precisos. Entre ellos contamos
     con sistemas de BLANQUEAMIENTO DENTAL a base de peróxido de hidrógeno o peróxido
     de carbamida fotoactivables con lámparas halógenas de alta intensidad <i>(sistema
