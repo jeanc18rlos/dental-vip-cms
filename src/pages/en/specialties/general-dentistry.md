@@ -104,8 +104,8 @@ faq:
         the usual cause is due to the chronic accumulation of dental plaque that generates
         a reversible inflammatory pathological entity known as gingivitis, but that
         aggravated, leads to the formation of tartar, pathological sacs, resorption
-        of the alveolar bone and teeth fall (periodontitis). Hemorrhage of gingival
-        origin is the most obvious sign of the so-called periodontal disease.</p>\n"
+        of the alveolar bone and teeth fall <em>(periodontitis)</em>. Hemorrhage of
+        gingival origin is the most obvious sign of the so-called periodontal disease.</p>\n"
     - question: Why does bad breath occur?
       answer: "<p>Halitosis, also known as bad breath, is defined as the set of unpleasant
         odors that are emitted through the mouth. It is a problem that affects one
