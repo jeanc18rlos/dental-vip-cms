@@ -77,7 +77,7 @@ faq:
         it is live pulp or dead pulp, whether there is or not a presence of exudate
         and the number of roots and canals to be treated; among others. As a general
         rule, treatments are completed in one, two or three clinical sessions.</p>\n"
-    - question: Is there any other alternative to endodontic therapy?
+    - question: Is there any other alternative to Endodontic Therapy?
       answer: "<p>Tooth extraction only.</p>\n"
     - question: Is it necessary to place anesthesia?
       answer: "<p>Of course! They are usually infected, inflamed or necrotic tissues,
