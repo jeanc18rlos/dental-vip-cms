@@ -162,10 +162,10 @@ faq:
         con un Otorrinolaringólogo, pudiera ser imprescindible. </p>\n"
   - questions:
     - question: "¿Cómo es y cuánto tiempo dura la cirugía?"
-      answer: "<p>Las 4 técnicas más destacadas son la de Bránemark, la de Stella
+      answer: "<p>Las 4 técnicas más destacadas son la de Brånemark, la de Stella
         y Warner <em>(Sinus Slot Technique)</em>, la técnica paramaxilar o extrasinusal
         y la técnica ZAGA <em>(Zygoma Anatomy-Guided Approach)</em> del Dr. Carlos
-        Aparicio. En la técnica clásica o de Bránemark se colocan los Implantes Cigomáticos
+        Aparicio. En la técnica clásica o de Brånemark se colocan los Implantes Cigomáticos
         maniobrando a través del seno maxilar, hasta alcanzar el arco cigomático.
         En la de Stella y Warner se logra una visualización más directa de la base
         del hueso malar, gracias a la apertura de una amplia ventana en la pared lateral
