@@ -231,7 +231,7 @@ faq:
         tamaño y grosor de las encías, de modo que luzcan finas, delineadas y en perfecta
         armonía con los dientes. De igual forma, es también posible modificar casi
         por completo el aspecto, tamaño y grosor de los labios a través de una pequeña
-        cirugía estética denominada queiloplastía, habitualmente practicada por Médicos
+        cirugía estética denominada Queiloplastía, habitualmente practicada por Médicos
         Especialistas en Cirugía Plástica Orofacial.</p>\n"
 clinicCases:
   title: Estética Dental - Casos Clínicos
