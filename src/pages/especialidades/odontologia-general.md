@@ -256,7 +256,7 @@ clinicCases:
   - image: "/img/clinic-cases-general-dentistry-es-07-thumb.jpg"
     title: "<h6>Prótesis Fija Provisional</h6>\n"
   - image: "/img/clinic-cases-general-dentistry-es-08-thumb.jpg"
-    title: "<h6>Dentadura Parcial Removible <em>(DPR)</em> Superior</h6>\n"
+    title: "<h6>Dentadura Parcial Removible (DPR) Superior </h6>"
   - image: "/img/clinic-cases-general-dentistry-es-09-thumb.jpg"
     title: "<h6>Fractura del Borde Incisal</h6>\n"
   - image: "/img/clinic-cases-general-dentistry-es-10-thumb.jpg"
