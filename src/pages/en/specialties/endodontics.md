@@ -124,11 +124,11 @@ faq:
         into the periradicular area, outside the root of the tooth. Fortunately, numerous
         scientific articles support the success of the treatment even in cases where
         there has been a small over-sealing.</p>\n"
-    - question: What is an endodontic retreatment?
-      answer: "<p>Root canal re-treatment is the intervention that is carried out
+    - question: What is an Endodontic Retreatment?
+      answer: "<p>Root Canal Re-Treatment is the intervention that is carried out
         to eliminate the filling material that is inside the canals of a tooth already
         treated for its new cleaning, shaping and filling. In other words, it is a
-        new root canal treatment in a previously treated tooth.</p>\n"
+        new Root Canal Treatment in a previously treated tooth.</p>\n"
     - question: When should it be done?
       answer: "<p>When for some reason the initial endodontic therapy has failed,
         or when the canals have become contaminated again. Such circumstance usually
