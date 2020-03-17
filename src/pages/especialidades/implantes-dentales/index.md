@@ -219,8 +219,8 @@ faq:
         excepción. Si Usted logra mantener siempre sus implantes y encías libres de
         placa dental y restos alimenticios, acude con regularidad a las citas periódicas
         de control y se conserva en buen estado de salud general, es muy probable
-        que logre disfrutar para toda la vida los beneficios de esta innovadora alternativa
-        odontológica.</p>\n"
+        que logre disfrutar para toda la vida los beneficios de esta Innovadora Alternativa
+        Odontológica.</p>\n"
 clinicCases:
   title: Implantes Dentales - Casos Clínicos
   items:
