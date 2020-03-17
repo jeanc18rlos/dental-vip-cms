@@ -49,7 +49,7 @@ paragraphSection:
     y fijar\n    los implantes a otros huesos de la región orofacial</strong>, siendo
     por su compacta estructura y cercanía anatómica los huesos MALAR O\n  CIGOMÁTICO
     <em>(que forma el pómulo)</em> y esfenoides, los de preferencia. De modo que\n
-    \ <strong>los implantes cigomáticos no son más que dispositivos dentales especiales,\n
+    \ <strong>los Implantes Cigomáticos no son más que dispositivos dentales especiales,\n
     \   mucho más largos que los convencionales</strong>\n  <em>(entre 30 y 55 mm
     de longitud) </em>y que nos permiten elaborar sin\n  inconvenientes dentaduras
     fijas aún en los casos de atrofia maxilar severa o\n  avanzada; y es por ello
