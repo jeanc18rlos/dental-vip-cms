@@ -46,7 +46,7 @@ paragraphSection:
   image: "/img/aside-aesthetic-dentistry.jpg"
 quote:
   title: ''
-  body: 'The genuine smile, also called Duchenne''s smile, is one that arises spontaneously,
+  body: 'The genuine smile, also called Duchenne''s Smile, is one that arises spontaneously,
     sincerely and naturally in the face. It is undoubtedly an expressive sign of well-being
     that fosters sociability and promotes communication between people.
 
