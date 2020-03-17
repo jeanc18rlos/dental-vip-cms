@@ -220,7 +220,7 @@ faq:
         the final prosthetic rehabilitation is performed.</p>\n"
     - question: After the treatment, what should I do to keep my implants for a lifetime?
       answer: "<p>Basically keep yourself in good general health, practice very good
-        oral hygiene and go to the dentist regularly. In these cases, it is highly
+        oral hygiene and go to the Dentist regularly. In these cases, it is highly
         recommended to carry out a lifelong follow-up <em>(clinical and radiographic)</em>
         of the patient, in order to detect in time any incipient infectious process
         or mismatch of the prosthetic components that could generate major evils.
