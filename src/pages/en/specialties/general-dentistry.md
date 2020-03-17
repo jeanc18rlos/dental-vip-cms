@@ -23,31 +23,31 @@ specialtiesHeading:
 paragraphSection:
   body: "<p><strong>The General Dentist is trained to prevent, diagnose and treat
     common problems of the general public</strong>.If you require a ROUTINE CHECK
-    or basic dentistry such as caries removal,cleaning,prophylaxis or oral prosthesis
-    without aesthetic,functional orperiodontal compromise,a general practice professional
-    can provide anexcellent service.However,because the different areas of Dentistry
-    havebecome increasingly complex and highly technified,<strong>there are numerous
-    cases that require the intervention of professionalswith long and intensive training
+    or basic dentistry such as caries removal, cleaning, prophylaxis or oral prosthesis
+    without aesthetic,functional orperiodontal compromise, a general practice professional
+    can provide an excellent service. However, because the different areas of Dentistry
+    have become increasingly complex and highly technified,<strong>there are numerous
+    cases that require the intervention of professionals with long and intensive training
     called Specialists</strong>.These individuals are particularly trained to execute
-    advanced techniquesand procedures providing highly predictable and often surprising
-    results forpatients.</p><p><strong>A good general dentist is responsible for performing
-    the triage and primarydiagnosis of the patient</strong>,solving hygiene problems
-    and CARIES RESTORATION that may be presented andrefer,if necessary,to the most
-    indicated Specialist.It is important toclarify that<strong>a!0 Specialist must
-    have completed fourth level or Postgraduate studies</strong>at a recognized national
-    or foreign University,with an academic curriculumthat covers the teaching hours
-    required by the different scientific societiesof the country.</p><p><strong>The
-    generalist must have solid knowledge of oral pathology,radiology,periodontics
+    advanced techniques and procedures providing highly predictable and often surprising
+    results for patients.</p><p><strong>A good general dentist is responsible for
+    performing the triage and primary diagnosis of the patient</strong>, solving hygiene
+    problems and CARIES RESTORATION that may be presented and refer, if necessary,
+    to the most indicated Specialist. It is important to clarify that<strong>a!0 Specialist
+    must have completed fourth level or Postgraduate studies</strong>at a recognized
+    national or foreign University, with an academic curriculum that covers the teaching
+    hours required by the different scientific societies of the country.</p><p><strong>The
+    generalist must have solid knowledge of oral pathology, radiology, periodontics
     and</strong><strong>gnatology</strong>to be able to detect the presence of lesions
-    ordiseases in the tongue,gums,soft tissues and temporomandibular joints.Hemust
-    also be a!0 expert in ADHESIVE DENTISTRY,since<strong>he is usually the one who
-    does the cavitary preparations necessary for thetreatment of dental caries</strong>,applying
-    conservative designs and trying to preserve pulp vitality at alltimes,to finally;return
-    to the organ its usual anatomy and functionalitythrough the dental restoration
-    process.He must therefore know and handle thedifferent adhesive systems based
-    on the acid etching technique,the multiplerestorative materials based on dental
-    composites and the most basic anduniversal principles of occlusion and masticatory
-    function.</p> \n"
+    or diseases in the tongue, gums, soft tissues and temporomandibular joints. He
+    must also be an expert in ADHESIVE DENTISTRY, since<strong>he is usually the one
+    who does the cavitary preparations necessary for the treatment of dental caries</strong>,
+    applying conservative designs and trying to preserve pulp vitality at all times,
+    to finally; return to the organ its usual anatomy and functionality through the
+    dental restoration process. He must therefore know and handle the different adhesive
+    systems based on the acid etching technique, the multiple restorative materials
+    based on dental composites and the most basic and universal principles of occlusion
+    and masticatory function.</p> \n"
   image: "/img/aside-general-dentistry.jpg"
 quote:
   title: ''
