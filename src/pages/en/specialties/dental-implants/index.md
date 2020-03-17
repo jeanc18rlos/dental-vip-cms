@@ -207,7 +207,7 @@ faq:
         you achieve always keep your implants and gums free of dental plaque and food
         debris, go regularly to regular control appointments and keep yourself in
         good general health, it is very likely that you will enjoy for a lifetime
-        the benefits of this innovative dental alternative.</p>\n"
+        the benefits of this Innovative Dental Alternative.</p>\n"
 clinicCases:
   title: Dental Implants - Clinical Cases
   items:
