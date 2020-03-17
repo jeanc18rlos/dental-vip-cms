@@ -244,7 +244,7 @@ clinicCases:
   - image: "/img/clinic-cases-general-dentistry-en-07-thumb.jpg"
     title: "<h6>PROVISIONAL FIXED PROSTHESIS</h6>\n"
   - image: "/img/clinic-cases-general-dentistry-en-08-thumb.jpg"
-    title: "<h6>UPPER REMOVABLE PARTIAL DENTURE <em>(RPD)</em> </h6>"
+    title: "<h6>UPPER REMOVABLE PARTIAL DENTURE (RPD) </h6>"
   - image: "/img/clinic-cases-general-dentistry-en-09-thumb.jpg"
     title: "<h6>FRACTURED INCISAL EDGES </h6>\n"
   - image: "/img/clinic-cases-general-dentistry-en-10-thumb.jpg"
