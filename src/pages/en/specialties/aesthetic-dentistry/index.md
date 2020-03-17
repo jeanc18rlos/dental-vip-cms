@@ -83,7 +83,7 @@ faq:
         white and monochromatic, without harmony with their own parameters and features
         and elaborate without taking into consideration that each human being is an
         exclusive and individual entity. Smile design is an invaluable tool in the
-        field of cosmetic dentistry, as long as it is used with ethics, wisdom and
+        field of Cosmetic Dentistry, as long as it is used with ethics, wisdom and
         true aesthetic criteria.</p>\n"
     - question: What parameters are used to choose the shape of the new teeth?
       answer: "<p>Race, sex, age, personality, size and shape of the face, biotype
