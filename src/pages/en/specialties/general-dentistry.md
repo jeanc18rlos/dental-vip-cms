@@ -18,7 +18,7 @@ hero:
 specialtiesHeading:
   display: true
   img: "/img/icon-general-dentistry.jpg"
-  content: The best treatment of any disease is its prevention and our main objective
+  content: The Best Treatment of Any Disease is its Prevention and our main objective
     should be to interpose biological barriers that truly interfere with its development.
 paragraphSection:
   body: "<p><strong>The General Dentist is trained to prevent, diagnose and treat
