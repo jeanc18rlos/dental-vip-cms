@@ -236,7 +236,7 @@ faq:
         toda la vida?
       answer: "<p>Básicamente conservarse en buen estado de salud general, practicar
         muy buena higiene oral y acudir regularmente al Odontólogo. En estos casos,
-        es muy recomendable realizar un seguimiento vitalicio (clínico y radiográfico)
+        es muy recomendable realizar un seguimiento vitalicio <em>(clínico y radiográfico)</em>
         del paciente, para poder detectar a tiempo cualquier proceso infeccioso incipiente
         o desajuste de los componentes protésicos que pudieran generar males mayores.
         Además, usualmente recomendamos remover la prótesis cada 6 meses para inspeccionar
