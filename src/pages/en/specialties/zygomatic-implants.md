@@ -172,8 +172,8 @@ faq:
     - question: Can anyone Specialist perform this type of intervention?
       answer: "<p>This procedure, although not exclusive to our clinic, is not as
         common in general practice, because very few Dentists are truly trained to
-        provide these treatments. The needed surgical skill for the placement of zygomatic
-        implants requires a high level of experience, impeccable mastery of the head
+        provide these treatments. The needed surgical skill for the placement of Zygomatic
+        Implants requires a high level of experience, impeccable mastery of the head
         and neck anatomy and a very advanced surgical training. So only a Maxillofacial
         Surgeon, really experienced, will be the right professional.</p>\n"
     - question: Could I have any mark or scar on my face?
