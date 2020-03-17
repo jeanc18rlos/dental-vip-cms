@@ -93,11 +93,11 @@ faq:
       answer: "<p>Generalmente sugerimos utilizar ropa fresca y ligera durante el
         procedimiento, cepillar bien los dientes, encías y mucosas antes de la intervención
         y contar con un acompañante adulto que le pueda prestar el apoyo necesario.</p>\n"
-    - question: Para una cirugía oral, ¿me podrían suministrar anestesia general?
-      answer: "<p>Solo en los casos de cirugía mayor como la ortognática y maxilofacial.
+    - question: Para una Cirugía Oral, ¿me podrían suministrar anestesia general?
+      answer: "<p>Solo en los casos de Cirugía Mayor como la Ortognática y Maxilofacial.
         Por su gran efectividad, seguridad y ausencia casi absoluta de efectos secundarios,
         la anestesia local troncular o infiltrativa es la de elección para las intervenciones
-        de cirugía oral menor en medios ambulatorios. La sedación consciente con derivados
+        de Cirugía Oral menor en medios ambulatorios. La sedación consciente con derivados
         de la benzodiazepina es la mejor opción para pacientes especiales o excesivamente
         aprehensivos, sin embargo, requiere de la participación de un Médico Anestesiólogo.</p>\n"
     - question: "¿Qué es una extracción atraumática y cuál es su importancia?"
