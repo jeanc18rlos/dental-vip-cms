@@ -42,7 +42,7 @@ paragraphSection:
     the procedure, that the operator knows in detail the specific function and clinical
     application of the numerous surgical instruments of DIERESIS, EXERESIS and SYNTHESIS.</p>\n<p><b>Oral
     Surgery is science, art and skill, </b> and although it is governed by the same
-    principles of General Surgery, it has its own peculiarities that emanate from
+    principles of general surgery, it has its own peculiarities that emanate from
     the anatomical area to be treated. Not in vain, <b>it is the oldest Specialty
     of Dentistry.</b></p> \n"
   image: "/img/aside-oral-surgery.jpg"
