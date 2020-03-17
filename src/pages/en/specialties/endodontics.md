@@ -53,7 +53,7 @@ faq:
       answer: "<p>There are monoradicular, biradicular and multiradicular teeth. According
         to the position they occupy in the archway they usually have one, two or three
         roots. Within each root there may be one or two canals.</p>\n"
-    - question: How to know if a root canal is needed?
+    - question: How to know if a Root Canal is needed?
       answer: "<p>Generally by the symptomatology. Spontaneous pain, constant hypersensitivity
         to thermal stimuli, discomfort from sugar intake and the presence of dental
         abscesses are usually clear hints of pulpitis and/or pulp necrosis.</p>\n"
