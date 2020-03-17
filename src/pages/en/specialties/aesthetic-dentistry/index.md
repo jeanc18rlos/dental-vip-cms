@@ -61,7 +61,7 @@ faq:
   title: Frequently Asked Questions
   blocks:
   - questions:
-    - question: Why is the use of clinical photography in aesthetic dentistry important?
+    - question: Why is the use of clinical photography in Aesthetic Dentistry important?
       answer: "<p>An intraoral photograph provides instant visualization of the teeth
         in real time. With it we can see details difficult to appreciate with the
         naked eye and also allows the patient to opinion and actively participate
