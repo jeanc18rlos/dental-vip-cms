@@ -72,7 +72,7 @@ faq:
         regeneration <em>(osteogenesis)</em> around it. This phenomenon is what allows
         an implant to fix firmly to the bone, remain stable over time and can be safely
         used as a base or pillar of dental prostheses.</p>\n"
-    - question: When are osseointegrated dental implants indicated?
+    - question: When are Osseointegrated Dental Implants indicated?
       answer: "<p>When it is necessary to replace one, several or even all the teeth
         of the mouth. Unitary implants avoid the need to have to carve, wear and compromise
         the adjacent teeth that ones have been lost to make a traditional fixed bridge.
