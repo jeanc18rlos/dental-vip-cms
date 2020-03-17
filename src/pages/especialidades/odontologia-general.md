@@ -73,11 +73,11 @@ faq:
     - question: "¿Cuáles son las enfermedades más comunes que afectan a dientes y
         encías?"
       answer: "<p>Las patologías bucodentales más frecuentes son las caries y las
-        afecciones periodontales (gingivitis y periodontitis). Luego, en menor grado,
-        las enfermedades infecciosas de origen bacteriano, los traumatismos físicos,
-        las lesiones congénitas y el cáncer de boca. Según la Organización Mundial
-        de la Salud entre el 60% y el 90% de los niños en edad escolar y cerca del
-        99% de los adultos padecen de caries dental, a menudo acompañada de dolor
+        afecciones periodontales <em>(gingivitis y periodontitis)</em>. Luego, en
+        menor grado, las enfermedades infecciosas de origen bacteriano, los traumatismos
+        físicos, las lesiones congénitas y el cáncer de boca. Según la Organización
+        Mundial de la Salud entre el 60% y el 90% de los niños en edad escolar y cerca
+        del 99% de los adultos padecen de caries dental, a menudo acompañada de dolor
         o sensación de molestia.</p>\n"
     - question: "¿Es posible evitarlas?"
       answer: "<p>Aunque el componente genético es determinante, la incidencia de
