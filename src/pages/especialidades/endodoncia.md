@@ -101,7 +101,7 @@ faq:
         analgésicos y antiinflamatorios antes de poder acceder a los conductos. En
         otros casos, se hace pertinente drenar abscesos y tratar otros procesos apicales
         como requisito previo de la terapia radicular.</p>\n"
-    - question: "¿Cuántas sesiones se necesitan para culminar una endodoncia convencional?"
+    - question: "¿Cuántas sesiones se necesitan para culminar una Endodoncia convencional?"
       answer: "<p>Depende de varios factores. De la sintomatología, de si es pulpa
         viva o pulpa muerta, de si hay o no presencia de exudado y del número de raíces
         y conductos a tratar; entre otros. Por norma general, los tratamientos se
