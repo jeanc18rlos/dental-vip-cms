@@ -33,7 +33,7 @@ paragraphSection:
     Especialistas en Cirugía Bucal o Maxilofacial, ya que la técnica a emplear es
     bastante sensible y requiere de amplios conocimientos quirúrgicos y anatómicos
     de los tejidos y estructuras bucales.</p><p><strong>Otro factor esencial en la
-    Implantología avanzada es el aspecto restaurador. </strong> Si la prótesis que
+    Implantología Avanzada es el aspecto restaurador. </strong> Si la prótesis que
     se coloca luego sobre el implante no está bien diseñada, las fuerzas nocivas generadas
     por la masticación conducirán irremediablemente a su fracaso. De aquí la importancia
     y necesidad del TRATAMIENTO MULTIDISCIPLINARIO en la rehabilitación bucal con
