@@ -47,7 +47,7 @@ paragraphSection:
   image: "/img/aside-aesthetic-dentistry.jpg"
 quote:
   title: ''
-  body: 'La sonrisa genuina, también llamada sonrisa de Duchenne, es aquella que surge
+  body: 'La sonrisa genuina, también llamada Sonrisa de Duchenne, es aquella que surge
     en el rostro de manera espontánea, sincera y natural. Indudablemente es un signo
     expresivo de bienestar que fomenta la sociabilidad y favorece la comunicación
     entre las personas.
