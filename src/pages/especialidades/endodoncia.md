@@ -81,7 +81,7 @@ faq:
       answer: "<p>Existen dientes monoradiculares, biradiculares y multiradiculares.
         De acuerdo a la posición que ocupen en la arcada suelen tener una, dos o tres
         raíces. Dentro de cada raíz puede haber uno o dos conductos.</p>\n"
-    - question: "¿Cómo saber si se necesita una endodoncia?"
+    - question: "¿Cómo saber si se necesita una Endodoncia?"
       answer: "<p>Generalmente por la sintomatología. El dolor espontáneo, la hipersensibilidad
         constante a los estímulos térmicos, la molestia por ingesta de azúcares y
         la presencia de abscesos dentales suelen ser claros indicios de pulpitis y/o
