@@ -154,7 +154,7 @@ faq:
         and capable of reflecting and translucent light. These are all key factors
         for the aesthetic success of the treatment.</p>\n"
     - question: What is the prosthetic phase?
-      answer: "<p>It is the second phase of a rehabilitation with dental implants.
+      answer: "<p>It is the second phase of a rehabilitation with Dental Implants.
         It must always be in charge of the Prosthodontics Specialist, who will design,
         prepare and install the definitive implant-supported prosthesis, always fully
         respecting all biomechanical principles of occlusion and dental aesthetics.
