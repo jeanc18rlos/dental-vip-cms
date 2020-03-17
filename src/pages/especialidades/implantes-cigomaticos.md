@@ -53,7 +53,7 @@ paragraphSection:
     \   mucho más largos que los convencionales</strong>\n  <em>(entre 30 y 55 mm
     de longitud) </em>y que nos permiten elaborar sin\n  inconvenientes dentaduras
     fijas aún en los casos de atrofia maxilar severa o\n  avanzada; y es por ello
-    que, en conjunto con los implantes pterigoideos\n  <em>(muy similares a los cigomáticos
+    que, en conjunto con los Implantes Pterigoideos\n  <em>(muy similares a los Cigomáticos
     y que se anclan a nivel de la sutura\n    pterigomaxilar)</em>, se les conoce
     también en el argot popular como\n  <strong>“implantes dentales para pacientes
     con poco hueso”.</strong> Y es que\n  en definitiva, la relativa sencillez de
@@ -65,8 +65,8 @@ paragraphSection:
   image: "/img/aside-zygomatic-implants.jpg"
 quote:
   title: ''
-  body: 'El tratamiento con implantes cigomáticos es un procedimiento que implica
-    una intervención de cirugía mayor, en block quirúrgico de ambiente hospitalario,
+  body: 'El tratamiento con Implantes Cigomáticos es un procedimiento que implica
+    una intervención de Cirugía Maxilofacial, en block quirúrgico de ambiente hospitalario,
     anestesia general y todos los recursos de soporte vital que, indiscutiblemente,
     amerita el caso.
 
