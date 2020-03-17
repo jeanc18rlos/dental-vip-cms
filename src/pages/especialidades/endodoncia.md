@@ -17,7 +17,7 @@ hero:
 specialtiesHeading:
   display: true
   img: "/img/icon-endodontics.jpg"
-  content: De estar indicado, un tratamiento de conducto realizado a tiempo es la
+  content: De estar indicado, un Tratamiento de Conducto realizado a tiempo es la
     única alternativa viable para evitar la odontectomía o extracción de un diente
     comprometido.
 paragraphSection:
