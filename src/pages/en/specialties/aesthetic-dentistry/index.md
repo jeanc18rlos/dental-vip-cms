@@ -212,7 +212,7 @@ faq:
         or surgical removal of the abnormal tissue will be the solution. However,
         if the condition is due to an alteration of the facial development, an excessive
         vertical growth of the upper jaw <em>(VME)</em>, only the surgical impact
-        of the same through an intervention of maxillofacial orthognathic surgery
+        of the same through an intervention of Maxillofacial Orthognathic Surgery
         <em>(Le Fort I osteotomy)</em> will solve the problem.</p>\n"
     - question: What is a periodontal plastic surgery or gingivoplasty?
       answer: "<p>Every smile is made up of 3 basic elements: teeth, lips and gums.
