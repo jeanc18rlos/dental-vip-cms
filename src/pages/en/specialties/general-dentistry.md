@@ -140,8 +140,8 @@ faq:
     - question: Why are several x-rays necessary to make a good oral diagnosis?
       answer: "<p>Because they expose details that are not accessible to the human
         eye. Only through radiological images we will can detect the very frequent
-        proximal caries (those that form on the contact surfaces of the teeth), alveolar
-        and interproximal bone alterations and resorptions, periodontal diseases,
+        proximal caries <em>(those that form on the contact surfaces of the teeth)</em>,
+        alveolar and interproximal bone alterations and resorptions, periodontal diseases,
         pulp and periapical conditions, root resorptions, impacted teeth, odontogenic
         tumors and cysts and defective or permeable restorations; among other anomalies.
         A diagnosis without the support of radiographic evidence will always leave
