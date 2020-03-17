@@ -17,7 +17,7 @@ hero:
 specialtiesHeading:
   display: true
   img: "/img/icon-endodontics.jpg"
-  content: If indicated, a root canal treatment performed on time is the only viable
+  content: If indicated, a Root Canal Treatment performed on time is the only viable
     alternative to avoid odontectomy or extraction of a compromised tooth.
 paragraphSection:
   body: |
