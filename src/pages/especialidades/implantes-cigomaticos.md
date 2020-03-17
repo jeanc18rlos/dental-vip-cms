@@ -276,7 +276,7 @@ clinicCases:
   - image: "/img/clinic-cases-zygomatic-implants-es-15-thumb.jpg"
     title: "<h6>antes y después </h6>\n"
   - image: "/img/clinic-cases-zygomatic-implants-es-16-thumb.jpg"
-    title: "<h6>implantacion con prf</h6>\n"
+    title: "<h6>implantación con prf</h6>"
   - image: "/img/clinic-cases-zygomatic-implants-es-17-thumb.jpg"
     title: "<h6>inicio fase restauradora</h6>\n"
   - image: "/img/clinic-cases-zygomatic-implants-es-18-thumb.jpg"
