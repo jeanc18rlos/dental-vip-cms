@@ -73,7 +73,7 @@ quote:
 '
   author: Dr. Castor José Garabán Povea
   footer:
-    position: Cirujano Bucal
+    position: Cirujano Maxilofacial
     clinic: DENTAL VIP, Especialidades Odontológicas s.c.
 plainParallax:
   image: "/img/parallax-zygomatic-implants.jpg"
@@ -139,13 +139,13 @@ faq:
         \ </li>\n  <li>Reducen considerablemente el tiempo total de tratamiento.\n
         \ </li>\n  <li>Implican un procedimiento mucho más conservador, seguro y predecible.\n
         \ </li>\n  <li>Mayores probabilidades de éxito, ya que el hueso malar es muy
-        compacto y prácticamente inmune a la reabsorción ósea (no así los injertos).
+        compacto y prácticamente inmune a la reabsorción ósea <em>(no así los injertos)</em>.
         \n  </li>\n  <li>Menor morbilidad, ya que no es necesario intervenir en regiones
         anatómicas extraorales para recolectar hueso.\n  </li>\n  <li>Alta posibilidad
-        de carga inmediata (prótesis fija el mismo día).\n  </li>\n  <li>Postoperatorio
+        de carga inmediata <em>(prótesis fija el mismo día)</em>.\n  </li>\n  <li>Postoperatorio
         más corto y favorable para el paciente.\n  </li>\n  <li>Mejor pronóstico a
         corto, mediano y largo plazo.\n  </li>  \n</ol> <p>Además, el protocolo de
-        implantes cigomáticos garantiza la función de barrera, estabilidad biomecánica
+        Implantes Cigomáticos garantiza la función de barrera, estabilidad biomecánica
         y correcta distribución de las fuerzas masticatorias a través de los pilares
         maxilomalares; evitando así las sobrecargas y el fracaso ocasional por fatiga.
         </p>\n"
