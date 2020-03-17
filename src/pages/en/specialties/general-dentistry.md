@@ -22,7 +22,7 @@ specialtiesHeading:
     should be to interpose biological barriers that truly interfere with its development.
 paragraphSection:
   body: "<p><strong>The General Dentist is trained to prevent, diagnose and treat
-    common problems of the general public</strong>.If you require a ROUTINE CHECK
+    common problems of the general public</strong>. If you require a ROUTINE CHECK
     or basic dentistry such as caries removal, cleaning, prophylaxis or oral prosthesis
     without aesthetic, functional or periodontal compromise, a general practice professional
     can provide an excellent service. However, because the different areas of Dentistry
