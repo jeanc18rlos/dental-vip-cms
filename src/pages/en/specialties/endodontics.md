@@ -72,7 +72,7 @@ faq:
         analgesics and anti-inflammatory drugs before accessing the canals. In other
         cases, it becomes pertinent to drain abscesses and treat other apical processes
         as a prerequisite for root therapy.</p>\n"
-    - question: How many sessions are needed to complete a conventional endodontics?
+    - question: How many sessions are needed to complete a conventional Endodontics?
       answer: "<p>It depends on several factors. From the symptomatology, whether
         it is live pulp or dead pulp, whether there is or not a presence of exudate
         and the number of roots and canals to be treated; among others. As a general
