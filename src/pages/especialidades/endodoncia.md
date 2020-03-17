@@ -140,7 +140,7 @@ faq:
         y que se extrae de un árbol originario de las islas del archipiélago Malayo.
         Adicionalmente, se coloca un cemento que garantice el sellado apical, generalmente
         a base de hidróxido de calcio.</p>\n"
-    - question: "¿Cómo saber si un tratamiento de endodoncia fue correctamente realizado?"
+    - question: "¿Cómo saber si un Tratamiento de Endodoncia fue correctamente realizado?"
       answer: "<p>Básicamente por la ausencia de sintomatología y por la evidencia
         radiográfica. Un tratamiento de conducto bien realizado debe reflejar una
         obturación que se prolongue hasta la constricción apical de la raíz, que carezca
