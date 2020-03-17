@@ -74,7 +74,7 @@ faq:
       answer: "<p>La evolución que la Odontología ha experimentado en las últimas
         décadas nos permite afirmar que, en condiciones normales, la molestia asociada
         a cualquier acto quirúrgico es verdaderamente pequeña. Aunque todos los procedimientos
-        de cirugía oral son esencia invasivos, la realidad es que el postoperatorio
+        de Cirugía Oral son esencia invasivos, la realidad es que el postoperatorio
         es perfectamente controlable. La aplicación de una técnica anestésica efectiva,
         de un acto quirúrgico controlado y la adopción de un protocolo postoperatorio
         eficaz, reducirán al mínimo el riesgo y la posibilidad de dolor, infección
