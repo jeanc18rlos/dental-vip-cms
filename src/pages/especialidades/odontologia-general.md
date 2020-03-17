@@ -92,12 +92,12 @@ faq:
     - question: "¿Qué es la placa bacteriana?"
       answer: "<p>La placa dental o bacteriana es una sustancia pegajosa blanco-amarillenta
         que se adhiere con facilidad a los dientes y que acumula muchas especies de
-        microbios (aerobios y anaerobios) dentro de una matriz intercelular de origen
-        orgánico. La placa se forma a partir de los restos alimenticios que no hayan
-        sido removidos y que sirven de sustrato perfecto para la colonización y multiplicación
-        de bacterias. La importancia de su control radica en el hecho de que es la
-        principal causante de las dos infecciones más habituales de la cavidad bucal:
-        la caries dental y la enfermedad periodontal.</p>\n"
+        microbios <em>(aerobios y anaerobios)</em> dentro de una matriz intercelular
+        de origen orgánico. La placa se forma a partir de los restos alimenticios
+        que no hayan sido removidos y que sirven de sustrato perfecto para la colonización
+        y multiplicación de bacterias. La importancia de su control radica en el hecho
+        de que es la principal causante de las dos infecciones más habituales de la
+        cavidad bucal: la caries dental y la enfermedad periodontal.</p>\n"
     - question: "¿En qué se diferencia del cálculo o sarro dental?"
       answer: "<p>El cálculo dental, también conocido como piedra, sarro o tártaro
         dental, es el resultado de la solidificación de la placa bacteriana por la
