@@ -144,7 +144,7 @@ faq:
         que conlleva el proceso de cicatrización y neoformación ósea del alvéolo después
         de la extracción.</p>\n"
   - questions:
-    - question: "¿Son muy caros los implantes dentales?"
+    - question: "¿Son muy caros los Implantes Dentales?"
       answer: "<p>Caro es algo que implica dar un valor sobreestimado a algo que no
         lo tiene. Aunque por su naturaleza <em>(titanio puro)</em> los implantes son
         más costosos que otras alternativas odontológicas, el hecho de poder comer
