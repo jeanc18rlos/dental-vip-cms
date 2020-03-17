@@ -111,7 +111,7 @@ faq:
         de orden sistémico, la causa habitual obedece a la acumulación crónica de
         placa dental que genera una entidad patológica inflamatoria reversible conocida
         como gingivitis, pero que agravada, conduce a la formación de sarro, sacos
-        patológicos, resorción del hueso alveolar y caída de los dientes (periodontitis).
+        patológicos, resorción del hueso alveolar y caída de los dientes <em>(periodontitis)</em>.
         La hemorragia de origen gingival es el signo más evidente de la llamada enfermedad
         periodontal.</p>\n"
     - question: "¿Por qué se produce el mal aliento?"
