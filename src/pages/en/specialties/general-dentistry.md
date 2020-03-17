@@ -53,7 +53,7 @@ quote:
   title: ''
   body: 'Unfortunately, tooth decay represents a serious public health problem in
     our environment, because more than 98% of the Venezuelan population has suffered,
-    suffers or will suffer it at some time in her life.
+    suffers or will suffer it at some time throughout life.
 
 '
   author: Dr. Vianka Xaviera Torres
