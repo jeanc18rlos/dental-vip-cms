@@ -158,11 +158,11 @@ faq:
         o gutapercha hacia la zona periradicular, fuera de la raíz del diente. Afortunadamente,
         numerosos trabajos científicos avalan el éxito del tratamiento aún en los
         casos donde se haya producido una pequeña sobreobturación.</p>\n"
-    - question: "¿Qué es un retratamiento?"
-      answer: "<p>El retratamiento o reendodoncia es la intervención que se realiza
+    - question: "¿Qué es un Retratamiento?"
+      answer: "<p>El Retratamiento o Reendodoncia es la intervención que se realiza
         para eliminar el material de relleno que se encuentra en el interior de los
         conductos de un diente ya tratado para su nueva limpieza, conformación y obturación.
-        En otras palabras, es un nuevo tratamiento de conducto en un diente ya endodonciado.</p>\n"
+        En otras palabras, es un nuevo Tratamiento de Conducto en un diente ya endodonciado.</p>\n"
     - question: "¿Cuándo debe realizarse?"
       answer: "<p>Cuando por alguna razón haya fracasado la terapia endodóntica inicial,
         o bien, cuando los conductos se hayan vuelto a contaminar. Tal circunstancia
