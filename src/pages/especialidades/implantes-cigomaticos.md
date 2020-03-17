@@ -198,11 +198,11 @@ faq:
         que el paciente cumpla escrupulosamente con las indicaciones suministradas.
         Las pautas a seguir pueden variar según cada intervención, el tipo de abordaje
         utilizado y las condiciones particulares de cada caso; pero la medicación
-        (antibióticos, analgésicos y antiinflamatorios), aplicación local de frío,
-        el reposo y la higiene oral son fundamentales para conseguir una recuperación
-        lo más rápida y satisfactoria posible. Usualmente, entre 2 y 5 días es el
-        tiempo que tardan la mayoría de las personas en reiniciar sus actividades
-        habituales.</p>\n"
+        <em>(antibióticos, analgésicos y antiinflamatorios)</em>, aplicación local
+        de frío, el reposo y la higiene oral son fundamentales para conseguir una
+        recuperación lo más rápida y satisfactoria posible. Usualmente, entre 2 y
+        5 días es el tiempo que tardan la mayoría de las personas en reiniciar sus
+        actividades habituales.</p>\n"
     - question: "¿Son estos implantes más costosos que los implantes normales?"
       answer: "<p>¡Indudablemente!, tomando en consideración que son hasta 4 veces
         más largos que los convencionales y se necesita mucho más titanio para su
