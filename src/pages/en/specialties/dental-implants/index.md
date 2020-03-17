@@ -134,7 +134,7 @@ faq:
         4 or 5 months involved in the process of bone healing and neoformation of
         the dental alveolus after extraction.</p>\n"
   - questions:
-    - question: Are dental implants very expensive?
+    - question: Are Dental Implants very expensive?
       answer: "<p>Expensive is something that implies giving an overestimated value
         to something that does not have it. Although by their nature <em>(pure titanium)</em>
         implants are more expensive than other dental alternatives, the fact of being
