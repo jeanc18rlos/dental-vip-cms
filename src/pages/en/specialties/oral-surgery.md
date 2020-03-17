@@ -91,8 +91,8 @@ faq:
       answer: "<p>We generally suggest using fresh and light clothes during the procedure,
         brushing your teeth, gums and mucous membranes before the intervention and
         having an adult companion who can provide you the necessary support.</p>\n"
-    - question: For an oral surgery, could you give me general anesthesia?
-      answer: "<p>Only in cases of major surgery such as orthognathic and maxillofacial.
+    - question: For an Oral Surgery, could you give me general anesthesia?
+      answer: "<p>Only in cases of Major Surgery such as Orthognathic and Maxillofacial.
         Due to its great effectiveness, safety and almost absolute absence of side
         effects, local trunk or infiltrative anesthesia is the one of choice for minor
         oral surgery interventions in outpatient settings. Conscious sedation with
