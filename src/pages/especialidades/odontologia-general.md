@@ -107,7 +107,7 @@ faq:
         superficie, y a diferencia de ella, no puede ser removida por el cepillo dental.
         Solo una limpieza profesional podrá eliminarlo.</p>\n"
     - question: "¿Es normal que sangren las encías al cepillarse los dientes?"
-      answer: "<p>En lo absoluto. Aunque tal fenómeno podría deberse a una condición
+      answer: "<p>¡En lo absoluto! Aunque tal fenómeno podría deberse a una condición
         de orden sistémico, la causa habitual obedece a la acumulación crónica de
         placa dental que genera una entidad patológica inflamatoria reversible conocida
         como gingivitis, pero que agravada, conduce a la formación de sarro, sacos
