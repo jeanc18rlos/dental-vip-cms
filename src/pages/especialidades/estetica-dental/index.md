@@ -64,7 +64,7 @@ faq:
   blocks:
   - questions:
     - question: "¿Por qué es importante el uso de la fotografía clínica en Odontología
-        estética?"
+        Estética?"
       answer: "<p>Una fotografía intraoral proporciona una visualización instantánea
         de los dientes en tiempo real. Con ella se pueden observar detalles difíciles
         de apreciar a simple vista y además permite que el paciente opine y participe
