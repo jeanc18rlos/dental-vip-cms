@@ -18,7 +18,7 @@ hero:
 specialtiesHeading:
   display: true
   img: "/img/icon-oral-surgery.jpg"
-  content: Avoid pain, complications and bad times. A true surgeon will be able to
+  content: Avoid pain, complications and bad times. A true Surgeon will be able to
     carry out a clean, safe, fast and accurate intervention, with hardly any postoperative
     sequel.
 paragraphSection:
