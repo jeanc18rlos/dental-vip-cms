@@ -223,7 +223,7 @@ faq:
         anómalo será la solución. Ahora bien, si la condición obedece a una alteración
         del desarrollo facial, a un crecimiento vertical excesivo del maxilar superior
         <em>(EVM)</em>, solo la impacción quirúrgica del mismo mediante una intervención
-        de cirugía ortognática maxilofacial <em>(osteotomía de Le Fort I)</em> solventará
+        de Cirugía Ortognática Maxilofacial <em>(osteotomía de Le Fort I)</em> solventará
         el problema.</p>\n"
     - question: "¿En qué consiste una cirugía plástica periodontal o gingivoplastía?"
       answer: "<p>Toda sonrisa está conformada por 3 elementos básicos: dientes, labios
