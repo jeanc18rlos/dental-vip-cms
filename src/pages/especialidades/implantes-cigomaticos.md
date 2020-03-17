@@ -334,7 +334,7 @@ asides:
 
 '
     content: '<p style="font-weight:400">Siempre bajo la responsabilidad de un Médico
-      Especialista en anestesiología, reanimación y terapia del dolor, con habilidad
+      Especialista en Anestesiología, reanimación y terapia del dolor, con habilidad
       de titular las drogas que se administren y experticia en el manejo de la vía
       aérea, monitoreo de las constantes vitales y aplicación de técnicas de resucitación.</p>
 
