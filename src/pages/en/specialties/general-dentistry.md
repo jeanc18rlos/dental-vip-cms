@@ -112,7 +112,7 @@ faq:
         in three people and is associated with poor oral hygiene or diseases of the
         oral cavity, although sometimes it can be a clinical manifestation of some
         other systemic or gastrointestinal disease.</p>\n"
-    - question: What is the best oral hygiene technique?
+    - question: Which is the best oral hygiene technique?
       answer: "<p>That which is practiced religiously after each meal and that contemplates
         the use of the conventional brush, interproximal brush, dental floss and mouthwash.
         Optimal brushing takes at least three minutes of time and to perform it properly
