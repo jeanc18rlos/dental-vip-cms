@@ -35,8 +35,8 @@ paragraphSection:
     factor in Advanced Implantology is the restorative aspect.</b> If the prosthesis
     that is then placed on the implant is not well designed, the harmful forces generated
     by chewing will inevitably lead to its failure. Hence the importance and necessity
-    of MULTIDISCIPLINARY TREATMENT in oral rehabilitation with osseointegrated dental
-    implants. <b>In our clinic the second phase of the treatment or prosthetic phase
+    of MULTIDISCIPLINARY TREATMENT in Oral Rehabilitation with Osseointegrated Dental
+    Implants. <b>In our clinic the second phase of the treatment or prosthetic phase
     is always in charge of the Prosthodontics Specialist Dentist</b>, since no one
     better than him is able to handle the complicated principles and foundations of
     occlusion physiology, that is to say, in the way that implant and prosthesis should
