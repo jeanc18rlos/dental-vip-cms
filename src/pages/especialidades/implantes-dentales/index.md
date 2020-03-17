@@ -164,7 +164,7 @@ faq:
         caracterizados individualmente y con capacidad de reflejar y traslucir la
         luz. Todos estos son factores claves para el éxito estético del tratamiento.</p>\n"
     - question: "¿En qué consiste la fase protésica?"
-      answer: "<p>Es la segunda fase de una rehabilitación con implantes dentales.
+      answer: "<p>Es la segunda fase de una rehabilitación con Implantes Dentales.
         Debe estar siempre a cargo del Especialista en Prostodoncia, quien diseñará,
         confeccionará e instalará la prótesis implantosoportada definitiva, respetando
         siempre a cabalidad todos los principios biomecánicos de oclusión y estética
