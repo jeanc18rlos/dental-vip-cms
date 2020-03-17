@@ -72,7 +72,7 @@ faq:
     - question: Are surgical acts performed in the mouth very painful?
       answer: "<p>The evolution that Dentistry has experienced in recent decades allows
         us to affirm that, under normal conditions, the discomfort associated with
-        any surgical act is truly small. Although all oral surgery procedures are
+        any surgical act is truly small. Although all Oral Surgery procedures are
         essentially invasive, the reality is that the postoperative period is perfectly
         controllable. The application of an effective anesthetic technique, of a controlled
         surgical act and the adoption of an adequate postoperative protocol, will
