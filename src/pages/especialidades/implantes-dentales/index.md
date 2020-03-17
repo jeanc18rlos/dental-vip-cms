@@ -23,7 +23,7 @@ specialtiesHeading:
     una alternativa confiable y altamente predecible a largo plazo.
 paragraphSection:
   body: "<p>Indudablemente, uno de los progresos más espectaculares de la Odontología
-    moderna es el desarrollo de los implantes dentales. Estos, <strong>son pequeños
+    moderna es el desarrollo de los Implantes Dentales. Estos, <strong>son pequeños
     dispositivos de titanio en forma de cilindro y que por su alto grado de biocompatibilidad
     son capaces de oseointegrarse a las estructuras maxilares para sustituir “idealmente”
     los dientes perdidos  </strong>por caries, traumatismos y enfermedad periodontal,
