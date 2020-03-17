@@ -211,7 +211,7 @@ faq:
         recurrence caries is observed or when a radiographic study shows a coronal
         radiolucent area that suggests a failure of cohesive type.</p>\n"
     - question: What is bruxism?
-      answer: "<p>Bruxism is the involuntary habit of clenching or grinding your teeth
+      answer: "<p>Bruxism is the involuntary habit of clenching or grinding the teeth
         without functional purposes. It affects between 10% and 20% of the population,
         being able to generate headache, pain of the masticatory muscles, neck and
         ears. Grinding habit, if not treated on time, can lead to wear or fracture
