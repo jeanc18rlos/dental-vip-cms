@@ -95,7 +95,7 @@ faq:
         una inflamación crónica, muy aguda o traumática de su tejido pulpar. Generalmente,
         el proceso se inicia en la fracción más coronal de la pulpa para luego extenderse
         a su porción radicular.</p>\n"
-    - question: "¿Se puede realizar un tratamiento de conducto en presencia de dolor
+    - question: "¿Se puede realizar un Tratamiento de Conducto en presencia de dolor
         o inflamación aguda?"
       answer: "<p>Muchas veces es difícil. A menudo es necesario prescribir antibióticos,
         analgésicos y antiinflamatorios antes de poder acceder a los conductos. En
