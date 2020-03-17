@@ -216,13 +216,13 @@ faq:
       answer: "<p>Tradicionalmente así era, ya que fue un procedimiento diseñado a
         tal fin, con 4 implantes en total, 2 a cada lado del maxilar. Sin embargo,
         en la actualidad se aplican modificaciones de la técnica original que permiten
-        ubicar el implante cigomático o pterigoideo en una posición adecuada y compatible
-        con una rehabilitación en base a prótesis parcial fija (coronas y puentes
-        cerámicos). De hecho, hoy en día son múltiples las posibilidades que ofrecen
-        estos implantes, desde la colocación de un único dispositivo asimétrico, hasta
-        innumerables combinaciones con implantes convencionales, lógicamente para
-        dar solución a la gran mayoría de los casos, y en algunos, hasta para reducir
-        costes.</p>\n"
+        ubicar el Implante Cigomático o Pterigoideo en una posición adecuada y compatible
+        con una rehabilitación en base a prótesis parcial fija <em>(coronas y puentes
+        cerámicos)</em>. De hecho, hoy en día son múltiples las posibilidades que
+        ofrecen estos implantes, desde la colocación de un único dispositivo asimétrico,
+        hasta innumerables combinaciones con implantes convencionales, lógicamente
+        para dar solución a la gran mayoría de los casos, y en algunos, hasta para
+        reducir costes.</p>\n"
     - question: "¿Es posible colocar una prótesis fija el mismo día de la intervención,
         aunque sea una provisional?"
       answer: "<p>Muchas veces sí, ya que el anclaje multicortical y el probado diseño
