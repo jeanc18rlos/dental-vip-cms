@@ -36,8 +36,8 @@ paragraphSection:
     Implantología Avanzada es el aspecto restaurador. </strong> Si la prótesis que
     se coloca luego sobre el implante no está bien diseñada, las fuerzas nocivas generadas
     por la masticación conducirán irremediablemente a su fracaso. De aquí la importancia
-    y necesidad del TRATAMIENTO MULTIDISCIPLINARIO en la rehabilitación bucal con
-    implantes dentales oseointegrados.  <strong>En nuestra clínica la segunda fase
+    y necesidad del TRATAMIENTO MULTIDISCIPLINARIO en la Rehabilitación Bucal con
+    Implantes Dentales Oseointegrados.  <strong>En nuestra clínica la segunda fase
     del tratamiento o fase protésica está siempre a cargo del Odontólogo Especialista
     en Prostodoncia, </strong> ya que nadie mejor que él es capaz de manejar los complicados
     principios y fundamentos de fisiología de la oclusión, es decir, de la manera
