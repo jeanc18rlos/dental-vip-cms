@@ -17,8 +17,8 @@ hero:
 specialtiesHeading:
   display: true
   img: "/img/icon-aestetic-dentistry.jpg"
-  content: La Biomimética es el arte de crear restauraciones dentales que estén en
-    armonía con la naturaleza, a través del conocimiento, dominio y experta manipulación
+  content: La Biomimética es el arte de crear Restauraciones Dentales que estén en
+    armonía con la Naturaleza, a través del conocimiento, dominio y experta manipulación
     de los diferentes sistemas cerámicos y adhesivos disponibles.
 paragraphSection:
   body: "<p>En la sociedad actual, donde la imagen es tan importante, una apariencia
