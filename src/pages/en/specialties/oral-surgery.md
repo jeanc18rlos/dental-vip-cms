@@ -164,7 +164,7 @@ faq:
         is usually executed. Autologous bone taken from the same patient <em>(autograft)</em>
         and lyophilized bone of animal origin <em>(xenograft)</em> are usually placed
         at the same time.</p>\n"
-    - question: Is inflammation normal after an oral surgery procedure?
+    - question: Is inflammation normal after an Oral Surgery procedure?
       answer: "<p>It is natural to experience some swelling after any surgery. A surgical
         cut in the skin or mucosa, also called incision, is a form of aggression to
         the organism. The body's natural response to an injury of this type is the
