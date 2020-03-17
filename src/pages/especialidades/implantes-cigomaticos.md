@@ -183,7 +183,7 @@ faq:
       answer: "<p>Este procedimiento, aunque no es exclusivo de nuestra clínica, no
         es tan común en la práctica habitual, debido a que muy pocos Odontólogos están
         verdaderamente capacitados para brindar estos tratamientos. La habilidad quirúrgica
-        pertinente para la colocación de implantes cigomáticos requiere de un alto
+        pertinente para la colocación de Implantes Cigomáticos requiere de un alto
         nivel de experiencia, impecable dominio de la anatomía de cabeza y cuello
         y un entrenamiento quirúrgico muy avanzado. De modo que solo un Cirujano Maxilofacial,
         realmente experimentado, será el profesional indicado.</p>\n"
