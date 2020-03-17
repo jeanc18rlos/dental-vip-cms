@@ -48,20 +48,20 @@ paragraphSection:
     \ <strong>es muchas veces preferible olvidarse del maxilar y de los injertos,
     y fijar\n    los implantes a otros huesos de la región orofacial</strong>, siendo
     por su compacta estructura y cercanía anatómica los huesos MALAR O\n  CIGOMÁTICO
-    (que forma el pómulo) y esfenoides, los de preferencia. De modo que\n  <strong>los
-    implantes cigomáticos no son más que dispositivos dentales especiales,\n    mucho
-    más largos que los convencionales</strong>\n  <em>(entre 30 y 55 mm de longitud)
-    </em>y que nos permiten elaborar sin\n  inconvenientes dentaduras fijas aún en
-    los casos de atrofia maxilar severa o\n  avanzada; y es por ello que, en conjunto
-    con los implantes pterigoideos\n  <em>(muy similares a los cigomáticos y que se
-    anclan a nivel de la sutura\n    pterigomaxilar)</em>, se les conoce también en
-    el argot popular como\n  <strong>“implantes dentales para pacientes con poco hueso”.</strong>
-    Y es que\n  en definitiva, la relativa sencillez de su implantación\n  <em>(en
-    relación a la colocación de injertos múltiples)</em>, la ausencia de\n  morbilidad
-    de una zona donante y un periodo de curación mucho más corto y\n  favorable para
-    el paciente, sugieren a estos IMPLANTES LARGOS como una\n  alternativa más simple
-    y segura para casos extremos, en comparación con otras\n  técnicas de regeneración
-    ósea e implantología oral.\n</p>    \n"
+    <em>(que forma el pómulo)</em> y esfenoides, los de preferencia. De modo que\n
+    \ <strong>los implantes cigomáticos no son más que dispositivos dentales especiales,\n
+    \   mucho más largos que los convencionales</strong>\n  <em>(entre 30 y 55 mm
+    de longitud) </em>y que nos permiten elaborar sin\n  inconvenientes dentaduras
+    fijas aún en los casos de atrofia maxilar severa o\n  avanzada; y es por ello
+    que, en conjunto con los implantes pterigoideos\n  <em>(muy similares a los cigomáticos
+    y que se anclan a nivel de la sutura\n    pterigomaxilar)</em>, se les conoce
+    también en el argot popular como\n  <strong>“implantes dentales para pacientes
+    con poco hueso”.</strong> Y es que\n  en definitiva, la relativa sencillez de
+    su implantación\n  <em>(en relación a la colocación de injertos múltiples)</em>,
+    la ausencia de\n  morbilidad de una zona donante y un periodo de curación mucho
+    más corto y\n  favorable para el paciente, sugieren a estos IMPLANTES LARGOS como
+    una\n  alternativa más simple y segura para casos extremos, en comparación con
+    otras\n  técnicas de regeneración ósea e implantología oral.\n</p>    \n"
   image: "/img/aside-zygomatic-implants.jpg"
 quote:
   title: ''
