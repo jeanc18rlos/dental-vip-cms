@@ -19,7 +19,7 @@ specialtiesHeading:
   display: true
   img: "/img/icon-aestetic-dentistry.jpg"
   content: Biomimetics is the art of creating Dental Restorations that are in harmony
-    with nature, through knowledge, mastery and expert manipulation of the different
+    with Nature, through knowledge, mastery and expert manipulation of the different
     ceramic and adhesive systems available.
 paragraphSection:
   body: "<p>In today's society, where the image is so important, a pleasant appearance
