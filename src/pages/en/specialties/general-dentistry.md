@@ -84,12 +84,13 @@ faq:
         prevalence of caries, periodontal diseases and oral neoplasms.</p>\n"
     - question: What is bacterial plaque?
       answer: "<p>Dental or bacterial plaque is a white-yellowish sticky substance
-        that easily adheres to teeth and accumulates many species of microbes (aerobic
-        and anaerobic) within an intercellular matrix of organic origin. The plaque
-        is formed from food debris that has not been removed and that serve as a perfect
-        substrate for colonization and multiplication of bacteria. The importance
-        of its control lies in the fact that it is the main cause of the two most
-        common infections of the oral cavity: dental caries and periodontal disease.</p>\n"
+        that easily adheres to teeth and accumulates many species of microbes <em>(aerobic
+        and anaerobic)</em> within an intercellular matrix of organic origin. The
+        plaque is formed from food debris that has not been removed and that serve
+        as a perfect substrate for colonization and multiplication of bacteria. The
+        importance of its control lies in the fact that it is the main cause of the
+        two most common infections of the oral cavity: dental caries and periodontal
+        disease.</p>\n"
     - question: How is it different from calculus or dental tartar?
       answer: "<p>Dental calculus, also known as dental stone or dental tartar, is
         the result of solidification of the bacterial plaque by the precipitation
