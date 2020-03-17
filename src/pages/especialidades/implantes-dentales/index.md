@@ -195,13 +195,13 @@ faq:
         masticatorias, higiene oral, hábitos del paciente y, muy importante; asistencia
         a las revisiones periódicas posteriores para descartar o tratar a tiempo procesos
         infecciosos incipientes, desajustes o fallas de los componentes protésicos.</p>\n"
-    - question: "¿Existe la posibilidad de rechazo a un implante dental?"
+    - question: "¿Existe la posibilidad de rechazo a un Implante Dental?"
       answer: "<p>No hay en la literatura ningún caso descrito de alergia o toxicidad
         al titanio, por lo que no puede existir un rechazo propiamente dicho. Puede
         ocurrir que un implante no se oseointegre adecuadamente por un proceso infeccioso
         o trauma localizado <em>(generalmente por una prótesis prematura o mal elaborada)</em>
         y sea necesario sustituirlo por otro para solventar el problema. El porcentaje
-        de éxito en la actualidad, con implantes de gama alta, es superior al 98%
+        de éxito en la actualidad, con Implantes de Gama Alta, es superior al 98%
         de los casos.</p>\n"
     - question: "¿Qué es la periimplantitis?"
       answer: "<p>Los implantes y los dientes naturales son tan parecidos que son
