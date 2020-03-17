@@ -354,7 +354,7 @@ asides:
 
 '
     content: '<p style="font-weight:400">Al igual que con los implantes dentales convencionales,
-      son variadas las opciones disponibles a la hora de rehabilitar implantes cigomáticos.
+      son variadas las opciones disponibles a la hora de rehabilitar Implantes Cigomáticos.
       Aunque el diseño y confección de dentaduras híbridas metal-acrílico suele ser
       lo más habitual, las estructuras de porcelana aplican con total propiedad.</p>
 
