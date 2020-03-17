@@ -66,7 +66,7 @@ faq:
         a chronic, very acute or traumatic inflammation of its pulp tissue. Generally,
         the process begins at the most coronal fraction of the pulp and then extends
         to its root portion.</p>\n"
-    - question: Can a root canal treatment be performed in the presence of acute pain
+    - question: Can a Root Canal Treatment be performed in the presence of acute pain
         or inflammation?
       answer: "<p>Many times it is difficult. It is often necessary to prescribe antibiotics,
         analgesics and anti-inflammatory drugs before accessing the canals. In other
