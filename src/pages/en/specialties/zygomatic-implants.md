@@ -169,7 +169,7 @@ faq:
         period of time necessary to anesthetize, make incisions, dissect tissues,
         stipulate measures and approximations, select implants, mill, drill, screw
         and clean, to finally, suture the wound.</p>\n"
-    - question: Can anyone specialist perform this type of intervention?
+    - question: Can anyone Specialist perform this type of intervention?
       answer: "<p>This procedure, although not exclusive to our clinic, is not as
         common in general practice, because very few Dentists are truly trained to
         provide these treatments. The needed surgical skill for the placement of zygomatic
