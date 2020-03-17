@@ -340,7 +340,7 @@ asides:
 
 '
     content: '<p style="font-weight:400">As with conventional dental implants, the
-      options available when rehabilitating zygomatic implants are varied. Although
+      options available when rehabilitating Zygomatic Implants are varied. Although
       the design and confection of metal-acrylic hybrid dentures it is usually the
       most common, porcelain structures apply with total ownership.</p>
 
