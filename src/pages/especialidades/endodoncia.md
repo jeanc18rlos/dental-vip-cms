@@ -55,7 +55,7 @@ paragraphSection:
   image: "/img/aside-endodontics.jpg"
 quote:
   title: ''
-  body: 'Una adecuada e inmediata restauración post-endodoncia es el factor clave
+  body: 'Una adecuada e inmediata restauración Post-Endodoncia es el factor clave
     para prevenir reinfecciones, fracturas y pérdidas dentarias. En muchos casos una
     corona cerámica será el tratamiento de primera elección.
 
