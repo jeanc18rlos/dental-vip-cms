@@ -203,8 +203,8 @@ faq:
         are missing?
       answer: "<p>Yes in the past, since it was a procedure designed for this purpose,
         with 4 implants in total, 2 on each side of the upper jaw. However, at present,
-        modifications of the original technique are applied that allow the zygomatic
-        or pterygoid implant to be placed in a suitable position and compatible with
+        modifications of the original technique are applied that allow the Zygomatic
+        or Pterygoid Implant to be placed in a suitable position and compatible with
         a rehabilitation based on fixed partial prosthodontics <em>(crowns and ceramic
         bridges)</em>. In fact, nowadays are multiple possibilities offered by these
         implants, from the placement of a single asymmetric device, to countless combinations
