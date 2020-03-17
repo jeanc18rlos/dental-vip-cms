@@ -135,7 +135,7 @@ faq:
         occurs when the definitive restoration is not made as soon as possible, when
         new caries appear, in cases of advanced periodontal disease or when the tooth
         cracks and suffers a small fracture. Any of these situations could lead to
-        a reinfection.</p>\n"
+        a Reinfection.</p>\n"
     - question: Are teeth that have undergone root canal treatment more fragile?
       answer: "<p>Undoubtedly! The loss of tooth coronal structure and pulp mechanoreceptors
         make them less flexible, less resistant and more susceptible to fracture.
