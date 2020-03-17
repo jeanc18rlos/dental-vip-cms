@@ -260,7 +260,7 @@ clinicCases:
   - image: "/img/clinic-cases-zygomatic-implants-es-07-thumb.jpg"
     title: "<h6>Aspecto quirúrgico y postquirúrgico</h6>\n"
   - image: "/img/clinic-cases-zygomatic-implants-es-08-thumb.jpg"
-    title: "<h6>técnica clásica de branemark</h6>\n"
+    title: "<h6>técnica clásica de Brånemark</h6>"
   - image: "/img/clinic-cases-zygomatic-implants-es-09-thumb.jpg"
     title: "<h6>prótesis híbrida metal-acrílico</h6>\n"
   - image: "/img/clinic-cases-zygomatic-implants-es-10-thumb.jpg"
