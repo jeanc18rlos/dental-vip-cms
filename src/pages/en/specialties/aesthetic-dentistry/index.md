@@ -24,8 +24,8 @@ specialtiesHeading:
 paragraphSection:
   body: "<p>In today's society, where the image is so important, a pleasant appearance
     often means the difference between success and failure; personal and professional.
-    So that <b>a healthy and beautiful smile is not a luxury or a whim but almost
-    a necessity. The range of treatments at our disposal to correct dental imperfections
+    So that <b>a Healthy and Beautiful Smile is not a luxury or a whim but almost
+    a necessity. The range of treatments at our disposal to correct Dental Imperfections
     is increasingly wide and affordable</b>, and the results are becoming faster,
     safer and more accurate. Among them we have TEETH WHITENING systems based on hydrogen
     or carbamide peroxides photoactivatables with high intensity halogen lamps <em>(ZOOM
