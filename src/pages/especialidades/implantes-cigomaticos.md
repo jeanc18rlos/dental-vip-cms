@@ -20,7 +20,7 @@ specialtiesHeading:
   img: "/img/ZIGOMATICOS.jpg"
   content: Sin duda, la mejor alternativa para aquellos pacientes con gran pérdida
     de hueso en sus maxilares y en los que ya no es posible colocar implantes dentales
-    convencionales. “Una solución óptima a un problema complejo.”.
+    convencionales. “Una solución óptima a un problema complejo”.
 paragraphSection:
   body: "<p>\n  Cuando se pierden uno o varios dientes, y no son reemplazados a la
     brevedad,\n  se inicia de inmediato un lento pero progresivo proceso de reabsorción
