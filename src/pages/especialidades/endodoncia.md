@@ -169,7 +169,7 @@ faq:
         suele ocurrir cuando no se confecciona a la brevedad la restauración definitiva,
         cuando aparezcan nuevas caries, en casos de enfermedad periodontal avanzada
         o cuando el diente se fisure y sufra alguna pequeña fractura. Cualquiera de
-        estas situaciones podría derivar en una reinfección.</p>\n"
+        estas situaciones podría derivar en una Reinfección.</p>\n"
     - question: "¿Son más frágiles los dientes que han sufrido un tratamiento de conducto?"
       answer: "<p>¡Indudablemente! La pérdida de estructura dentaria coronal y de
         los mecanoreceptores pulpares los hacen menos flexibles, menos resistentes
