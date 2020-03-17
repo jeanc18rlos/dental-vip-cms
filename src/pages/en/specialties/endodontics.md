@@ -27,7 +27,7 @@ paragraphSection:
   image: "/img/aside-endodontics.jpg"
 quote:
   title: ''
-  body: 'An adequate and immediate post-endodontic restoration is the key factor to
+  body: 'An adequate and immediate Post-Endodontic Restoration is the key factor to
     prevent reinfections, fractures and dental losses. In many cases a ceramic crown
     will be the first choice treatment.
 
