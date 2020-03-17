@@ -125,7 +125,7 @@ faq:
         qualities superior to pure titanium.</p>\n"
     - question: What are their real advantages?
       answer: "<p>Compared to traditional oral implantology techniques, which contemplate
-        heroic alveolar reconstructions with multiple autologous grafts, long implants
+        heroic alveolar reconstructions with multiple autologous grafts, Long Implants
         offer the following advantages:</p> <ol>\n  <li>Avoid the high risk of rejection
         associated with maxillary grafts.\n  </li>\n  <li>They considerably reduce
         the total treatment time.\n  </li>\n  <li>They involve a much more conservative,
