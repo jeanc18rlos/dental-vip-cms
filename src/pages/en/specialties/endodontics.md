@@ -107,7 +107,7 @@ faq:
         of polymer substance similar to rubber and that is extracted from a tree originating
         from the islands of the Malay archipelago. Additionally, a cement is placed
         that guarantees apical sealing, usually based on calcium hydroxide.</p>\n"
-    - question: How to know if a root canal treatment was correctly performed?
+    - question: How to know if a Root Canal Treatment was correctly performed?
       answer: "<p>Basically due to the absence of symptoms and radiographic evidence.
         A well-performed root canal treatment should reflect a filling that extends
         until the apical constriction of the root, that lacks lights inside, that
