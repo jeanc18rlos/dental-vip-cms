@@ -227,7 +227,7 @@ faq:
         it routinely as a protective device in patients with extensive fixed or implant-supported
         rehabilitations.</p>\n"
 clinicCases:
-  title: General Dentistry - Clinic Cases
+  title: General Dentistry - Clinical Cases
   items:
   - image: "/img/clinic-cases-general-dentistry-en-01-thumb.jpg"
     title: "<h6>CERVICAL ABRASION INJURIES </h6>\n"
@@ -244,7 +244,7 @@ clinicCases:
   - image: "/img/clinic-cases-general-dentistry-en-07-thumb.jpg"
     title: "<h6>PROVISIONAL FIXED PROSTHESIS</h6>\n"
   - image: "/img/clinic-cases-general-dentistry-en-08-thumb.jpg"
-    title: "<h6>UPPER REMOVABLE PARTIAL DENTURE (RPD) </h6>\n"
+    title: "<h6>UPPER REMOVABLE PARTIAL DENTURE <em>(RPD)</em></h6>"
   - image: "/img/clinic-cases-general-dentistry-en-09-thumb.jpg"
     title: "<h6>FRACTURED INCISAL EDGES </h6>\n"
   - image: "/img/clinic-cases-general-dentistry-en-10-thumb.jpg"
