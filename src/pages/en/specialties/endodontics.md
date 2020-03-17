@@ -141,12 +141,12 @@ faq:
         make them less flexible, less resistant and more susceptible to fracture.
         That is why their permanence and longevity will depend on their adequate and
         immediate reconstruction.</p>\n"
-    - question: How long can I stay without the definitive restoration?
-      answer: "<p>The shortest possible time. As long as an endodontic treated tooth
+    - question: How long can I stay without the Definitive Restoration?
+      answer: "<p>The shortest possible time. As long as an Endodontic Treated Tooth
         is not restored, it will be prone to fracture and reinfection. In those cases
         of great destruction, which merit the manufacture of artificial posts and
         cores, we recommend starting the root preparation two or three days after
-        the endodontics is finished.</p>\n"
+        the Endodontics is finished.</p>\n"
 clinicCases:
   title: Endodontics - Clinical Cases
   items:
