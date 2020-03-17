@@ -18,7 +18,7 @@ hero:
 specialtiesHeading:
   display: true
   img: "/img/icon-general-dentistry.jpg"
-  content: El mejor tratamiento de cualquier enfermedad es su prevención y nuestro
+  content: El Mejor Tratamiento de Cualquier Enfermedad es su Prevención y nuestro
     principal objetivo debe ser el de interponer barreras biológicas que verdaderamente
     interfieran con su desarrollo.
 paragraphSection:
