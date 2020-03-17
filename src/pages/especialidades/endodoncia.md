@@ -170,7 +170,7 @@ faq:
         cuando aparezcan nuevas caries, en casos de enfermedad periodontal avanzada
         o cuando el diente se fisure y sufra alguna pequeña fractura. Cualquiera de
         estas situaciones podría derivar en una Reinfección.</p>\n"
-    - question: "¿Son más frágiles los dientes que han sufrido un tratamiento de conducto?"
+    - question: "¿Son más frágiles los dientes que han sufrido un Tratamiento de Conducto?"
       answer: "<p>¡Indudablemente! La pérdida de estructura dentaria coronal y de
         los mecanoreceptores pulpares los hacen menos flexibles, menos resistentes
         y más susceptibles a la fractura. Es por ello que de su adecuada e inmediata
