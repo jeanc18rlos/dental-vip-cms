@@ -171,8 +171,8 @@ faq:
         generalmente se ejecuta una técnica mixta. Se suele colocar hueso autólogo
         tomado del mismo paciente <em>(autoinjerto)</em> y hueso liofilizado de origen
         animal <em>(xenoinjerto)</em>.</p>\n"
-    - question: "¿Es normal la inflamación después de un procedimiento de cirugía
-        oral?"
+    - question: "¿Es normal la inflamación después de un procedimiento de Cirugía
+        Oral?"
       answer: "<p>Es natural experimentar cierta hinchazón después de cualquier cirugía.
         Un corte quirúrgico en la piel o mucosa, también llamado incisión, es una
         forma de agresión al organismo. La respuesta natural del cuerpo a una lesión
