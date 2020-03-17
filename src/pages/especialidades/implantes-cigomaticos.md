@@ -207,8 +207,8 @@ faq:
       answer: "<p>¡Indudablemente!, tomando en consideración que son hasta 4 veces
         más largos que los convencionales y se necesita mucho más titanio para su
         fabricación, requieren quirófano y anestesia general, instrumental y componentes
-        quirúrgicos de diseño avanzado, una intervención de cirugía mayor más larga
-        e invasiva y la participación de un experto Cirujano Maxilofacial.</p>\n"
+        quirúrgicos de diseño avanzado, una intervención de cirugía más larga e invasiva
+        y la participación de un experto Cirujano Maxilofacial.</p>\n"
     - question: "¿Qué tipo de prótesis se puede después confeccionar?"
       answer: "<p>Usualmente una prótesis híbrida de metal-acrílico o metal-porcelana.</p>\n"
     - question: "¿Solo se utilizan para fijar dentaduras completas, es decir, cuando
