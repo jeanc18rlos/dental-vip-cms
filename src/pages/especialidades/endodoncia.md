@@ -142,7 +142,7 @@ faq:
         a base de hidróxido de calcio.</p>\n"
     - question: "¿Cómo saber si un Tratamiento de Endodoncia fue correctamente realizado?"
       answer: "<p>Básicamente por la ausencia de sintomatología y por la evidencia
-        radiográfica. Un tratamiento de conducto bien realizado debe reflejar una
+        radiográfica. Un Tratamiento de Conducto bien realizado debe reflejar una
         obturación que se prolongue hasta la constricción apical de la raíz, que carezca
         de luces en su interior, que tenga cuerpo y volumen suficiente, que sea compacta
         en toda su extensión y que reproduzca fielmente la forma cónica del conducto
