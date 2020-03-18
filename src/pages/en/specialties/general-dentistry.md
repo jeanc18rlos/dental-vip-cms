@@ -221,7 +221,7 @@ faq:
       answer: "<p>The dental, discharge, stabilization or deprogramming splint is
         a transparent, hard, custom-made acrylic resin device that is placed on the
         upper or lower arch <em>(depending on the characteristics of the case)</em>
-        of the patient, and which is used for palliative treatment of bruxism and
+        of the patient, and which is used for palliative treatment of Bruxism and
         to reduce muscle hyperactivity associated with occlusal, functional and inflammatory
         disorders of the temporomandibular joint <em>(TMJ)</em>. We also indicate
         it routinely as a protective device in patients with extensive fixed or implant-supported
