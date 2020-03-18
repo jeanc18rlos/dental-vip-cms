@@ -55,7 +55,7 @@ paragraphSection:
   image: "/img/aside-general-dentistry.jpg"
 quote:
   title: ''
-  body: 'Desafortunadamente, la caries dental representa un serio problema de salud
+  body: 'Desafortunadamente, la Caries Dental representa un serio problema de salud
     pública en nuestro medio, por cuanto más del 98% de la población Venezolana la
     ha padecido, padece o padecerá en algún momento de su vida.
 
