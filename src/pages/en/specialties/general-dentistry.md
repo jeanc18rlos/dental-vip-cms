@@ -127,7 +127,7 @@ faq:
         the technique is appropriate. Electric brushes may work better than manual
         ones in people with limited dexterity, arthritis, degenerative or mental diseases
         that compromising motor skills.</p>\n"
-    - question: How often should I visit the dentist?
+    - question: How often should I visit the Dentist?
       answer: "<p>Normally recommended once a year. Fortunately, the process of caries
         and tartar development is relatively slow if reasonable oral hygiene is practiced,
         so a check every 12 months will be adequate to prevent diseases, detect and
