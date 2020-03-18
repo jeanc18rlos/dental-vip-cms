@@ -286,7 +286,7 @@ asides:
 
 '
     content: '<p  style="font-weight:400">Thanks to their color, texture and transparency,
-      Porcelain or Sapphire Crystals aesthetic brackets mimetize with dental enamel
+      Porcelain or Sapphire Crystals Aesthetic Brackets mimetize with dental enamel
       and are particularly suitable for those persons who, due to their work or social
       activity, want a very low profile treatment but of proven clinical quality.</p>
 
