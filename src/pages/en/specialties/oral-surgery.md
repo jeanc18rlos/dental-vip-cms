@@ -24,27 +24,27 @@ specialtiesHeading:
 paragraphSection:
   body: "<p>Although the mouth represents a small and limited region of the human
     body, <b>a large number of congenital and/or acquired pathological entities that
-    require elective surgical treatment can be presented in it. </b> Among the most
-    common of those that are treated in our clinic, we can mention the extraction
-    of the included third molars  <em>(wisdom teeth)</em>, simple, complex and multiple
-    dental extractions, placement of DENTAL IMPLANTS, phrenilectomies, apicectomies
-    and periapical surgeries, excision and biopsy of minor oral lesions and dentigerous
-    cysts; among others.</p>\n<p><b>Usually all these procedures are performed under
-    local anesthesia,</b> however, they are occasionally executed in conjunction with
-    an Anesthesiologist under CONSCIOUS SEDATION, especially in excessively nervous
-    patients or with any physical or emotional commitment. <b>Its objective is to
-    get people into a state of tranquility and deep relaxation during the clinical
-    act.</b></p>\n<p><b>Although the purpose of the intervention may vary, the techniques
-    used are always very similar, </b>  and involve, prior anesthesia, the gum incision,
-    its detachment to a greater or lesser extent, the removal of pathological or excessive
-    tissues, placement of implants or biocompatible grafts, and finally; the closure
-    and suture of the wound. It will always be essential, for the final success of
-    the procedure, that the operator knows in detail the specific function and clinical
-    application of the numerous surgical instruments of DIERESIS, EXERESIS and SYNTHESIS.</p>\n<p><b>Oral
-    Surgery is science, art and skill, </b> and although it is governed by the same
-    principles of general surgery, it has its own peculiarities that emanate from
-    the anatomical area to be treated. Not in vain, <b>it is the oldest Specialty
-    of Dentistry.</b></p> \n"
+    require elective surgical</b> can be presented in it. Among the most common of
+    those that are treated in our clinic, we can mention the extraction of the included
+    third molars  <em>(wisdom teeth)</em>, simple, complex and multiple dental extractions,
+    placement of DENTAL IMPLANTS, phrenilectomies, apicectomies and periapical surgeries,
+    excision and biopsy of minor oral lesions and dentigerous cysts; among others.</p>\n<p><b>Usually
+    all these procedures are performed under local anesthesia,</b> however, they are
+    occasionally executed in conjunction with an Anesthesiologist under CONSCIOUS
+    SEDATION, especially in excessively nervous patients or with any physical or emotional
+    commitment. <b>Its objective is to get people into a state of tranquility and
+    deep relaxation during the clinical act.</b></p>\n<p><b>Although the purpose of
+    the intervention may vary, the techniques used are always very similar, </b>  and
+    involve, prior anesthesia, the gum incision, its detachment to a greater or lesser
+    extent, the removal of pathological or excessive tissues, placement of implants
+    or biocompatible grafts, and finally; the closure and suture of the wound. It
+    will always be essential, for the final success of the procedure, that the operator
+    knows in detail the specific function and clinical application of the numerous
+    surgical instruments of DIERESIS, EXERESIS and SYNTHESIS.</p>\n<p><b>Oral Surgery
+    is science, art and skill, </b> and although it is governed by the same principles
+    of general surgery, it has its own peculiarities that emanate from the anatomical
+    area to be treated. Not in vain, <b>it is the oldest Specialty of Dentistry.</b></p>
+    \n"
   image: "/img/aside-oral-surgery.jpg"
 quote:
   title: ''
