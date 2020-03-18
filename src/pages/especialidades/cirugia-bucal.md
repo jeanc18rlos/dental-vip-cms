@@ -86,7 +86,7 @@ faq:
         sanguínea y cicatrización tisular. De modo que un análisis de sangre será
         rutinario como requisito previo a la intervención.</p>\n"
     - question: "¿Debe el paciente acudir en ayunas?"
-      answer: "<p>Por el contrario. Si el procedimiento va a ser realizado bajo anestesia
+      answer: "<p>¡Por el contrario! Si el procedimiento va a ser realizado bajo anestesia
         local, debemos siempre evitarlo. El ayuno es únicamente necesario en casos
         de anestesia general.</p>\n"
     - question: "¿Cuáles otros cuidados preoperatorios son recomendables?"
