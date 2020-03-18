@@ -92,7 +92,7 @@ faq:
         work under the precept of the golden or divine proportion, try as much as
         possible that the new restorations keep in tune with one of the most used
         parameters in plastic surgery and aesthetic medicine, which suggests that
-        a proportional ratio of 1 / 1,618 between the size of nearby and well-defined
+        a proportional ratio of 1/1,618 between the size of nearby and well-defined
         elements, it will guarantee success in the expression and projection of harmony,
         beauty and naturalness.</p>\n"
     - question: When is tooth whitening indicated?
