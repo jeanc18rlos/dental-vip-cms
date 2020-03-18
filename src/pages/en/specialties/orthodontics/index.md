@@ -83,9 +83,9 @@ faq:
         abnormalities of shape, size and position of the maxillary bones.</span></p>\n"
     - question: What is a dentofacial deformity?
       answer: "<p>It is a skeletal and dental malocclusion of such magnitude that
-        it also compromises the facial aesthetics of the person. In these cases, orthodontic
-        treatment alone is not enough and must be combined with orthognathic surgery
-        procedures so that the maxillofacial surgeon can reposition the dysplastic
+        it also compromises the facial aesthetics of the person. In these cases, Orthodontic
+        Treatment alone is not enough and must be combined with Orthognathic Surgery
+        procedures so that the Maxillofacial Surgeon can reposition the dysplastic
         maxillary structures.</span></p>\n"
     - question: Why is it important to correct malocclusions and align teeth?
       answer: "<p>Because socially it is very favorable to have a good appearance,
