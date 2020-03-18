@@ -161,10 +161,11 @@ faq:
         the dispositives. These excesses are extremely harmful because in a short
         time they cause tooth decay, dental decalcification and severe gingival inflammation.</span></p>\n"
     - question: Is it necessary to have some kind of special care during treatment?
-      answer: "<p>Of course, oral hygiene is a key factor for its success. It is essential
-        to brush after each meal, use the interdental brush, floss and mouthwash.
-        Periodic checks with the General Dentist, and in some cases with the Periodontist,
-        are also recommended, so that teeth and gums remain healthy at all times.</span></p>\n"
+      answer: "<p>Of course that oral hygiene is a key factor for its success. It
+        is essential to brush after each meal, use the interdental brush, floss and
+        mouthwash. Periodic checks with the General Dentist, and in some cases with
+        the Periodontist, are also recommended, so that teeth and gums remain healthy
+        at all times.</span></p>\n"
     - question: What things can not be eaten with dental appliances?
       answer: "<p>You can practically eat everything, however, it is advisable to
         avoid some excessively hard foods such as ice and bones, and sticky like chewing
