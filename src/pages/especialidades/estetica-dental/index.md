@@ -171,7 +171,7 @@ faq:
         fluorescencia y opalescencia de los dientes restaurados. Entre las cerámicas
         de última generación más utilizadas están: DC-Zircón® <em>(DCS)</em>, Cercon®
         <em>(Dentsply)</em>, In-Ceram® YZ <em>(Vita)</em>, Procera® Zirconia <em>(Nobel
-        Biocare)</em>, Lava® <em>(3M Espe)</em> e IPS e.max® <em>(Ivoclar)</em>, entre
+        Biocare)</em>, Lava® <em>(3M Espe)</em> e IPS e.max® <em>(Ivoclar)</em>; entre
         otras.</p>\n"
     - question: "¿Qué es una incrustación?"
       answer: "<p>Es un tipo de restauración indirecta <em>(se fabrica en el laboratorio)</em>
