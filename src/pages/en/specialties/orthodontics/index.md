@@ -36,13 +36,13 @@ paragraphSection:
     brackets</strong></span>; it all depends on your preference.</span></p> <p>In
     the initial phase of DIAGNOSIS we use <strong>digital photographs, panoramic radiographs
     and computerized cephalometries</strong></span> <em>(Ricketts, Jarabak, Downs
-    and Steiner)</em> to plan all orthodontic mechanotherapy and achieve highly predictable,
+    and Steiner)</em> to plan all Orthodontic mechanotherapy and achieve highly predictable,
     aesthetic and functional results.</p> <p>Additionally, we routinely handle <strong>craniofacial
     growth modification techniques</strong> for the treatment of skeletal malocclusions
     in children and adolescents, through the use of DENTOFACIAL ORTHOPEDICS and functional
     jaw orthopedics devices <em>(removable appliances)</em> that allow us to recover
     the facial and biological balance lost by developmental disorders.<strong> In
-    the extreme cases of severe dentofacial deformities, a combined orthodontic-surgical
+    the extreme cases of severe dentofacial deformities, a combined Orthodontic-Surgical
     approach is already necessary</strong>, so that the execution of the treatment
     implies the joint and coordinated participation with the Maxillofacial Surgeon,
     who will be responsible for repositioning the affected maxillary structures through
@@ -69,8 +69,8 @@ faq:
     - question: What is Orthodontics?
       answer: "<p>It is the Specialty of Dentistry responsible for the prevention,
         diagnosis and treatment of malocclusions and dentofacial deformities. It is
-        based on the knowledge of the craniofacial growth and development process
-        and the domain of biomechanics, a science that deals with studying and controlling
+        based on the knowledge of the craniofacial growth, development process and
+        the domain of biomechanics, a science that deals with studying and controlling
         the vectors, intensities, senses and physical effects of the forces that need
         to be applied on the teeth to move them and correct your position.</span></p>\n"
     - question: What is a malocclusion?
