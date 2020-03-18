@@ -44,10 +44,10 @@ paragraphSection:
     the one who does the cavitary preparations necessary for the Treatment of Dental
     Caries</strong>, applying conservative designs and trying to preserve pulp vitality
     at all times, to finally; return to the organ its usual anatomy and functionality
-    through the Dental Restoration process. He must therefore know and handle the
-    different adhesive systems based on the acid etching technique, the multiple restorative
-    materials based on dental composites and the most basic and universal principles
-    of occlusion and masticatory function.</p> \n"
+    through the Dental Restoration process. He must therefore know and properly manage
+    the different adhesive systems based on the acid etching technique, the multiple
+    restorative materials based on dental composites and the most basic and universal
+    principles of occlusion and masticatory function.</p> \n"
   image: "/img/aside-general-dentistry.jpg"
 quote:
   title: ''
