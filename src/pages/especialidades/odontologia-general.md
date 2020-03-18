@@ -147,15 +147,15 @@ faq:
         mayor, que puede oscilar entre 2 y 4 veces al año. Un caso típico es el de
         aquellos pacientes que sufren de gingivitis o periodontitis crónica, y que
         suelen requerir de una terapia permanente de soporte periodontal.</p>\n"
-    - question: "¿Por qué son necesarias varias radiografías para hacer un buen diagnóstico
-        oral?"
+    - question: "¿Por qué son necesarias varias radiografías para hacer un buen Diagnóstico
+        Oral?"
       answer: "<p>Porque exponen detalles que no son accesibles al ojo humano. Solo
         a través de las imágenes radiológicas podremos detectar las muy frecuentes
         caries proximales <em>(las que se forman en las superficies de contacto de
         los dientes)</em>, las alteraciones y resorciones del hueso alveolar e interproximal,
         las enfermedades periodontales, las afecciones pulpares y periapicales, las
         reabsorciones radiculares, los dientes incluidos, los tumores y quistes odontogénicos
-        y las restauraciones defectuosas o permeables; entre otras anomalías. Un diagnóstico
+        y las restauraciones defectuosas o permeables; entre otras anomalías. Un Diagnóstico
         sin el soporte de la evidencia radiográfica dejará siempre mucho que desear.</p>\n"
   - questions:
     - question: "¿Qué es una tartrectomía o profilaxis?"
