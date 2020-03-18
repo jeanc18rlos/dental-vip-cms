@@ -106,7 +106,7 @@ faq:
         viva o pulpa muerta, de si hay o no presencia de exudado y del número de raíces
         y conductos a tratar; entre otros. Por norma general, los tratamientos se
         completan en una, dos o tres sesiones clínicas.</p>\n"
-    - question: "¿Existe alguna otra alternativa a la Terapia Endodóntica?"
+    - question: "¿Existe alguna otra alternativa a la terapia endodóntica?"
       answer: "<p>Solo la extracción dental.</p>\n"
     - question: "¿Es necesario colocar anestesia?"
       answer: "<p>¡Por supuesto! Por lo general son tejidos infectados, inflamados
