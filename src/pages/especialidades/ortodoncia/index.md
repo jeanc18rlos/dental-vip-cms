@@ -127,10 +127,10 @@ faq:
     - question: "¿Qué diferencias hay entre los brackets metálicos y los brackets
         estéticos?"
       answer: "<p>Principalmente el color y el material. Los brackets estéticos están
-        fabricados de plástico, porcelana (blancos) o cristales de zafiro (transparentes),
-        lo que los hace prácticamente imperceptibles a simple vista. Otra diferencia
-        importante a considerar es el costo, ya que los brackets estéticos de comprobada
-        calidad triplican en valor a los de acero inoxidable.</p>\n"
+        fabricados de plástico, porcelana <em>(blancos)</em> o cristales de zafiro
+        <em>(transparentes)</em>, lo que los hace prácticamente imperceptibles a simple
+        vista. Otra diferencia importante a considerar es el costo, ya que los brackets
+        estéticos de comprobada calidad triplican en valor a los de acero inoxidable.</p>\n"
   - questions:
     - question: "¿Existen otras alternativas que sean aún más estéticas?"
       answer: '<p>En la actualidad ha habido un repunte impresionante de antiguas
