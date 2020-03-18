@@ -151,19 +151,19 @@ faq:
         amazing. Today we have composites or dental resins composed of nanometric
         filling material that provide excellent physical and aesthetic properties,
         and with which it is possible to achieve anterior and posterior direct adhesive
-        restorations <em>(made by the Dentist)</em>, perfectly smooth and polished;
-        of brightness, color and texture similar to tooth enamel. They are indicated
-        for the treatment of caries, fractures and aesthetic defects of little extension.
-        For the manufacture of veneers, crowns and inlays in the laboratory, the great
-        novelty is the use of ceramics <em>(popularly called porcelains)</em> based
-        on Zirconium Oxide <em>(ZrO2)</em> and Lithium Disilicate <em>(LS2)</em>,
-        with very high resistance to bending and fracture that makes it possible to
-        completely dispense with the use of base metal alloys, and consequently, drastically
-        improve the transparency, fluorescence and opalescence properties of the restored
-        teeth. Among the most used state-of-the-art ceramics are: DC-Zircón® <em>(DCS)</em>,
-        Cercon® <em>(Dentsply)</em>, In-Ceram® YZ <em>(Vita)</em>, Procera® Zirconia
-        <em>(Nobel Biocare)</em>, Lava® <em>(3M Espe)</em> and IPS e .max® <em>(Ivoclar)</em>;
-        among others.</p>\n"
+        restorations <em>(made in the mouth by the Dentist)</em>, perfectly smooth
+        and polished; of brightness, color and texture similar to tooth enamel. They
+        are indicated for the treatment of caries, fractures and aesthetic defects
+        of little extension. For the manufacture of veneers, crowns and inlays in
+        the laboratory, the great novelty is the use of ceramics <em>(popularly called
+        porcelains)</em> based on Zirconium Oxide <em>(ZrO2)</em> and Lithium Disilicate
+        <em>(LS2)</em>, with very high resistance to bending and fracture that makes
+        it possible to completely dispense with the use of base metal alloys, and
+        consequently, drastically improve the transparency, fluorescence and opalescence
+        properties of the restored teeth. Among the most used state-of-the-art ceramics
+        are: DC-Zircón® <em>(DCS)</em>, Cercon® <em>(Dentsply)</em>, In-Ceram® YZ
+        <em>(Vita)</em>, Procera® Zirconia <em>(Nobel Biocare)</em>, Lava® <em>(3M
+        Espe)</em> and IPS e .max® <em>(Ivoclar)</em>; among others.</p>\n"
     - question: What are inlays and onlays?
       answer: "<p>They are a type of indirect restorations <em>(manufactured in the
         laboratory)</em> that are used to aesthetically reconstruct endodontically
