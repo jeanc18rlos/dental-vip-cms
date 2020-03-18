@@ -151,10 +151,10 @@ faq:
         así solventar el problema.</p>\n"
     - question: "¿Es necesario colocarlos en todos los dientes?"
       answer: "<p>En la gran mayoría de los casos sí. Para obtener resultados óptimos
-        es también necesario colocar bandas (anillos metálicos) en los molares, ya
-        que son estos los que proporcionan el anclaje necesario para efectuar y controlar
-        la gran mayoría de los movimientos dentales contemplados en la fase de planificación
-        del tratamiento.</p>\n"
+        es también necesario colocar bandas <em>(anillos metálicos)</em> en los molares,
+        ya que son estos los que proporcionan el anclaje necesario para efectuar y
+        controlar la gran mayoría de los movimientos dentales contemplados en la fase
+        de planificación del tratamiento.</p>\n"
     - question: "¿Es normal que se manchen o pigmenten los dientes alrededor de los
         brackets?"
       answer: "<p>¡Para nada! Generalmente este es el primer signo de un tratamiento
