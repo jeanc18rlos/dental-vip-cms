@@ -112,7 +112,7 @@ faq:
         they cannot be placed in the presence of extensive apical lesions and/or active
         periodontal pathology.</p>\n"
     - question: Is it always necessary to extract the third molars or wisdom teeth?
-      answer: "<p>Definitely not. They should be removed when they are unable to erupt
+      answer: "<p>Definitely not! They should be removed when they are unable to erupt
         due to lack of space and remain included, when generate pain or chronic discomfort,
         when erupt in a bad position, when interfere with occlusion or bite or when
         they suffer carious lesions of considerable extent.</p>\n"
