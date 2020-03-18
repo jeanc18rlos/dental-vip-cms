@@ -28,8 +28,8 @@ paragraphSection:
     beauty of the smile as the great north and supreme objective of Orthodontics,
     in DENTAL VIP we use with great success the STRAIGHT WIRE TECHNIQUE with preadjusted
     devices according to the philosophy and prescription of Dr. Ronald Roth for the
-    treatment of malocclusions and dental malpositions. <strong>This technique </strong></span><em><strong>(straight
-    wire system)</strong></em></span><strong> uses very light forces that allow us
+    treatment of malocclusions and dental malpositions. <strong>This technique </strong></span><em><strong>(Straight
+    Wire System)</strong></em></span><strong> uses very light forces that allow us
     to move the teeth with total accuracy in the 3 planes of the space</strong></span>,
     achieving ideal positions perfectly compatible with the most demanding standards
     of contemporary dental aesthetics. In that sense, we can use conventional or <strong>aesthetic
