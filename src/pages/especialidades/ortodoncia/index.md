@@ -293,7 +293,7 @@ asides:
 
 '
     content: '<p  style="font-weight:400">Gracias a su color, textura y transparencia
-      los brackets estéticos de Porcelana o Cristales de Zafiro se mimetizan con el
+      los Brackets Estéticos de Porcelana o Cristales de Zafiro se mimetizan con el
       esmalte dental y son particularmente propicios para aquellas personas que por
       su trabajo o actividad social deseen un tratamiento de muy bajo perfil pero
       comprobada calidad clínica.</p>
