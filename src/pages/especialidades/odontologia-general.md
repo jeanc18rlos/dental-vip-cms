@@ -234,7 +234,7 @@ faq:
         es un dispositivo de resina acrílica transparente, duro, hecho a medida y
         que se coloca en la arcada superior o inferior <em>(según las características
         del caso)</em> del paciente, y que sirve para el tratamiento paliativo del
-        bruxismo y para reducir la hiperactividad muscular asociada con los trastornos
+        Bruxismo y para reducir la hiperactividad muscular asociada con los trastornos
         oclusales, funcionales e inflamatorios de la articulación temporomandibular
         <em>(ATM)</em>. También lo indicamos de rutina como aparato protector en pacientes
         con rehabilitaciones fijas extensas o implantoasistidas.</p>\n"
