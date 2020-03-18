@@ -51,7 +51,7 @@ paragraphSection:
   image: "/img/aside-general-dentistry.jpg"
 quote:
   title: ''
-  body: 'Unfortunately, tooth decay represents a serious public health problem in
+  body: 'Unfortunately, Tooth Decay represents a serious public health problem in
     our environment, because more than 98% of the Venezuelan population has suffered,
     suffers or will suffer it at some time throughout life.
 
