@@ -183,10 +183,10 @@ faq:
     - question: How are they cured or eliminated?
       answer: "<p>It depends on the development, extension and depth of them. If it
         is incipient or moderate, all infected tissue is removed and the cavity is
-        sealed with a special material, usually based on dental composite resins.
+        sealed with a special material, usually based on Dental Composite Resins.
         In more advanced states, caries usually affects the dental pulp or nerve of
-        the tooth and it is then necessary to perform a root canal treatment. In addition,
-        after endodontics, a ceramic inlay or crown is usually indicated to protect
+        the tooth and it is then necessary to perform a Root Canal Treatment. In addition,
+        after Endodontics, a Ceramic Inlay or Crown is usually indicated to protect
         the weakened remaining dental structure and prevent its fracture.</p>\n"
     - question: Is dental amalgam still used?
       answer: "<p>Although the appearance of new adhesive materials for direct filling
