@@ -44,8 +44,8 @@ paragraphSection:
     <i>(aparatos removibles)</i> que nos permiten recuperar el equilibrio facial y
     biológico perdido por las alteraciones del desarrollo.  <strong>En los casos extremos
     de deformidades dentofaciales severas es ya entonces necesario un abordaje combinado
-    ortodóncico-quirúrgico, </strong> de modo que la ejecución del tratamiento implica
-    la participación conjunta y coordinada con el Cirujano maxilofacial, quien se
+    Ortodóncico-Quirúrgico, </strong> de modo que la ejecución del tratamiento implica
+    la participación conjunta y coordinada con el Cirujano Maxilofacial, quien se
     encargará de reposicionar las estructuras maxilares afectadas a través de los
     diversos procedimientos de CIRUGÍA ORTOGNÁTICA.</p>  \n"
   image: "/img/aside-orthodontics.jpg"
