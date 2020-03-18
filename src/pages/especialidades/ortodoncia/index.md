@@ -87,7 +87,7 @@ faq:
       answer: "<p>Es una maloclusión esquelética y dental de tal magnitud que compromete
         además la estética facial de la persona. En estos casos el solo tratamiento
         ortodóncico no es suficiente y debe ser combinado con procedimientos de Cirugía
-        ortognática para que el Cirujano maxilofacial pueda reposicionar quirúrgicamente
+        Ortognática para que el Cirujano Maxilofacial pueda reposicionar quirúrgicamente
         las estructuras maxilares displásicas.</p>\n"
     - question: "¿Por qué es importante corregir las maloclusiones y alinear los dientes?"
       answer: "<p>Porque socialmente es muy favorable tener buena apariencia, y además,
@@ -97,11 +97,11 @@ faq:
     - question: "¿Necesito un Odontólogo o un Ortodoncista?"
       answer: "<p>Durante la carrera de Odontología apenas se imparten algunos conceptos
         básicos acerca de Ortodoncia, por lo tanto se requieren estudios adicionales
-        de Especialización <em>(Postgrado Universitario de 2 o 3 años de duración)</em>
+        de especialización <em>(Postgrado Universitario de 2 o 3 años de duración)</em>
         para estar verdaderamente capacitado en el área. Tenga esto siempre presente,
         evite fracasos y malas experiencias que lamentablemente son muy comunes. Los
         cursos cortos y diplomados de Ortodoncia son excelentes para que el Odontólogo
-        general aprenda a detectar e interceptar algunas maloclusiones, pero de ninguna
+        General aprenda a detectar e interceptar algunas maloclusiones, pero de ninguna
         manera le capacitan para llevar a cabo tratamientos de Ortodoncia correctiva.</p>\n"
     - question: "¿A qué edad se debe iniciar un tratamiento de Ortodoncia?"
       answer: "<p>No existe una edad específica, todo depende del tipo y severidad
