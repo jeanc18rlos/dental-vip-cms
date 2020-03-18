@@ -106,8 +106,8 @@ faq:
     - question: "¿A qué edad se debe iniciar un tratamiento de Ortodoncia?"
       answer: "<p>No existe una edad específica, todo depende del tipo y severidad
         del problema. Es ideal acudir a consulta durante el período de dentición mixta
-        (entre los 7 y 9 años de edad) para descartar cualquier alteración dental
-        y sobre todo esquelética, ya que la modificación del crecimiento (Ortopedia)
+        <em>(entre los 7 y 9 años de edad)</em> para descartar cualquier alteración
+        dental y sobre todo esquelética, ya que la modificación del crecimiento (Ortopedia)
         solo es posible antes del desarrollo o madurez sexual. Las maloclusiones puramente
         dentarias pueden ser tratadas en cualquier etapa de la vida.</p>\n"
     - question: "¿Cuánto tiempo dura un tratamiento de este tipo?"
