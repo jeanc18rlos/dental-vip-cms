@@ -110,10 +110,10 @@ faq:
       answer: "<p>¡En lo absoluto! Aunque tal fenómeno podría deberse a una condición
         de orden sistémico, la causa habitual obedece a la acumulación crónica de
         placa dental que genera una entidad patológica inflamatoria reversible conocida
-        como gingivitis, pero que agravada, conduce a la formación de sarro, sacos
-        patológicos, resorción del hueso alveolar y caída de los dientes <em>(periodontitis)</em>.
-        La hemorragia de origen gingival es el signo más evidente de la llamada enfermedad
-        periodontal.</p>\n"
+        como Gingivitis, pero que agravada, conduce a la formación de sarro, sacos
+        patológicos, resorción del hueso alveolar y caída de los dientes <em>(Periodontitis)</em>.
+        La hemorragia de origen gingival es el signo más evidente de la llamada Enfermedad
+        Periodontal.</p>\n"
     - question: "¿Por qué se produce el mal aliento?"
       answer: "<p>La halitosis, también conocida como mal aliento, se define como
         el conjunto de olores desagradables que se emiten por la boca. Es un problema
