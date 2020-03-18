@@ -302,7 +302,7 @@ asides:
 '
     content: '<p style="font-weight:400">We have the best LED <em>(Light Emitting
       Diode)</em> cold light system for teeth whitening. In just a 45-minute session
-      he is able to clarify the color of the teeth in up to eight shades, without
+      it is able to clarify the color of the teeth in up to eight shades, without
       any potential risk and with truly amazing results.</p>
 
 '
