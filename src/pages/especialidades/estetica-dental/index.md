@@ -43,7 +43,7 @@ paragraphSection:
     firmemente a las estructuras dentarias y que se indican para la corrección de
     los defectos estéticos de mayor extensión y gravedad.</p><p><strong>Hoy en día
     la Odontología Estética prácticamente no tiene límites, </strong>salvo la creatividad,
-    destreza y preparación del Odontólogo tratante.</p>  \n"
+    destreza y preparación del equipo profesional.</p>  \n"
   image: "/img/aside-aesthetic-dentistry.jpg"
 quote:
   title: ''
