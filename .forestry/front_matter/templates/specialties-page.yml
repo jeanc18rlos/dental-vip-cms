@@ -269,6 +269,7 @@ pages:
 - src/pages/en/specialties/endodontics.md
 - src/pages/en/specialties/general-dentistry.md
 - src/pages/en/specialties/oral-surgery.md
+- src/pages/en/specialties/orthodontics/index.md
 - src/pages/en/specialties/zygomatic-implants.md
 - src/pages/especialidades/cirugia-bucal.md
 - src/pages/especialidades/endodoncia.md
