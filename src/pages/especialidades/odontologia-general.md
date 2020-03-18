@@ -209,11 +209,11 @@ faq:
         donde los dientes restaurados, por el tipo de mordida, queden expuestos a
         fuerzas o sobrecargas considerables; tal y como ocurre con muchos dientes
         posteriores, a nivel de molares.</p>\n"
-    - question: "¿Qué son y cómo se colocan las resinas o composites?"
+    - question: "¿Qué son y cómo se colocan las Resinas o Composites?"
       answer: "<p>Son materiales sintéticos mezclados heterogéneamente para formar
         un solo compuesto de elementos variados. Se utilizan en Odontología para obturar
         dientes porque son muy estéticos, y además, se adhieren micromecánicamente
-        a su superficie mediante la técnica de grabado ácido. Las resinas compuestas
+        a su superficie mediante la técnica de grabado ácido. Las Resinas Compuestas
         constan de un componente orgánico polimérico llamado matriz y un componente
         inorgánico que actúa como mineral de relleno. Generalmente son fotosensibles
         y se utiliza luz halógena para su colocación.</p>\n"
