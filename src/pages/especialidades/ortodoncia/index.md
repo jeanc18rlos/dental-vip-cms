@@ -28,8 +28,8 @@ paragraphSection:
     la belleza de la sonrisa como el gran norte y objetivo supremo de la Ortodoncia,
     en DENTAL VIP nos valemos con gran éxito de la TÉCNICA DE ARCO RECTO con aparatos
     preajustados según la filosofía y prescripción del Dr. Ronald Roth para el tratamiento
-    de las maloclusiones y malposiciones dentarias.  <strong>Esta técnica <i>(straight
-    wire system)</i> emplea fuerzas muy ligeras que nos permiten mover los dientes
+    de las maloclusiones y malposiciones dentarias.  <strong>Esta técnica <i>(Straight
+    Wire System)</i> emplea fuerzas muy ligeras que nos permiten mover los dientes
     con total exactitud en los 3 planos del espacio,  </strong>logrando posiciones
     ideales perfectamente compatibles con los estándares más exigentes de la estética
     dental contemporánea. En tal sentido, podemos utilizar brackets convencionales
