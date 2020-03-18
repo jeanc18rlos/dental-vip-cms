@@ -137,14 +137,14 @@ faq:
         may be necessary, which can range between 2 and 4 times a year. A typical
         case is that of those patients who suffer from gingivitis or chronic periodontitis,
         and who usually require permanent periodontal support therapy.</p>\n"
-    - question: Why are several x-rays necessary to make a good oral diagnosis?
+    - question: Why are several x-rays necessary to make a good Oral Diagnosis?
       answer: "<p>Because they expose details that are not accessible to the human
         eye. Only through radiological images we will can detect the very frequent
         proximal caries <em>(those that form on the contact surfaces of the teeth)</em>,
         alveolar and interproximal bone alterations and resorptions, periodontal diseases,
         pulp and periapical conditions, root resorptions, impacted teeth, odontogenic
         tumors and cysts and defective or permeable restorations; among other anomalies.
-        A diagnosis without the support of radiographic evidence will always leave
+        A Diagnosis without the support of radiographic evidence will always leave
         much to be desired.</p>\n"
   - questions:
     - question: What is a tartrectomy or prophylaxis?
