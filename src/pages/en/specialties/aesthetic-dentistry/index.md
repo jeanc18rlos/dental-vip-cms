@@ -199,7 +199,7 @@ faq:
         material and each type of restoration. The cemented adhesive technique promotes
         the formation of strong chemical and mechanical bonds between tooth and restoration.</p>\n"
     - question: Are all veneers of porcelain?
-      answer: "<p>No. They can also be made of composite resins by direct technique,
+      answer: "<p>No! They can also be made of composite resins by direct technique,
         in a single session and without the intervention of the dental laboratory,
         however, they are much less aesthetic, less resistant and have a shorter shelf
         life than ceramic ones. The latters can remain up to 20 years in the mouth.</p>\n"
