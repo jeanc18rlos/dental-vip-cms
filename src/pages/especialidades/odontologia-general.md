@@ -97,7 +97,7 @@ faq:
         que no hayan sido removidos y que sirven de sustrato perfecto para la colonización
         y multiplicación de bacterias. La importancia de su control radica en el hecho
         de que es la principal causante de las dos infecciones más habituales de la
-        cavidad bucal: la caries dental y la enfermedad periodontal.</p>\n"
+        cavidad bucal: la Caries Dental y la Enfermedad Periodontal.</p>\n"
     - question: "¿En qué se diferencia del cálculo o sarro dental?"
       answer: "<p>El cálculo dental, también conocido como piedra, sarro o tártaro
         dental, es el resultado de la solidificación de la placa bacteriana por la
