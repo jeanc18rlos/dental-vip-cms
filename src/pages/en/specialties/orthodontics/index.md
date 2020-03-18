@@ -83,8 +83,8 @@ faq:
         abnormalities of shape, size and position of the maxillary bones.</span></p>\n"
     - question: What is a dentofacial deformity?
       answer: "<p>It is a skeletal and dental malocclusion of such magnitude that
-        it also compromises the facial aesthetics of the person. In these cases, Orthodontic
-        Treatment alone is not enough and must be combined with Orthognathic Surgery
+        it also compromises the facial aesthetics of the person. In these cases, orthodontic
+        treatment alone is not enough and must be combined with Orthognathic Surgery
         procedures so that the Maxillofacial Surgeon can reposition the dysplastic
         maxillary structures.</span></p>\n"
     - question: Why is it important to correct malocclusions and align teeth?
@@ -94,13 +94,13 @@ faq:
         to cavities and periodontal diseases.</span></p>\n"
     - question: Do I need a Dentist or an Orthodontist?
       answer: "<p>During the Dentistry degree, barely some basic concepts about Orthodontics
-        are taught, therefore additional Specialization studies </span><em>(</em></span><em>University
+        are taught, therefore additional specialization studies </span><em>(</em></span><em>University
         Postgraduate degree of 2 or 3 years duration</em><em>) </em></span>are required
         to be truly trained in the area. Keep this always in mind, avoid failures
         and bad experiences that are unfortunately very common. Short courses and
-        orthodontic fellowships are excellent for the general dentist to learn to
+        Orthodontic fellowships are excellent for the General Dentist to learn to
         detect and intercept some malocclusions, but in no way quialify him to carry
-        out corrective orthodontic treatments.</span></p>\n"
+        out corrective Orthodontic treatments.</span></p>\n"
     - question: What is the best age to start an Orthodontic treatment?
       answer: "<p>There is no specific age, it all depends on the type and severity
         of the problem. </span>It is ideal to attend to consultation during the mixed
