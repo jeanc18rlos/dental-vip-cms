@@ -175,8 +175,8 @@ faq:
         los mecanoreceptores pulpares los hacen menos flexibles, menos resistentes
         y más susceptibles a la fractura. Es por ello que de su adecuada e inmediata
         reconstrucción, dependerán su permanencia y longevidad.</p>\n"
-    - question: "¿Cuánto tiempo se puede permanecer sin la Restauración Definitiva?"
-      answer: "<p>El menor tiempo posible. Mientras un diente Endodonciado no se restaure,
+    - question: "¿Cuánto tiempo se puede permanecer sin la restauración definitiva?"
+      answer: "<p>El menor tiempo posible. Mientras un diente endodonciado no se restaure,
         será propenso a la fractura y reinfección. En aquellos casos de gran destrucción,
         que ameriten la confección de núcleos o pernos artificiales, recomendamos
         iniciar la preparación radicular a los dos o tres días de culminada la Endodoncia.</p>\n"
