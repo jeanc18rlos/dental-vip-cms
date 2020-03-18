@@ -36,7 +36,7 @@ paragraphSection:
     brackets</strong></span>; it all depends on your preference.</span></p> <p>In
     the initial phase of DIAGNOSIS we use <strong>digital photographs, panoramic radiographs
     and computerized cephalometries</strong></span> <em>(Ricketts, Jarabak, Downs
-    and Steiner)</em> to plan all Orthodontic mechanotherapy and achieve highly predictable,
+    and Steiner)</em> to plan all orthodontic mechanotherapy and achieve highly predictable,
     aesthetic and functional results.</p> <p>Additionally, we routinely handle <strong>craniofacial
     growth modification techniques</strong> for the treatment of skeletal malocclusions
     in children and adolescents, through the use of DENTOFACIAL ORTHOPEDICS and functional
