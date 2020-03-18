@@ -89,8 +89,8 @@ faq:
         plaque is formed from food debris that has not been removed and that serve
         as a perfect substrate for colonization and multiplication of bacteria. The
         importance of its control lies in the fact that it is the main cause of the
-        two most common infections of the oral cavity: dental caries and periodontal
-        disease.</p>\n"
+        two most common infections of the oral cavity: Dental Caries and Periodontal
+        Disease.</p>\n"
     - question: How is it different from calculus or dental tartar?
       answer: "<p>Dental calculus, also known as dental stone or dental tartar, is
         the result of solidification of the bacterial plaque by the precipitation
