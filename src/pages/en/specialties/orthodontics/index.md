@@ -143,7 +143,7 @@ faq:
 '
     - question: Is it very uncomfortable to use brackets?
       answer: "<p>Usually the first 3 or 4 days following the installation of the
-        brackets are somewhat annoying because it is normal to experience some pain
+        braces are somewhat annoying because it is normal to experience some pain
         when eating and chewing. After this period, the inconveniences are usually
         limited to occasional minor discomforts, mainly caused by the friction of
         the appliances with the inner part of the lips and cheeks. For this you will
