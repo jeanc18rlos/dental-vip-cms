@@ -84,7 +84,7 @@ faq:
         profile that evaluates the ability of blood coagulation and tissue scarring.
         So a blood test will be routine as a prerequisite to the intervention.</p>\n"
     - question: Should the patient go on an empty stomach?
-      answer: "<p>Conversely. If the procedure is going to be performed under local
+      answer: "<p>Conversely! If the procedure is going to be performed under local
         anesthesia, we should always avoid it. Fasting is only necessary in cases
         of general anesthesia.</p>\n"
     - question: What others preoperative cares are recommended?
