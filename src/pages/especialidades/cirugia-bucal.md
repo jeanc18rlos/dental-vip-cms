@@ -222,7 +222,7 @@ clinicCases:
   - image: "/img/clinic-cases-oral-surgery-es-10-thumb.jpg"
     title: "<h6>Apicectomía </h6>\n"
   - image: "/img/clinic-cases-oral-surgery-es-11-thumb.jpg"
-    title: "<h6>Implantología con Plasma Rico en Fibrina <em>(PRF)</em> </h6>\n"
+    title: "<h6>Implantología con Plasma Rico en Fibrina (PRF) </h6>"
   - image: "/img/clinic-cases-oral-surgery-es-12-thumb.jpg"
     title: "<h6>Eliminación de Torus Mandibulares </h6>\n"
   - image: "/img/clinic-cases-oral-surgery-es-13-thumb.jpg"
