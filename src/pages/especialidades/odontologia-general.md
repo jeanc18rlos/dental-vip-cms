@@ -194,11 +194,11 @@ faq:
     - question: "¿Cómo se curan o eliminan?"
       answer: "<p>Depende del desarrollo, extensión y profundidad de las mismas. Si
         es incipiente o moderada se elimina todo el tejido infectado y se obtura la
-        cavidad con un material especial, generalmente a base de composite o resina
-        fotocurada. En estados más avanzados la caries suele afectar a la pulpa dental
-        o nervio del diente y es entonces necesario realizar un tratamiento de conducto.
-        Además, después de la endodoncia, suele indicarse una incrustación o corona
-        cerámica para proteger la estructura dental remanente debilitada y evitar
+        cavidad con un material especial, generalmente a base de Composite o Resina
+        Fotocurada. En estados más avanzados la caries suele afectar a la pulpa dental
+        o nervio del diente y es entonces necesario realizar un Tratamiento de Conducto.
+        Además, después de la Endodoncia, suele indicarse una Incrustación o Corona
+        Cerámica para proteger la estructura dental remanente debilitada y evitar
         su fractura.</p>\n"
     - question: "¿Todavía se utiliza la amalgama dental?"
       answer: "<p>Aunque la aparición de nuevos materiales adhesivos para obturación
