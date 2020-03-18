@@ -210,7 +210,7 @@ faq:
         the material is damaged, broken or fractured, when marginal filtration and/or
         recurrence caries is observed or when a radiographic study shows a coronal
         radiolucent area that suggests a failure of cohesive type.</p>\n"
-    - question: What is bruxism?
+    - question: What is Bruxism?
       answer: "<p>Bruxism is the involuntary habit of clenching or grinding the teeth
         without functional purposes. It affects between 10% and 20% of the population,
         being able to generate headache, pain of the masticatory muscles, neck and
