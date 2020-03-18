@@ -29,12 +29,12 @@ paragraphSection:
     indiscriminado de una caries no tratada alcanza, expone o infecta ese tejido pulpar,
     y queremos por supuesto conservar el órgano dentario; no queda otra alternativa
     que <strong>extirparlo para luego desinfectar y ensanchar mecánicamente los conductos
-    radiculares vacíos de modo que sean capaces de recibir un material de obturación</strong>
-    inerte, estéril y biocompatible que los ocupe por completo, evite el dolor y la
-    propagación del proceso infeccioso. En esto consiste un TRATAMIENTO DE CONDUCTO.
-    <strong>Si no es realizado a tiempo, pueden formarse grandes abscesos faciales,
-    flegmones o procesos celulíticos extremadamente dolorosos y agresivos </strong>
-    que pueden diseminarse rápidamente y comprometer seriamente otras estructuras
+    radiculares vacíos de modo que sean capaces de recibir un material de obturación
+    inerte, estéril y biocompatible</strong> que los ocupe por completo, evite el
+    dolor y la propagación del proceso infeccioso. En esto consiste un TRATAMIENTO
+    DE CONDUCTO. <strong>Si no es realizado a tiempo, pueden formarse grandes abscesos
+    faciales, flegmones o procesos celulíticos extremadamente dolorosos y agresivos
+    </strong> que pueden diseminarse rápidamente y comprometer seriamente otras estructuras
     vitales de la región orofacial, y en casos extremos; hasta la vida del paciente.</p><p>Dado
     lo intrincada y variable que resulta la anatomía radicular de los dientes y el
     hecho de que los conductos son pequeñas cavidades inaccesibles a la vista,<strong>
