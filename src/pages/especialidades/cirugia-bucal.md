@@ -114,7 +114,7 @@ faq:
         no pueden ser colocados en presencia de lesiones apicales extensas y/o patología
         periodontal activa.</p>\n"
     - question: "¿Es siempre necesario extraer las cordales o muelas del juicio?"
-      answer: "<p>Definitivamente no. Deben extraerse cuando no sean capaces de erupcionar
+      answer: "<p>¡Definitivamente no! Deben extraerse cuando no sean capaces de erupcionar
         por falta de espacio y permanezcan entonces incluidas, cuando generen dolor
         o molestias crónicas, cuando erupcionen en mala posición, cuando interfieran
         con la oclusión o mordida o cuando padezcan lesiones cariosas de considerable
