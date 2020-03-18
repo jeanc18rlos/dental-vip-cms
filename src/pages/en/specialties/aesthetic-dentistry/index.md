@@ -112,10 +112,10 @@ faq:
       answer: "<p>Home bleaching that is sold in stores and pharmacies has a much
         lower concentration than those used in consultation. This phenomenon is due
         to the fact that the dental trays for application are universal and not custom-made,
-        a condition that prevents the contact of the bleaching peroxide with the gums
-        and mucous membranes of the patient. If these products had a professional
-        concentration, they would cause great damage and caustic lesions to periodontal
-        tissues.</p>\n"
+        a condition that makes it impossible to avoid contact of the bleaching peroxide
+        with the gums and mucous membranes of the patient. If these products had a
+        professional concentration, they would cause great damage and caustic lesions
+        to periodontal tissues.</p>\n"
     - question: How bleaches carbamide peroxide?
       answer: "<p>Upon contact with saliva, it decomposes into hydrogen peroxide and
         urea. Due to its low molecular weight, hydrogen peroxide easily penetrates
