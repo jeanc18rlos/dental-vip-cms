@@ -95,7 +95,7 @@ faq:
       answer: "<p>Only in cases of Major Surgery such as Orthognathic and Maxillofacial.
         Due to its great effectiveness, safety and almost absolute absence of side
         effects, local trunk or infiltrative anesthesia is the one of choice for minor
-        oral surgery interventions in outpatient settings. Conscious sedation with
+        Oral Surgery interventions in outpatient settings. Conscious sedation with
         benzodiazepine derivatives is the best option for special or excessively apprehensive
         people, however, it requires the participation of an Anesthesiologist.</p>\n"
     - question: What is an atraumatic extraction and what is its importance?
