@@ -22,9 +22,9 @@ specialtiesHeading:
     principal objetivo debe ser el de interponer barreras biológicas que verdaderamente
     interfieran con su desarrollo.
 paragraphSection:
-  body: "<p><strong>El Odontólogo general se encuentra capacitado para prevenir, diagnosticar
-    y tratar los problemas comunes del público en general. </strong> Si usted requiere
-    de un CHEQUEO DE RUTINA o de Odontología básica como eliminación de caries, limpieza,
+  body: "<p><strong>El Odontólogo General se encuentra capacitado para prevenir, diagnosticar
+    y tratar los problemas comunes del público en general. </strong> Si Usted requiere
+    de un CHEQUEO DE RUTINA o de Odontología Básica como eliminación de caries, limpieza,
     profilaxis o prótesis bucal sin compromiso estético, funcional o periodontal,
     un profesional de práctica general podrá prestarle un excelente servicio. Sin
     embargo, debido a que las diferentes áreas de la Odontología se han hecho cada
@@ -33,21 +33,21 @@ paragraphSection:
     llamados Especialistas.  </strong>Estos individuos se encuentran particularmente
     capacitados para ejecutar técnicas y procedimientos avanzados brindando resultados
     altamente predecibles y muchas veces sorprendentes para los pacientes.</p><p><strong>Un
-    buen Odontólogo general se encarga de realizar el triaje y diagnóstico primario
+    buen Odontólogo General se encarga de realizar el triaje y diagnóstico primario
     del paciente, </strong> resolver los problemas de higiene y RESTAURACIÓN DE CARIES
     que pueda presentar y referirle, de ser necesario, al Especialista más indicado.
     Es importante aclarar que  <strong>un verdadero Especialista debe haber cursado
     estudios de cuarto nivel o Postgrado </strong> en alguna Universidad nacional
     o extranjera reconocida, con un pensum académico que abarque las horas lectivas
-    exigidas por las diferentes sociedades científicas del país.</p><p><strong>El
-    generalista debe poseer sólidos conocimientos de Patología oral, Radiología, Periodoncia
+    exigidas por las diferentes Sociedades Científicas del país.</p><p><strong>El
+    Generalista debe poseer sólidos conocimientos de Patología Oral, Radiología, Periodoncia
     y Gnatología  </strong>para poder detectar la presencia de lesiones o enfermedades
     en lengua, encías, tejidos blandos y articulaciones temporomandibulares. Debe
-    además ser un verdadero experto en ODONTOLOGÍA OPERATORIA, ya que usualmente  <strong>
-    es el que elabora las preparaciones cavitarias necesarias para el tratamiento
-    de la caries dental,  </strong>aplicando diseños conservadores y tratando de preservar
+    además ser un verdadero experto en ODONTOLOGÍA OPERATORIA, ya que usualmente  <strong>es
+    el que elabora las preparaciones cavitarias necesarias para el Tratamiento de
+    la Caries Dental,</strong> aplicando diseños conservadores y tratando de preservar
     en todo momento la vitalidad pulpar, para finalmente; devolver al órgano su anatomía
-    y funcionalidad habitual mediante el proceso de restauración dental. Debe por
+    y funcionalidad habitual mediante el proceso de Restauración Dental. Debe por
     tanto conocer y manejar con propiedad los diferentes sistemas adhesivos basados
     en la técnica de grabado ácido, los múltiples materiales restauradores a base
     de composite o resina compuesta y los principios más básicos y universales de
