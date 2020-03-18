@@ -222,8 +222,8 @@ faq:
         cuando el material esté deteriorado, roto o fracturado, cuando se observe
         filtración marginal y/o caries de recidiva o cuando tras un estudio radiográfico
         se detecte un área radiolúcida coronal que sugiera una falla de tipo cohesivo.</p>\n"
-    - question: "¿Qué es el bruxismo?"
-      answer: "<p>El bruxismo es el hábito involuntario de apretar o rechinar los
+    - question: "¿Qué es el Bruxismo?"
+      answer: "<p>El Bruxismo es el hábito involuntario de apretar o rechinar los
         dientes sin propósitos funcionales. Afecta a entre un 10% y un 20% de la población,
         pudiendo generar dolor de cabeza, dolor de los músculos masticatorios, cuello
         y oído. El rechinamiento, si no es tratado a tiempo, puede llegar a desgastar
