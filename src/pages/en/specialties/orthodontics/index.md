@@ -23,7 +23,7 @@ specialtiesHeading:
 paragraphSection:
   body: "<p>The smile is the light of our face, allows us to interact better with
     people, cause a good impression and makes persons show more empathy when it comes
-    to interacting with us .<strong>Smiling often will change your life, improve your
+    to interacting with us. <strong>Smiling often will change your life, improve your
     mood, your charisma and your self-esteem.</strong></span></p> <p>Considering the
     beauty of the smile as the great north and supreme objective of Orthodontics,
     in DENTAL VIP we use with great success the STRAIGHT WIRE TECHNIQUE with preadjusted
