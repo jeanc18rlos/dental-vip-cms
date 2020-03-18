@@ -109,7 +109,7 @@ faq:
         that guarantees apical sealing, usually based on calcium hydroxide.</p>\n"
     - question: How to know if a Root Canal Treatment was correctly performed?
       answer: "<p>Basically due to the absence of symptoms and radiographic evidence.
-        A well-performed root canal treatment should reflect a filling that extends
+        A well-performed Root Canal Treatment should reflect a filling that extends
         until the apical constriction of the root, that lacks lights inside, that
         has sufficient body and volume, that is compact in all its extension and that
         faithfully reproduces the conical shape of the canal it occupies.</p>\n"
