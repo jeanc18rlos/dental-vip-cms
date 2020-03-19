@@ -178,7 +178,7 @@ faq:
         and neck anatomy and a very advanced surgical training. So only a Maxillofacial
         Surgeon, really experienced, will be the right professional.</p>\n"
     - question: Could I have any mark or scar on my face?
-      answer: "<p>Never! since the procedure is executed entirely by intraoral route.</p>\n"
+      answer: "<p>Never!, since the procedure is executed entirely by intraoral route.</p>\n"
     - question: Is it then necessary to remain hospitalized?
       answer: "<p>Very rarely, and only in case of any unforeseen or surgical complication
         that requires special care.</p>\n"
