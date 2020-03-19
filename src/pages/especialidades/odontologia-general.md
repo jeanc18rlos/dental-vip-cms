@@ -180,7 +180,7 @@ faq:
         a la incorporación de iones de calcio y fosfato en el esmalte, disminuyendo
         su susceptibilidad a la caries dental. Normalmente se aplican en forma de
         gel con el uso de cubetas especiales y directamente sobre la superficie dental.</p>\n"
-    - question: "¿Cómo se forman las Caries?"
+    - question: "¿Cómo se forman las caries?"
       answer: "<p>Si no son removidas periódicamente, las bacterias contenidas en
         la placa dental generan potentes ácidos orgánicos que atacan y desmineralizan
         los tejidos duros o inorgánicos de los dientes susceptibles. Así, en la superficie
