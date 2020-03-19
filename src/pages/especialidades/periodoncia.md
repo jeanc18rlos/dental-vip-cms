@@ -78,11 +78,11 @@ faq:
         es la más común, leve y de mejor pronóstico, ya que su evolución solo afecta
         a la encía marginal y sus daños son totalmente reversibles. Pero si no es
         tratada a tiempo, avanza y ataca al hueso alveolar, causando infección, reabsorción
-        y pérdida del mismo (periodontitis) con formación de bolsas o sacos periodontales,
-        pus y recesión de la encía. Al perder su hueso de sostén, los dientes se van
-        aflojando progresivamente hasta caerse. A pesar de que la periodontitis puede
-        ser localizada o generalizada, crónica, agresiva, necrotizante, asociada a
-        enfermedades sistémicas, a fármacos, a lesiones endoperiodontales o a otras
+        y pérdida del mismo <em>(periodontitis)</em> con formación de bolsas o sacos
+        periodontales, pus y recesión de la encía. Al perder su hueso de sostén, los
+        dientes se van aflojando progresivamente hasta caerse. A pesar de que la periodontitis
+        puede ser localizada o generalizada, crónica, agresiva, necrotizante, asociada
+        a enfermedades sistémicas, a fármacos, a lesiones endoperiodontales o a otras
         afecciones adquiridas, lo más importante es que el Especialista sepa reconocer
         a cuál de las variantes se enfrenta para poder instaurar un tratamiento periodontal
         adecuado, eficaz y que ofrezca las mayores posibilidades de éxito.</p>\n"
