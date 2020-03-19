@@ -51,7 +51,7 @@ paragraphSection:
   image: "/img/aside-orthodontics.jpg"
 quote:
   title: ''
-  body: 'No basta con solo alinear los dientes. La suma de las caracterizaciones y
+  body: 'No Basta con Solo Alinear los Dientes. La suma de las caracterizaciones y
     pequeños detalles que se puedan lograr en la fase de acabado, definirán la excelencia
     del resultado. Es por ello que en algunas personas los dientes lucirán realmente
     hermosos, y en otras, simplemente derechos.
