@@ -221,10 +221,11 @@ faq:
       answer: "<p>Lo primero, antes de realizar cualquier tipo de intervención quirúrgica,
         es eliminar la causa que ha provocado la retracción de la encía: el cepillado
         agresivo, consumo excesivo de sustancias ácidas, trauma oclusal, hábitos parafuncionales
-        y/o cúmulo permanente de irritantes locales (placa bacteriana y cálculo dental).
-        Luego, se da continuidad al tratamiento con cirugías mucogingivales como los
-        colgajos de avance coronal para “estirar” la encía y cubrir la raíz expuesta
-        y/o con injertos conectivos sub-epiteliales tomados de la mucosa palatina.</p>\n"
+        y/o cúmulo permanente de irritantes locales <em>(placa bacteriana y cálculo
+        dental)</em>. Luego, se da continuidad al tratamiento con cirugías mucogingivales
+        como los colgajos de avance coronal para “estirar” la encía y cubrir la raíz
+        expuesta y/o con injertos conectivos sub-epiteliales tomados de la mucosa
+        palatina.</p>\n"
     - question: "¿En qué consiste la fase de soporte o mantenimiento periodontal?"
       answer: "<p></p>\n"
     - question: "¿Qué hacer si finalmente pierdo algunos dientes?"
