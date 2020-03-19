@@ -227,7 +227,7 @@ faq:
         periodic visits, every 3 months at the beginning, to rule out the presence
         of local irritants, clinical signs of inflammation and to verify the full
         mastery over execution of the different oral hygiene techniques.</p>\n"
-    - question: What to do if I finally lose some teeth?</strong></p>
+    - question: What to do if I finally lose some teeth?
       answer: "<p>If you went to treatment late or if your periodontitis could not
         be adequately controlled, you may lose or have lost teeth as a result of it.
         In that case, it is convenient that you replace them immediately to avoid
