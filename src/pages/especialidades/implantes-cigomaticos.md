@@ -55,8 +55,8 @@ paragraphSection:
     fijas aún en los casos de atrofia maxilar severa o\n  avanzada; y es por ello
     que, en conjunto con los Implantes Pterigoideos\n  <em>(muy similares a los Cigomáticos
     pero que se anclan a nivel de la sutura\n    pterigomaxilar)</em>, se les conoce
-    también en el argot popular como\n  <strong>“implantes dentales para pacientes
-    con poco hueso”.</strong> Y es que\n  en definitiva, la relativa sencillez de
+    también en el argot popular como\n  <strong>“Implantes Dentales para Pacientes
+    con Poco Hueso”.</strong> Y es que\n  en definitiva, la relativa sencillez de
     su implantación\n  <em>(en relación a la colocación de injertos múltiples)</em>,
     la ausencia de\n  morbilidad de una zona donante y un periodo de curación mucho
     más corto y\n  favorable para el paciente, sugieren a estos IMPLANTES LARGOS como
