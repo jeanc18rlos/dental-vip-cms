@@ -32,7 +32,7 @@ paragraphSection:
     entre la ablasión dental y la intención de\n    rehabilitación, es muy probable
     que para entonces ya no exista el suficiente\n    material óseo capaz de garantizar
     un buen anclaje primario y una adecuada\n    oseointegración de los dispositivos
-    convencionales</strong>\n  de títanio, que una vez implantados, deberían funcionar
+    convencionales\n  de titanio</strong>, que una vez implantados, deberían funcionar
     como sustitutos\n  artificiales de las raíces dentarias y sólidos soportes para
     la fijación de\n  estructuras protésicas.\n</p> <p>\n  Afortunadamente en muchos
     casos, cuando el defecto del reborde es leve y bien\n  localizado, es posible
