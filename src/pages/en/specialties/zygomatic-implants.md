@@ -193,7 +193,7 @@ faq:
         and satisfactorily as possible. Usually, between 2 and 5 days is the time
         it takes for most people to restart their usual activities.</p>\n"
     - question: Are these implants more expensive than normal implants?
-      answer: "<p>Undoubtedly! taking into account that they are up to 4 times longer
+      answer: "<p>Undoubtedly!, taking into account that they are up to 4 times longer
         than conventional ones and much more titanium is needed for their manufacture,
         they require operating room and general anesthesia, instruments and surgical
         components of advanced design, a longer and more invasive major surgery intervention
