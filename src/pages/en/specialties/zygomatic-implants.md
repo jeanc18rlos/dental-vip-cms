@@ -100,7 +100,7 @@ faq:
         the investment of time and money. In fact, many of our patients are over 65
         years old.</p>\n"
     - question: What percentage of success do they currently have?
-      answer: "<p>Extraordinary! superior to conventional implants and very close
+      answer: "<p>Extraordinary!, superior to conventional implants and very close
         to 100% of cases, with an average survival rate of 95% at 10 years.</p>\n"
     - question: Is it a painful treatment?
       answer: "<p>Not at all, since it is almost always done under general anesthesia.
