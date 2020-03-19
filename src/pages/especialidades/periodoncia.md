@@ -247,9 +247,9 @@ faq:
         dientes naturales remanentes, por lo que se deben colocar solo si no existe
         la posibilidad de confeccionar una fija.</p>\n"
     - question: "¿Si padezco periodontitis, puedo colocarme implantes dentales?"
-      answer: "<p>¡Por supuesto que sí! y es de hecho la alternativa ideal, pero nunca
-        en casos de enfermedad periodontal activa. Primero es necesario tratarla y
-        controlarla para que los implantes se comporten igual y tengan las mismas
+      answer: "<p>¡Por supuesto que sí!, y es de hecho la alternativa ideal, pero
+        nunca en casos de enfermedad periodontal activa. Primero es necesario tratarla
+        y controlarla para que los implantes se comporten igual y tengan las mismas
         probabilidades de éxito que en un paciente sano. Si tomamos en consideración
         que desde el punto de vista periodontal los implantes dentales están sometidos
         a los mismos riesgos de infección que los dientes naturales, entenderemos
