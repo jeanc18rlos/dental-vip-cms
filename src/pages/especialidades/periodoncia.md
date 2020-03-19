@@ -210,13 +210,13 @@ faq:
         injertar hueso en algunos tipos de lesiones periodontales y, muchas veces,
         tan solo de forma parcial. Los únicos defectos en los que la literatura científica
         ha demostrado la efectividad de los injertos son las lesiones de tipo vertical
-        (defectos circunscritos de 1, 2 o 3 paredes) y las de furca en molares inferiores.
-        Lamentablemente, los procedimientos regenerativos fracasan cuando se intentan
-        tratar lesiones de tipo horizontal (las más comunes en la enfermedad periodontal)
-        o cualquier defecto de furca en molares superiores. Por el contrario, los
-        injertos óseos son sumamente efectivos para aumentar la cantidad y calidad
-        del hueso en el lecho receptor como procedimiento previo a la colocación de
-        implantes dentales.</p>\n"
+        <em>(defectos circunscritos de 1, 2 o 3 paredes)</em> y las de furca en molares
+        inferiores. Lamentablemente, los procedimientos regenerativos fracasan cuando
+        se intentan tratar lesiones de tipo horizontal <em>(las más comunes en la
+        enfermedad periodontal)</em> o cualquier defecto de furca en molares superiores.
+        Por el contrario, los injertos óseos son sumamente efectivos para aumentar
+        la cantidad y calidad del hueso en el lecho receptor como procedimiento previo
+        a la colocación de implantes dentales.</p>\n"
     - question: "¿Cómo se tratan las recesiones o retracciones gingivales?"
       answer: "<p>Lo primero, antes de realizar cualquier tipo de intervención quirúrgica,
         es eliminar la causa que ha provocado la retracción de la encía: el cepillado
