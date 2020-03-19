@@ -237,7 +237,7 @@ faq:
         devices usually damage the gum and the remaining natural teeth, so they should
         be placed only if there is no possibility of making a fixed one.</p>\n"
     - question: If I have periodontitis, can I opt for dental implants?
-      answer: "<p>Of course yes! and it is in fact the ideal alternative, but never
+      answer: "<p>Of course yes!, and it is in fact the ideal alternative, but never
         in cases of active periodontal disease. First it is necessary to treat and
         control it so that the implants behave equal and have the same chances of
         success as in a healthy patient. If we take into account that from the periodontal
