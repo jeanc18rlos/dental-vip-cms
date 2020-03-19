@@ -170,7 +170,7 @@ faq:
         to the incorporation of calcium and phosphate ions in the enamel, decreasing
         their susceptibility to tooth decay. Normally they are applied in gel form
         with the use of special trays and directly on the dental surface.</p>\n"
-    - question: How are Cavities formed?
+    - question: How are cavities formed?
       answer: "<p>If they are not removed periodically, the bacteria contained in
         the dental plaque generate powerful organic acids that attack and demineralize
         the hard or inorganic tissues of susceptible teeth. Thus, on the surface of
