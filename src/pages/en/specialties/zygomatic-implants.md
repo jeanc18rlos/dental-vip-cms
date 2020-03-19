@@ -18,7 +18,7 @@ hero:
 specialtiesHeading:
   display: true
   img: "/img/ZIGOMATICOS.jpg"
-  content: Undoubtedly, the best alternative for those patients with large bone loss
+  content: Undoubtedly, the best alternative for those patients with Large Bone Loss
     in their upper jaws and in which it is no longer possible to place conventional
     dental implants. “An optimal solution to a complex problem".
 paragraphSection:
