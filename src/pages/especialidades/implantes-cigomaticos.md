@@ -18,8 +18,8 @@ hero:
 specialtiesHeading:
   display: true
   img: "/img/ZIGOMATICOS.jpg"
-  content: Sin duda, la mejor alternativa para aquellos pacientes con gran pérdida
-    de hueso en sus maxilares y en los que ya no es posible colocar implantes dentales
+  content: Sin duda, la mejor alternativa para aquellos pacientes con Gran Pérdida
+    de Hueso en sus maxilares y en los que ya no es posible colocar implantes dentales
     convencionales. “Una solución óptima a un problema complejo”.
 paragraphSection:
   body: "<p>\n  Cuando se pierden uno o varios dientes, y no son reemplazados a la
