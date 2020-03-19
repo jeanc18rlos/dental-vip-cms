@@ -107,9 +107,9 @@ faq:
       answer: "<p>El tabaco, el alcohol y el estrés. También algunos medicamentos
         y enfermedades sistémicas como diabetes, osteoporosis o estados de inmunosupresión
         severa. Las restauraciones defectuosas, sobrecontorneadas o mal ajustadas,
-        los dientes torcidos o apiñados (maloclusiones) y la mala higiene oral, son
-        también factores que desencadenan y estimulan el potencial patógeno de las
-        enfermedades periodontales.</p>\n"
+        los dientes torcidos o apiñados <em>(maloclusiones)</em> y la mala higiene
+        oral, son también factores que desencadenan y estimulan el potencial patógeno
+        de las enfermedades periodontales.</p>\n"
     - question: "¿Existe alguna relación entre enfermedad periodontal y embarazo?"
       answer: "<p>El embarazo causa muchos cambios hormonales que aumentan exponencialmente
         el riesgo de padecer enfermedad periodontal en la mujer, y esta a su vez,
