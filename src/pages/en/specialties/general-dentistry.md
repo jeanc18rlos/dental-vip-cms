@@ -37,17 +37,17 @@ paragraphSection:
     Specialist must have completed fourth level or Postgraduate studies</strong> at
     a recognized national or foreign University, with an academic curriculum that
     covers the teaching hours required by the different Scientific Societies of the
-    country.</p><p><strong>The Generalist must have solid knowledge of Oral Pathology,
-    Radiology, Periodontics and Gnatology</strong> to be able to detect the presence
+    country.</p><p><strong>The Generalist must have solid knowledge of oral pathology,
+    radiology, periodontics and gnatology</strong> to be able to detect the presence
     of lesions or diseases in the tongue, gums, soft tissues and temporomandibular
-    joints. He must also be an expert in ADHESIVE DENTISTRY, since <strong>he is usually
-    the one who does the cavitary preparations necessary for the Treatment of Dental
-    Caries</strong>, applying conservative designs and trying to preserve pulp vitality
-    at all times, to finally; return to the organ its usual anatomy and functionality
-    through the Dental Restoration process. He must therefore know and properly manage
-    the different adhesive systems based on the acid etching technique, the multiple
-    restorative materials based on dental composites and the most basic and universal
-    principles of occlusion and masticatory function.</p> \n"
+    joints. He must also be an expert in RESTORATIVE DENTISTRY, since <strong>he is
+    usually the one who does the cavitary preparations necessary for the treatment
+    of Dental Caries</strong>, applying conservative designs and trying to preserve
+    pulp vitality at all times, to finally; return to the organ its usual anatomy
+    and functionality through the dental restoration process. He must therefore know
+    and properly manage the different adhesive systems based on the acid etching technique,
+    the multiple restorative materials based on dental composites and the most basic
+    and universal principles of occlusion and masticatory function.</p> \n"
   image: "/img/aside-general-dentistry.jpg"
 quote:
   title: ''
