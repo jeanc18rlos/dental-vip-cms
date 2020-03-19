@@ -51,14 +51,14 @@ paragraphSection:
     dental devices, much longer than conventional ones</strong> <em>(between 30 and
     55 mm in length)</em> and that allow us to make fixed dentures without inconveniences
     even in cases of severe or advanced maxillary atrophy; and that is why, in conjunction
-    with Pterygoid Implants <em>(very similar but that anchor at the level of the
-    pterygomaxillary suture)</em>, they are also known in popular slang as <strong>\"dental
-    implants for patients with little bone\".</strong> And it is that in short, the
-    relative simplicity of their implantation <em>(in relation to the placement of
-    multiple grafts)</em>, the absence of morbidity of a donor area and a much shorter
-    and favorable period of healing for the patient, suggest to these LONG IMPLANTS
-    as a simpler and safer alternative for extreme cases, compared to other bone regeneration
-    and oral implantology techniques.</p>   \n"
+    with Pterygoid Implants <em>(very similar to Zygomatics but that anchor at the
+    level of the pterygomaxillary suture)</em>, they are also known in popular slang
+    as <strong>\"dental implants for patients with little bone\".</strong> And it
+    is that in short, the relative simplicity of their implantation <em>(in relation
+    to the placement of multiple grafts)</em>, the absence of morbidity of a donor
+    area and a much shorter and favorable period of healing for the patient, suggest
+    to these LONG IMPLANTS as a simpler and safer alternative for extreme cases, compared
+    to other bone regeneration and oral implantology techniques.</p>   \n"
   image: "/img/aside-zygomatic-implants.jpg"
 quote:
   title: ''
