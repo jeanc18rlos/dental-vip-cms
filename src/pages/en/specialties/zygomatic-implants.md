@@ -43,22 +43,23 @@ paragraphSection:
     or head to collect iliac crest or calotte bone blocks', high chances of rejection
     due to the own cruelty of the surgical technique and a period of tissue healing
     that could involve to 5 or 6 months of waiting, before being able to continue
-    with the treatment.\n</p> <p>Faced with such eventualities, it is often preferable
-    to forget about the maxillary and grafts, and fix the implants to other bones
-    of the orofacial region, being by their compact structure and anatomical proximity
-    the MALAR OR ZYGOMATIC <em>(which forms the cheekbone)</em> and sphenoid bones,
-    those of preference. <strong>So Zygomatic Implants are nothing more than special
-    dental devices, much longer than conventional ones</strong> <em>(between 30 and
-    55 mm in length)</em> and that allow us to make fixed dentures without inconveniences
-    even in cases of severe or advanced maxillary atrophy; and that is why, in conjunction
-    with Pterygoid Implants <em>(very similar to Zygomatics but that anchor at the
-    level of the pterygomaxillary suture)</em>, they are also known in popular slang
-    as <strong>\"Dental Implants for Patients with Little Bone\".</strong> And it
-    is that in short, the relative simplicity of their implantation <em>(in relation
-    to the placement of multiple grafts)</em>, the absence of morbidity of a donor
-    area and a much shorter and favorable period of healing for the patient, suggest
-    to these LONG IMPLANTS as a simpler and safer alternative for extreme cases, compared
-    to other bone regeneration and oral implantology techniques.</p>   \n"
+    with the treatment.\n</p> <p>Faced with such eventualities, <strong>it is often
+    preferable to forget about the maxillary and grafts, and fix the implants to other
+    bones of the orofacial region</strong>, being by their compact structure and anatomical
+    proximity the MALAR OR ZYGOMATIC <em>(which forms the cheekbone)</em> and sphenoid
+    bones, those of preference. <strong>So Zygomatic Implants are nothing more than
+    special dental devices, much longer than conventional ones</strong> <em>(between
+    30 and 55 mm in length)</em> and that allow us to make fixed dentures without
+    inconveniences even in cases of severe or advanced maxillary atrophy; and that
+    is why, in conjunction with Pterygoid Implants <em>(very similar to Zygomatics
+    but that anchor at the level of the pterygomaxillary suture)</em>, they are also
+    known in popular slang as <strong>\"Dental Implants for Patients with Little Bone\".</strong>
+    And it is that in short, the relative simplicity of their implantation <em>(in
+    relation to the placement of multiple grafts)</em>, the absence of morbidity of
+    a donor area and a much shorter and favorable period of healing for the patient,
+    suggest to these LONG IMPLANTS as a simpler and safer alternative for extreme
+    cases, compared to other bone regeneration and oral implantology techniques.</p>
+    \  \n"
   image: "/img/aside-zygomatic-implants.jpg"
 quote:
   title: ''
