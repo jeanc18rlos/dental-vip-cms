@@ -294,10 +294,7 @@ asides:
   display: true
   sections:
   - align: right
-    title: '<h3 style="color:#333;font-family:''Bebas Neue Bold''">DIAGNOSIS AND 3D
-      PLANNING</h3>
-
-'
+    title: <h3 style="color:#333;font-family:'Bebas Neue Bold'">3D DIAGNOSIS AND PLANNING</h3>
     content: '<p style="font-weight:400">We never plan surgery with a simple radiographic
       plate, since we consider essentials the use of Computerized Axial Tomography
       <em>(CAT)</em> and a computer program that allows us analyzing structures, interpreting
