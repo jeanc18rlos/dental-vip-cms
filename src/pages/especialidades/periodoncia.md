@@ -44,7 +44,7 @@ paragraphSection:
     CIRUGÍA PLÁSTICA PERIODONTAL que abarca un conjunto de técnicas que permiten al
     Odontólogo  <strong>modificar el contorno, grosor y forma de las encías,  </strong>logrando
     efectos estéticos invalorables para los pacientes. Generalmente este tipo de cirugía
-    es complementaria a tratamientos de Ortodoncia, Blanqueamiento y Estética dental.</p>
+    es complementaria a tratamientos de ortodoncia, blanqueamiento y estética dental.</p>
     \    \n"
   image: "/img/aside-periodontics.jpg"
 quote:
