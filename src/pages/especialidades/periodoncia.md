@@ -49,7 +49,7 @@ paragraphSection:
   image: "/img/aside-periodontics.jpg"
 quote:
   title: ''
-  body: 'La evidencia científica actual vincula a las enfermedades periodontales con
+  body: 'La evidencia científica actual vincula a las Enfermedades Periodontales con
     otras patologías sistémicas como diabetes, enfermedad pulmonar obstructiva crónica,
     neumonía, artritis reumatoide, insuficiencia renal, obesidad, síndrome metabólico,
     enfermedad cardiovascular isquémica y trastornos del embarazo.
