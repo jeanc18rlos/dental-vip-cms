@@ -33,7 +33,7 @@ paragraphSection:
     is usually necessary to implement more complex surgical procedures that involve
     scaling&nbsp;and&nbsp;root planing, periodontal flaps, bone grafts, membranes
     placement and the so-called GUIDED TISSUE REGENERATION.</p> <p><strong>Periodontal
-    disease is almost always asymptomatic in its early stages, which is why it is
+    Disease is almost always asymptomatic in its early stages, which is why it is
     so dangerous and destructive</strong>. When the first signs such as brushing bleeding,
     tooth separation and dental mobility appear, we are generally in the presence
     of advanced phases of it. <strong>Without specialized treatment all the support
