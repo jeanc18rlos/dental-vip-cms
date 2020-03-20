@@ -154,21 +154,21 @@ faq:
     - question: "¿Cuántos tipos de porcelana se utilizan en prostodoncia fija?"
       answer: "<p>Químicamente, las porcelanas o cerámicas dentales se pueden agrupar
         en tres grandes familias: feldespáticas, aluminosas y zirconiosas. Las feldespáticas
-        de matriz vítrea (a base de feldespato y cuarzo) son las más estéticas pero
-        más frágiles de todas, por lo que se utilizan principalmente para el recubrimiento
-        de estructuras metálicas o cerámicas de base. Las aluminosas (con alto contenido
-        de óxido de aluminio) son muy resistentes pero muy opacas y poco estéticas,
-        por lo que en la actualidad se reservan únicamente para la confección de cofias
-        y estructuras internas, siendo necesario recubrirlas con porcelanas de menor
-        cantidad de alúmina para lograr un buen mimetismo con el diente natural. Las
-        zirconiosas son las más novedosas y están compuestas por óxido de zirconio
-        (ZrO2) altamente sinterizado, lo que las hace sumamente resistentes a la flexión
-        y fractura, y por ende, los materiales idóneos para elaborar prótesis cerámicas
-        en zonas de alto compromiso mecánico. Sin embargo, y al igual que las aluminosas
-        de alta resistencia, estas cerámicas son muy opacas (no tienen fase vítrea),
-        y por ello se emplean únicamente para fabricar el núcleo de la restauración,
-        es decir, deben recubrirse con porcelanas convencionales para lograr una buena
-        estética.</p>\n"
+        de matriz vítrea <em>(a base de feldespato y cuarzo)</em> son las más estéticas
+        pero más frágiles de todas, por lo que se utilizan principalmente para el
+        recubrimiento de estructuras metálicas o cerámicas de base. Las aluminosas
+        <em>(con alto contenido de óxido de aluminio)</em> son muy resistentes pero
+        muy opacas y poco estéticas, por lo que en la actualidad se reservan únicamente
+        para la confección de cofias y estructuras internas, siendo necesario recubrirlas
+        con porcelanas de menor cantidad de alúmina para lograr un buen mimetismo
+        con el diente natural. Las zirconiosas son las más novedosas y están compuestas
+        por óxido de zirconio <em>(ZrO2)</em> altamente sinterizado, lo que las hace
+        sumamente resistentes a la flexión y fractura, y por ende, los materiales
+        idóneos para elaborar prótesis cerámicas en zonas de alto compromiso mecánico.
+        Sin embargo, y al igual que las aluminosas de alta resistencia, estas cerámicas
+        son muy opacas <em>(no tienen fase vítrea)</em>, y por ello se emplean únicamente
+        para fabricar el núcleo de la restauración, es decir, deben recubrirse con
+        porcelanas convencionales para lograr una buena estética.</p>\n"
     - question: "¿Son las prótesis fijas para toda la vida?"
       answer: "<p>Influyen tantos, pero tantos factores en la longevidad de una rehabilitación
         fija que ningún profesional está en capacidad de predecir, a ciencia cierta,
