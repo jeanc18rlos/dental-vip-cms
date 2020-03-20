@@ -34,7 +34,7 @@ paragraphSection:
     suele entonces ser necesario implementar procedimientos quirúrgicos más complejos
     que involucran los curetajes y raspados radiculares, levantamiento de colgajos
     invasivos, injertos óseos, colocación de membranas y la llamada REGENERACIÓN TISULAR
-    GUIADA.</p><p><strong>La enfermedad periodontal es casi siempre asintomática en
+    GUIADA.</p><p><strong>La Enfermedad Periodontal es casi siempre asintomática en
     sus fases iniciales, por eso es tan peligrosa y destructiva. </strong> Cuando
     ya aparecen los primeros signos como sangramiento al cepillado, separación de
     los dientes y movilidad dental, estamos generalmente en presencia de fases avanzadas
