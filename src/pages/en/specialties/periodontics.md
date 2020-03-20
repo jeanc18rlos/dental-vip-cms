@@ -47,10 +47,10 @@ paragraphSection:
   image: "/img/aside-periodontics.jpg"
 quote:
   title: ''
-  body: 'Current scientific evidence links Periodontal Diseases <em>(PD)</em> with
-    other systemic pathologies such as diabetes, chronic obstructive pulmonary disease,
-    pneumonia, rheumatoid arthritis, kidney failure, obesity, metabolic syndrome,
-    ischemic cardiovascular disease and pregnancy disorders.
+  body: 'Current scientific evidence links Periodontal Diseases (PD) with other systemic
+    pathologies such as diabetes, chronic obstructive pulmonary disease, pneumonia,
+    rheumatoid arthritis, kidney failure, obesity, metabolic syndrome, ischemic cardiovascular
+    disease and pregnancy disorders.
 
 '
   author: Dr. Javier Martínez Téllez
