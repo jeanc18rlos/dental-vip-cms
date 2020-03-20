@@ -227,7 +227,7 @@ faq:
     - question: Can conventional prostheses be replaced by dental implants?
       answer: "<p>Of course yes, and it is in fact the most advisable to protect the
         natural teeth that remain in the mouth, but of course; as long as the patient's
-        general health allows it, let's have enough maxillary bone for the pretended
+        general health allows it, let us have enough maxillary bone for the pretended
         implantation and the person is willing to make a new effort and a new investment
         in time and money.</p>\n"
 clinicCases:
