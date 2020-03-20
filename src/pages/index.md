@@ -17,10 +17,7 @@ hero:
         Salud, Belleza y Función
       </h2>
   - delay: 1000
-    content: |
-      <h3>
-        ¡Una Especialidad para cada Tratamiento!
-      </h3>
+    content: "<h3>  ¡Una Especialidad para Cada Tratamiento!</h3>"
   - delay: 1000
     content: |
       <h1>
