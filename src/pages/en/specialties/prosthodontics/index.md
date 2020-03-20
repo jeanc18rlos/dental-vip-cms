@@ -126,7 +126,7 @@ faq:
         a coronal portion that replaces to the dentin lost and reinforces the existing
         one. Artificial stumps <em>(post and core)</em> can be made with fiberglass-based
         materials or by foundry and casting of high-strength metal alloys.</p>\n"
-    - question: And stumps carving doesn't harm teeth?
+    - question: And stumps carving does not harm teeth?
       answer: "<p>It depends on the case. If the teeth are already very decayed or
         fractured, on the contrary, the carving and subsequent reconstruction of the
         stump will reinforce them, allow their aesthetic restoration and guarantee
