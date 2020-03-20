@@ -117,7 +117,7 @@ faq:
       answer: "<p>Keeping gums healthy throughout life should not be as difficult
         as it seems. We only need constancy in the hygiene and care of our mouth,
         to prevent the formation of calculus and bacterial plaque. In addition, periodic
-        visits to the dentist are essential to achieve a deeper cleaning, especially
+        visits to the Dentist are essential to achieve a deeper cleaning, especially
         in those places of difficult access for both, the brushes and dental floss.</p>\n"
     - question: How can I know if my gum is already sick?
       answer: "<p>The most obvious signs are spontaneous bleeding or to tooth brushing,
