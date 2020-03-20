@@ -47,7 +47,7 @@ paragraphSection:
   image: "/img/aside-periodontics.jpg"
 quote:
   title: ''
-  body: 'Current scientific evidence links periodontal diseases with other systemic
+  body: 'Current scientific evidence links Periodontal Diseases with other systemic
     diseases such as diabetes, chronic obstructive pulmonary disease, pneumonia, rheumatoid
     arthritis, kidney failure, obesity, metabolic syndrome, ischemic cardiovascular
     disease and pregnancy disorders.
