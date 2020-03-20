@@ -158,14 +158,14 @@ faq:
         diagnosis and control of the disease.</p>\n"
     - question: Are antibiotics useful in general therapy?
       answer: "<p>Antibiotics are substances capable of eliminating or inactivating
-        bacteria, and periodontal disease as an infection is susceptible to its mechanisms
-        of action. However, and due to their chronic nature, it is not feasible to
-        use them continuously in cases of periodontitis, since their prolonged use
-        would generate bacterial resistance and unacceptable side effects on the organism.
-        Currently, it is recommended to use antibiotics only against the most aggressive
-        variants, in the acute phase, for a well-defined period of time and always
-        with the help of a culture-antibiogram that reveals the most effective drug
-        for each particular situation.</p>\n"
+        bacteria, and periodontal disease as an infection is susceptible to their
+        mechanisms of action. However, and due to their chronic nature, it is not
+        feasible to use them continuously in cases of periodontitis, since their prolonged
+        use would generate bacterial resistance and unacceptable side effects on the
+        organism. Currently, it is recommended to use antibiotics only against the
+        most aggressive variants, in the acute phase, for a well-defined period of
+        time and always with the help of a culture-antibiogram that reveals the most
+        effective drug for each particular situation.</p>\n"
     - question: What is the difference between a tartrectomy and a root planing?
       answer: "<p>Prophylaxis, cleaning or tartrectomy are the same thing, they are
         three terms that are used interchangeably to refer to the professional removal
