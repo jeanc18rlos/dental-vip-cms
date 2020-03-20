@@ -311,10 +311,8 @@ asides:
   display: true
   sections:
   - align: right
-    title: '<h3 style="color:#333;font-family:''Bebas Neue Bold''">¡All Ceramic...
-      All You Need!</h3>
-
-'
+    title: <h3 style="color:#333;font-family:'Bebas Neue Bold'">All Ceramic... All
+      You Need!</h3>
     content: '<p style="font-weight:400">Un sistema que nos permite seleccionar el
       material de cerámica sin metal más apropiado para cada situación, en función
       de la indicación inicial y requerimientos de resistencia. Disilicato de Litio
