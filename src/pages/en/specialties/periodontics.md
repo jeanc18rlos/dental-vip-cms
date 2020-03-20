@@ -42,7 +42,7 @@ paragraphSection:
     so-called PERIODONTAL PLASTIC SURGERY that includes a set of techniques that allow
     the Dentist <strong>to modify the gum's contour, thickness and shape</strong>,
     achieving invaluable aesthetic effects for patients. Generally this type of surgery
-    is complementary to treatments of Orthodontics, Whitening and Dental Aesthetics.</p>
+    is complementary to treatments of orthodontics, whitening and dental aesthetics.</p>
     \    \n"
   image: "/img/aside-periodontics.jpg"
 quote:
