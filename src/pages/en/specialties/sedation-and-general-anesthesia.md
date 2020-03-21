@@ -71,7 +71,7 @@ faq:
     - question: Between local and general anesthesia, which is preferable?
       answer: "<p>Because of its great effectiveness, safety and almost absolute absence
         of side effects, trunk or infiltrative local anesthesia is the one of choice
-        for routine interventions in dentistry and minor oral surgery in outpatient
+        for routine interventions in Dentistry and minor oral surgery in outpatient
         settings, while inhalation or intravenous conscious sedation it is the best
         option for special or excessively apprehensive patients. General anesthesia
         is only necessary in cases of major surgery such as the orthognathic and maxillofacial.</p>\n"
