@@ -350,7 +350,7 @@ asides:
 '
     content: '<p  style="font-weight:400">It is the most innovative technology available
       in fixed prosthodontics and represents a great advance in relation to conventional
-      dentistry. We use it to make porcelain inlays, crowns and bridges, prosthesis
+      Dentistry. We use it to make porcelain inlays, crowns and bridges, prosthesis
       over implants and other indirect restorative treatments.</p>
 
 '
