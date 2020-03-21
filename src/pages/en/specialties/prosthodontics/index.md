@@ -114,7 +114,7 @@ faq:
       answer: "<p>The classic fixed prosthesis is cemented to the remaining natural
         teeth, previously worn and turned into stumps. They usually consist of a porcelain
         coated metal core, although it is currently possible to make them from pure
-        ceramics or upon a white core based on zirconia. Generally, due to their greater
+        ceramics or upon a white core based on Zirconia. Generally, due to their greater
         naturalness and translucency, the total-ceramic structures are indicated for
         the anterior teeth and, due to their greater resistance, those the metal core
         for the posterior ones.</p>\n"
