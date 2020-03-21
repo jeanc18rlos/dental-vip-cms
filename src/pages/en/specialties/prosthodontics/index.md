@@ -118,7 +118,7 @@ faq:
         naturalness and translucency, the total-ceramic structures are indicated for
         the anterior teeth and, due to their greater resistance, those the metal core
         for the posterior ones.</p>\n"
-    - question: What is a stump in dentistry?
+    - question: What is a stump in Dentistry?
       answer: "<p>It is a natural tooth that has been carved and worn to serve as
         a pillar to a crown or conventional fixed prosthesis. When the remaining dental
         structure is scarce or weakened, it will be necessary to make an &ldquo;artificial
