@@ -313,7 +313,7 @@ lightQuote:
     pt: "/img/quotes-sedation-and-general-anesthesia-portrait.jpg"
   content: AS IN MANY PEOPLE OF MY GENERATION, THE FEAR OF THE DENTISTS WAS PRODUCED
     BY A BAD EXPERIENCE IN CHILDHOOD, BUT THANKS TO SEDATION, I LOST THE PANIC AND
-    I HAD BEEN ABLE TO BE TREATED WITH MULTIPLE DENTAL IMPLANTS.”
+    I HAD BEEN ABLE TO BE TREATED WITH MULTIPLE DENTAL IMPLANTS".
 form:
   title: Consult Us Right Now!
   img: "/img/parallax-form-specialties.png"
