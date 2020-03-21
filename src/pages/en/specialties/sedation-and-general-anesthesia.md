@@ -157,7 +157,7 @@ faq:
         stable and without the need for help to walking.</p>\n"
   - questions:
     - question: Is it necessary to do some type of study or previous evaluation?
-      answer: "<p>The preanesthetic assessment <em>(PA) </em>is a study protocol that
+      answer: "<p>The preanesthetic assessment <em>(PA)</em> is a study protocol that
         allows the evaluation of the physical condition and the risk of the patient,
         to then establish an anesthetic plan according to their particular conditions
         and thus reduce the possibility of complications. The PA is mandatory, has
