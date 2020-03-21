@@ -29,7 +29,7 @@ paragraphSection:
     them altering the occlusion and masticatory function</strong>. In addition, new
     spaces can begin to appear between the anterior teeth <em>(diastemas)</em> that
     seriously compromise dental aesthetics.</p> <p><strong>Prosthodontics is undoubtedly
-    one of the Specialties with greater range of action within current dentistry.</strong>
+    one of the Specialties with greater range of action within current Dentistry.</strong>
     It can encompass from the reconstruction of a single partially destroyed tooth
     to bimaxillary COMPLETE REHABILITATION in totally edentulous patients.</p> <p>Within
     the prosthetic arsenal at our disposal we find the well-known and popular removable
