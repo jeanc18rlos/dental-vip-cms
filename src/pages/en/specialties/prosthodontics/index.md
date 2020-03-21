@@ -75,7 +75,7 @@ faq:
         by natural teeth, stumps or dental implants, they are all anchored and retained
         by the support periodontal tissues; by the bone tissue and gum mainly. If
         there is not good hygiene, they could become infected, inflamed, reabsorb
-        the alveolar bone, loosen and fall the pillars; to finally lose the dental
+        the alveolar bone, loosen and fall the pillars; to finally, lose the dental
         prosthesis prematurely.</p>\n"
     - question: How long does it take to make a dental prosthesis?
       answer: "<p>It depends a lot on the case and type of rehabilitation. The lapses
