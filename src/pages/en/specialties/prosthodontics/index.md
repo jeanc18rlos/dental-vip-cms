@@ -27,7 +27,7 @@ paragraphSection:
     joints</em>. <strong>If one or more teeth are lost and are not replaced as soon
     as possible, the pieces adjacent to the empty spaces are inclined and move towards
     them altering the occlusion and masticatory function</strong>. In addition, new
-    spaces can begin to appear between the anterior teeth <em>(diastemas) </em>that
+    spaces can begin to appear between the anterior teeth <em>(diastemas)</em> that
     seriously compromise dental aesthetics.</p> <p><strong>Prosthodontics is undoubtedly
     one of the Specialties with greater range of action within current dentistry.</strong>
     It can encompass from the reconstruction of a single partially destroyed tooth
