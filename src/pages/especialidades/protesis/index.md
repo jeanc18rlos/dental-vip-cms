@@ -27,7 +27,7 @@ paragraphSection:
     temporomandibulares. </em><strong> Si se pierden uno o varios dientes y no son
     reemplazados a la brevedad, las piezas vecinas a los espacios vacíos se inclinan
     y desplazan hacia ellos alterando la oclusión y función masticatoria.  </strong>Además,
-    pueden empezar a aparecer nuevos espacios entre los dientes anteriores <i>(diastemas)</i>
+    pueden empezar a aparecer nuevos espacios entre los dientes anteriores <em>(diastemas)</em>
     que comprometen seriamente la estética dental.</p><p> <strong>La Prostodoncia
     es sin duda una de las Especialidades con más campo de acción dentro de la Odontología
     actual. </strong> Puede abarcar desde la reconstrucción de un solo diente parcialmente
