@@ -272,6 +272,7 @@ pages:
 - src/pages/en/specialties/orthodontics/index.md
 - src/pages/en/specialties/periodontics.md
 - src/pages/en/specialties/prosthodontics/index.md
+- src/pages/en/specialties/sedation-and-general-anesthesia.md
 - src/pages/en/specialties/zygomatic-implants.md
 - src/pages/especialidades/cirugia-bucal.md
 - src/pages/especialidades/endodoncia.md
