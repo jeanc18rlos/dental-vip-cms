@@ -51,7 +51,7 @@ paragraphSection:
 quote:
   title: ''
   body: 'Nuestra misión consiste en difundir los beneficios de la salud oral y promover
-    el poder emocional de una bella sonrisa, de modo que todos los pacientes puedan
+    el Poder Emocional de una Bella Sonrisa, de modo que todos los pacientes puedan
     disfrutar al máximo de la Odontología, del éxito y de la vida en general.
 
 '
