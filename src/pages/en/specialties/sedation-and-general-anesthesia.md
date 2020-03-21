@@ -121,7 +121,7 @@ faq:
         lactation, alcoholism, drug use, psychotic diseases, intestinal occlusions,
         some cases of glaucoma and/or any other systemic condition that contraindicates
         the use of narcotics.</p>\n"
-    - question: If I'm very nervous and I'm just going to fix a tooth, can you sleep
+    - question: If I am very nervous and I am just going to fix a tooth, can you sleep
         me completely?
       answer: "<p>Of course, however, we would have to assess very well if the cost
         and complexity of the treatment would truly compensate you in such a simple
