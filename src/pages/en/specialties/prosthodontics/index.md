@@ -17,7 +17,7 @@ hero:
 specialtiesHeading:
   display: true
   img: "/img/icon-prosthodontics.jpg"
-  content: The psychological consequences associated to the absence of teeth generate
+  content: The psychological consequences associated to the Absence of Teeth generate
     a lot of insecurity in people and behavioral changes capable of limiting, and
     even destroying; their social, emotional and labor relationships.
 paragraphSection:
