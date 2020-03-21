@@ -229,7 +229,7 @@ faq:
       answer: "<p>None additional to the ones that merits the routine postoperative
         in anesthesiology<em> (24 hours)</em> and the dental treatment dispensed.</p>\n"
 clinicCases:
-  title: Conscious Sedation– Gallery
+  title: Conscious Sedation – Gallery
   items:
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-en-01-thumb.jpg"
     title: "<i></i>\n"
