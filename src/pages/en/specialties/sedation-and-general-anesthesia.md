@@ -204,7 +204,7 @@ faq:
     - question: Are the costs of this type of anesthesia very high?
       answer: "<p>They undoubtedly add to the account and raise the final amount of
         the bill. The occupation and use of a truly designed and equipped infrastructure
-        for this purpose, the intervention of an Anesthesiologist with its auxiliary
+        for this purpose, the intervention of an Anesthesiologist with his auxiliary
         staff and the transfer of dental equipments and materials necessary to meet
         the therapeutic objective, are variables that will always have a considerable
         economic impact.</p>\n"
