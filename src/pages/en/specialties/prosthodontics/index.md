@@ -177,8 +177,8 @@ faq:
         excessively hard objects, permanent use of a protective night splint and periodic
         professional controls. It is essential, apart from normal brushing, the constant
         use of the interdental brush, special dental floss, mouthwash and oral irrigator.
-        A Waterpik&reg; is the best complement for oral hygiene of people with Dental
-        Implants, Fixed Prosthesis and Orthodontics. We always recommend to our patients
+        A Waterpik&reg; is the best complement for oral hygiene of people with dental
+        implants, fixed prosthesis and orthodontics. We always recommend to our patients
         a routine check every 6 or 12 months to verify the splint and evaluate their
         periodontal condition, occlusal function, stability, integrity and marginal
         sealing of the restorations.</p>\n"
