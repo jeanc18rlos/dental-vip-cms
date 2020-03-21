@@ -183,7 +183,7 @@ faq:
         y controles profesionales periódicos. Es fundamental, aparte del cepillado
         normal, el uso constante del cepillo interdental, hilo dental especial, enjuague
         e irrigador bucal. Un Waterpik® es el mejor complemento para la higiene oral
-        de personas portadoras de Implantes Dentales, Prótesis Fija y Ortodoncia.
+        de personas portadoras de implantes dentales, prótesis fija y ortodoncia.
         Siempre recomendamos a nuestros pacientes un control de rutina cada 6 o 12
         meses para dinamizar la férula y evaluar su condición periodontal, función
         oclusal, estabilidad, integridad y sellado marginal de las restauraciones.</p>\n"
