@@ -17,7 +17,7 @@ hero:
 specialtiesHeading:
   display: true
   img: "/img/icon-prosthodontics.jpg"
-  content: Las consecuencias psicológicas asociadas a la ausencia de dientes generan
+  content: Las consecuencias psicológicas asociadas a la Ausencia de Dientes generan
     mucha inseguridad en las personas y cambios conductuales capaces de limitar, e
     incluso destruir; sus relaciones sociales, afectivas y laborales.
 paragraphSection:
