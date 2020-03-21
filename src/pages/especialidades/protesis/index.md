@@ -355,7 +355,7 @@ asides:
 
 '
     content: '<p  style="font-weight:400">Es la tecnología más innovadora disponible
-      en prótesis fija y supone un gran adelanto con relación a la odontología convencional.
+      en prótesis fija y supone un gran adelanto con relación a la Odontología convencional.
       La empleamos para fabricar incrustaciones de porcelana, coronas y puentes, prótesis
       sobre implantes y en otros tratamientos restauradores indirectos.</p>
 
