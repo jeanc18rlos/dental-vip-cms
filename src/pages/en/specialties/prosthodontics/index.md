@@ -50,8 +50,8 @@ paragraphSection:
 quote:
   title: ''
   body: 'Our mission consists in to spread the benefits of oral health and promote
-    the emotional power of a beautiful smile, so that all patients can enjoy to the
-    fullest of dentistry, of success and life in general.
+    the Emotional Power of a Beautiful Smile, so that all patients can enjoy to the
+    fullest of Dentistry, of success and life in general.
 
 '
   author: Dr. Filomena Montemurro Tafuri
