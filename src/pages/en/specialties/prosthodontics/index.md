@@ -217,7 +217,7 @@ faq:
         good integrity, favorable length and adequate periodontal support, it will
         always be preferable, and without any discussion; its treatment and restoration
         with endodontics, post and core and porcelain crown.</p>\n"
-    - question: But how do we know if a natural tooth can be successfully restored?
+    - question: But, how do we know if a natural tooth can be successfully restored?
       answer: "<p>Studying the case thoroughly through intraoral examination, radiographic
         evaluation and a lot of clinical criterion. Everything will depend on the
         periapical conditions that it presents, on the amount of tooth tissue remaining,
