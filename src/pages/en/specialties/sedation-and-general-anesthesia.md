@@ -165,7 +165,7 @@ faq:
         and is a major element of safety in medical care. Recent studies have shown
         that the lack of assessment of the status of anesthetic patients influences
         on more than 70% of intraoperative accidents and were the cause of some deaths
-        occurred.The preoperative consultation must take place several days before
+        occurred. The preoperative consultation must take place several days before
         the scheduled intervention. The contemplated period should allow the completion
         of the pertinent complementary tests, external interconsultations, respiratory
         therapy sessions if required, the abstinence of tobacco and/or alcohol, and
