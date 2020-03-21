@@ -211,8 +211,8 @@ faq:
     - question: "¿Cuántos tipos de prótesis sobre implantes hay?"
       answer: "<p>A groso modo, 3 tipos: fijas de metal-porcelana o totalcerámica,
         híbridas de metal-acrílico o metal-porcelana y sobredentaduras removibles.
-        En la sección de IMPLANTES podrá encontrar una descripción muy bien detallada
-        de cada una de ellas y sus variantes.</p>\n"
+        En la sección de IMPLANTES DENTALES podrá encontrar una descripción muy bien
+        detallada de cada una de ellas y sus variantes.</p>\n"
     - question: "¿Qué es mejor, trabajar sobre una raíz restaurable o colocar de una
         vez un implante dental?"
       answer: "<p>Siempre que sea posible debemos conservar los dientes naturales.
