@@ -146,7 +146,7 @@ faq:
         make small and accurate modifications of the edges and dental angles it is
         possible to immediately recover the lost morphology and the original appearance
         of the smile. It is a painless, fast, safe and very economical procedure.</p>\n"
-    - question: What are the most innovative restorative materials in dental aesthetics?
+    - question: What are the most innovative restorative materials in Dental Aesthetics?
       answer: "<p>In the last decade the development of dental biomaterials has been
         amazing. Today we have composites or dental resins composed of nanometric
         filling material that provide excellent physical and aesthetic properties,
