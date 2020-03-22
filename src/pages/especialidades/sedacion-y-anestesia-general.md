@@ -18,8 +18,8 @@ hero:
 specialtiesHeading:
   display: true
   img: "/img/icon-sedation-and-general-anesthesia.png"
-  content: Sus principales objetivos son los de garantizar el bienestar y confort
-    del paciente, suprimiendo por completo el dolor, el malestar físico y el estrés
+  content: Sus principales objetivos son los de Garantizar el Bienestar y Confort
+    del Paciente, suprimiendo por completo el dolor, el malestar físico y el estrés
     psicológico asociado a cualquier acto médico o quirúrgico.
 paragraphSection:
   body: |
