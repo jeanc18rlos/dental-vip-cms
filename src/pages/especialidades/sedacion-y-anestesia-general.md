@@ -337,7 +337,7 @@ lightQuote:
     pt: "/img/quotes-sedation-and-general-anesthesia-portrait.jpg"
   content: COMO EN MUCHAS PERSONAS DE MI GENERACIÓN, EL MIEDO A LOS ODONTÓLOGOS SE
     PRODUJO POR UNA PÉSIMA EXPERIENCIA EN LA NIÑEZ, PERO GRACIAS A LA SEDACIÓN, PERDÍ
-    EL PÁNICO Y ME HE PODIDO COLOCAR VARIOS IMPLANTES DENTALES.”
+    EL PÁNICO Y ME HE PODIDO COLOCAR VARIOS IMPLANTES DENTALES".
 form:
   title: "¡Consúltenos Ahora Mismo!"
   img: "/img/parallax-form-specialties.png"
