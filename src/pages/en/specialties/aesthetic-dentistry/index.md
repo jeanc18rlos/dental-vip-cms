@@ -161,7 +161,7 @@ faq:
         and fracture that makes it possible to completely dispense with the use of
         base metal alloys, and consequently, drastically improve the transparency,
         fluorescence and opalescence properties of the restored teeth. Among the most
-        used state-of-the-art ceramics are: DC-Zircón<sup>®</sup> <em>(DCS)</em>,
+        used state-of-the-art ceramics are: DC-Zircon<sup>®</sup> <em>(DCS)</em>,
         Cercon<sup>®</sup> <em>(Dentsply)</em>, In-Ceram<sup>®</sup> YZ <em>(Vita)</em>,
         Procera<sup>®</sup> Zirconia <em>(Nobel Biocare)</em>, Lava<sup>®</sup> <em>(3M
         Espe)</em> and IPS e .max<sup>®</sup> <em>(Ivoclar)</em>; among others.</p>\n"
