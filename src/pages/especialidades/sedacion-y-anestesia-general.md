@@ -66,7 +66,7 @@ quote:
   body: 'Tanto la Sedación Consciente (SC) como la Anestesia General (AG), son procedimientos
     seguros y confiables, claro está, siempre y cuando se practiquen en condiciones
     ideales de infraestructura y dotación clínica, y por supuesto; bajo la responsabilidad
-    de un equipo médico altamente especializado.
+    de un Equipo Médico Altamente Especializado.
 
 '
   author: Dr. Castor José Garabán Povea
