@@ -42,8 +42,8 @@ paragraphSection:
     fact that it is a procedure that per se can cause discomfort and rejection, due
     to the need to apply one or several injections inside the mouth.</p> <p>And it
     is definitely in those situations, in which it is not even possible to tolerate
-    a puncture, in which we must resort to other anesthetic techniques such as <strong>conscious
-    sedation, which represents a valid, relevant and very effective pharmacological
+    a puncture, in which we must resort to other anesthetic techniques such as <strong>Conscious
+    Sedation, which represents a valid, relevant and very effective pharmacological
     option for fear, stress and pain control</strong>; making possible the dental
     treatment and avoiding the typical confrontations with the pediatric patient or
     hypersensitive adult. In addition, an ATRAUMATIC EXPERIENCE, will virtually guarantee
