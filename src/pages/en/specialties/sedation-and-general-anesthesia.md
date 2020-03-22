@@ -18,7 +18,7 @@ hero:
 specialtiesHeading:
   display: true
   img: "/img/icon-sedation-and-general-anesthesia.png"
-  content: Its main objectives are to guarantee the patient's well-being and comfort,
+  content: Its main objectives are to Guarantee the Patient's Well-Being and Comfort,
     completely suppressing the pain, physical discomfort and psychological stress
     associated with any medical or surgical act.
 paragraphSection:
