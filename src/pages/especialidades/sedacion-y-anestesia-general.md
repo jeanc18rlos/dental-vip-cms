@@ -115,12 +115,11 @@ faq:
         y la sedación, para la gran mayoría de las intervenciones orales en circunstancias
         particulares.<p>\n"
     - question: "¿Cuáles fármacos suelen utilizarse para sedar a un paciente?"
-      answer: "<p>Oxido Nitroso combinado con Oxígeno (N</em><sub><em>2</em></sub><em>O:
-        O</em><sub><em>2</em></sub><em>) por vía inhalatoria, y por la endovenosa
-        las Benzodiazepinas  como el Diazepam y el Midazolam, el Propofol, Tiopental
-        Sódico, Fentanilo, Ketamina, Etomidato y/o cualquier combinación de ellos.
-        Además, el anestésico local de preferencia, usualmente los pertenecientes
-        al grupo amida; como la Lidocaína o Mepivacaína.</p>\n"
+      answer: "<p>Oxido Nitroso combinado con Oxígeno <em>(N<sub>2</sub>O:O<sub>2</sub>)</em>
+        por vía inhalatoria, y por la endovenosa las Benzodiazepinas  como el Diazepam
+        y el Midazolam, el Propofol, Tiopental Sódico, Fentanilo, Ketamina, Etomidato
+        y/o cualquier combinación de ellos. Además, el anestésico local de preferencia,
+        usualmente los pertenecientes al grupo amida; como la Lidocaína o Mepivacaína.</p>\n"
     - question: "¿Es la sedación un procedimiento 100% seguro?"
       answer: "<p>La realización de cualquier acto médico puede tener siempre efectos
         adversos o indeseables, y la SC no es la excepción. Dentro de los posibles
