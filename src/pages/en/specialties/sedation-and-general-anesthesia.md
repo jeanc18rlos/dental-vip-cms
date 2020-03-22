@@ -190,7 +190,7 @@ faq:
         without pulp, carbonated drinks, light tea and black coffee.</p>\n"
     - question: Should an Anesthesiologist always be present?
       answer: "<p>OF COURSE! The responsibility of a patient under sedation should
-        always be on charge of a Specialist in anesthesiology, resuscitation and pain
+        always be on charge of a Specialist in Anesthesiology, resuscitation and pain
         therapy, with experience in infiltrative techniques, ability to title the
         drugs that are administered and expertise in airway management, monitoring
         of vital signs and application of resuscitation techniques. The presence of
