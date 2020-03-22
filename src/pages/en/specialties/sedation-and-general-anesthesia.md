@@ -112,7 +112,7 @@ faq:
         find allergic reactions, aspiration of secretions at the pulmonary level,
         hypoxia, hypoventilation, obstruction of the airway by foreign bodies and
         abnormal reactions of the autonomic nervous system. However, the aforementioned
-        complications rarely occur, and in such a case, the presence of an anesthesiologist
+        complications rarely occur, and in such a case, the presence of an Anesthesiologist
         will guarantee a quick and safe resolution of them.</p>\n"
     - question: Are there contraindications to this anesthesia technique?
       answer: "<p>Very few, among which we find: history of hypersensitivity prior
