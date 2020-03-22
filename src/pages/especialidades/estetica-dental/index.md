@@ -29,7 +29,7 @@ paragraphSection:
     y los resultados son cada vez más rápidos, seguros y precisos. Entre ellos contamos
     con sistemas de BLANQUEAMIENTO DENTAL a base de peróxido de hidrógeno o peróxido
     de carbamida fotoactivables con lámparas halógenas de alta intensidad <i>(sistema
-    ZOOM®)</i> que nos proporcionan beneficios notables e inmediatos.</p><p>Además,
+    ZOOM<sup>®</sup>)</i> que nos proporcionan beneficios notables e inmediatos.</p><p>Además,
     <strong>en la Especialidad ya es rutina trabajar con fotografías digitales para
     el estudio y planificación computarizada del plan de tratamiento odontoestético.</strong>
     A este fenómeno se le ha denominado DISEÑO DE SONRISA y nos brinda la posibilidad
