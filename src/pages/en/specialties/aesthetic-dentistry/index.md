@@ -164,7 +164,7 @@ faq:
         used state-of-the-art ceramics are: DC-Zircon<sup>®</sup> <em>(DCS)</em>,
         Cercon<sup>®</sup> <em>(Dentsply)</em>, In-Ceram<sup>®</sup> YZ <em>(Vita)</em>,
         Procera<sup>®</sup> Zirconia <em>(Nobel Biocare)</em>, Lava<sup>®</sup> <em>(3M
-        Espe)</em> and IPS e .max<sup>®</sup> <em>(Ivoclar)</em>; among others.</p>\n"
+        Espe)</em> and IPS e.max<sup>®</sup> <em>(Ivoclar)</em>; among others.</p>\n"
     - question: What are inlays and onlays?
       answer: "<p>They are a type of indirect restorations <em>(manufactured in the
         laboratory)</em> that are used to aesthetically reconstruct endodontically
