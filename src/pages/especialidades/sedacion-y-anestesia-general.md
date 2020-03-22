@@ -190,18 +190,18 @@ faq:
         avanzado de monitorización, electrocardiógrafo, laringoscopio y video laringoscopio,
         fibrobroncoscopio para intubaciones difíciles, estimulador de nervios periféricos,
         sistemas de suministro de oxígeno, sistema de purificación de gases, sistema
-        de aspiración, equipos de reanimación cardiopulmonar (RCP), sala de recuperación
-        y planta eléctrica de emergencia con autonomía mínima de 3 horas continuas.
-        Además, en los casos de AG, es imprescindible que la sala de operaciones se
-        encuentre integrada a una clínica privada u hospital de envergadura, que cuente
-        con terapia intensiva, un equipo médico multidisciplinar permanente y el personal
-        auxiliar capacitado para atender cualquier posible eventualidad.  Con sinceridad,
-        no conocemos en nuestra ciudad capital ninguna clínica dental que cumpla al
-        100% con estas demandas y que esté verdaderamente en capacidad de proporcionar
-        un ambiente seguro y eficaz para los tratamientos con sedación, y menos aún,
-        con anestesia general. En DENTAL VIP jamás ponemos en riesgo la vida de nuestros
-        pacientes y siempre preferimos intervenir estos casos en espacios físicos
-        ajenos a nuestra infraestructura habitual.  </p>\n"
+        de aspiración, equipos de reanimación cardiopulmonar <em>(RCP)</em>, sala
+        de recuperación y planta eléctrica de emergencia con autonomía mínima de 3
+        horas continuas. Además, en los casos de AG, es imprescindible que la sala
+        de operaciones se encuentre integrada a una clínica privada u hospital de
+        envergadura, que cuente con terapia intensiva, un equipo médico multidisciplinar
+        permanente y el personal auxiliar capacitado para atender cualquier posible
+        eventualidad.  Con sinceridad, no conocemos en nuestra ciudad capital ninguna
+        clínica dental que cumpla al 100% con estas demandas y que esté verdaderamente
+        en capacidad de proporcionar un ambiente seguro y eficaz para los tratamientos
+        con sedación, y menos aún, con anestesia general. En DENTAL VIP jamás ponemos
+        en riesgo la vida de nuestros pacientes y siempre preferimos intervenir estos
+        casos en espacios físicos ajenos a nuestra infraestructura habitual.  </p>\n"
     - question: "¿Qué medidas de seguridad o de precaución debo tomar?"
       answer: "<p>Básicamente el ayuno, para evitar la regurgitación y aspiración
         pulmonar del contenido gástrico tras la inducción de la anestesia, durante
