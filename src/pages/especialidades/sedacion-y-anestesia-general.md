@@ -111,7 +111,7 @@ faq:
         se hace pertinente la constante monitorización de los signos vitales. Ninguna
         es mejor que otra, y simplemente cada una tiene sus indicaciones. En Odontología,
         la anestesia general para los procedimientos más extensos, complejos e invasivos,
-        como la Cirugía Maxilofacial o colocación de Implantes Cigomáticos por ejemplo;
+        como la cirugía maxilofacial o colocación de implantes cigomáticos por ejemplo;
         y la sedación, para la gran mayoría de las intervenciones orales en circunstancias
         particulares.<p>\n"
     - question: "¿Cuáles fármacos suelen utilizarse para sedar a un paciente?"
