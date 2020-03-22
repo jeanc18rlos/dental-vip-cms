@@ -237,7 +237,7 @@ clinicCases:
   - image: "/img/clinic-cases-aesthetic-dentistry-en-05-thumb.jpg"
     title: "<h6>PERIODONTAL PLASTIC SURGERY AND LAMINATE VENEERS</h6>\n"
   - image: "/img/clinic-cases-aesthetic-dentistry-en-06-thumb.jpg"
-    title: "<h6>IPS E.MAX® PORCELAIN VENEERS</h6>\n"
+    title: "<h6>IPS E.MAX<sup>®</sup> PORCELAIN VENEERS</h6>"
   - image: "/img/clinic-cases-aesthetic-dentistry-en-07-thumb.jpg"
     title: "<h6>CLOSING OF SPACES WITH COMPOSITE RESINS</h6>\n"
   - image: "/img/clinic-cases-aesthetic-dentistry-en-08-thumb.jpg"
