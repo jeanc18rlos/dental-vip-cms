@@ -71,7 +71,7 @@ quote:
 '
   author: Dr. Castor José Garabán Povea
   footer:
-    position: Cirujano Bucal
+    position: Anestesiólogo
     clinic: DENTAL VIP, Especialidades Odontológicas s.c.
 plainParallax:
   image: "/img/parallax-sedation-and-general-anesthesia.jpg"
