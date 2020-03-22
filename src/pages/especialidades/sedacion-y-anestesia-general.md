@@ -165,9 +165,9 @@ faq:
         de ayuda para la marcha.</p>\n"
   - questions:
     - question: "¿Es necesario hacer algún tipo de estudio o evaluación previa?"
-      answer: "<p>La valoración preanestésica (VPA) es un protocolo de estudio que
-        permite la evaluación del estado físico y de riesgo del paciente, para luego
-        establecer un plan anestésico de acuerdo con sus condiciones particulares
+      answer: "<p>La valoración preanestésica <em>(VPA)</em> es un protocolo de estudio
+        que permite la evaluación del estado físico y de riesgo del paciente, para
+        luego establecer un plan anestésico de acuerdo con sus condiciones particulares
         y reducir así la posibilidad de complicaciones. La VPA es obligatoria, ha
         demostrado su importancia y trascendencia en el campo de la anestesiología
         y es un elemento principal de seguridad en la atención médica. Estudios recientes
