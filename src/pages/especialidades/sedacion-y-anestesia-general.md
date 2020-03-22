@@ -249,7 +249,7 @@ faq:
         de coordinación mental, balance o equilibrio, tales como: conducir, operar
         maquinarias, hacer cálculos complejos o cualquier otra función que demande
         precisión psicomotriz.</p>\n"
-    - question: "¿Es necesario guardar algún tipo de reposo?"
+    - question: Luego, ¿es necesario guardar algún tipo de reposo?
       answer: "<p>Ninguno adicional al que amerite el postoperatorio anestésico de
         rutina <em>(24 horas)</em> y el tratamiento dental dispensado.</p>\n"
 clinicCases:
