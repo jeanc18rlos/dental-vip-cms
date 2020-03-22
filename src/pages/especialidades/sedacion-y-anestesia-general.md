@@ -213,7 +213,7 @@ faq:
         y café negro.</p>\n"
     - question: "¿Debe estar siempre presente un Médico Anestesiólogo?"
       answer: "<p>¡POR SUPUESTO! La responsabilidad de un paciente bajo sedación debe
-        estar siempre a cargo de un Médico Especialista en anestesiología, reanimación
+        estar siempre a cargo de un Médico Especialista en Anestesiología, reanimación
         y terapia del dolor, con experiencia en técnicas infiltrativas, habilidad
         de titular las drogas que se administren y experticia en el manejo de la vía
         aérea, monitoreo de las constantes vitales y aplicación de técnicas de resucitación.
