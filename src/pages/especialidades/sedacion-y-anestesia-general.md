@@ -251,7 +251,7 @@ faq:
         precisión psicomotriz.</p>\n"
     - question: "¿Es necesario guardar algún tipo de reposo?"
       answer: "<p>Ninguno adicional al que amerite el postoperatorio anestésico de
-        rutina (24 horas) y el tratamiento dental dispensado.</p>\n"
+        rutina <em>(24 horas)</em> y el tratamiento dental dispensado.</p>\n"
 clinicCases:
   title: Sedación Consciente - Galería
   items:
