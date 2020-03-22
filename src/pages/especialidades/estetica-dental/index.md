@@ -164,15 +164,15 @@ faq:
         indican para el tratamiento de caries, fracturas y defectos estéticos de poca
         extensión. Para la fabricación de carillas, coronas e incrustaciones en el
         laboratorio, la gran novedad es la utilización de cerámicas <em>(popularmente
-        llamadas porcelanas)</em> a base de Óxido de Zirconio <em>(ZrO2)</em> y Disilicato
-        de Litio <em>(LS2)</em>, con altísima resistencia a la flexión y fractura
-        que permiten prescindir por completo del uso de aleaciones metálicas de base,
-        y en consecuencia, mejorar drásticamente las propiedades de transparencia,
-        fluorescencia y opalescencia de los dientes restaurados. Entre las cerámicas
-        de última generación más utilizadas están: DC-Zircón® <em>(DCS)</em>, Cercon®
-        <em>(Dentsply)</em>, In-Ceram® YZ <em>(Vita)</em>, Procera® Zirconia <em>(Nobel
-        Biocare)</em>, Lava® <em>(3M Espe)</em> e IPS e.max® <em>(Ivoclar)</em>; entre
-        otras.</p>\n"
+        llamadas porcelanas)</em> a base de Óxido de Zirconio <em>(ZrO<sub>2</sub>)</em>
+        y Disilicato de Litio <em>(LS<sub>2</sub>)</em>, con altísima resistencia
+        a la flexión y fractura que permiten prescindir por completo del uso de aleaciones
+        metálicas de base, y en consecuencia, mejorar drásticamente las propiedades
+        de transparencia, fluorescencia y opalescencia de los dientes restaurados.
+        Entre las cerámicas de última generación más utilizadas están: DC-Zircón®
+        <em>(DCS)</em>, Cercon® <em>(Dentsply)</em>, In-Ceram® YZ <em>(Vita)</em>,
+        Procera® Zirconia <em>(Nobel Biocare)</em>, Lava® <em>(3M Espe)</em> e IPS
+        e.max® <em>(Ivoclar)</em>; entre otras.</p>\n"
     - question: "¿Qué es una incrustación?"
       answer: "<p>Es un tipo de restauración indirecta <em>(se fabrica en el laboratorio)</em>
         que se utiliza para reconstruir estéticamente dientes posteriores endodonciados
