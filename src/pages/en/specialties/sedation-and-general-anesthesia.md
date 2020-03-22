@@ -38,7 +38,7 @@ paragraphSection:
     clinical resources to MANAGE ANXIETY and preoperative stress.</p> <p><strong>Currently,
     local anesthesia by infiltration continues to be, without any discussion, the
     simplest, more frequent and more effective method for dispensing and ensuring
-    a pain-free dental treatment</strong>, however; It is also unquestionable the
+    a pain-free dental treatment</strong>, however; it is also unquestionable the
     fact that it is a procedure that per se can cause discomfort and rejection, due
     to the need to apply one or several injections inside the mouth.</p> <p>And it
     is definitely in those situations, in which it is not even possible to tolerate
