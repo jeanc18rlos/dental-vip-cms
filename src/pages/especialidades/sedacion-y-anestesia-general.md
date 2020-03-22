@@ -87,7 +87,7 @@ faq:
         narcóticos intravenosos es la mejor opción para pacientes especiales o excesivamente
         aprensivos. La anestesia general solo es necesaria en los casos de cirugía
         mayor como la ortognática y maxilofacial.</p>\n"
-    - question: "¿En qué consiste la anestesia general?"
+    - question: "¿En qué consiste la Anestesia General?"
       answer: "<p>La AG se puede definir como la intoxicación inducida, controlada
         y reversible del sistema nervioso central que produce inconsciencia, amnesia
         temporal, analgesia, pérdida de la sensibilidad, relajación muscular y supresión
