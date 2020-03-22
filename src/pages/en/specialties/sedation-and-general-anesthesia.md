@@ -225,7 +225,7 @@ faq:
         making complex calculations or any other function that demands psychomotor
         precision.</p>\n"
     - question: Later, is it necessary to keep some kind of rest?
-      answer: "<p>None additional to the ones that merits the routine postoperative
+      answer: "<p>None additional to the one that merits the routine postoperative
         in anesthesiology<em> (24 hours)</em> and the dental treatment dispensed.</p>\n"
 clinicCases:
   title: Conscious Sedation - Gallery
