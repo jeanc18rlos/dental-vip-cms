@@ -169,7 +169,7 @@ faq:
         que permite la evaluación del estado físico y de riesgo del paciente, para
         luego establecer un plan anestésico de acuerdo con sus condiciones particulares
         y reducir así la posibilidad de complicaciones. La VPA es obligatoria, ha
-        demostrado su importancia y trascendencia en el campo de la anestesiología
+        demostrado su importancia y trascendencia en el campo de la Anestesiología
         y es un elemento principal de seguridad en la atención médica. Estudios recientes
         han demostrado que la falta de valoración del estado de los pacientes anestésicos
         influye en el 70% de los accidentes intraoperatorios y fueron la causa de
