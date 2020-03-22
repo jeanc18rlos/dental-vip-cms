@@ -169,7 +169,7 @@ faq:
         a la flexión y fractura que permiten prescindir por completo del uso de aleaciones
         metálicas de base, y en consecuencia, mejorar drásticamente las propiedades
         de transparencia, fluorescencia y opalescencia de los dientes restaurados.
-        Entre las cerámicas de última generación más utilizadas están: DC-Zircón<sup>®</sup>
+        Entre las cerámicas de última generación más utilizadas están: DC-Zircon<sup>®</sup>
         <em>(DCS)</em>, Cercon<sup>®</sup> <em>(Dentsply)</em>, In-Ceram<sup>®</sup>
         YZ <em>(Vita)</em>, Procera<sup>®</sup> Zirconia <em>(Nobel Biocare)</em>,
         Lava<sup>®</sup> <em>(3M Espe)</em> e IPS e.max<sup>®</sup> <em>(Ivoclar)</em>;
