@@ -169,10 +169,11 @@ faq:
         a la flexión y fractura que permiten prescindir por completo del uso de aleaciones
         metálicas de base, y en consecuencia, mejorar drásticamente las propiedades
         de transparencia, fluorescencia y opalescencia de los dientes restaurados.
-        Entre las cerámicas de última generación más utilizadas están: DC-Zircón®
-        <em>(DCS)</em>, Cercon® <em>(Dentsply)</em>, In-Ceram® YZ <em>(Vita)</em>,
-        Procera® Zirconia <em>(Nobel Biocare)</em>, Lava® <em>(3M Espe)</em> e IPS
-        e.max® <em>(Ivoclar)</em>; entre otras.</p>\n"
+        Entre las cerámicas de última generación más utilizadas están: DC-Zircón<sup>®</sup>
+        <em>(DCS)</em>, Cercon<sup>®</sup> <em>(Dentsply)</em>, In-Ceram<sup>®</sup>
+        YZ <em>(Vita)</em>, Procera<sup>®</sup> Zirconia <em>(Nobel Biocare)</em>,
+        Lava<sup>®</sup> <em>(3M Espe)</em> e IPS e.max<sup>®</sup> <em>(Ivoclar)</em>;
+        entre otras.</p>\n"
     - question: "¿Qué es una incrustación?"
       answer: "<p>Es un tipo de restauración indirecta <em>(se fabrica en el laboratorio)</em>
         que se utiliza para reconstruir estéticamente dientes posteriores endodonciados
