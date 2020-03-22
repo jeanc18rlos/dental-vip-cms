@@ -157,7 +157,7 @@ faq:
   - questions:
     - question: Is it necessary to do some type of study or previous evaluation?
       answer: |
-        <p>The preanesthetic assessment <em>(PA)</em> is a study protocol that allows the evaluation of the physical condition and the risk of the patient, to then establish an anesthetic plan according to their particular conditions and thus reduce the possibility of complications. The PA is mandatory, has demonstrated its importance and significance in the field of anesthesiology and is a major element of safety in medical care. Recent studies have shown that the lack of assessment of the status of anesthetic patients influences on more than 70% of intraoperative accidents and were the cause of some deaths occurred.
+        <p>The preanesthetic assessment <em>(PA)</em> is a study protocol that allows the evaluation of the physical condition and the risk of the patient, to then establish an anesthetic plan according to their particular conditions and thus reduce the possibility of complications. The PA is mandatory, has demonstrated its importance and significance in the field of Anesthesiology and is a major element of safety in medical care. Recent studies have shown that the lack of assessment of the status of anesthetic patients influences on more than 70% of intraoperative accidents and were the cause of some deaths occurred.
         The preoperative consultation must take place several days before the scheduled intervention. The contemplated period should allow the completion of the pertinent complementary tests, external interconsultations, respiratory therapy sessions if required, the abstinence of tobacco and/or alcohol, and even, the administration of some specific nutritional contribution.</p>
     - question: Can the CS be applied freely in the dental office?
       answer: "<p>AT OUR CRITERION NEVER!, unless the center has facilities, equipments
@@ -185,9 +185,9 @@ faq:
         of gastric contents after induction of anesthesia, during the course of the
         procedure or in the immediate postoperative period. Current preoperative fasting
         protocols coincide in the duration of the period of time during which no substance
-        should be ingested, indicating 2 hours for clear liquids and 6 hours for more
-        solid foods. It is understood by clear liquids only water, fruit juice without
-        pulp, carbonated drinks, light tea and black coffee.</p>\n"
+        should be ingested, indicating, 2 hours for clear liquids and 6 hours for
+        more solid foods. It is understood by clear liquids only water, fruit juice
+        without pulp, carbonated drinks, light tea and black coffee.</p>\n"
     - question: Should an Anesthesiologist always be present?
       answer: "<p>OF COURSE! The responsibility of a patient under sedation should
         always be on charge of a Specialist in anesthesiology, resuscitation and pain
