@@ -94,7 +94,7 @@ faq:
         de los reflejos autónomos y sensoriales. Las drogas que se suministran cuentan
         con propiedades hipnóticas y pueden aplicarse de distintas maneras, pero generalmente
         suelen utilizarse las vías inhalatoria y endovenosa. </p>\n"
-    - question: "¿Qué es la sedación consciente?"
+    - question: "¿Qué es la Sedación Consciente?"
       answer: "<p>Es una técnica anestésica en la que se administra a los pacientes
         la combinación de uno o varios medicamentos que provocan una leve depresión
         del sistema nervioso central, sin pérdida de la consciencia, pero con alteración
