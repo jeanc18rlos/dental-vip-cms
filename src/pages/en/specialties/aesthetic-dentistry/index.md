@@ -28,7 +28,7 @@ paragraphSection:
     a necessity. The range of treatments at our disposal to correct Dental Imperfections
     is increasingly wide and affordable</b>, and the results are becoming faster,
     safer and more accurate. Among them we have TEETH WHITENING systems based on hydrogen
-    or carbamide peroxides photoactivatables with high intensity halogen lamps <em>(ZOOM
+    or carbamide peroxides photoactivatables with high intensity halogen lamps <em>(ZOOM<sup>®</sup>
     system)</em> that provide us with remarkable and immediate benefits.</p> <p>In
     addition, <b>in the Specialty it is already routine to work with digital photographs
     for the study and computerized planning of the odontoesthetic treatment plan</b>.
