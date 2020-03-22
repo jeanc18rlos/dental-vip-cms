@@ -97,8 +97,8 @@ faq:
         frequently required. In addition, cardiovascular function is usually also
         altered, so constant monitoring of vital signs is pertinent. None is better
         than another, and simply each one has its indications. In Dentistry, general
-        anesthesia for more extensive, complex and invasive procedures, such as Maxillofacial
-        Surgery or the placement of Zygomatic Implants for example; and sedation,
+        anesthesia for more extensive, complex and invasive procedures, such as maxillofacial
+        surgery or the placement of zygomatic implants for example; and sedation,
         for the vast majority of oral interventions in particular circumstances.</p>\n"
     - question: What kind of drugs are usually used to sedate a patient?
       answer: "<p>Nitrous Oxide combined with Oxygen <em>(N</em><sub><em>2</em></sub><em>O:O</em><sub><em>2</em></sub><em>)
