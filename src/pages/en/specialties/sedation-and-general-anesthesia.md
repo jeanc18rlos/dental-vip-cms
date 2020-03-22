@@ -82,7 +82,7 @@ faq:
         and sensory reflexes. The drugs supplied have hypnotic properties and can
         be applied in different ways, but the inhalation and intravenous routes are
         usually used.</p>\n"
-    - question: What is conscious sedation?
+    - question: What is Conscious Sedation?
       answer: "<p>It is an anesthetic technique in which patients are given the combination
         of two or more medications that cause a mild depression of the central nervous
         system, without loss of consciousness, but with alteration of it. It has an
