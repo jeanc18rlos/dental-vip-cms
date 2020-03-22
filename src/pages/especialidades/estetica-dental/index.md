@@ -153,8 +153,8 @@ faq:
         realizar pequeños desgastes de los bordes y ángulos dentarios es posible recuperar
         de inmediato la morfología perdida y la apariencia original de la sonrisa.
         Es un procedimiento indoloro, rápido, seguro y muy económico.</p>\n"
-    - question: "¿Cuáles son los materiales restauradores más novedosos en estética
-        dental?"
+    - question: "¿Cuáles son los materiales restauradores más novedosos en Estética
+        Dental?"
       answer: "<p>En la última década ha sido asombroso el desarrollo de los biomateriales
         odontológicos. Hoy en día contamos con composites o resinas compuestas por
         material de relleno nanométrico que proveen excelentes propiedades físicas
