@@ -248,7 +248,7 @@ clinicCases:
   - image: "/img/clinic-cases-aesthetic-dentistry-es-05-thumb.jpg"
     title: "<h6>Cirugía Plástica Periodontal y Facetas Laminadas </h6>\n"
   - image: "/img/clinic-cases-aesthetic-dentistry-es-06-thumb.jpg"
-    title: "<h6>Carillas de Porcelana en IPS E.Max®</h6>"
+    title: "<h6>Carillas de Porcelana en IPS E.Max<sup>®</sup></h6>"
   - image: "/img/clinic-cases-aesthetic-dentistry-es-07-thumb.jpg"
     title: "<h6>Cierre de Espacios con Resinas Compuestas</h6>\n"
   - image: "/img/clinic-cases-aesthetic-dentistry-es-08-thumb.jpg"
