@@ -154,7 +154,7 @@ faq:
           <li>Pacientes con cardiopatías congénitas en los que se vaya a practicar un tratamiento extenso o que contemple la remoción de procesos sépticos dentarios, restauraciones múltiples o de cirugía maxilofacial.</li>
           <li>Pacientes médicamente comprometidos y que su condición general requiera alivio de la ansiedad para prevenir riesgos mayores. </li>
           <li>Situaciones en las que determinemos que la anestesia local no logrará el efecto deseado por el tamaño, ubicación de la lesión y/o duración del procedimiento; como por ejemplo, la colocación de implantes múltiples en ambos maxilares.</li>
-          <li>Pacientes odontofóbicos o con verdadero pánico al Odontológo.</li>
+          <li>Pacientes odontofóbicos o con verdadero pánico al Odontólogo.</li>
         </ol>
     - question: "¿Pueden producir estas intervenciones algún efecto secundario?"
       answer: "<p>Es muy difícil, ya que generalmente los fármacos se emplean con
