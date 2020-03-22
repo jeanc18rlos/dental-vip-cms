@@ -36,9 +36,9 @@ paragraphSection:
       circunstancia una verdadera barrera psicológica que impide, en ocasiones,
       recibir la atención necesaria y preservar la salud oral. Y aunque las
       estrategias de manejo del comportamiento son útiles en la gran mayoría de los
-      casos, no son siempre efectivas, sobre todo al enfrentar
+      casos, no son siempre efectivas, sobre todo al enfrentar a
       <strong>
-        a individuos excesivamente nerviosos, aprensivos o que presenten
+        individuos excesivamente nerviosos, aprensivos o que presenten
         discapacidades que les impidan cooperar.
       </strong>
       Y es precisamente en esas vicisitudes, en las que la interacción entre el
