@@ -44,7 +44,7 @@ paragraphSection:
     PERIODONTAL que abarca un conjunto de técnicas que permiten al Odontólogo  <strong>modificar
     el contorno, grosor y forma de las encías,  </strong>logrando efectos estéticos
     invalorables para los pacientes. Generalmente este tipo de cirugía es complementaria
-    a tratamientos de ortodoncia, blanqueamiento y estética dental.</p>     \n"
+    a tratamientos de ortodoncia, blanqueamiento y estética dental.</p>"
   image: "/img/aside-periodontics.jpg"
 quote:
   title: ''
