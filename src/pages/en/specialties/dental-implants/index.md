@@ -278,14 +278,11 @@ asides:
   display: true
   sections:
   - align: right
-    title: '<h3 style="color:#333;font-family:''Bebas Neue Bold''">WITH ALL THE ADVANTAGES
-      OF INTERNAL HEXAGON!</h3>
-
-'
-    content: '<p style="font-weight:400">The structural configuration that provides
-      the most stable and efficient connection system of the moment, which has the
-      highest commercial compatibility rate and that promotes the most aesthetic and
-      natural appearance of the final supra prosthetic element.</p>
+    title: <h3 style="color:#333;font-family:'Bebas Neue Bold'">HIGH-END DENTAL IMPLANTS
+      ZIMMER BIOMET</h3>
+    content: '<p style="font-weight:400">Our brand of preference for being one of
+      the 5 best worldwide among the more than 500 currently marketed. Because we
+      know that High-End Implants are a guarantee of excellence, quality and longevity!</p>
 
 '
     image: "/img/sections-hexagon-dental-implants.jpg"
