@@ -216,7 +216,7 @@ faq:
         that surrounds them and the base or inner face of the prosthetic structure.
         </p>\n"
 clinicCases:
-  title: Zygomatic Implants – Clinical Cases
+  title: Zygomatic Implants - Clinical Cases
   items:
   - image: "/img/clinic-cases-zygomatic-implants-en-01-thumb.jpg"
     title: "<h6>UNILATERAL ZYGOMATIC IMPLANT</h6>\n"
