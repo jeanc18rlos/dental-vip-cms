@@ -182,11 +182,11 @@ faq:
         objetos contundentes, uso permanente de una férula nocturna de protección
         y controles profesionales periódicos. Es fundamental, aparte del cepillado
         normal, el uso constante del cepillo interdental, hilo dental especial, enjuague
-        e irrigador bucal. Un Waterpik® es el mejor complemento para la higiene oral
-        de personas portadoras de implantes dentales, prótesis fija y ortodoncia.
-        Siempre recomendamos a nuestros pacientes un control de rutina cada 6 o 12
-        meses para dinamizar la férula y evaluar su condición periodontal, función
-        oclusal, estabilidad, integridad y sellado marginal de las restauraciones.</p>\n"
+        e irrigador bucal. Un Waterpik<sup>®</sup> es el mejor complemento para la
+        higiene oral de personas portadoras de implantes dentales, prótesis fija y
+        ortodoncia. Siempre recomendamos a nuestros pacientes un control de rutina
+        cada 6 o 12 meses para dinamizar la férula y evaluar su condición periodontal,
+        función oclusal, estabilidad, integridad y sellado marginal de las restauraciones.</p>\n"
     - question: "¿Cómo es el hilo dental especial para prótesis?"
       answer: "<p>Consta generalmente de 3 porciones. Un primer tramo rígido para
         poder insertarlo directamente por debajo de la prótesis, un segundo tramo
