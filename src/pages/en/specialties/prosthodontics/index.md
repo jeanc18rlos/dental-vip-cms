@@ -265,7 +265,7 @@ clinicCases:
   - image: "/img/clinic-cases-prosthodontics-en-15-thumb.jpg"
     title: "<h6>AESTHETIC AND FUNCTIONAL RECONSTRUCTION</h6>\n"
   - image: "/img/clinic-cases-prosthodontics-en-16-thumb.jpg"
-    title: "<h6>IPS E.MAX® CAD CERAMIC SYSTEM</h6>\n"
+    title: "<h6>IPS E.MAX<sup>®</sup> CAD CERAMIC SYSTEM</h6>"
   - image: "/img/clinic-cases-prosthodontics-en-17-thumb.jpg"
     title: "<h6>ALL-ON-FOUR</h6>\n"
   - image: "/img/clinic-cases-prosthodontics-en-18-thumb.jpg"
