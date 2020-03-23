@@ -155,25 +155,9 @@ faq:
         Es un procedimiento indoloro, rápido, seguro y muy económico.</p>\n"
     - question: "¿Cuáles son los materiales restauradores más novedosos en Estética
         Dental?"
-      answer: "<p>En la última década ha sido asombroso el desarrollo de los biomateriales
-        odontológicos. Hoy en día contamos con composites o resinas compuestas por
-        material de relleno nanométrico que proveen excelentes propiedades físicas
-        y estéticas, y con las cuales es posible lograr restauraciones adhesivas directas
-        <em>(hechas en boca por el Odontólogo)</em> anteriores y posteriores, perfectamente
-        lisas y pulidas; de brillo, color y textura similar al esmalte dental. Se
-        indican para el tratamiento de caries, fracturas y defectos estéticos de poca
-        extensión. Para la fabricación de carillas, coronas e incrustaciones en el
-        laboratorio, la gran novedad es la utilización de cerámicas <em>(popularmente
-        llamadas porcelanas)</em> a base de Óxido de Zirconio <em>(ZrO<sub>2</sub>)</em>
-        y Disilicato de Litio <em>(LS<sub>2</sub>)</em>, con altísima resistencia
-        a la flexión y fractura que permiten prescindir por completo del uso de aleaciones
-        metálicas de base, y en consecuencia, mejorar drásticamente las propiedades
-        de transparencia, fluorescencia y opalescencia de los dientes restaurados.
-        Entre las cerámicas de última generación más utilizadas están: DC-Zircon<sup>®</sup>
-        <em>(DCS)</em>, Cercon<sup>®</sup> <em>(Dentsply)</em>, In-Ceram<sup>®</sup>
-        YZ <em>(Vita)</em>, Procera<sup>®</sup> Zirconia <em>(Nobel Biocare)</em>,
-        Lava<sup>®</sup> <em>(3M Espe)</em> e IPS e.max<sup>®</sup> <em>(Ivoclar)</em>;
-        entre otras.</p>\n"
+      answer: |
+        <p>En la última década ha sido asombroso el desarrollo de los biomateriales odontológicos. Hoy en día contamos con composites o resinas compuestas por material de relleno nanométrico que proveen excelentes propiedades físicas y estéticas, y con las cuales es posible lograr restauraciones adhesivas directas <em>(hechas en boca por el Odontólogo)</em> anteriores y posteriores, perfectamente lisas y pulidas; de brillo, color y textura similar al esmalte dental. Se indican para el tratamiento de caries, fracturas y defectos estéticos de poca extensión.</p>
+        <p>Para la fabricación de carillas, coronas e incrustaciones en el laboratorio, la gran novedad es la utilización de cerámicas <em>(popularmente llamadas porcelanas)</em> a base de Óxido de Zirconio <em>(ZrO<sub>2</sub>)</em> y Disilicato de Litio <em>(LS<sub>2</sub>)</em>, con altísima resistencia a la flexión y fractura que permiten prescindir por completo del uso de aleaciones metálicas de base, y en consecuencia, mejorar drásticamente las propiedades de transparencia, fluorescencia y opalescencia de los dientes restaurados. Entre las cerámicas de última generación más utilizadas están: DC-Zircon<sup>®</sup> <em>(DCS)</em>, Cercon<sup>®</sup> <em>(Dentsply)</em>, In-Ceram<sup>®</sup> YZ <em>(Vita)</em>, Procera<sup>®</sup> Zirconia <em>(Nobel Biocare)</em>, Lava<sup>®</sup> <em>(3M Espe)</em> e IPS e.max<sup>®</sup> <em>(Ivoclar)</em>; entre otras.</p>
     - question: "¿Qué es una incrustación?"
       answer: "<p>Es un tipo de restauración indirecta <em>(se fabrica en el laboratorio)</em>
         que se utiliza para reconstruir estéticamente dientes posteriores endodonciados
