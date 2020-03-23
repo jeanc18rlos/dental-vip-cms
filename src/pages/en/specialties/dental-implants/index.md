@@ -93,7 +93,7 @@ faq:
         rehabilitation, however, it is scientifically proven that smoking causes peripheral
         vascular vasoconstriction that significantly alters the process of bone healing
         and regeneration. So that in these patients the chances of success are reduced
-        from approximately 98 to 65% of cases.</p>\n"
+        from approximately 98% to 65% of cases.</p>\n"
     - question: How are they placed?
       answer: "<p>Through a small surgery, very little invasive, a perforation or
         surgical bed is created in the thickness of the alveolar bone. Next, the implant
