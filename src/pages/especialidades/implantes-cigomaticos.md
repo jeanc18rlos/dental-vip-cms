@@ -61,7 +61,7 @@ paragraphSection:
     la ausencia de\n  morbilidad de una zona donante y un periodo de curación mucho
     más corto y\n  favorable para el paciente, sugieren a estos IMPLANTES LARGOS como
     una\n  alternativa más simple y segura para casos extremos, en comparación con
-    otras\n  técnicas de regeneración ósea e implantología oral.\n</p>    \n"
+    otras\n  técnicas de regeneración ósea e implantología oral.</p>    \n"
   image: "/img/aside-zygomatic-implants.jpg"
 quote:
   title: ''
