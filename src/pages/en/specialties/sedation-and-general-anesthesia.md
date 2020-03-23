@@ -244,7 +244,7 @@ clinicCases:
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-en-15-thumb.jpg"
     title: "<h6>CS GALLERY #15</h6>"
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-en-16-thumb.jpg"
-    title: "<i></i>\n"
+    title: "<h6>CS GALLERY #16</h6>"
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-en-17-thumb.jpg"
     title: "<i></i>\n"
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-en-18-thumb.jpg"
