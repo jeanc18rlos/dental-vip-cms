@@ -162,13 +162,13 @@ faq:
         para la confección de cofias y estructuras internas, siendo necesario recubrirlas
         con porcelanas de menor cantidad de alúmina para lograr un buen mimetismo
         con el diente natural. Las zirconiosas son las más novedosas y están compuestas
-        por óxido de zirconio <em>(ZrO2)</em> altamente sinterizado, lo que las hace
-        sumamente resistentes a la flexión y fractura, y por ende, los materiales
-        idóneos para elaborar prótesis cerámicas en zonas de alto compromiso mecánico.
-        Sin embargo, y al igual que las aluminosas de alta resistencia, estas cerámicas
-        son muy opacas <em>(no tienen fase vítrea)</em>, y por ello se emplean únicamente
-        para fabricar el núcleo de la restauración, es decir, deben recubrirse con
-        porcelanas convencionales para lograr una buena estética.</p>\n"
+        por óxido de zirconio <em>(ZrO<sub>2</sub>)</em> altamente sinterizado, lo
+        que las hace sumamente resistentes a la flexión y fractura, y por ende, los
+        materiales idóneos para elaborar prótesis cerámicas en zonas de alto compromiso
+        mecánico. Sin embargo, y al igual que las aluminosas de alta resistencia,
+        estas cerámicas son muy opacas <em>(no tienen fase vítrea)</em>, y por ello
+        se emplean únicamente para fabricar el núcleo de la restauración, es decir,
+        deben recubrirse con porcelanas convencionales para lograr una buena estética.</p>\n"
     - question: "¿Son las prótesis fijas para toda la vida?"
       answer: "<p>Influyen tantos, pero tantos factores en la longevidad de una rehabilitación
         fija que ningún profesional está en capacidad de predecir, a ciencia cierta,
