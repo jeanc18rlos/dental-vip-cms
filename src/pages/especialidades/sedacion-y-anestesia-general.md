@@ -256,7 +256,7 @@ clinicCases:
   title: Sedación Consciente - Galería
   items:
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-es-01-thumb.jpg"
-    title: "<i></i>\n"
+    title: "<h6>SC GALERÍA #1</h6>"
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-es-02-thumb.jpg"
     title: "<i></i>\n"
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-es-03-thumb.jpg"
