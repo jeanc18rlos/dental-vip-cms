@@ -290,14 +290,12 @@ asides:
   display: true
   sections:
   - align: right
-    title: '<h3 style="color:#333;font-family:''Bebas Neue Bold''">¡CON TODAS LAS
-      VENTAJAS DEL HEXÁGONO INTERNO!</h3>
-
-'
-    content: '<p style="font-weight:400">La configuración estructural que provee el
-      sistema de conexión más estable y eficiente del momento, que cuenta con la mayor
-      tasa de compatibilidad comercial y que promueve la apariencia más estética y
-      natural del supra elemento protésico final.</p>
+    title: <h3 style="color:#333;font-family:'Bebas Neue Bold'">IMPLANTES DENTALES
+      DE ALTA GAMA ZIMMER BIOMET</h3>
+    content: '<p style="font-weight:400">Nuestra marca de preferencia por ser una
+      de las 5 mejores a nivel mundial de entre las más de 500 que se comercializan
+      en la actualidad. Porque sabemos que los Implantes de Alta Gama son garantía
+      de excelencia, calidad y longevidad.</p>
 
 '
     image: "/img/sections-hexagon-dental-implants.jpg"
