@@ -38,13 +38,14 @@ paragraphSection:
     the ones of first choice. Although the function has traditionally been the primary
     objective of the Prosthodontist, nowadays aesthetics have the same relevance and
     trends have led us to make <strong>totally aesthetic and metal-free devices </strong>such
-    as the thermoplastic nylon flexible prostheses Valplast type and the <strong>impressive
-    crowns and bridges of Zirconia or Lithium Disilicate</strong> made with CAD-CAM
-    COMPUTER TECHNOLOGY.</p> <p>Said the above, it is not difficult to understand
-    <strong>the importance it has of the participation of a Specialist, </strong>of
-    a Prosthodontist who guarantees the aesthetic and functional success of his restorative
-    treatment, who be really capable to design and manufacture prosthetic devices
-    that allow you to speak, eat and smile comfortably and without any type of limitation.</p>\n"
+    as the thermoplastic nylon flexible prostheses Valplast<sup>®</sup> type and the
+    <strong>impressive crowns and bridges of Zirconia or Lithium Disilicate</strong>
+    made with CAD-CAM COMPUTER TECHNOLOGY.</p> <p>Said the above, it is not difficult
+    to understand <strong>the importance it has of the participation of a Specialist,
+    </strong>of a Prosthodontist who guarantees the aesthetic and functional success
+    of his restorative treatment, who be really capable to design and manufacture
+    prosthetic devices that allow you to speak, eat and smile comfortably and without
+    any type of limitation.</p>\n"
   image: "/img/aside-prosthodontics.jpg"
 quote:
   title: ''
