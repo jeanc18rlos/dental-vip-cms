@@ -126,19 +126,19 @@ faq:
         qualities superior to pure titanium.</p>\n"
     - question: What are their real advantages?
       answer: "<p>Compared to traditional oral implantology techniques, which contemplate
-        heroic alveolar reconstructions with multiple autologous grafts, Long Implants
-        offer the following advantages:</p> <ol>\n  <li>Avoid the high risk of rejection
-        associated with maxillary grafts.\n  </li>\n  <li>They considerably reduce
-        the total treatment time.\n  </li>\n  <li>They involve a much more conservative,
-        safe and predictable procedure.\n  </li>\n  <li>Higher chance of success,
-        since the malar bone is very compact and virtually immune to bone resorption
-        <em>(not so the grafts)</em>. \n  </li>\n  <li>Lower morbidity, since it is
-        not necessary to intervene on extraoral anatomical regions to collect bone.\n
-        \ </li>\n  <li>High possibility of immediate loading <em>(fixed prosthesis
-        the same day)</em>.\n  </li>\n  <li>Shorter and more favorable postoperative
-        for the patient.\n  </li>\n  <li>Best short, medium and long term forecast.\n
-        \ </li>  \n</ol> <p>In addition, the Zygomatic Implants protocol guarantees
-        the barrier function of, biomechanical stability and correct distribution
+        heroic alveolar reconstructions with multiple autologous grafts, <strong>Long
+        Implants</strong> offer the following advantages:</p> <ol>\n  <li>Avoid the
+        high risk of rejection associated with maxillary grafts.\n  </li>\n  <li>They
+        considerably reduce the total treatment time.\n  </li>\n  <li>They involve
+        a much more conservative, safe and predictable procedure.\n  </li>\n  <li>Higher
+        chance of success, since the malar bone is very compact and virtually immune
+        to bone resorption <em>(not so the grafts)</em>. \n  </li>\n  <li>Lower morbidity,
+        since it is not necessary to intervene on extraoral anatomical regions to
+        collect bone.\n  </li>\n  <li>High possibility of immediate loading <em>(fixed
+        prosthesis the same day)</em>.\n  </li>\n  <li>Shorter and more favorable
+        postoperative for the patient.\n  </li>\n  <li>Best short, medium and long
+        term forecast.\n  </li>  \n</ol> <p>In addition, the Zygomatic Implants protocol
+        guarantees the barrier function of, biomechanical stability and correct distribution
         of the masticatory forces through the maxillomalar pillars; thus avoiding
         overloads and occasional fatigue failures. </p>\n"
     - question: What risks and contraindications exist?
