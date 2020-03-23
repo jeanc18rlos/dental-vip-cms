@@ -23,14 +23,14 @@ specialtiesHeading:
 paragraphSection:
   body: "<p>Es bien conocido que la integridad de las arcadas dentarias es factor
     clave para mantener el equilibrio y correcta función de todo el SISTEMA ESTOMATOGNÁTICO
-    conformado por <em>dientes, maxilares, músculos masticatorios y articulaciones
-    temporomandibulares. </em><strong> Si se pierden uno o varios dientes y no son
-    reemplazados a la brevedad, las piezas vecinas a los espacios vacíos se inclinan
-    y desplazan hacia ellos alterando la oclusión y función masticatoria.  </strong>Además,
-    pueden empezar a aparecer nuevos espacios entre los dientes anteriores <em>(diastemas)</em>
-    que comprometen seriamente la estética dental.</p><p> <strong>La Prostodoncia
-    es sin duda una de las Especialidades con más campo de acción dentro de la Odontología
-    actual. </strong> Puede abarcar desde la reconstrucción de un solo diente parcialmente
+    conformado por dientes, maxilares, músculos masticatorios y articulaciones temporomandibulares.
+    <strong>Si se pierden uno o varios dientes y no son reemplazados a la brevedad,
+    las piezas vecinas a los espacios vacíos se inclinan y desplazan hacia ellos alterando
+    la oclusión y función masticatoria.  </strong>Además, pueden empezar a aparecer
+    nuevos espacios entre los dientes anteriores <em>(diastemas)</em> que comprometen
+    seriamente la estética dental.</p><p> <strong>La Prostodoncia es sin duda una
+    de las Especialidades con más campo de acción dentro de la Odontología actual.
+    </strong> Puede abarcar desde la reconstrucción de un solo diente parcialmente
     destruido hasta la REHABILITACIÓN COMPLETA bimaxilar en pacientes totalmente edéntulos.</p><p>Dentro
     del arsenal protésico a nuestra disposición encontramos las conocidas y populares
     dentaduras removibles, las prótesis fijas convencionales y las  <strong> sofisticadas
