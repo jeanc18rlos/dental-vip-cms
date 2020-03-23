@@ -246,9 +246,9 @@ clinicCases:
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-en-16-thumb.jpg"
     title: "<h6>CS GALLERY #16</h6>"
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-en-17-thumb.jpg"
-    title: "<i></i>\n"
+    title: "<h6>CS GALLERY #17</h6>"
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-en-18-thumb.jpg"
-    title: "<i></i>\n"
+    title: "<h6>CS GALLERY #18</h6>"
   lightbox:
     placeholder: ROTATE THE DEVICE TO ENLARGE THE IMAGES
     type: ''
