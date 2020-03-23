@@ -253,7 +253,7 @@ clinicCases:
   - image: "/img/clinic-cases-prosthodontics-en-09-thumb.jpg"
     title: "<h6>PROSTHETIC RETREATMENT </h6>\n"
   - image: "/img/clinic-cases-prosthodontics-en-10-thumb.jpg"
-    title: "<h6>VALPLAST®</h6>\n"
+    title: "<h6>VALPLAST<sup>®</sup></h6>"
   - image: "/img/clinic-cases-prosthodontics-en-11-thumb.jpg"
     title: "<h6>UPPER LATERAL INCISORS AGENESIS</h6>\n"
   - image: "/img/clinic-cases-prosthodontics-en-12-thumb.jpg"
