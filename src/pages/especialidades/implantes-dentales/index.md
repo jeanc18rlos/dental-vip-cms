@@ -128,14 +128,9 @@ faq:
         seno maxilar o SINUS LIFT, ya que muchas veces su descenso o neumatización
         limita la colocación de implantes en el sector posterior del maxilar superior.</p>\n"
     - question: "¿Son iguales todos los implantes?"
-      answer: "<p>No, varían considerablemente en diámetro, longitud, conicidad, tipo
-        de conexión y tratamiento de superficie. Los estudios radiográficos previos,
-        las tomografías volumétricas de haz cónico <em>(Cone Beam)</em> y la experiencia
-        clínica del Cirujano son factores claves para su elección. De igual forma,
-        es importante utilizar marcas comerciales reconocidas y respaldadas por estudios
-        de investigación a largo plazo que garanticen su desempeño y longevidad funcional.
-        En nuestra clínica, y según su nivel de calidad, ponemos a su disposición
-        implantes de gama media, media-alta y gama alta.</p>\n"
+      answer: |
+        <p>No, varían considerablemente en diámetro, longitud, conicidad, tipo de conexión y tratamiento de superficie. Los estudios radiográficos previos, las tomografías volumétricas de haz cónico <em>(Cone Beam)</em> y la experiencia clínica del Cirujano son factores claves para su elección. De igual forma, es importante utilizar marcas comerciales reconocidas y respaldadas por estudios de investigación a largo plazo que garanticen su desempeño y longevidad funcional. En nuestra clínica, y según su nivel de calidad, ponemos a su disposición implantes de gama media-alta y gama alta.</p>
+        <p>¡No trabajamos con implantes clónicos o de bajo coste!</p>
     - question: "¿Qué son los implantes inmediatos?"
       answer: "<p>Son aquellos que se colocan en el mismo momento de la extracción
         dental para evitar la reabsorción del reborde alveolar y favorecer los resultados
