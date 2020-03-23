@@ -100,7 +100,7 @@ faq:
         que el hábito de fumar provoca una vasoconstricción vascular periférica que
         altera significativamente el proceso de cicatrización y regeneración ósea.
         De tal forma que en estos pacientes las posibilidades de éxito se ven reducidas
-        de un 98 a un 65% de los casos aproximadamente.</p>\n"
+        de un 98% a un 65% de los casos aproximadamente.</p>\n"
     - question: "¿Cómo se colocan?"
       answer: "<p>A través de una pequeña cirugía, muy poco invasiva, se crea una
         perforación o lecho quirúrgico en el espesor del hueso alveolar. Seguidamente,
