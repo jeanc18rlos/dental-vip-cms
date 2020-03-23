@@ -196,12 +196,12 @@ faq:
         de operaciones se encuentre integrada a una clínica privada u hospital de
         envergadura, que cuente con terapia intensiva, un equipo médico multidisciplinar
         permanente y el personal auxiliar capacitado para atender cualquier posible
-        eventualidad.  Con sinceridad, no conocemos en nuestra ciudad capital ninguna
-        clínica dental que cumpla al 100% con estas demandas y que esté verdaderamente
+        eventualidad.</p>  \n<p>Con sinceridad, no conocemos en nuestra ciudad capital
+        ninguna clínica dental que cumpla al 100% con estas demandas y que esté verdaderamente
         en capacidad de proporcionar un ambiente seguro y eficaz para los tratamientos
         con sedación, y menos aún, con anestesia general. En DENTAL VIP jamás ponemos
         en riesgo la vida de nuestros pacientes y siempre preferimos intervenir estos
-        casos en espacios físicos ajenos a nuestra infraestructura habitual.  </p>\n"
+        casos en espacios físicos ajenos a nuestra infraestructura habitual.</p>\n"
     - question: "¿Qué medidas de seguridad o de precaución debo tomar?"
       answer: "<p>Básicamente el ayuno, para evitar la regurgitación y aspiración
         pulmonar del contenido gástrico tras la inducción de la anestesia, durante
