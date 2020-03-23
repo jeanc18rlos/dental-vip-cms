@@ -148,8 +148,8 @@ faq:
     - question: "¿Qué es un sistema All-on-Four?"
       answer: "<p>Es una técnica que permite la rehabilitación total fija con implantes
         en el maxilar superior o inferior del paciente totalmente edéntulo. Se fundamenta
-        en la colocación estratégica de solo cuatro implantes, hecho que disminuye
-        considerablemente los costos finales del tratamiento.</p>\n"
+        en la colocación estratégica de solo cuatro <em>(4)</em> implantes, hecho
+        que disminuye considerablemente los costos finales del tratamiento.</p>\n"
     - question: "¿Qué tan estéticos lucen los implantes?"
       answer: "<p>Los implantes no son visibles, quedan incrustados en el interior
         del hueso, de modo que la responsabilidad estética recae en la prótesis definitiva.
