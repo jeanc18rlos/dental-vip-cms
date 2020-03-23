@@ -139,8 +139,8 @@ faq:
     - question: What is an All-on-Four system?
       answer: "<p>It is a technique that allows the total fixed rehabilitation with
         implants in the upper or lower jaw of the fully edentulous patient. It is
-        based on the strategic placement of only four implants, a fact that considerably
-        reduces the final costs of the treatment.</p>\n"
+        based on the strategic placement of only four <em>(4)</em> implants, a fact
+        that considerably reduces the final costs of the treatment.</p>\n"
     - question: How aesthetic do implants look?
       answer: "<p>The implants are not visible, they are embedded inside the bone,
         so that the aesthetic responsibility lies with the definitive prosthesis.
