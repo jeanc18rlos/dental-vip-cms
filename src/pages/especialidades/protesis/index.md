@@ -271,7 +271,7 @@ clinicCases:
   - image: "/img/clinic-cases-prosthodontics-es-15-thumb.jpg"
     title: "<h6>Reconstrucción Estética y Funcional</h6>\n"
   - image: "/img/clinic-cases-prosthodontics-es-16-thumb.jpg"
-    title: "<h6>Sistema Cerámico IPS E-MAX® CAD </h6>\n"
+    title: "<h6>Sistema Cerámico IPS E-MAX<sup>®</sup> CAD </h6>"
   - image: "/img/clinic-cases-prosthodontics-es-17-thumb.jpg"
     title: "<h6>All-on-four </h6>\n"
   - image: "/img/clinic-cases-prosthodontics-es-18-thumb.jpg"
