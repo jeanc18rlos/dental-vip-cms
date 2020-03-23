@@ -236,8 +236,8 @@ faq:
         del caso)</em> del paciente, y que sirve para el tratamiento paliativo del
         Bruxismo y para reducir la hiperactividad muscular asociada con los trastornos
         oclusales, funcionales e inflamatorios de la articulación temporomandibular
-        <em>(ATM)</em>. También lo indicamos de rutina como aparato protector en pacientes
-        con rehabilitaciones fijas extensas o implantoasistidas.</p>\n"
+        <em>(ATM)</em>. También, lo indicamos de rutina como aparato protector en
+        pacientes con rehabilitaciones fijas extensas o implantoasistidas.</p>\n"
 clinicCases:
   title: Odontología General - Casos Clínicos
   items:
