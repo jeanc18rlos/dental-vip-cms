@@ -134,8 +134,8 @@ faq:
     - question: "¿Cuáles son sus verdaderas ventajas?"
       answer: "<p>En comparación con las tradicionales técnicas de implantología oral,
         que contemplan heroicas reconstrucciones alveolares con injertos autólogos
-        múltiples, los Implantes Largos ofrecen las siguientes ventajas:</p> <ol>\n
-        \ <li>Evitan el alto riesgo de rechazo asociado a los injertos maxilares.\n
+        múltiples, los <strong>Implantes Largos</strong> ofrecen las siguientes ventajas:</p>
+        <ol>\n  <li>Evitan el alto riesgo de rechazo asociado a los injertos maxilares.\n
         \ </li>\n  <li>Reducen considerablemente el tiempo total de tratamiento.\n
         \ </li>\n  <li>Implican un procedimiento mucho más conservador, seguro y predecible.\n
         \ </li>\n  <li>Mayores probabilidades de éxito, ya que el hueso malar es muy
