@@ -39,7 +39,7 @@ paragraphSection:
     la función ha sido tradicionalmente el objetivo primordial del Prostodoncista,
     hoy en día la estética tiene igual relevancia y las tendencias nos han llevado
     a confeccionar  <strong>aparatos totalmente estéticos y libres de metal </strong>
-    como las prótesis flexibles de nylon termoplástico por inyección tipo Valplast
+    como las prótesis flexibles de nylon termoplástico por inyección tipo Valplast<sup>®</sup>
     y las  <strong>impresionantes coronas y dentaduras de Zirconio o de Disilicato
     de Litio  </strong>elaboradas con TECNOLOGÍA COMPUTARIZADA CAD-CAM.</p><p>Dicho
     lo anterior, no es difícil comprender  <strong>la importancia que tiene la participación
