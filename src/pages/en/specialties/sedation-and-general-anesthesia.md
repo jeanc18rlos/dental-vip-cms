@@ -222,7 +222,7 @@ clinicCases:
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-en-04-thumb.jpg"
     title: "<h6>CS GALLERY #4</h6>"
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-en-05-thumb.jpg"
-    title: "<i></i>\n"
+    title: "<h6>CS GALLERY #5</h6>"
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-en-06-thumb.jpg"
     title: "<i></i>\n"
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-en-07-thumb.jpg"
