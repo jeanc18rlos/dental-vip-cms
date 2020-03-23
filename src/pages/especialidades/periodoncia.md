@@ -23,29 +23,28 @@ specialtiesHeading:
 paragraphSection:
   body: "<p>Esta Especialidad Odontológica se encarga de la prevención, diagnóstico
     y tratamiento de todas las enfermedades infecciosas <i>(GINGIVITIS y PERIODONTITIS)</i>
-    que atacan al aparato de fijación de los dientes: <em> encías, hueso alveolar,
-    cemento y ligamento periodontal,</em> y que son las responsables hasta del 80%
-    de las pérdidas dentarias en sujetos mayores de 35 años.  <strong>No basta con
-    unos dientes sanos, la salud de las encías es tan o más importante que permanecer
-    libre de caries. </strong></p><p><strong>Usualmente, el tratamiento consiste en
-    la eliminación y control de los irritantes infecciosos locales como la placa bacteriana
-    y cálculo dental </strong> a través de tartrectomías <i>(limpiezas)</i> profundas
-    y la enseñanza de adecuadas técnicas de higiene oral. En los casos más avanzados
-    suele entonces ser necesario implementar procedimientos quirúrgicos más complejos
-    que involucran los curetajes y raspados radiculares, levantamiento de colgajos
-    invasivos, injertos óseos, colocación de membranas y la llamada REGENERACIÓN TISULAR
-    GUIADA.</p><p><strong>La Enfermedad Periodontal es casi siempre asintomática en
-    sus fases iniciales, por eso es tan peligrosa y destructiva. </strong> Cuando
-    ya aparecen los primeros signos como sangramiento al cepillado, separación de
-    los dientes y movilidad dental, estamos generalmente en presencia de fases avanzadas
-    de la misma.  <strong>Sin tratamiento especializado se pierde todo el hueso de
-    sostén y entonces los dientes se aflojarán y caerán irremediablemente. </strong></p><p>Otro
-    beneficio adicional de esta Especialidad es el que podemos obtener de la llamada
-    CIRUGÍA PLÁSTICA PERIODONTAL que abarca un conjunto de técnicas que permiten al
-    Odontólogo  <strong>modificar el contorno, grosor y forma de las encías,  </strong>logrando
-    efectos estéticos invalorables para los pacientes. Generalmente este tipo de cirugía
-    es complementaria a tratamientos de ortodoncia, blanqueamiento y estética dental.</p>
-    \    \n"
+    que atacan al aparato de fijación de los dientes: encías, hueso alveolar, cemento
+    y ligamento periodontal, y que son las responsables hasta del 80% de las pérdidas
+    dentarias en sujetos mayores de 35 años.  <strong>No basta con unos dientes sanos,
+    la salud de las encías es tan o más importante que permanecer libre de caries.
+    </strong></p><p><strong>Usualmente, el tratamiento consiste en la eliminación
+    y control de los irritantes infecciosos locales como la placa bacteriana y cálculo
+    dental </strong> a través de tartrectomías <i>(limpiezas)</i> profundas y la enseñanza
+    de adecuadas técnicas de higiene oral. En los casos más avanzados suele entonces
+    ser necesario implementar procedimientos quirúrgicos más complejos que involucran
+    los curetajes y raspados radiculares, levantamiento de colgajos invasivos, injertos
+    óseos, colocación de membranas y la llamada REGENERACIÓN TISULAR GUIADA.</p><p><strong>La
+    Enfermedad Periodontal es casi siempre asintomática en sus fases iniciales, por
+    eso es tan peligrosa y destructiva. </strong> Cuando ya aparecen los primeros
+    signos como sangramiento al cepillado, separación de los dientes y movilidad dental,
+    estamos generalmente en presencia de fases avanzadas de la misma.  <strong>Sin
+    tratamiento especializado se pierde todo el hueso de sostén y entonces los dientes
+    se aflojarán y caerán irremediablemente. </strong></p><p>Otro beneficio adicional
+    de esta Especialidad es el que podemos obtener de la llamada CIRUGÍA PLÁSTICA
+    PERIODONTAL que abarca un conjunto de técnicas que permiten al Odontólogo  <strong>modificar
+    el contorno, grosor y forma de las encías,  </strong>logrando efectos estéticos
+    invalorables para los pacientes. Generalmente este tipo de cirugía es complementaria
+    a tratamientos de ortodoncia, blanqueamiento y estética dental.</p>     \n"
   image: "/img/aside-periodontics.jpg"
 quote:
   title: ''
