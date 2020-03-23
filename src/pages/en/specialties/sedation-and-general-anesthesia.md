@@ -160,26 +160,9 @@ faq:
         <p>The preanesthetic assessment <em>(PA)</em> is a study protocol that allows the evaluation of the physical condition and the risk of the patient, to then establish an anesthetic plan according to their particular conditions and thus reduce the possibility of complications. The PA is mandatory, has demonstrated its importance and significance in the field of Anesthesiology and is a major element of safety in medical care. Recent studies have shown that the lack of assessment of the status of anesthetic patients influences on more than 70% of intraoperative accidents and were the cause of some deaths occurred.
         The preoperative consultation must take place several days before the scheduled intervention. The contemplated period should allow the completion of the pertinent complementary tests, external interconsultations, respiratory therapy sessions if required, the abstinence of tobacco and/or alcohol, and even, the administration of some specific nutritional contribution.</p>
     - question: Can the CS be applied freely in the dental office?
-      answer: "<p>AT OUR CRITERION NEVER!, unless the center has facilities, equipments
-        and materials that guarantee proper patient care, and that include at least:
-        an operating room environment attached to the dental box, anesthesia appliances
-        and equipments, artificial airways and endotracheal tubes of all diameters,
-        intravenous catheters, valves and respiratory assistance bags, laryngeal masks
-        of all sizes, oropharyngeal and nasopharyngeal cannulas of various diameters,
-        medical gas cylinders, advanced monitoring system, electrocardiograph, laryngoscope
-        and video laryngoscope, fiberoptic bronchoscope for difficult intubations,
-        peripheral nerves' stimulator, oxygen supply systems, gas purification system,
-        aspiration system, cardiopulmonary resuscitation equipment <em>(CPR),</em>
-        recovery room and emergency electrical power plant with a minimum autonomy
-        of 3 continuous hours. In addition, in the cases of GA, it is essential that
-        the operating room is integrated into a private medical clinic or large hospital,
-        with intensive therapy, a permanent multidisciplinary medical team and trained
-        auxiliary personnel to attend to any possible eventuality. With sincerity,
-        we do not know in our capital city any dental clinic that meets these demands
-        100% and is truly able to provide a safe and effective environment for sedation
-        treatments, and even less, with general anesthesia. At DENTAL VIP we never
-        put our patients' lives at risk and we always prefer to intervene these cases
-        in external physical spaces to our usual infrastructure.</p>\n"
+      answer: |
+        <p>AT OUR CRITERION NEVER!, unless the center has facilities, equipments and materials that guarantee proper patient care, and that include at least: an operating room environment attached to the dental box, anesthesia appliances and equipments, artificial airways and endotracheal tubes of all diameters, intravenous catheters, valves and respiratory assistance bags, laryngeal masks of all sizes, oropharyngeal and nasopharyngeal cannulas of various diameters, medical gas cylinders, advanced monitoring system, electrocardiograph, laryngoscope and video laryngoscope, fiberoptic bronchoscope for difficult intubations, peripheral nerves' stimulator, oxygen supply systems, gas purification system, aspiration system, cardiopulmonary resuscitation equipment <em>(CPR),</em> recovery room and emergency electrical power plant with a minimum autonomy of 3 continuous hours. In addition, in the cases of GA, it is essential that the operating room is integrated into a private medical clinic or large hospital, with intensive therapy, a permanent multidisciplinary medical team and trained auxiliary personnel to attend to any possible eventuality.</p>
+        <p>With sincerity, we do not know in our capital city any dental clinic that meets these demands 100% and is truly able to provide a safe and effective environment for sedation treatments, and even less, with general anesthesia. At DENTAL VIP we never put our patients' lives at risk and we always prefer to intervene these cases in external physical spaces to our usual infrastructure.</p>
     - question: What safety or precautionary measures should I take?
       answer: "<p>Basically fasting, to avoid regurgitation and pulmonary aspiration
         of gastric contents after induction of anesthesia, during the course of the
