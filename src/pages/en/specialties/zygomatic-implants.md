@@ -49,7 +49,7 @@ paragraphSection:
     proximity the MALAR OR ZYGOMATIC <em>(which forms the cheekbone)</em> and Sphenoid
     bones, those of preference. So <strong>Zygomatic Implants are nothing more than
     special dental devices, much longer than conventional ones</strong> <em>(between
-    30 and 55 mm in length)</em> and that allow us to make fixed dentures without
+    30 and 55 mm. in length)</em> and that allow us to make fixed dentures without
     inconveniences even in cases of severe or advanced maxillary atrophy; and that
     is why, in conjunction with Pterygoid Implants <em>(very similar to Zygomatics
     but that anchor at the level of the pterygomaxillary suture)</em>, they are also
