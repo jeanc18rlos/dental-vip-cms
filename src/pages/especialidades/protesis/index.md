@@ -259,7 +259,7 @@ clinicCases:
   - image: "/img/clinic-cases-prosthodontics-es-09-thumb.jpg"
     title: "<h6>Retratamiento Protésico </h6>\n"
   - image: "/img/clinic-cases-prosthodontics-es-10-thumb.jpg"
-    title: "<h6>Valplast®</h6>\n"
+    title: "<h6>Valplast<sup>®</sup></h6>"
   - image: "/img/clinic-cases-prosthodontics-es-11-thumb.jpg"
     title: "<h6>Agenesia de Incisivos Laterales Superiores </h6>\n"
   - image: "/img/clinic-cases-prosthodontics-es-12-thumb.jpg"
