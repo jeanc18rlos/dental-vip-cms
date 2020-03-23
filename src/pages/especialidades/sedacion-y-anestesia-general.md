@@ -288,7 +288,7 @@ clinicCases:
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-es-16-thumb.jpg"
     title: "<h6>SC GALERÍA #16</h6>"
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-es-17-thumb.jpg"
-    title: "<i></i>\n"
+    title: "<h6>SC GALERÍA #17</h6>"
   - image: "/img/clinic-cases-sedation-and-general-anesthesia-es-18-thumb.jpg"
     title: "<i></i>\n"
   lightbox:
