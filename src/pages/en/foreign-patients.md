@@ -64,11 +64,12 @@ columns:
   - head: '<p class="dv-title-circle text-center">Phase 2</p>
 
 '
-    body: '<p class="dv-content-phase">INTENSIVE and multidisciplinary ODONTOLOGICAL
-      TREATMENT to be able to cover in record time all previously established oral
-      requirements.</p>
-
-'
+    body: |-
+      <p class="dv-content-phase">Displacement, reception and accommodation.</p>
+        <br />
+        <br />
+         INTENSIVE and multidisciplinary DENTAL TREATMENT to be able to cover in record time (1 or 2 weeks) all the oral requirements previously established..
+      </p>
 hostSection:
   bg: "/img/host-bg.jpg"
   title: "<h1>Transfers and Accommodation</h1>\n"
