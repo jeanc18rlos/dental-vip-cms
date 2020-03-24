@@ -46,11 +46,12 @@ columns:
   - head: '<p class="dv-title-circle text-center">Fase 2</p>
 
 '
-    body: '<p class="dv-content-phase">TRATAMIENTO ODONTOLÓGICO INTENSIVO y multidisciplinario
-      para poder cubrir en tiempo record todos los requerimientos bucales previamente
-      establecidos.</p>
-
-'
+    body: |-
+      <p class="dv-content-phase">Desplazamiento, recepción y alojamiento.</p>
+        <br />
+        <br />
+      TRATAMIENTO ODONTOLÓGICO INTENSIVO y multidisciplinario para poder cubrir en tiempo record <em>(1 o 2 semanas)</em> todos los requerimientos bucales previamente establecidos.
+      </p>
 hostSection:
   bg: "/img/host-bg.jpg"
   title: "<h1>Traslados y Alojamiento</h1>\n"
