@@ -70,7 +70,9 @@ columns:
 
 '
   - head: <p class="dv-title-circle text-center">PHASE 3</p>
-    body: ''
+    body: <p class="dv-content-phase">INTENSIVE and multidisciplinary ODONTOLOGICAL
+      TREATMENT to be able to cover in record time <em>(1 or 2 weeks)</em> all previously
+      established oral requirements.</p>
 hostSection:
   bg: "/img/host-bg.jpg"
   title: "<h1>Transfers and Accommodation</h1>\n"
