@@ -38,14 +38,10 @@ columns:
 '
     body: |
       <p class="dv-content-phase">
-        Abarca una primera consulta y la realización de todas las
-        EVALUACIONES DIAGNÓSTICAS necesarias en un mismo día.
+      Contacto, ejecución y recepción de los estudios dentales básicos y evaluaciones diagnósticas necesarias.
         <br />
         <br />
-        De inmediato, serán enviados a la dirección de correo
-        electrónico del paciente un informe clínico, una propuesta
-        concreta de tratamiento y un estimado de honorarios
-        profesionales.
+      Estudio del caso, DIAGNÓSTICO, planificación y remisión de una propuesta concreta de tratamiento; incluyendo por supuesto, un estimado de honorarios profesionales o presupuesto.
       </p>
   - head: '<p class="dv-title-circle text-center">Fase 2</p>
 
