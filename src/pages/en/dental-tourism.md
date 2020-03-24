@@ -371,13 +371,9 @@ routes:
 '
     visa: No visa required
 gallerySteps:
-  title: 'making denstistry
-
-'
+  title: Making Denstistry Care Simple and Affordable
   steps:
-  - title: 'step default tiltle
-
-'
+  - title: Contact and Submission of Basic Dental Studies
     image: "/img/steps-1-dental-tourism.png"
   - title: 'step default tiltle
 
