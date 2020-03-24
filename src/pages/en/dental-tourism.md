@@ -375,9 +375,7 @@ gallerySteps:
     image: "/img/steps-1-dental-tourism.png"
   - title: Treatment Plan and Budgeting
     image: "/img/steps-2-dental-tourism.png"
-  - title: 'step default tiltle
-
-'
+  - title: Travel, Reception and Accommodation
     image: "/img/steps-3-dental-tourism.png"
   - title: 'step default tiltle
 
