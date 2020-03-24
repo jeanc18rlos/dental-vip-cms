@@ -425,10 +425,11 @@ blocksDescription:
         in many countries of Europe, North, Central and South America and the Caribbean
         Islands.</p>\n"
     - icon: "/img/icons-inmediacy.png"
-      title: "<h4>tincidunt</h4>\n"
-      content: "<p>Aenean id efficitur massa. Sed massa metus, ultrices eu sem vitae,
-        dignissim ornare urna. Aliquam velit odio, ultricies sit amet libero eget,
-        maximus mattis sapien. Aliquam gravida lorem in enim varius, </p>\n"
+      title: "<h4>Immediacy</h4>"
+      content: "<p>Your appointment instantly, without delays or waiting lists. Exclusive,
+        intensive and multidisciplinary care to cover in record time all the oral
+        requirements previously established in the diagnostic and therapeutic planning
+        phases.</p>\n"
     - icon: "/img/icons-quality.png"
       title: "<h4>facilisisss</h4>\n"
       content: "<p>Aenean id efficitur massa. Sed massa metus, ultrices eu sem vitae,
