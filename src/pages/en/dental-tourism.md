@@ -9,9 +9,7 @@ hero:
   type: default
   image: "/img/hero-dental-tourism.png"
   parallax: false
-  title: '<span style="color:white"> Save Up to 70% on High-End<br>Dental Treatments</span>
-
-'
+  title: <span style="color:white"> Save Up to 70% on High-End<br>Dental Treatments</span>
   indicator: true
   halfSize: true
 heading:
@@ -375,9 +373,7 @@ gallerySteps:
   steps:
   - title: Contact and Submission of Basic Dental Studies
     image: "/img/steps-1-dental-tourism.png"
-  - title: 'step default tiltle
-
-'
+  - title: Treatment Plan and Budgeting
     image: "/img/steps-2-dental-tourism.png"
   - title: 'step default tiltle
 
