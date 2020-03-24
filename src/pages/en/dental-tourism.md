@@ -377,9 +377,7 @@ gallerySteps:
     image: "/img/steps-2-dental-tourism.png"
   - title: Travel, Reception and Accommodation
     image: "/img/steps-3-dental-tourism.png"
-  - title: 'step default tiltle
-
-'
+  - title: Complementary Diagnostic Tests
     image: "/img/steps-4-dental-tourism.png"
   - title: 'step default tiltle
 
