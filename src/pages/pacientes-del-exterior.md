@@ -75,8 +75,8 @@ titleSection:
   title: 'Su Salud: Un Buen Motivo para Viajar
 
 '
-  content: '<p class="dv-subtitle text-center">La globalización ha hecho del turismo
-    dental una maravillosa herramienta de acceso a la Odontología de Primer Nivel.
+  content: '<p class="dv-subtitle text-center">La Globalización ha hecho del Turismo
+    Dental una maravillosa herramienta de acceso a la Odontología de Primer Nivel.
     Por su reconocida trayectoria en el sector y razonable estructura de costes, Venezuela
     se consolida sin duda como uno de los mejores destinos a nivel mundial.</p>
 

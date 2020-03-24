@@ -22,7 +22,7 @@ titleSection:
   title: 'Your Health: A Good Reason for Travel
 
 '
-  content: '<p class="dv-subtitle text-center">Globalization has made dental tourism
+  content: '<p class="dv-subtitle text-center">Globalization has made Dental Tourism
     a wonderful tool for access to First Level Dentistry. Due to its recognized trajectory
     in the sector and reasonable cost structure, Venezuela undoubtedly consolidates
     itself as one of the best destinations worldwide.</p>
