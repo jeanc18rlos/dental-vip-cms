@@ -410,14 +410,12 @@ form:
 blocksDescription:
   sections:
     left:
-      title: "<h1>Quisque tincidunt facilisis.</h1>\n"
-      cuerpo: "<h4>Quisque tincidunt facilisis neque nec consequat.</h4> <p>Aenean
-        id efficitur massa. Sed massa metus, ultrices eu sem vitae, dignissim ornare
-        urna. Aliquam velit odio, ultricies sit amet libero eget, maximus mattis sapien.
-        Aliquam gravida lorem in enim varius, eget scelerisque tellus efficitur. Pellentesque
-        condimentum ipsum ut magna consequat, quis scelerisque nibh egestas. Nulla
-        malesuada justo ut nulla maximus fringilla. Aliquam metus est, egestas a commodo
-        sed, sodales eu ex.</p>\n"
+      title: "<h1>Dental Tourism in Venezuela</h1>"
+      cuerpo: "<h4>An Attractive Reality!</h4> <p>Eat, smile and enjoy as before.
+        Do not compromise your quality of life anymore and take advantage of the great
+        benefits that globalization offers in the health sector. Take our attention
+        proposal seriously and overcome once and for all any barrier that prevents
+        you from show off white, healthy and beautiful teeth.</p>\n"
       image: "/img/aside-dental-tourism-map.png"
     right:
     - icon: "/img/icons-accesibility.png"
