@@ -379,9 +379,7 @@ gallerySteps:
     image: "/img/steps-3-dental-tourism.png"
   - title: Complementary Diagnostic Tests
     image: "/img/steps-4-dental-tourism.png"
-  - title: 'step default tiltle
-
-'
+  - title: Intensive Dental Treatment
     image: "/img/steps-5-dental-tourism.png"
   - title: 'step default tiltle
 
