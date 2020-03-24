@@ -68,7 +68,7 @@ columns:
       <p class="dv-content-phase">Displacement, reception and accommodation.</p>
         <br />
         <br />
-         INTENSIVE and multidisciplinary DENTAL TREATMENT to be able to cover in record time (1 or 2 weeks) all the oral requirements previously established..
+         INTENSIVE AND MULTIDISCIPLINARY DENTAL TREATMENT to be able to cover in record time (1 or 2 weeks) all the oral requirements previously established..
       </p>
 hostSection:
   bg: "/img/host-bg.jpg"
