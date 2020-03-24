@@ -50,7 +50,7 @@ columns:
       <p class="dv-content-phase">Desplazamiento, recepción y alojamiento.</p>
         <br />
         <br />
-      TRATAMIENTO ODONTOLÓGICO INTENSIVO y multidisciplinario para poder cubrir en tiempo record <em>(1 o 2 semanas)</em> todos los requerimientos bucales previamente establecidos.
+      TRATAMIENTO ODONTOLÓGICO INTENSIVO Y MULTIDISCIPLINARIO para poder cubrir en tiempo record <em>(1 o 2 semanas)</em> todos los requerimientos bucales previamente establecidos.
       </p>
 hostSection:
   bg: "/img/host-bg.jpg"
