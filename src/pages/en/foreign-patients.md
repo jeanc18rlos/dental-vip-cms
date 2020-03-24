@@ -31,8 +31,8 @@ titleSection:
   blocks:
   - img: "/img/icons-north-america.jpg"
     content: '<p class="dv-content">Save more than</p> <p class="dv-content-number">70%</p>
-      <p class="dv-content">IF YOU LIVE IN</p> <p class="dv-content-country">Usa or
-      canada</p>
+      <p class="dv-content">IF YOU LIVE IN</p> <p class="dv-content-country">United
+      States or canada</p>
 
 '
   - img: "/img/icons-europe.jpg"
