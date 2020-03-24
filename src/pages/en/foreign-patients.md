@@ -56,10 +56,10 @@ columns:
   - head: <p class="dv-title-circle text-center">PHASE 1</p>
     body: |
       <p class="dv-content-phase">
-        It includes a first consultation and the realization of all the necessary DIAGNOSTIC EVALUATIONS in the same day.
+        Contact, execution and reception of the basic dental studies and necessary diagnostic evaluations.
         <br />
         <br />
-         Immediately, a clinical report, a specific treatment proposal and an estimate of professional fees will be sent to the patient's email address.
+         Case study, DIAGNOSIS, planning and referral of a specific treatment proposal; including of course, an estimate of professional fees or dental quote.
       </p>
   - head: '<p class="dv-title-circle text-center">Phase 2</p>
 
