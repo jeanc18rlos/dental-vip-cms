@@ -1,7 +1,7 @@
 ---
 templateKey: specialties-page
 language: en
-title: Sedation and General<br>anesthesia
+title: Sedation and General Anesthesia
 redirects: "/especialidades/sedacion-y-anestesia-general/"
 published: true
 hero:
