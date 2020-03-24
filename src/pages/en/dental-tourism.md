@@ -431,10 +431,11 @@ blocksDescription:
         requirements previously established in the diagnostic and therapeutic planning
         phases.</p>\n"
     - icon: "/img/icons-quality.png"
-      title: "<h4>facilisisss</h4>\n"
-      content: "<p>Aenean id efficitur massa. Sed massa metus, ultrices eu sem vitae,
-        dignissim ornare urna. Aliquam velit odio, ultricies sit amet libero eget,
-        maximus mattis sapien. Aliquam gravida lorem in enim varius, </p>\n"
+      title: "<h4>Top Quality</h4>"
+      content: "<p>At your disposal the experience of the best local team of Specialist
+        Dentists, the most modern and comfortable facilities and the latest technology
+        worldwide. A service widely recognized and in accordance with the requirements
+        of the highest international standards in oral health.</p>\n"
 procedures:
   display: true
   title: We Are Just One Step Away!
