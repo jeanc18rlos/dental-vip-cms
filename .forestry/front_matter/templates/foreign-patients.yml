@@ -172,3 +172,4 @@ fields:
       label: img
 pages:
 - src/pages/en/foreign-patients.md
+- src/pages/pacientes-del-exterior.md
