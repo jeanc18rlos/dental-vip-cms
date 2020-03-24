@@ -381,9 +381,7 @@ gallerySteps:
     image: "/img/steps-4-dental-tourism.png"
   - title: Intensive Dental Treatment
     image: "/img/steps-5-dental-tourism.png"
-  - title: 'step default tiltle
-
-'
+  - title: New Smile and Homecoming
     image: "/img/steps-6-dental-tourism.png"
 sidePanel:
   display: true
