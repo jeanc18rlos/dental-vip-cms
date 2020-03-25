@@ -92,7 +92,7 @@ prices:
     - procedure: Puente Fijo sobre Implantes
       price: "$ 480"
       currency: USD por unidad
-    - procedure: Snap on Denture
+    - procedure: Sobredentadura Removible
       price: "$ 1,350"
       currency: USD
     - procedure: All on Four
