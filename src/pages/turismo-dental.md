@@ -108,7 +108,7 @@ prices:
   - title: Odontología Estética
     icon: "/img/icon-aestetic-dentistry.jpg"
     rows:
-    - procedure: Digital Smile Design
+    - procedure: Diseño Digital de Sonrisa
       price: "$ 50"
       currency: USD
     - procedure: Gum Contouring Surgery
