@@ -414,11 +414,11 @@ blocksDescription:
       image: "/img/aside-dental-tourism-map.png"
     right:
     - icon: "/img/icons-accesibility.png"
-      title: "<h4>Accessibility</h4>"
-      content: "<p>Huge possibility of materializing aesthetic, extensive or highly
-        complex dental treatments, often unattainable for the vast majority of people
-        in many countries of Europe, North, Central and South America and the Caribbean
-        Islands.</p>\n"
+      title: "<h4>Accesibilidad</h4>"
+      content: "<p>Gran posibilidad de materializar tratamientos dentales extensos,
+        estéticos o de alta complejidad, a menudo inalcanzables para la gran mayoría
+        de las personas en muchos países de Europa, Norte, Centro y Sudamérica e Islas
+        del Caribe.</p>\n"
     - icon: "/img/icons-inmediacy.png"
       title: "<h4>Immediacy</h4>"
       content: "<p>Your appointment instantly, without delays or waiting lists. Exclusive,
