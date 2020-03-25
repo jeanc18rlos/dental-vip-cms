@@ -153,7 +153,7 @@ prices:
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
-      to: "/en/specialties/dental-implants"
+      to: "/en/specialties/endodontics/"
   - title: Oral Surgery
     icon: "/img/icon-oral-surgery.jpg"
     rows:
