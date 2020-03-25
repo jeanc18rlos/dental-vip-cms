@@ -267,7 +267,7 @@ prices:
     - procedure: Brackets de Zafiro
       price: "$ 1,500"
       currency: USD (Superiores e Inferiores)
-    - procedure: Bonded Retainer
+    - procedure: Retenedor Fijo
       price: "$ 180"
       currency: USD
     - procedure: Essix or Hawley Retainer
