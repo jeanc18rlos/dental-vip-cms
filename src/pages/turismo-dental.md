@@ -376,7 +376,7 @@ gallerySteps:
     image: "/img/steps-4-dental-tourism.png"
   - title: Tratamiento Dental Intensivo
     image: "/img/steps-5-dental-tourism.png"
-  - title: New Smile and Homecoming
+  - title: Nueva Sonrisa y Regreso a Casa
     image: "/img/steps-6-dental-tourism.png"
 sidePanel:
   display: true
