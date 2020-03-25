@@ -38,7 +38,7 @@ columns:
 '
     body: |
       <p class="dv-content-phase">
-      Contacto, ejecución y recepción de los estudios dentales básicos y evaluaciones diagnósticas necesarias.
+      Contacto, ejecución y recepción de los estudios dentales básicos y evaluaciones diagnósticas pertinentes.
         <br />
         <br />
       Estudio del caso, DIAGNÓSTICO, planificación y remisión de una propuesta concreta de tratamiento; incluyendo por supuesto, un estimado de honorarios profesionales o presupuesto.
