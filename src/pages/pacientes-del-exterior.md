@@ -54,7 +54,7 @@ hostSection:
   title: "<h1>Traslados y Alojamiento</h1>\n"
   body: "<p>Nuestra privilegiada ubicación nos permite contar además con dos excelentes
     infraestructuras hoteleras situadas a menos de 50 metros de la clínica. CHACAO
-    SUITES Y SHELTER SUITES disponen de cómodas habitaciones, estacionamiento, restaurantes
+    SUITES y SHELTER SUITES disponen de cómodas habitaciones, estacionamiento, restaurantes
     y demás servicios que facilitarán y harán agradable, en caso de ser necesaria,
     su breve estadía en la ciudad de Caracas. Si es su deseo, nuestro personal administrativo
     está en capacidad de prestarle apoyo en todo lo referente a boleteria aérea, traslados
