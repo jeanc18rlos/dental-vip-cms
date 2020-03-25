@@ -161,7 +161,7 @@ prices:
     - procedure: Extracción Simple
       price: "$ 45"
       currency: USD
-    - procedure: Surgical Odontectomy
+    - procedure: Extracción Quirúrgica
       price: "$ 80"
       currency: USD
     - procedure: 3rd Molar Extraction
