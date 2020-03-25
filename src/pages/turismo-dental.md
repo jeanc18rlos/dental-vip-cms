@@ -396,9 +396,9 @@ sidePanel:
   - img: "/img/sections-dental-tourism-24.png"
     section: |
       <div class="dv-sp-srv-cd">
-      <h2 class="dv-srv-pl4 text-right dv-npr">Full travel assistance and permanent support</h2> <p class="dv-srv-pl text-right dv-npr">Our administrative staff is able to provide you support in everything related to air tickets, airport-hotel-airport transfers and accommodation procedures. </p>
-      <p class="dv-srv-pl text-right dv-npr">Personalized attention 24 hours a day and the permanent accompaniment of a bilingual guide if you wish are an integral part of our conception of service, of our effort to make your experience as comfortable, fruitful and pleasant as possible.</p>
-      <p class="dv-srv-pl text-right dv-npr">We will try to make you feel at home!</p> </div>
+      <h2 class="dv-srv-pl4 text-right dv-npr">Asistencia de viaje y soporte permanente</h2> <p class="dv-srv-pl text-right dv-npr">Nuestro personal administrativo está en capacidad de brindarle apoyo en todo lo referente a boleteria aérea, traslados aeropuerto-hotel-aeropuerto y trámites de alojamiento. </p>
+      <p class="dv-srv-pl text-right dv-npr">Una atención personalizada las 24 horas del día y el acompañamiento permanente de un guía bilingüe, si lo desea, son parte integral de nuestra concepción de servicio, de nuestro gran esfuerzo por hacer que su experiencia sea lo más cómoda, fructífera y placentera posible.</p>
+      <p class="dv-srv-pl text-right dv-npr">¡Intentaremos hacerle sentir como en casa!</p> </div>
 form:
   title: Consult Us Right Now!
   img: "/img/parallax-form-annexed-pages.jpg"
