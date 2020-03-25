@@ -438,8 +438,8 @@ procedures:
   - title: Instalaciones
     to: "/la-clinica/instalaciones/"
     img: "/img/procedures-facilities.jpg"
-  - title: Technology
-    to: "/en/the-clinic/technology/"
+  - title: Tecnología
+    to: "/la-clinica/tecnologia/"
     img: "/img/procedures-technology.jpg"
   - title: Professional Staff
     to: "/en/professional-staff/"
