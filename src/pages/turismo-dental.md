@@ -374,7 +374,7 @@ gallerySteps:
     image: "/img/steps-3-dental-tourism.png"
   - title: " Estudios Diagnósticos Complementarios"
     image: "/img/steps-4-dental-tourism.png"
-  - title: Intensive Dental Treatment
+  - title: Tratamiento Dental Intensivo
     image: "/img/steps-5-dental-tourism.png"
   - title: New Smile and Homecoming
     image: "/img/steps-6-dental-tourism.png"
