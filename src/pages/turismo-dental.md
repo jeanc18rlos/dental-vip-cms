@@ -155,7 +155,7 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MÁS INFORMACIÓN
       to: "/especialidades/endodoncia/"
-  - title: Oral Surgery
+  - title: Cirugía Bucal
     icon: "/img/icon-oral-surgery.jpg"
     rows:
     - procedure: Simple Extraction
