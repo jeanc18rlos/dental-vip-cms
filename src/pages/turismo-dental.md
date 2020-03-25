@@ -245,9 +245,9 @@ prices:
     - procedure: Injerto de Encía
       price: "$ 180"
       currency: USD por diente
-    - procedure: Gingivectomy
+    - procedure: Gingivectomía
       price: "$ 120"
-      currency: USD per quadrant
+      currency: USD por cuadrante
     - procedure: Guided Tissue Regeneration
       price: "$ 350"
       currency: USD per defect
