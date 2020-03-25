@@ -80,7 +80,7 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
       to: "/en/specialties/dental-implants"
-  - title: Implant Supported Restorations
+  - title: Prótesis sobre Implantes
     icon: "/img/ICON-IMPLANT SUPPORT.jpg"
     rows:
     - procedure: Porcelain Fused to Metal Crown
