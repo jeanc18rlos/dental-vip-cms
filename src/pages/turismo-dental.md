@@ -328,13 +328,13 @@ routes:
 
 '
     visa: No se Requiere Visa
-  - from: 'From: MIAMI'
+  - from: 'Desde: MIAMI'
     flag: us
     time: 3 h:14 m
     cost: '875.00 USD
 
 '
-    visa: No visa required
+    visa: No se Requiere Visa
   - from: 'From: PANAMA'
     flag: pa
     time: 2 h:17 m
