@@ -65,7 +65,7 @@ hostSection:
     img: "/img/host-chacao-suites.jpg"
   - title: "<p>Shelter Suites</p>"
     link: https://www.hotel-shelter.com/reserva/
-    img: "/img/host-shelter-suites.jpg"
+    img: "/img/host-shelter-suites-1.jpg"
 titleSection:
   display: true
   classname: section-reasons
