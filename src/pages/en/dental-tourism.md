@@ -78,7 +78,7 @@ prices:
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
-      to: "/en/specialties/dental-implants"
+      to: "/en/specialties/zygomatic-implants/"
   - title: Implant Supported Restorations
     icon: "/img/ICON-IMPLANT SUPPORT.jpg"
     rows:
