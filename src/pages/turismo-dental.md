@@ -258,9 +258,9 @@ prices:
   - title: Ortodoncia
     icon: "/img/icon-orthodontics.jpg"
     rows:
-    - procedure: Metal Braces
+    - procedure: Brackets Metálicos
       price: "$ 500"
-      currency: USD (Upper and Lower)
+      currency: USD (Superiores e Inferiores)
     - procedure: Porcelain Braces
       price: "$ 1,000"
       currency: USD (Upper and Lower)
