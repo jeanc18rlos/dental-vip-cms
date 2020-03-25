@@ -120,7 +120,7 @@ prices:
     - procedure: Blanqueamiento Dental LED
       price: "$ 180"
       currency: USD
-    - procedure: Composite Direct Veneer
+    - procedure: Carilla de Resina Compuesta
       price: "$ 100"
       currency: USD
     - procedure: IPS e.max Ceramic Veneer
