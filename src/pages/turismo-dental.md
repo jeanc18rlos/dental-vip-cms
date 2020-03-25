@@ -186,9 +186,9 @@ prices:
     - procedure: Coronas y Puentes Metal-Porcelana
       price: "$ 430"
       currency: USD por unidad
-    - procedure: IPS e.max Crowns and Bridges
+    - procedure: " Coronas y Puentes IPS e.max"
       price: "$ 480"
-      currency: USD per unit
+      currency: USD por unidad
     - procedure: Zirconia CAD/CAM Crowns and Bridges
       price: "$ 550"
       currency: USD per unit
