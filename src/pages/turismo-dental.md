@@ -198,7 +198,7 @@ prices:
     - procedure: Dentadura Total
       price: "$ 550"
       currency: USD
-    - procedure: Occlusal Guard
+    - procedure: Férula Oclusal
       price: "$ 180"
       currency: USD
     link:
