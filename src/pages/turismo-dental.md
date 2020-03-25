@@ -53,7 +53,7 @@ prices:
       currency: USD por cc
     link:
       image: "/img/icon-oral-surgery.jpg"
-      title: MORE INFO
+      title: MÁS INFORMACIÓN
       to: "/en/specialties/dental-implants"
   - title: Implantes Cigomáticos
     icon: "/img/ZIGOMATICOS.jpg"
