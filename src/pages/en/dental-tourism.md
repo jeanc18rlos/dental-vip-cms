@@ -253,7 +253,7 @@ prices:
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
-      to: "/en/specialties/dental-implants"
+      to: "/en/specialties/periodontics/"
   - title: Orthodontics
     icon: "/img/icon-orthodontics.jpg"
     rows:
