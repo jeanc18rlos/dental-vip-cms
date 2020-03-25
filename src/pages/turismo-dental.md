@@ -114,9 +114,9 @@ prices:
     - procedure: Gingivoplastia
       price: "$ 120"
       currency: USD por cuadrante
-    - procedure: Dental Reshaping
+    - procedure: Recontorneado Dental
       price: "$ 50"
-      currency: USD per arch
+      currency: USD por arcada
     - procedure: LED Teeth Whitening
       price: "$ 180"
       currency: USD
