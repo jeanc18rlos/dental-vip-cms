@@ -173,7 +173,7 @@ prices:
     - procedure: Alveoloplastia
       price: "$ 250"
       currency: USD
-    - procedure: Oral Lesion Removal and Biopsy
+    - procedure: Remoción y Biopsia de Lesiones Orales
       price: "$ 180"
       currency: USD
     link:
