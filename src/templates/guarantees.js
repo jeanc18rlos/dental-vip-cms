@@ -22,8 +22,8 @@ export const GuaranteesPageTemplate = ({
   return (
     <div>
       {hero && hero.display && <DVhero {...hero} />}
-      <section className={`dv-title-section ${extendedHeading.classname}`}>
-        <div className="container-fluid dv-main-menu">
+      <section className={`dv-title-section np-container ${extendedHeading.classname}`}>
+        <div className="dv-main-menu">
           <h1
             className="dv-page-title"
             dangerouslySetInnerHTML={{
@@ -32,13 +32,18 @@ export const GuaranteesPageTemplate = ({
           />
           <div className="row">
             <div
-              className="col-md-8"
+              className="col-md-9"
               dangerouslySetInnerHTML={{
                 __html: converter.makeHtml(extendedHeading.content)
               }}
             ></div>
-            <div className="col-md-4">
-              <Img fluid={extendedHeading.img.childImageSharp.fluid} />
+            <div className="col-md-3">
+              <Img
+                style={{
+                  margin: "0 0 0 auto"
+                }}
+                fluid={extendedHeading.img.childImageSharp.fluid}
+              />
             </div>
           </div>
         </div>
@@ -104,7 +109,7 @@ export const pageQuery = graphql`
       fields {
         slug
       }
-      
+
       frontmatter {
         language
         title
