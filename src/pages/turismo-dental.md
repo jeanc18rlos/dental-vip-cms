@@ -133,7 +133,7 @@ prices:
   - title: Endodoncia
     icon: "/img/icon-endodontics.jpg"
     rows:
-    - procedure: Root Canal Therapy
+    - procedure: Tratamiento de Conducto
       price: "$ 190"
       currency: USD
     - procedure: Root Canal Retreatment
