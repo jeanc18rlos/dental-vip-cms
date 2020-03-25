@@ -282,12 +282,8 @@ prices:
       to: "/especialidades/ortodoncia/"
 parallaxTitle:
   img: "/img/parallax-dental-tourism.png"
-  title: 'Dental Extreme Makeover in Just 1 or 2 Weeks!
-
-'
-  subTitle: 'A truly intensive and multidisciplinary treatment.
-
-'
+  title: "¡Dental Extreme Makeover en Solo 1 o 2 Semanas!"
+  subTitle: Un tratamiento verdaderamente intensivo y multidisciplinario.
 routes:
   title: 'Most Frequent Routes
 
