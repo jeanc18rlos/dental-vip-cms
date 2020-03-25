@@ -264,9 +264,9 @@ prices:
     - procedure: Brackets Cerámicos
       price: "$ 1,000"
       currency: USD (Superiores e Inferiores)
-    - procedure: Sapphire Braces
+    - procedure: Brackets de Zafiro
       price: "$ 1,500"
-      currency: USD (Upper and Lower)
+      currency: USD (Superiores e Inferiores)
     - procedure: Bonded Retainer
       price: "$ 180"
       currency: USD
