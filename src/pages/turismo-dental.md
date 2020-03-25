@@ -130,7 +130,7 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MÁS INFORMACIÓN
       to: "/especialidades/estetica-dental/"
-  - title: Endodontics
+  - title: Endodoncia
     icon: "/img/icon-endodontics.jpg"
     rows:
     - procedure: Root Canal Therapy
