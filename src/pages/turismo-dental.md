@@ -300,13 +300,13 @@ routes:
 
 '
     visa: No se Requiere Visa
-  - from: 'From: BRIDGETOWN'
+  - from: 'Desde: BRIDGETOWN'
     flag: bb
     time: 1 h:33 m
     cost: '875.00 USD
 
 '
-    visa: No visa required
+    visa: No se Requiere Visa
   - from: 'From: GEORGETOWN'
     flag: gy
     time: 1 h:48 m
