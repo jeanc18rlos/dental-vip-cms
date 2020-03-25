@@ -239,7 +239,7 @@ prices:
     - procedure: Curetaje Abierto
       price: "$ 180"
       currency: USD por cuadrante
-    - procedure: Mucogingival Surgery
+    - procedure: 'Cirugía Mucogingival '
       price: "$ 250"
       currency: USD
     - procedure: Gum Grafting
