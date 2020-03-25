@@ -167,7 +167,7 @@ prices:
     - procedure: Cirugía de Cordales
       price: "$ 150"
       currency: USD
-    - procedure: Lingual or Labial Frenectomy
+    - procedure: Frenectomía Labial o Lingual
       price: "$ 100"
       currency: USD
     - procedure: Alveoloplasty
