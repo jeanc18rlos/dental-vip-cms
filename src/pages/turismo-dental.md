@@ -370,7 +370,7 @@ gallerySteps:
     image: "/img/steps-1-dental-tourism.png"
   - title: Plan de Tratamiento y Presupuesto
     image: "/img/steps-2-dental-tourism.png"
-  - title: Travel, Reception and Accommodation
+  - title: Viaje, Recepción y Alojamiento
     image: "/img/steps-3-dental-tourism.png"
   - title: Complementary Diagnostic Tests
     image: "/img/steps-4-dental-tourism.png"
