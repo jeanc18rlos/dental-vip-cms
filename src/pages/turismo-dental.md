@@ -233,9 +233,9 @@ prices:
   - title: Periodoncia
     icon: "/img/icon-periodontics.jpg"
     rows:
-    - procedure: Scaling and Root Planing
+    - procedure: Raspado y Alisado Radicular
       price: "$ 120"
-      currency: USD per quadrant
+      currency: USD por cuadrante
     - procedure: Open Curettage
       price: "$ 180"
       currency: USD per quadrant
