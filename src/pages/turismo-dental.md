@@ -145,7 +145,7 @@ prices:
     - procedure: Perno-Muñón Artificial
       price: "$ 90"
       currency: USD
-    - procedure: Apicoectomy or Root Resection
+    - procedure: Apicectomía o Resección  Radicular
       price: "$ 250"
       currency: USD
     - procedure: MTA Surgical Retrofilling
