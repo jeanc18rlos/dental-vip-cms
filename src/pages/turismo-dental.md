@@ -91,7 +91,7 @@ prices:
       currency: USD
     - procedure: Puente Fijo sobre Implantes
       price: "$ 480"
-      currency: USD per unit
+      currency: USD por unidad
     - procedure: Snap on Denture
       price: "$ 1,350"
       currency: USD
