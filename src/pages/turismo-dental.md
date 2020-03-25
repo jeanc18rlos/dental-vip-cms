@@ -270,7 +270,7 @@ prices:
     - procedure: Retenedor Fijo
       price: "$ 180"
       currency: USD
-    - procedure: Essix or Hawley Retainer
+    - procedure: Retenedor de Hawley o Essix
       price: "$ 150"
       currency: USD
     - procedure: Dentofacial Orthopedic Devices
