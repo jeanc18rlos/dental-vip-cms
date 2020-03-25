@@ -55,7 +55,7 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
       to: "/en/specialties/dental-implants"
-  - title: Zygomatic Implants
+  - title: Implantes Cigomáticos
     icon: "/img/ZIGOMATICOS.jpg"
     rows:
     - procedure: Anestesia General
