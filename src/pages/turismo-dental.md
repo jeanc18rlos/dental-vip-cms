@@ -36,7 +36,7 @@ prices:
     - procedure: Tomografía Digital 3D
       price: "$ 60"
       currency: USD
-    - procedure: Conscious Sedation <em>(optional)</em>
+    - procedure: Sedación Consciente <em>(opcional)</em>
       price: "$ 500"
       currency: USD
     - procedure: Single Dental Implant
