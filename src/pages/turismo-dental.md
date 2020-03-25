@@ -103,7 +103,7 @@ prices:
       currency: USD
     link:
       image: "/img/icon-oral-surgery.jpg"
-      title: MORE INFO
+      title: MÁS INFORMACIÓN
       to: "/en/specialties/dental-implants"
   - title: Aesthetic Dentistry
     icon: "/img/icon-aestetic-dentistry.jpg"
