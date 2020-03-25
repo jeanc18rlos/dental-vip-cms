@@ -400,7 +400,7 @@ sidePanel:
       <p class="dv-srv-pl text-right dv-npr">Una atención personalizada las 24 horas del día y el acompañamiento permanente de un guía bilingüe, si lo desea, son parte integral de nuestra concepción de servicio, de nuestro gran esfuerzo por hacer que su experiencia sea lo más cómoda, fructífera y placentera posible.</p>
       <p class="dv-srv-pl text-right dv-npr">¡Intentaremos hacerle sentir como en casa!</p> </div>
 form:
-  title: Consult Us Right Now!
+  title: "¡Consúltenos Ahora Mismo!"
   img: "/img/parallax-form-annexed-pages.jpg"
 blocksDescription:
   sections:
