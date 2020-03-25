@@ -242,9 +242,9 @@ prices:
     - procedure: 'Cirugía Mucogingival '
       price: "$ 250"
       currency: USD
-    - procedure: Gum Grafting
+    - procedure: Injerto de Encía
       price: "$ 180"
-      currency: USD per tooth
+      currency: USD por diente
     - procedure: Gingivectomy
       price: "$ 120"
       currency: USD per quadrant
