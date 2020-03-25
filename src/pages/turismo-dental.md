@@ -39,7 +39,7 @@ prices:
     - procedure: Sedación Consciente <em>(opcional)</em>
       price: "$ 500"
       currency: USD
-    - procedure: Single Dental Implant
+    - procedure: Implante Dental Unitario
       price: "$ 700"
       currency: USD
     - procedure: Multiple Dental Implants
