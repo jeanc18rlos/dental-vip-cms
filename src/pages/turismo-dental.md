@@ -54,7 +54,7 @@ prices:
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MÁS INFORMACIÓN
-      to: "/en/specialties/dental-implants"
+      to: "/especialidades/implantes-dentales/"
   - title: Implantes Cigomáticos
     icon: "/img/ZIGOMATICOS.jpg"
     rows:
@@ -78,7 +78,7 @@ prices:
       currency: USD
     link:
       image: "/img/icon-oral-surgery.jpg"
-      title: MORE INFO
+      title: MÁS INFORMACIÓN
       to: "/en/specialties/dental-implants"
   - title: Prótesis sobre Implantes
     icon: "/img/ICON-IMPLANT SUPPORT.jpg"
