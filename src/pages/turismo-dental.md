@@ -79,7 +79,7 @@ prices:
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MÁS INFORMACIÓN
-      to: "/en/specialties/dental-implants"
+      to: "/especialidades/implantes-cigomaticos/"
   - title: Prótesis sobre Implantes
     icon: "/img/ICON-IMPLANT SUPPORT.jpg"
     rows:
