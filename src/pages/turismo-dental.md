@@ -9,7 +9,8 @@ hero:
   type: default
   image: "/img/hero-dental-tourism.png"
   parallax: false
-  title: <span style="color:white"> Save Up to 70% on High-End Dental Treatments</span>
+  title: <span style="color:white"> Ahorre Hasta un 70% en<br>Tratamientos Dentales
+    de Alta Gama</span>
   indicator: true
   halfSize: true
 heading:
