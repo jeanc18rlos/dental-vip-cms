@@ -102,7 +102,7 @@ slogan:
 '
 procedures:
   display: true
-  title: "¡One Specialty for Each Treatment!"
+  title: One Specialty for Each Treatment!
   procedures:
   - title: dental implants
     to: "/en/the-clinic/dental-implants/"
