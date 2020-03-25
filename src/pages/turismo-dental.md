@@ -420,11 +420,11 @@ blocksDescription:
         de las personas en muchos países de Europa, Norte, Centro y Sudamérica e Islas
         del Caribe.</p>\n"
     - icon: "/img/icons-inmediacy.png"
-      title: "<h4>Immediacy</h4>"
-      content: "<p>Your appointment instantly, without delays or waiting lists. Exclusive,
-        intensive and multidisciplinary care to cover in record time all the oral
-        requirements previously established in the diagnostic and therapeutic planning
-        phases.</p>\n"
+      title: "<h4>Inmediatez</h4>"
+      content: "<p>Su cita al instante, sin demoras ni listas de espera. Atención
+        exclusiva, intensiva y multidisciplinaria para cubrir en tiempo récord todos
+        los requisitos orales previamente establecidos en las fases de diagnóstico
+        y planificación terapéutica.</p>\n"
     - icon: "/img/icons-quality.png"
       title: "<h4>Top Quality</h4>"
       content: "<p>At your disposal the experience of the best local team of Specialist
