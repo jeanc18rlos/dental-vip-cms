@@ -61,7 +61,7 @@ prices:
     - procedure: Anestesia General
       price: "$ 650"
       currency: USD
-    - procedure: Hospital Fees
+    - procedure: Gastos de Quirófano
       price: "$ 800"
       currency: USD
     - procedure: Unilateral Zygomatic Implant
