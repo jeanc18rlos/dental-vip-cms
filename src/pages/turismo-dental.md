@@ -44,7 +44,7 @@ prices:
       currency: USD
     - procedure: Implantes Dentales Múltiples
       price: "$ 650"
-      currency: USD each
+      currency: USD c/u
     - procedure: Sinus Lift
       price: "$ 850"
       currency: USD
