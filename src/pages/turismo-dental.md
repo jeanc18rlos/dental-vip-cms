@@ -273,7 +273,7 @@ prices:
     - procedure: Retenedor de Hawley o Essix
       price: "$ 150"
       currency: USD
-    - procedure: Dentofacial Orthopedic Devices
+    - procedure: Aparatos de Ortopedia Dentofacial
       price: "$ 1,800"
       currency: USD
     link:
