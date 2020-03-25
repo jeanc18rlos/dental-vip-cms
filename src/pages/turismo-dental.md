@@ -293,7 +293,7 @@ routes:
   footer: Al planificar su viaje, necesitaremos verificar la disponibilidad de vuelos
     sin escalas y las tarifas vigentes.
   departures:
-  - from: 'From: BOGOTÁ'
+  - from: 'Desde: BOGOTÁ'
     flag: co
     time: 1 h:46 m
     cost: '875.00 USD
