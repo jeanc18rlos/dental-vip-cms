@@ -86,7 +86,7 @@ prices:
     - procedure: Corona Metal-Porcelana
       price: "$ 480"
       currency: USD
-    - procedure: CAD/CAM Zirconia Crown
+    - procedure: Corona de Zirconio CAD/CAM
       price: "$ 570"
       currency: USD
     - procedure: Implant Supported Bridge
