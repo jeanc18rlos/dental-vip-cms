@@ -178,7 +178,7 @@ prices:
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
-      to: "/en/specialties/dental-implants"
+      to: "/en/specialties/oral-surgery/"
   - title: Conventional Prosthesis
     icon: "/img/icon-prosthodontics.jpg"
     rows:
