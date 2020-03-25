@@ -261,9 +261,9 @@ prices:
     - procedure: Brackets Metálicos
       price: "$ 500"
       currency: USD (Superiores e Inferiores)
-    - procedure: Porcelain Braces
+    - procedure: Brackets Cerámicos
       price: "$ 1,000"
-      currency: USD (Upper and Lower)
+      currency: USD (Superiores e Inferiores)
     - procedure: Sapphire Braces
       price: "$ 1,500"
       currency: USD (Upper and Lower)
