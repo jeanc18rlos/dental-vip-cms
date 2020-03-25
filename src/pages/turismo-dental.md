@@ -105,7 +105,7 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MÁS INFORMACIÓN
       to: "/especialidades/implantes-dentales/protesis-sobre-implantes/"
-  - title: Aesthetic Dentistry
+  - title: Odontología Estética
     icon: "/img/icon-aestetic-dentistry.jpg"
     rows:
     - procedure: Digital Smile Design
