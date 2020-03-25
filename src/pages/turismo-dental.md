@@ -384,9 +384,9 @@ sidePanel:
   - img: "/img/sections-dental-tourism-calculator.png"
     section: |
       <div class="dv-sp-srv-cd">
-      <h2 class="dv-srv-pl4 text-left dv-npr">Do you already have a dental quote?</h2>
-      <p class="dv-srv-pl text-left dv-npr">Have you visited several Dentists and still can not find a treatment option that is truly within your means? Want to get more out of your money? </p>
-      <p class="dv-srv-pl text-left dv-npr">Send us your quote to improve it and submit it to your consideration. We will surely surprise you!</p> <br><br> <a>LOAD FILE</a> </div>
+      <h2 class="dv-srv-pl4 text-left dv-npr">¿Cuenta ya con un presupuesto definitivo?</h2>
+      <p class="dv-srv-pl text-left dv-npr">¿Ha visitado a varios Odontólogos y aún no logra encontrar una opción de tratamiento que verdaderamente esté dentro de sus posibilidades? ¿Quiere sacar más provecho a su dinero?</p>
+      <p class="dv-srv-pl text-left dv-npr">Envíenos su presupuesto para mejorarlo y someterlo a su consideración. ¡Con seguridad le sorprenderemos!</p> <br><br> <a>LOAD FILE</a> </div>
   - img: "/img/sections-dental-tourism-hotel.png"
     section: |
       <div class="dv-sp-srv-cd">
