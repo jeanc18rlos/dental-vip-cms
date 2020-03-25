@@ -372,7 +372,7 @@ gallerySteps:
     image: "/img/steps-2-dental-tourism.png"
   - title: Viaje, Recepción y Alojamiento
     image: "/img/steps-3-dental-tourism.png"
-  - title: Complementary Diagnostic Tests
+  - title: " Estudios Diagnósticos Complementarios"
     image: "/img/steps-4-dental-tourism.png"
   - title: Intensive Dental Treatment
     image: "/img/steps-5-dental-tourism.png"
