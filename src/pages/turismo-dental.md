@@ -285,9 +285,7 @@ parallaxTitle:
   title: "¡Dental Extreme Makeover en Solo 1 o 2 Semanas!"
   subTitle: Un tratamiento verdaderamente intensivo y multidisciplinario.
 routes:
-  title: 'Most Frequent Routes
-
-'
+  title: Rutas Más Frecuentes
   image: "/img/icon-travel.png"
   icons:
     clock: "/img/icon- clock.png"
