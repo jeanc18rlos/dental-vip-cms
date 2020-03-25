@@ -318,14 +318,14 @@ routes:
     cost: '875.00 USD
 
 '
-    visa: No visa required
+    visa: No Visa Required
   - from: 'From: KINGSTOWN'
     flag: vc
     time: 1 h:21 m
     cost: '875.00 USD
 
 '
-    visa: No visa required
+    visa: No Visa Required
   - from: 'From: MADRID'
     flag: es
     time: 9 h:12 m
