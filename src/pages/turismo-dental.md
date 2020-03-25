@@ -290,8 +290,8 @@ routes:
   icons:
     clock: "/img/icon- clock.png"
     currency: "/img/icon-currency.png"
-  footer: When planning your trip we will need to check the availability of non-stop
-    flights and current rates.
+  footer: Al planificar su viaje, necesitaremos verificar la disponibilidad de vuelos
+    sin escalas y las tarifas vigentes.
   departures:
   - from: 'From: BOGOTA'
     flag: co
