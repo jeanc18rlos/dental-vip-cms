@@ -248,9 +248,9 @@ prices:
     - procedure: Gingivectomía
       price: "$ 120"
       currency: USD por cuadrante
-    - procedure: Guided Tissue Regeneration
+    - procedure: 'Regeneración Tisular Guiada '
       price: "$ 350"
-      currency: USD per defect
+      currency: USD por defecto
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
