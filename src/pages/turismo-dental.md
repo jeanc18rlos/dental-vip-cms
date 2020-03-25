@@ -255,7 +255,7 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MÁS INFORMACIÓN
       to: "/especialidades/periodoncia/"
-  - title: Orthodontics
+  - title: Ortodoncia
     icon: "/img/icon-orthodontics.jpg"
     rows:
     - procedure: Metal Braces
