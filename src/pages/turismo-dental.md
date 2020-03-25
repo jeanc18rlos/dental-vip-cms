@@ -83,7 +83,7 @@ prices:
   - title: Prótesis sobre Implantes
     icon: "/img/ICON-IMPLANT SUPPORT.jpg"
     rows:
-    - procedure: Porcelain Fused to Metal Crown
+    - procedure: Corona Metal-Porcelana
       price: "$ 480"
       currency: USD
     - procedure: CAD/CAM Zirconia Crown
