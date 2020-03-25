@@ -390,9 +390,9 @@ sidePanel:
   - img: "/img/sections-dental-tourism-hotel.png"
     section: |
       <div class="dv-sp-srv-cd">
-      <h2 class="dv-srv-pl4 text-left dv-npr">Safety and comfortable hotels</h2>
-      <p class="dv-srv-pl text-left dv-npr">Our privileged location allows us to have two excellent hotel infrastructures located less than 50 meters from the clinic. CHACAO SUITES and SHELTER SUITES offer nice and comfortable rooms, restaurants, private security and other services that will facilitate and make enjoyable your brief stay in Caracas city. </p>
-      <p class="dv-srv-pl text-left dv-npr">ESTIMATED COST PER DAY: 50 USD BASIC REGIME.</p> <br><br> <a class="text-left">CHACAO SUITES</a> &nbsp;&nbsp;&nbsp; <a class="text-left">SHELTER SUITES</a> </div>
+      <h2 class="dv-srv-pl4 text-left dv-npr">Hoteles seguros y confortables</h2>
+      <p class="dv-srv-pl text-left dv-npr">Nuestra privilegiada ubicación nos permite contar con dos excelentes infraestructuras hoteleras situadas a menos de 50 metros de la clínica. CHACAO SUITES y SHELTER SUITES ofrecen lindas y confortables habitaciones, restaurantes, seguridad privada y otros servicios que facilitarán y harán agradable su breve estadía en la ciudad de Caracas. </p>
+      <p class="dv-srv-pl text-left dv-npr">COSTO ESTIMADO POR DÍA: 50 USD EN RÉGIMEN BÁSICO.</p> <br><br> <a class="text-left">CHACAO SUITES</a> &nbsp;&nbsp;&nbsp; <a class="text-left">SHELTER SUITES</a> </div>
   - img: "/img/sections-dental-tourism-24.png"
     section: |
       <div class="dv-sp-srv-cd">
