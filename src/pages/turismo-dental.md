@@ -211,7 +211,7 @@ prices:
     - procedure: Limpieza Dental
       price: "$ 40"
       currency: USD
-    - procedure: Deep Cleaning and Prophylaxis
+    - procedure: Limpieza Profunda y Profilaxis
       price: "$ 90"
       currency: USD
     - procedure: Composite Filling 1 Surface
