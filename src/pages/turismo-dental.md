@@ -189,9 +189,9 @@ prices:
     - procedure: " Coronas y Puentes IPS e.max"
       price: "$ 480"
       currency: USD por unidad
-    - procedure: Zirconia CAD/CAM Crowns and Bridges
+    - procedure: Coronas y Puentes de Zirconio CAD/CAM
       price: "$ 550"
-      currency: USD per unit
+      currency: USD por unidad
     - procedure: Removable Partial Denture
       price: "$ 450"
       currency: USD
