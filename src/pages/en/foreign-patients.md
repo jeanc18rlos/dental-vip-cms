@@ -56,7 +56,7 @@ columns:
   - head: <p class="dv-title-circle text-center">PHASE 1</p>
     body: |
       <p class="dv-content-phase">
-        Contact, execution and reception of the basic dental studies and necessary diagnostic evaluations.
+        Contact, execution and reception of the basic dental studies and relevant diagnostic evaluations.
         <br />
         <br />
          Case study, DIAGNOSIS, planning and referral of a specific treatment proposal; including of course, an estimate of professional fees or dental quote.
@@ -68,7 +68,7 @@ columns:
       <p class="dv-content-phase">Displacement, reception and accommodation.</p>
         <br />
         <br />
-         INTENSIVE AND MULTIDISCIPLINARY DENTAL TREATMENT to be able to cover in record time (1 or 2 weeks) all the oral requirements previously established..
+         INTENSIVE AND MULTIDISCIPLINARY DENTAL TREATMENT to be able to cover in record time <em>(1 or 2 weeks)</em> all the oral requirements previously established.
       </p>
 hostSection:
   bg: "/img/host-bg.jpg"
