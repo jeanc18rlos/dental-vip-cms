@@ -391,7 +391,7 @@ sidePanel:
     section: |
       <div class="dv-sp-srv-cd">
       <h2 class="dv-srv-pl4 text-left dv-npr">Hoteles seguros y confortables</h2>
-      <p class="dv-srv-pl text-left dv-npr">Nuestra privilegiada ubicación nos permite contar con dos excelentes infraestructuras hoteleras situadas a menos de 50 metros de la clínica. CHACAO SUITES y SHELTER SUITES ofrecen lindas y confortables habitaciones, restaurantes, seguridad privada y otros servicios que facilitarán y harán agradable su breve estadía en la ciudad de Caracas. </p>
+      <p class="dv-srv-pl text-left dv-npr">Nuestra privilegiada ubicación nos permite contar con dos excelentes infraestructuras hoteleras situadas a menos de 50 metros de la clínica. CHACAO SUITES y SHELTER SUITES ofrecen lindas y confortables habitaciones, restaurantes, seguridad privada y demás servicios que facilitarán y harán agradable su breve estadía en la ciudad de Caracas. </p>
       <p class="dv-srv-pl text-left dv-npr">COSTO ESTIMADO POR DÍA: 50.00 USD <em>(comidas no incluidas)</em>.</p> <br><br> <a class="text-left">CHACAO SUITES</a> &nbsp;&nbsp;&nbsp; <a class="text-left">SHELTER SUITES</a> </div>
   - img: "/img/sections-dental-tourism-24.png"
     section: |
