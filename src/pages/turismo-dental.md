@@ -64,7 +64,7 @@ prices:
     - procedure: Gastos de Quirófano
       price: "$ 800"
       currency: USD
-    - procedure: Unilateral Zygomatic Implant
+    - procedure: Implante Cigomático Unilateral
       price: "$ 2,800"
       currency: USD
     - procedure: Bilateral Zygomatic Implants
