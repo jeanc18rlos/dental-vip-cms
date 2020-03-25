@@ -335,13 +335,13 @@ routes:
 
 '
     visa: No se Requiere Visa
-  - from: 'From: PANAMA'
+  - from: 'Desde: PANAMÁ'
     flag: pa
     time: 2 h:17 m
     cost: '875.00 USD
 
 '
-    visa: No visa required
+    visa: No se Requiere Visa
   - from: 'From: PORT OF SPAIN'
     flag: tt
     time: 1 h:14 m
