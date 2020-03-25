@@ -58,7 +58,7 @@ prices:
   - title: Zygomatic Implants
     icon: "/img/ZIGOMATICOS.jpg"
     rows:
-    - procedure: General Anesthesia
+    - procedure: Anestesia General
       price: "$ 650"
       currency: USD
     - procedure: Hospital Fees
