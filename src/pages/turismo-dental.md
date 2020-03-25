@@ -136,7 +136,7 @@ prices:
     - procedure: Tratamiento de Conducto
       price: "$ 190"
       currency: USD
-    - procedure: Root Canal Retreatment
+    - procedure: Retratamiento Endodóntico
       price: "$ 250"
       currency: USD
     - procedure: Post Space Preparation
