@@ -260,7 +260,7 @@ prices:
     rows:
     - procedure: Brackets Metálicos
       price: "$ 500"
-      currency: USD <em>(Superiores e Inferiores)</em>
+      currency: USD (Superiores e Inferiores)
     - procedure: Brackets Cerámicos
       price: "$ 1,000"
       currency: USD (Superiores e Inferiores)
