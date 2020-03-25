@@ -208,7 +208,7 @@ prices:
   - title: Odontología General
     icon: "/img/icon-general-dentistry.jpg"
     rows:
-    - procedure: General Cleaning
+    - procedure: Limpieza Dental
       price: "$ 40"
       currency: USD
     - procedure: Deep Cleaning and Prophylaxis
