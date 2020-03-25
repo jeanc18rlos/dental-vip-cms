@@ -18,7 +18,7 @@ heading:
   classname: section-reasons
   title: "¡Visítenos en Caracas y Presuma de una Sonrisa VIP!"
   content: '<p class="dv-subtitle text-center">Ya son miles los pacientes que han
-    encontrado en Venezuela la mejor solución para sus necesidades de salud bucal,
+    encontrado en Venezuela la mejor solución para sus necesidades de salud oral,
     gracias a nuestra razonable estructura de costos y fácil acceso a servicios dentales
     de primer nivel.</p>
 
