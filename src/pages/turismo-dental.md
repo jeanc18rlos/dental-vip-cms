@@ -405,12 +405,12 @@ form:
 blocksDescription:
   sections:
     left:
-      title: "<h1>Dental Tourism in Venezuela</h1>"
-      cuerpo: "<h4>An Attractive Reality!</h4> <p>Eat, smile and enjoy as before.
-        Do not compromise your quality of life anymore and take advantage of the great
-        benefits that globalization offers in the health sector. Take our attention
-        proposal seriously and overcome once and for all any barrier that prevents
-        you from show off white, healthy and beautiful teeth.</p>\n"
+      title: "<h1>Turismo Dental en Venezuela</h1>"
+      cuerpo: "<h4>¡Una Atractiva Realidad!</h4> <p>Coma, sonría y disfrute como antes.
+        No comprometa más su calidad de vida y aproveche los grandes beneficios que
+        ofrece la globalización en el sector de la salud. Tome en serio nuestra propuesta
+        de servicio y supere de una vez por todas cualquier barrera que le impida
+        lucir unos dientes blancos, sanos y hermosos.</p>\n"
       image: "/img/aside-dental-tourism-map.png"
     right:
     - icon: "/img/icons-accesibility.png"
