@@ -364,7 +364,7 @@ routes:
 '
     visa: No se Requiere Visa
 gallerySteps:
-  title: Making Denstistry Care Simple and Affordable
+  title: Hacemos la Odontología Simple y Asequible
   steps:
   - title: Contact and Submission of Basic Dental Studies
     image: "/img/steps-1-dental-tourism.png"
