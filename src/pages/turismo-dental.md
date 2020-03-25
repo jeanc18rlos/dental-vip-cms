@@ -192,7 +192,7 @@ prices:
     - procedure: Coronas y Puentes de Zirconio CAD/CAM
       price: "$ 550"
       currency: USD por unidad
-    - procedure: Removable Partial Denture
+    - procedure: Dentadura Parcial Removible
       price: "$ 450"
       currency: USD
     - procedure: Regular Total Denture
