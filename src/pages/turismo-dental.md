@@ -321,13 +321,13 @@ routes:
 
 '
     visa: No se Requiere Visa
-  - from: 'From: MADRID'
+  - from: 'Desde: MADRID'
     flag: es
     time: 9 h:12 m
     cost: '875.00 USD
 
 '
-    visa: No visa required
+    visa: No se Requiere Visa
   - from: 'From: MIAMI'
     flag: us
     time: 3 h:14 m
