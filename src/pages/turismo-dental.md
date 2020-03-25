@@ -220,7 +220,7 @@ prices:
     - procedure: Resina Fotocurada de 2 Superficies
       price: "$ 70"
       currency: USD
-    - procedure: Composite Filling 3 Surfaces
+    - procedure: Resina Fotocurada de 3 Superficies
       price: "$ 90"
       currency: USD
     - procedure: Ceramic Inlay/Onlay
