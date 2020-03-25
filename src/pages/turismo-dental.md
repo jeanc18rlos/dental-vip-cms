@@ -253,8 +253,8 @@ prices:
       currency: USD por defecto
     link:
       image: "/img/icon-oral-surgery.jpg"
-      title: MORE INFO
-      to: "/en/specialties/dental-implants"
+      title: MÁS INFORMACIÓN
+      to: "/especialidades/periodoncia/"
   - title: Orthodontics
     icon: "/img/icon-orthodontics.jpg"
     rows:
