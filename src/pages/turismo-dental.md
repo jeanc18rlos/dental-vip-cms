@@ -67,9 +67,9 @@ prices:
     - procedure: Implante Cigomático Unilateral
       price: "$ 2,800"
       currency: USD
-    - procedure: Bilateral Zygomatic Implants
+    - procedure: Implantes Cigomáticos  Bilaterales
       price: "$ 2,500"
-      currency: USD each
+      currency: USD c/u
     - procedure: Quad Zygoma
       price: "$ 9,800"
       currency: USD
