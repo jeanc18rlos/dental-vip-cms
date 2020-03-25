@@ -170,7 +170,7 @@ prices:
     - procedure: Frenectomía Labial o Lingual
       price: "$ 100"
       currency: USD
-    - procedure: Alveoloplasty
+    - procedure: Alveoloplastia
       price: "$ 250"
       currency: USD
     - procedure: Oral Lesion Removal and Biopsy
