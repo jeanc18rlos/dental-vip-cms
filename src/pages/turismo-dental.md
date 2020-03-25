@@ -111,9 +111,9 @@ prices:
     - procedure: Diseño Digital de Sonrisa
       price: "$ 50"
       currency: USD
-    - procedure: Gum Contouring Surgery
+    - procedure: Gingivoplastia
       price: "$ 120"
-      currency: USD per quadrant
+      currency: USD por cuadrante
     - procedure: Dental Reshaping
       price: "$ 50"
       currency: USD per arch
