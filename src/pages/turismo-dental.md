@@ -158,7 +158,7 @@ prices:
   - title: Cirugía Bucal
     icon: "/img/icon-oral-surgery.jpg"
     rows:
-    - procedure: Simple Extraction
+    - procedure: Extracción Simple
       price: "$ 45"
       currency: USD
     - procedure: Surgical Odontectomy
