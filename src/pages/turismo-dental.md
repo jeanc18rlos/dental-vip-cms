@@ -42,7 +42,7 @@ prices:
     - procedure: Implante Dental Unitario
       price: "$ 700"
       currency: USD
-    - procedure: Multiple Dental Implants
+    - procedure: Implantes Dentales Múltiples
       price: "$ 650"
       currency: USD each
     - procedure: Sinus Lift
