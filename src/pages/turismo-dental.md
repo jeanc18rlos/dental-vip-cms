@@ -26,8 +26,8 @@ heading:
 prices:
   footer:
     image: "/img/icons-OANDA.png"
-    title: "<p>Prices expressed in US dollars.<br>Convert them immediately to your
-      currency with:<p>\n"
+    title: "<p>Precios expresados en dólares americanos.<br>Conviértalos de inmediato
+      a su moneda con:<p>"
     to: https://www1.oanda.com/lang/es/currency/converter/
   rows:
   - title: Implantes Dentales
