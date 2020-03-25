@@ -117,7 +117,7 @@ prices:
     - procedure: Recontorneado Dental
       price: "$ 50"
       currency: USD por arcada
-    - procedure: LED Teeth Whitening
+    - procedure: Blanqueamiento Dental LED
       price: "$ 180"
       currency: USD
     - procedure: Composite Direct Veneer
