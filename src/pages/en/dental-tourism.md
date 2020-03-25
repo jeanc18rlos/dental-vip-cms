@@ -278,7 +278,7 @@ prices:
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
-      to: "/en/specialties/dental-implants"
+      to: "/en/specialties/orthodontics/"
 parallaxTitle:
   img: "/img/parallax-dental-tourism.png"
   title: 'Dental Extreme Makeover in Just 1 or 2 Weeks!
