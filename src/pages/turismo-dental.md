@@ -217,7 +217,7 @@ prices:
     - procedure: Resina Fotocurada de 1 Superficie
       price: "$ 50"
       currency: USD
-    - procedure: Composite Filling 2 Surfaces
+    - procedure: Resina Fotocurada de 2 Superficies
       price: "$ 70"
       currency: USD
     - procedure: Composite Filling 3 Surfaces
