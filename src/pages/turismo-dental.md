@@ -433,7 +433,7 @@ blocksDescription:
         los más altos estándares internacionales en materia de salud oral.</p>\n"
 procedures:
   display: true
-  title: We Are Just One Step Away!
+  title: "¡Estamos a Solo Un Paso de Distancia!"
   procedures:
   - title: Facilities
     to: "/en/the-clinic/facilities/"
