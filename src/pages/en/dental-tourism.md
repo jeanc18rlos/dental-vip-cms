@@ -203,7 +203,7 @@ prices:
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
-      to: "/en/specialties/dental-implants"
+      to: "/en/specialties/prosthodontics/"
   - title: General Dentistry
     icon: "/img/icon-general-dentistry.jpg"
     rows:
