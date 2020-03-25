@@ -205,7 +205,7 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MÁS INFORMACIÓN
       to: "/especialidades/protesis/"
-  - title: General Dentistry
+  - title: Odontología General
     icon: "/img/icon-general-dentistry.jpg"
     rows:
     - procedure: General Cleaning
