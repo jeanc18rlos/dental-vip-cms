@@ -50,7 +50,7 @@ titleSection:
 columns:
   title: |
     <p class="dv-subtitle text-center dv-title-phases">
-       In DENTAL VIP we have been consequents for years with all the patients who visit us from anywhere in Venezuela and the world. Our team understands, appreciates, thanks and honors the great effort of all those people who travel great distances in search of Specialized Dental Care by offering them a special protocol of care; <em>(widely known in the USA as "Dental Extreme Makeover")</em> that contemplates two phases:
+       In DENTAL VIP we have been consequents for years with all the patients who visit us from anywhere in Venezuela and the world. Our team understands, appreciates, thanks and honors the great effort of all those people who travel great distances in search of Specialized Dental Care by offering them a special protocol of care <em>(widely known in the USA as "Dental Extreme Makeover")</em> that contemplates two phases:
     </p>
   columns:
   - head: <p class="dv-title-circle text-center">PHASE 1</p>
