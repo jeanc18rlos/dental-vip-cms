@@ -386,7 +386,7 @@ sidePanel:
       <div class="dv-sp-srv-cd">
       <h2 class="dv-srv-pl4 text-left dv-npr">¿Cuenta ya con un presupuesto definitivo?</h2>
       <p class="dv-srv-pl text-left dv-npr">¿Ha visitado a varios Odontólogos y aún no logra encontrar una opción de tratamiento que verdaderamente esté dentro de sus posibilidades? ¿Quiere sacar más provecho a su dinero?</p>
-      <p class="dv-srv-pl text-left dv-npr">Envíenos su presupuesto para mejorarlo y someterlo a su consideración. ¡Con seguridad le sorprenderemos!</p> <br><br> <a>LOAD FILE</a> </div>
+      <p class="dv-srv-pl text-left dv-npr">Envíenos su presupuesto para mejorarlo y someterlo a su consideración. ¡Con seguridad le sorprenderemos!</p> <br><br> <a>CARGAR ARCHIVO</a> </div>
   - img: "/img/sections-dental-tourism-hotel.png"
     section: |
       <div class="dv-sp-srv-cd">
