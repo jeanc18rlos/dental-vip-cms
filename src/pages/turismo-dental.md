@@ -178,8 +178,8 @@ prices:
       currency: USD
     link:
       image: "/img/icon-oral-surgery.jpg"
-      title: MORE INFO
-      to: "/en/specialties/dental-implants"
+      title: MÁS INFORMACIÓN
+      to: "/especialidades/cirugia-bucal/"
   - title: Conventional Prosthesis
     icon: "/img/icon-prosthodontics.jpg"
     rows:
