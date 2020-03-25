@@ -142,7 +142,7 @@ prices:
     - procedure: Desobturación para Perno
       price: "$ 50"
       currency: USD
-    - procedure: Post and Core Build Up
+    - procedure: Perno-Muñón Artificial
       price: "$ 90"
       currency: USD
     - procedure: Apicoectomy or Root Resection
