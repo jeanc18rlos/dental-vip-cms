@@ -123,7 +123,7 @@ prices:
     - procedure: Carilla de Resina Compuesta
       price: "$ 100"
       currency: USD
-    - procedure: IPS e.max Ceramic Veneer
+    - procedure: Carilla de Porcelana IPS e.max
       price: "$ 490"
       currency: USD
     link:
