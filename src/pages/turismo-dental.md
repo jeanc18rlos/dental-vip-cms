@@ -104,7 +104,7 @@ prices:
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MÁS INFORMACIÓN
-      to: "/en/specialties/dental-implants"
+      to: "/especialidades/implantes-dentales/protesis-sobre-implantes/"
   - title: Aesthetic Dentistry
     icon: "/img/icon-aestetic-dentistry.jpg"
     rows:
