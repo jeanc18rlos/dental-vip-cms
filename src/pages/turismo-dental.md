@@ -368,7 +368,7 @@ gallerySteps:
   steps:
   - title: Contacto y Envío de Estudios Dentales Básicos
     image: "/img/steps-1-dental-tourism.png"
-  - title: Treatment Plan and Budgeting
+  - title: Plan de Tratamiento y Presupuesto
     image: "/img/steps-2-dental-tourism.png"
   - title: Travel, Reception and Accommodation
     image: "/img/steps-3-dental-tourism.png"
