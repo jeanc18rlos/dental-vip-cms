@@ -349,13 +349,13 @@ routes:
 
 '
     visa: No se Requiere Visa
-  - from: 'From: TORONTO'
+  - from: 'Desde: TORONTO'
     flag: ca
     time: 5 h:18 m
     cost: '875.00 USD
 
 '
-    visa: No visa required
+    visa: No se Requiere Visa
   - from: 'From: WILLEMSTAD'
     flag: cw
     time: 0 h:51 m
