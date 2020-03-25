@@ -73,7 +73,7 @@ prices:
     - procedure: Quad Zygoma
       price: "$ 9,800"
       currency: USD
-    - procedure: Temporary Denture
+    - procedure: Dentadura Provisional
       price: "$ 580"
       currency: USD
     link:
