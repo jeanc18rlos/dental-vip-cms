@@ -17,10 +17,10 @@ heading:
   display: true
   classname: section-reasons
   title: "¡Visítenos en Caracas y Presuma de una Sonrisa VIP!"
-  content: '<p class="dv-subtitle text-center">There are already thousands of patients
-    who have found in Venezuela the best solution to their oral health needs, thanks
-    to our reasonable cost structure and easy access to first level dental services.
-    </p>
+  content: '<p class="dv-subtitle text-center">Ya son miles los pacientes que han
+    encontrado en Venezuela la mejor solución para sus necesidades de salud bucal,
+    gracias a nuestra razonable estructura de costos y fácil acceso a servicios dentales
+    de primer nivel.</p>
 
 '
 prices:
