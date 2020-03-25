@@ -342,13 +342,13 @@ routes:
 
 '
     visa: No se Requiere Visa
-  - from: 'From: PORT OF SPAIN'
+  - from: 'Desde: PUERTO ESPAÑA'
     flag: tt
     time: 1 h:14 m
     cost: '875.00 USD
 
 '
-    visa: No visa required
+    visa: No se Requiere Visa
   - from: 'From: TORONTO'
     flag: ca
     time: 5 h:18 m
