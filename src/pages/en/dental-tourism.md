@@ -332,14 +332,14 @@ routes:
     cost: '875.00 USD
 
 '
-    visa: No visa required
+    visa: No Visa Required
   - from: 'From: MIAMI'
     flag: us
     time: 3 h:14 m
     cost: '875.00 USD
 
 '
-    visa: No visa required
+    visa: No Visa Required
   - from: 'From: PANAMA'
     flag: pa
     time: 2 h:17 m
