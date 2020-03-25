@@ -195,7 +195,7 @@ prices:
     - procedure: Dentadura Parcial Removible
       price: "$ 450"
       currency: USD
-    - procedure: Regular Total Denture
+    - procedure: Dentadura Total
       price: "$ 550"
       currency: USD
     - procedure: Occlusal Guard
