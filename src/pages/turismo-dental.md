@@ -223,7 +223,7 @@ prices:
     - procedure: Resina Fotocurada de 3 Superficies
       price: "$ 90"
       currency: USD
-    - procedure: Ceramic Inlay/Onlay
+    - procedure: Incrustaciones Cerámicas
       price: "$ 420"
       currency: USD
     link:
