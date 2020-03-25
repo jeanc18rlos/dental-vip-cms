@@ -98,7 +98,7 @@ prices:
     - procedure: All on Four
       price: "$ 2,600"
       currency: USD
-    - procedure: Fixed Hybrid Denture
+    - procedure: Prótesis Híbrida
       price: "$ 2,600"
       currency: USD
     link:
