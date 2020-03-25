@@ -307,13 +307,13 @@ routes:
 
 '
     visa: No se Requiere Visa
-  - from: 'From: GEORGETOWN'
+  - from: 'Desde: GEORGETOWN'
     flag: gy
     time: 1 h:48 m
     cost: '875.00 USD
 
 '
-    visa: No visa required
+    visa: No se Requiere Visa
   - from: 'From: KINGSTOWN'
     flag: vc
     time: 1 h:21 m
