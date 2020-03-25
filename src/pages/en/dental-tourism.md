@@ -311,7 +311,7 @@ routes:
     cost: '875.00 USD
 
 '
-    visa: No visa required
+    visa: No Visa Required
   - from: 'From: GEORGETOWN'
     flag: gy
     time: 1 h:48 m
