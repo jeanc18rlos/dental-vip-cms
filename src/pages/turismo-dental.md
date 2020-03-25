@@ -230,7 +230,7 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MÁS INFORMACIÓN
       to: "/especialidades/odontologia-general/"
-  - title: Periodontics
+  - title: Periodoncia
     icon: "/img/icon-periodontics.jpg"
     rows:
     - procedure: Scaling and Root Planing
