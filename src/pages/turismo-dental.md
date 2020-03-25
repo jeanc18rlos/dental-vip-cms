@@ -148,7 +148,7 @@ prices:
     - procedure: Apicectomía o Resección  Radicular
       price: "$ 250"
       currency: USD
-    - procedure: MTA Surgical Retrofilling
+    - procedure: Obturación a Retro con MTA
       price: "$ 100"
       currency: USD
     link:
