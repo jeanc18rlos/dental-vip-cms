@@ -435,8 +435,8 @@ procedures:
   display: true
   title: "¡Estamos a Solo Un Paso de Distancia!"
   procedures:
-  - title: Facilities
-    to: "/en/the-clinic/facilities/"
+  - title: Instalaciones
+    to: "/la-clinica/instalaciones/"
     img: "/img/procedures-facilities.jpg"
   - title: Technology
     to: "/en/the-clinic/technology/"
