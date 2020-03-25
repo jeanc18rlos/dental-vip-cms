@@ -366,7 +366,7 @@ routes:
 gallerySteps:
   title: Hacemos la Odontología Simple y Asequible
   steps:
-  - title: Contact and Submission of Basic Dental Studies
+  - title: Contacto y Envío de Estudios Dentales Básicos
     image: "/img/steps-1-dental-tourism.png"
   - title: Treatment Plan and Budgeting
     image: "/img/steps-2-dental-tourism.png"
