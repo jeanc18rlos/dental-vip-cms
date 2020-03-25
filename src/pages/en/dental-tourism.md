@@ -346,14 +346,14 @@ routes:
     cost: '875.00 USD
 
 '
-    visa: No visa required
+    visa: No Visa Required
   - from: 'From: PORT OF SPAIN'
     flag: tt
     time: 1 h:14 m
     cost: '875.00 USD
 
 '
-    visa: No visa required
+    visa: No Visa Required
   - from: 'From: TORONTO'
     flag: ca
     time: 5 h:18 m
