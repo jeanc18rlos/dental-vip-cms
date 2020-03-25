@@ -139,7 +139,7 @@ prices:
     - procedure: Retratamiento Endodóntico
       price: "$ 250"
       currency: USD
-    - procedure: Post Space Preparation
+    - procedure: Desobturacion para Perno
       price: "$ 50"
       currency: USD
     - procedure: Post and Core Build Up
