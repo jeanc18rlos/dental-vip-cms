@@ -426,11 +426,11 @@ blocksDescription:
         los requisitos orales previamente establecidos en las fases de diagnóstico
         y planificación terapéutica.</p>\n"
     - icon: "/img/icons-quality.png"
-      title: "<h4>Top Quality</h4>"
-      content: "<p>At your disposal the experience of the best local team of Specialist
-        Dentists, the most modern and comfortable facilities and the latest technology
-        worldwide. A service widely recognized and in accordance with the requirements
-        of the highest international standards in oral health.</p>\n"
+      title: "<h4>Máxima Calidad</h4>"
+      content: "<p>A su disposición la experiencia del mejor equipo local de Odontólogos
+        Especialistas, las más modernas y cómodas instalaciones y la última tecnología
+        a nivel mundial. Un servicio ampliamente reconocido y en concordancia con
+        los más altos estándares internacionales en materia de salud oral.</p>\n"
 procedures:
   display: true
   title: We Are Just One Step Away!
