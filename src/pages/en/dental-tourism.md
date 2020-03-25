@@ -103,7 +103,7 @@ prices:
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
-      to: "/en/specialties/dental-implants"
+      to: "/en/specialties/dental-implants/implant-supported-restorations/"
   - title: Aesthetic Dentistry
     icon: "/img/icon-aestetic-dentistry.jpg"
     rows:
