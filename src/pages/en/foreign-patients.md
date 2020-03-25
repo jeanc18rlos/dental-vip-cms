@@ -82,7 +82,7 @@ hostSection:
     procedures.</p>\n"
   columns:
   - title: "<p>Chacao Suites</p>"
-    link: http://www.hotelchacaosuites.com/
+    link: https://hotelchacaosuites.com/index.php?idioma=en
     img: "/img/host-chacao-suites.jpg"
   - title: "<p>Shelter Suites</p>"
     link: https://www.hotel-shelter.com/reserva/
