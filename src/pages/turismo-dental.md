@@ -183,9 +183,9 @@ prices:
   - title: Prótesis Convencional
     icon: "/img/icon-prosthodontics.jpg"
     rows:
-    - procedure: Metal-Porcelain Crowns and Bridges
+    - procedure: Coronas y Puentes Metal-Porcelana
       price: "$ 430"
-      currency: USD per unit
+      currency: USD por unidad
     - procedure: IPS e.max Crowns and Bridges
       price: "$ 480"
       currency: USD per unit
