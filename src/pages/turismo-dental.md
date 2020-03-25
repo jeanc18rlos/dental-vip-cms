@@ -48,7 +48,7 @@ prices:
     - procedure: Sinus Lift
       price: "$ 850"
       currency: USD
-    - procedure: Synthetic Bone Graft
+    - procedure: Injerto de Hueso Artificial
       price: "$ 200"
       currency: USD per cc
     link:
