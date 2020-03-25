@@ -441,8 +441,8 @@ procedures:
   - title: Tecnología
     to: "/la-clinica/tecnologia/"
     img: "/img/procedures-technology.jpg"
-  - title: Professional Staff
-    to: "/en/professional-staff/"
+  - title: Profesionales
+    to: "/profesionales"
     img: "/img/procedures-professionals.png"
 
 ---
