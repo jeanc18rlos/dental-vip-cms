@@ -89,7 +89,7 @@ prices:
     - procedure: Corona de Zirconio CAD/CAM
       price: "$ 570"
       currency: USD
-    - procedure: Implant Supported Bridge
+    - procedure: Puente Fijo sobre Implantes
       price: "$ 480"
       currency: USD per unit
     - procedure: Snap on Denture
