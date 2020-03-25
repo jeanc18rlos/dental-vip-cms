@@ -236,9 +236,9 @@ prices:
     - procedure: Raspado y Alisado Radicular
       price: "$ 120"
       currency: USD por cuadrante
-    - procedure: Open Curettage
+    - procedure: Curetaje Abierto
       price: "$ 180"
-      currency: USD per quadrant
+      currency: USD por cuadrante
     - procedure: Mucogingival Surgery
       price: "$ 250"
       currency: USD
