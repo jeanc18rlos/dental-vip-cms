@@ -30,10 +30,10 @@ prices:
       currency with:<p>\n"
     to: https://www1.oanda.com/lang/es/currency/converter/
   rows:
-  - title: Dental Implants
+  - title: Implantes Dentales
     icon: "/img/icon-dental-implants.jpg"
     rows:
-    - procedure: 3D Cone Beam Scanner
+    - procedure: Tomografía Digital 3D
       price: "$ 60"
       currency: USD
     - procedure: Conscious Sedation <em>(optional)</em>
