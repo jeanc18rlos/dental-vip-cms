@@ -360,14 +360,14 @@ routes:
     cost: '875.00 USD
 
 '
-    visa: No visa required
+    visa: No Visa Required
   - from: 'From: WILLEMSTAD'
     flag: cw
     time: 0 h:51 m
     cost: '875.00 USD
 
 '
-    visa: No visa required
+    visa: No Visa Required
 gallerySteps:
   title: Making Denstistry Care Simple and Affordable
   steps:
