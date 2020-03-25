@@ -203,8 +203,8 @@ prices:
       currency: USD
     link:
       image: "/img/icon-oral-surgery.jpg"
-      title: MORE INFO
-      to: "/en/specialties/dental-implants"
+      title: MÁS INFORMACIÓN
+      to: "/especialidades/protesis/"
   - title: General Dentistry
     icon: "/img/icon-general-dentistry.jpg"
     rows:
