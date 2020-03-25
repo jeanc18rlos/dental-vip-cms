@@ -180,7 +180,7 @@ prices:
       image: "/img/icon-oral-surgery.jpg"
       title: MÁS INFORMACIÓN
       to: "/especialidades/cirugia-bucal/"
-  - title: Conventional Prosthesis
+  - title: Prótesis Convencional
     icon: "/img/icon-prosthodontics.jpg"
     rows:
     - procedure: Metal-Porcelain Crowns and Bridges
