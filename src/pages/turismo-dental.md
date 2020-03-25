@@ -164,7 +164,7 @@ prices:
     - procedure: Extracción Quirúrgica
       price: "$ 80"
       currency: USD
-    - procedure: 3rd Molar Extraction
+    - procedure: Cirugía de Cordales
       price: "$ 150"
       currency: USD
     - procedure: Lingual or Labial Frenectomy
