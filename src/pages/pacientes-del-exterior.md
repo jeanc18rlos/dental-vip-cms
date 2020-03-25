@@ -57,7 +57,7 @@ hostSection:
     SUITES y SHELTER SUITES disponen de cómodas habitaciones, estacionamiento, restaurantes
     y demás servicios que facilitarán y harán agradable, en caso de ser necesaria,
     su breve estadía en la ciudad de Caracas. Si es su deseo, nuestro personal administrativo
-    está en capacidad de prestarle apoyo en todo lo referente a boleteria aérea, traslados
+    está en capacidad de brindarle apoyo en todo lo referente a boleteria aérea, traslados
     aeropuerto-hotel-aeropuerto y trámites de alojamiento.</p>\n"
   columns:
   - title: "<p>Chacao Suites</p>"
