@@ -50,7 +50,7 @@ prices:
       currency: USD
     - procedure: Injerto de Hueso Artificial
       price: "$ 200"
-      currency: USD per cc
+      currency: USD por cc
     link:
       image: "/img/icon-oral-surgery.jpg"
       title: MORE INFO
