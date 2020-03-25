@@ -1,0 +1,73 @@
+---
+label: guarantees
+hide_body: false
+fields:
+- type: text
+  name: templateKey
+  label: templateKey
+- type: text
+  name: language
+  label: language
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: published
+  label: published
+- type: text
+  name: redirects
+  label: redirects
+- type: field_group
+  name: hero
+  label: hero
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: type
+    label: type
+  - type: file
+    name: image
+    label: image
+  - type: boolean
+    name: parallax
+    label: parallax
+  - type: text
+    name: title
+    label: title
+  - type: boolean
+    name: indicator
+    label: indicator
+  - type: boolean
+    name: halfSize
+    label: halfSize
+- type: field_group
+  name: extendedHeading
+  label: extendedHeading
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: file
+    name: img
+    label: img
+  - type: text
+    name: classname
+    label: classname
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+- type: field_group
+  name: bannerFooter
+  label: bannerFooter
+  fields:
+  - type: textarea
+    name: body
+    label: body
+  - type: file
+    name: img
+    label: img

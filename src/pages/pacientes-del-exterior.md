@@ -25,7 +25,7 @@ columns:
       pacientes que nos visitan desde cualquier parte de Venezuela y el
       mundo. Nuestro equipo humano entiende, valora, agradece y honra el
       gran esfuerzo de todas aquellas personas que recorren grandes
-      distancias en busca de atención Odontológica Especializada
+      distancias en busca de Atención Odontológica Especializada
       ofreciéndoles un protocolo especial de atención
       <em>
         (ampliamente conocido en USA como "Dental Extreme Makeover")
