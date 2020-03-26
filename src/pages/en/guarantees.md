@@ -19,20 +19,18 @@ extendedHeading:
   img: "/img/icons-schedule.png"
   classname: section-reasons
   title: Our Guarantee Policy
-  content: "<p  class=\"dv-subtitle text-left\"> Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Nullam in condimentum arcu, at tincidunt velit. Sed tempus est
-    nulla, quis imperdiet ex luctus eget. Sed ultricies elit eu justo consectetur,
-    laoreet dapibus nisl tristique. Pellentesque dignissim risus nec mattis laoreet.</p>\n
-    <br> \n<p class=\"dv-subtitle text-left\"p> Mauris porttitor est in egestas lacinia.
-    Sed ante neque, auctor sit amet elit ac, mollis ornare diam. Suspendisse tristique,
-    enim ac dapibus pharetra, mi nisl fermentum nulla, at placerat nisi arcu non turpis.
-    Cras eu purus ac erat dapibus ultrices vitae vitae quam. Vestibulum nisi purus,
-    iaculis et quam et, consectetur feugiat est.</p> <br>  <p class=\"dv-subtitle
-    text-left\"p> Mauris porttitor est in egestas lacinia. Sed ante neque, auctor
-    sit amet elit ac, mollis ornare diam. Suspendisse tristique, enim ac dapibus pharetra,
-    mi nisl fermentum nulla, at placerat nisi arcu non turpis. Cras eu purus ac erat
-    dapibus ultrices vitae vitae quam. Vestibulum nisi purus, iaculis et quam et,
-    consectetur feugiat est.</p>\n"
+  content: "<p  class=\"dv-subtitle text-left\"> The guarantee is often overlooked
+    by patients when deciding which dental clinic to choose, and in our opinion, it
+    is one of the most important factors that differentiates one dental center from
+    another.</p>\n <br> \n<p class=\"dv-subtitle text-left\"p> DENTAL VIP can offer
+    you the most extensive guarantee available from any dental clinic in Venezuela
+    because we are confident in the high standard of our workmanship, in the quality
+    of the materials we use and in the precision of the dental technicians who work
+    in our master laboratory.</p> <br>  <p class=\"dv-subtitle text-left\"p> If our
+    guaranteed treatment fails structurally, it will be replaced free of charge for
+    you by our Dentists, of course, under the terms and conditions detailed below.
+    This gives you that peace of mind that if anything is to happen, we are here to
+    take responsibility!</p>\n"
 bannerFooter:
   body: '<p  class="title text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing
     elit?</p> <p  class="subtitle text-left"> Lorem ipsum dolor sit amet, <b>Nullam</b>
