@@ -17,20 +17,18 @@ extendedHeading:
   img: "/img/icons-schedule.png"
   classname: section-reasons
   title: 'Nuestra Política de Garantías  '
-  content: "<p  class=\"dv-subtitle text-left\"> Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Nullam in condimentum arcu, at tincidunt velit. Sed tempus est
-    nulla, quis imperdiet ex luctus eget. Sed ultricies elit eu justo consectetur,
-    laoreet dapibus nisl tristique. Pellentesque dignissim risus nec mattis laoreet.</p>\n
-    <br> \n<p class=\"dv-subtitle text-left\"p> Mauris porttitor est in egestas lacinia.
-    Sed ante neque, auctor sit amet elit ac, mollis ornare diam. Suspendisse tristique,
-    enim ac dapibus pharetra, mi nisl fermentum nulla, at placerat nisi arcu non turpis.
-    Cras eu purus ac erat dapibus ultrices vitae vitae quam. Vestibulum nisi purus,
-    iaculis et quam et, consectetur feugiat est.</p> <br>  <p class=\"dv-subtitle
-    text-left\"p> Mauris porttitor est in egestas lacinia. Sed ante neque, auctor
-    sit amet elit ac, mollis ornare diam. Suspendisse tristique, enim ac dapibus pharetra,
-    mi nisl fermentum nulla, at placerat nisi arcu non turpis. Cras eu purus ac erat
-    dapibus ultrices vitae vitae quam. Vestibulum nisi purus, iaculis et quam et,
-    consectetur feugiat est.</p>\n"
+  content: "<p  class=\"dv-subtitle text-left\"> A menudo, muchos pacientes pasan
+    por alto el tema de las garantías a la hora de decidir qué clínica dental elegir,
+    y en nuestra opinión; es uno de los factores más importantes que diferencian a
+    un centro de otro.</p>\n <br> \n<p class=\"dv-subtitle text-left\"p> DENTAL VIP
+    puede ofrecerle la mejor garantía de cualquier clínica dental en Caracas porque
+    confiamos en el alto nivel de nuestro trabajo, en la calidad de los materiales
+    que utilizamos y en la precisión de los técnicos dentales de nuestro laboratorio.</p>
+    <br>  <p class=\"dv-subtitle text-left\"p> Si uno de nuestros tratamientos falla
+    estructuralmente, nuestros Odontólogos lo reemplazarán sin ningún tipo de costo
+    adicional, por supuesto, bajo los términos y condiciones detallados a continuación.
+    Esto le brindará a Usted la tranquilidad de saber que si algo sucede, ¡estaremos
+    aquí para resolverlo!</p>\n"
 bannerFooter:
   body: '<p  class="title text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing
     elit?</p> <p  class="subtitle text-left"> Lorem ipsum dolor sit amet, <b>Nullam</b>
