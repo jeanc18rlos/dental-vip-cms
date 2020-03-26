@@ -28,8 +28,8 @@ extendedHeading:
     of the dental technicians who labor in our prosthetic laboratory.</p> <br>  <p
     class=\"dv-subtitle text-left\"p> If one of our guaranteed treatments fails structurally,
     it will be replaced free of charge for you by our Dentists, of course, under the
-    terms and conditions detailed below. This gives you that peace of mind that if
-    anything is to happen, we will be here to solve it!</p>\n"
+    terms and conditions detailed further down. This gives you that peace of mind
+    that if anything is to happen, we will be here to solve it!</p>\n"
 bannerFooter:
   body: '<p  class="title text-left"> Are You in Search of Treatments Highly Specialized?</p>
     <p  class="subtitle text-left"> VISIT US IN CARACAS <b>WE CAN HELP YOU!</b> </p>
