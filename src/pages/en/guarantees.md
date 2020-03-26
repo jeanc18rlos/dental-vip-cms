@@ -19,18 +19,17 @@ extendedHeading:
   img: "/img/icons-schedule.png"
   classname: section-reasons
   title: Our Guarantee Policy
-  content: "<p  class=\"dv-subtitle text-left\"> The guarantee is often overlooked
-    by patients when deciding which dental clinic to choose, and at our discretion,
-    it is one of the most important factors that differentiates one dental center
-    from another.</p>\n <br> \n<p class=\"dv-subtitle text-left\"p> DENTAL VIP can
-    offer you the most extensive guarantee available from any dental clinic in Venezuela
-    because we are confident in the high standard of our workmanship, in the quality
-    of the materials we use and in the precision of the dental technicians who work
-    in our master laboratory.</p> <br>  <p class=\"dv-subtitle text-left\"p> If our
-    guaranteed treatment fails structurally, it will be replaced free of charge for
-    you by our Dentists, of course, under the terms and conditions detailed below.
-    This gives you that peace of mind that if anything is to happen, we are here to
-    take responsibility!</p>\n"
+  content: "<p  class=\"dv-subtitle text-left\"> Often, many patients overlook the
+    issue of guarantees when deciding which dental clinic to choose and, at our discretion;
+    it is one of the most important factors that differentiates one center from another.</p>\n
+    <br> \n<p class=\"dv-subtitle text-left\"p> DENTAL VIP can offer you the most
+    extensive guarantee available from any dental clinic in Venezuela because we are
+    confident in the high standard of our workmanship, in the quality of the materials
+    we use and in the precision of the dental technicians who work in our master laboratory.</p>
+    <br>  <p class=\"dv-subtitle text-left\"p> If our guaranteed treatment fails structurally,
+    it will be replaced free of charge for you by our Dentists, of course, under the
+    terms and conditions detailed below. This gives you that peace of mind that if
+    anything is to happen, we are here to take responsibility!</p>\n"
 bannerFooter:
   body: '<p  class="title text-left"> Are You in Search of Treatments Highly Specialized?</p>
     <p  class="subtitle text-left"> VISIT US IN CARACAS <b>WE CAN HELP YOU!</b> </p>
