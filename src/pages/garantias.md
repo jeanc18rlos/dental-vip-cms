@@ -42,7 +42,7 @@ bannerFooter:
 En el caso de pacientes foráneos, cubrimos los gastos de alojamiento pero no los de traslado o pasaje aéreo
 </div>
 <p>
-Sed ante neque, auctor sit amet elit ac, mollis ornare diam.
+A continuación se muestra un esquema general de los tiempos de garantía para los diferentes tipos de soluciones dentales que ofrecemos:
 </p>
 <br>
 <div class="percentaje">

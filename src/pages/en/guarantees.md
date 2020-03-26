@@ -44,7 +44,7 @@ bannerFooter:
 In a guarantee case, we cover accommodation expenses but not those of flight and airfare
 </div>
 <p>
-Sed ante neque, auctor sit amet elit ac, mollis ornare diam.
+Below is an overview of the guarantee times for the different types of dental solutions we offer:
 </p>
 <br>
 <div class="percentaje">
