@@ -19,10 +19,10 @@ extendedHeading:
   title: 'Nuestra Política de Garantías  '
   content: "<p  class=\"dv-subtitle text-left\"> A menudo, muchos pacientes pasan
     por alto el tema de las garantías a la hora de decidir qué clínica dental elegir
-    y, a nuestro criterio; es uno de los factores más importantes que diferencian
-    a un centro de otro.</p>\n <br> \n<p class=\"dv-subtitle text-left\"p> DENTAL
-    VIP puede ofrecerle la mejor garantía de cualquier clínica dental en Caracas porque
-    confiamos en el alto nivel de nuestro trabajo, en la calidad de los materiales
+    y, a nuestro criterio; es sin duda alguna uno de los factores más importantes
+    que diferencian a un centro de otro.</p>\n <br> \n<p class=\"dv-subtitle text-left\"p>
+    DENTAL VIP puede ofrecerle la mejor garantía de cualquier Clínica Dental en Caracas
+    porque confiamos en el alto nivel de nuestro trabajo, en la calidad de los materiales
     que utilizamos y en la precisión de los técnicos dentales de nuestro laboratorio.</p>
     <br>  <p class=\"dv-subtitle text-left\"p> Si uno de nuestros tratamientos falla
     estructuralmente, nuestros Odontólogos lo reemplazarán sin ningún tipo de costo
