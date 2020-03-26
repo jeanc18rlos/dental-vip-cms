@@ -9,9 +9,7 @@ hero:
   type: default
   image: "/img/hero-guarantees.png"
   parallax: true
-  title: '<span style="color:white">Garantias</span>
-
-'
+  title: <span style="color:white">Garantías</span>
   indicator: true
   halfSize: false
 extendedHeading:
