@@ -28,7 +28,7 @@ extendedHeading:
     nuestros tratamientos falla estructuralmente, nuestros Odontólogos lo reemplazarán
     sin ningún tipo de costo adicional, por supuesto, bajo los términos y condiciones
     que se detallan a continuación. Esto le brindará a Usted la tranquilidad de saber
-    que si algo sucede, ¡estaremos aquí para resolverlo!.</p>\n"
+    que si algo sucede, ¡aquí estaremos para asumir la responsabilidad!.</p>\n"
 bannerFooter:
   body: '<p  class="title text-left"> ¿Está en la Búsqueda de Tratamientos Altamente
     Especializados?</p> <p  class="subtitle text-left"> VISÍTENOS EN CARACAS <b>¡PODEMOS
