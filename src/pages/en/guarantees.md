@@ -32,9 +32,8 @@ extendedHeading:
     This gives you that peace of mind that if anything is to happen, we are here to
     take responsibility!</p>\n"
 bannerFooter:
-  body: '<p  class="title text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing
-    elit?</p> <p  class="subtitle text-left"> Lorem ipsum dolor sit amet, <b>Nullam</b>
-    </p>
+  body: '<p  class="title text-left"> Are You in Search of Treatments Highly Specialized?</p>
+    <p  class="subtitle text-left"> VISIT US IN CARACAS <b>WE CAN HELP YOU!</b> </p>
 
 '
   img: "/img/icon-travel.png"
