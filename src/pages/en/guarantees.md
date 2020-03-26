@@ -18,9 +18,7 @@ extendedHeading:
   display: false
   img: "/img/icons-schedule.png"
   classname: section-reasons
-  title: 'Lorem ipsum dolor sit amet
-
-'
+  title: Our Guarantee Policy
   content: "<p  class=\"dv-subtitle text-left\"> Lorem ipsum dolor sit amet, consectetur
     adipiscing elit. Nullam in condimentum arcu, at tincidunt velit. Sed tempus est
     nulla, quis imperdiet ex luctus eget. Sed ultricies elit eu justo consectetur,
