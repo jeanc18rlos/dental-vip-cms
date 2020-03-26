@@ -29,7 +29,7 @@ extendedHeading:
     class=\"dv-subtitle text-left\"p> If our guaranteed treatment fails structurally,
     it will be replaced free of charge for you by our Dentists, of course, under the
     terms and conditions detailed below. This gives you that peace of mind that if
-    anything is to happen, we are here to take responsibility!</p>\n"
+    anything is to happen, we will are here to take responsibility!.</p>\n"
 bannerFooter:
   body: '<p  class="title text-left"> Are You in Search of Treatments Highly Specialized?</p>
     <p  class="subtitle text-left"> VISIT US IN CARACAS <b>WE CAN HELP YOU!</b> </p>
