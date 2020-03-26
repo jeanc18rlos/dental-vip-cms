@@ -26,7 +26,7 @@ extendedHeading:
     offer you the best guarantee of any Dental Clinic in Caracas because we trust
     in the high level of our work, the quality of the materials we use and the precision
     of the dental technicians who labor in our prosthetic laboratory.</p> <br>  <p
-    class=\"dv-subtitle text-left\"p> If our guaranteed treatment fails structurally,
+    class=\"dv-subtitle text-left\"p> If one of our guaranteed treatments fails structurally,
     it will be replaced free of charge for you by our Dentists, of course, under the
     terms and conditions detailed below. This gives you that peace of mind that if
     anything is to happen, we will be here to take responsibility!.</p>\n"
