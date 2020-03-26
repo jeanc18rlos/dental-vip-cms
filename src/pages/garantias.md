@@ -25,10 +25,10 @@ extendedHeading:
     porque confiamos en el alto nivel de nuestro trabajo, en la calidad de los materiales
     que utilizamos y en la precisión de los técnicos dentales que laboran en nuestro
     laboratorio protésico.</p> <br>  <p class=\"dv-subtitle text-left\"p> Si uno de
-    nuestros tratamientos falla estructuralmente, nuestros Odontólogos lo reemplazarán
-    sin ningún tipo de costo adicional, por supuesto, bajo los términos y condiciones
-    que se detallan a continuación. Esto le brindará a Usted la tranquilidad de saber
-    que si algo sucede, ¡aquí estaremos para asumir la responsabilidad!.</p>\n"
+    nuestros tratamientos garantizados falla estructuralmente, nuestros Odontólogos
+    lo reemplazarán sin ningún tipo de costo adicional, por supuesto, bajo los términos
+    y condiciones que se detallan a continuación. Esto le brindará a Usted la tranquilidad
+    de saber que si algo sucede, ¡estaremos aquí para asumir la responsabilidad!.</p>\n"
 bannerFooter:
   body: '<p  class="title text-left"> ¿Está en la Búsqueda de Tratamientos Altamente
     Especializados?</p> <p  class="subtitle text-left"> VISÍTENOS EN CARACAS <b>¡PODEMOS
