@@ -23,14 +23,13 @@ extendedHeading:
     issue of guarantees when deciding which dental clinic to choose and, in our discretion;
     it is undoubtedly one of the most important factors that differentiates one center
     from another.</p>\n <br> \n<p class=\"dv-subtitle text-left\"p> DENTAL VIP can
-    offer you the most extensive guarantee available from any dental clinic in Venezuela
-    because we are confident in the high standard of our workmanship, in the quality
-    of the materials we use and in the precision of the dental technicians who work
-    in our master laboratory.</p> <br>  <p class=\"dv-subtitle text-left\"p> If our
-    guaranteed treatment fails structurally, it will be replaced free of charge for
-    you by our Dentists, of course, under the terms and conditions detailed below.
-    This gives you that peace of mind that if anything is to happen, we are here to
-    take responsibility!</p>\n"
+    offer you the best guarantee of any Dental Clinic in Caracas because we trust
+    in the high level of our work, the quality of the materials we use and the precision
+    of the dental technicians who labor in our prosthetic laboratory.</p> <br>  <p
+    class=\"dv-subtitle text-left\"p> If our guaranteed treatment fails structurally,
+    it will be replaced free of charge for you by our Dentists, of course, under the
+    terms and conditions detailed below. This gives you that peace of mind that if
+    anything is to happen, we are here to take responsibility!</p>\n"
 bannerFooter:
   body: '<p  class="title text-left"> Are You in Search of Treatments Highly Specialized?</p>
     <p  class="subtitle text-left"> VISIT US IN CARACAS <b>WE CAN HELP YOU!</b> </p>
