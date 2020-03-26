@@ -27,8 +27,8 @@ extendedHeading:
     laboratorio protésico.</p> <br>  <p class=\"dv-subtitle text-left\"p> Si uno de
     nuestros tratamientos falla estructuralmente, nuestros Odontólogos lo reemplazarán
     sin ningún tipo de costo adicional, por supuesto, bajo los términos y condiciones
-    detallados a continuación. Esto le brindará a Usted la tranquilidad de saber que
-    si algo sucede, ¡estaremos aquí para resolverlo!</p>\n"
+    que se detallan a continuación. Esto le brindará a Usted la tranquilidad de saber
+    que si algo sucede, ¡estaremos aquí para resolverlo!.</p>\n"
 bannerFooter:
   body: '<p  class="title text-left"> ¿Está en la Búsqueda de Tratamientos Altamente
     Especializados?</p> <p  class="subtitle text-left"> VISÍTENOS EN CARACAS <b>¡PODEMOS
