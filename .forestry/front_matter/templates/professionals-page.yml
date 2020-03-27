@@ -169,3 +169,4 @@ fields:
       label: img
 pages:
 - src/pages/en/professional-staff.md
+- src/pages/profesionales.md
