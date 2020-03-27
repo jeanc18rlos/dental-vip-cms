@@ -69,7 +69,7 @@ asides:
         <li>Residence in applied clinical Prosthodontics and Implantology.</li>
         <li>Multiple training seminars in Smile Design and CAD-CAM Technologies.</li>
         <li>Diploma in Dental Ceramics, Occlusion and Operative Dentistry.</li>
-        <li>Private Practice limited to the area of Dental Aesthetics, Prosthetics and Oral Rehabilitation.</li>
+        <li>Private practice limited to the area of Dental Aesthetics, Prosthetics and Oral Rehabilitation.</li>
         <li>Member of Colegio de Odontólogos de Venezuela.</li>
         <li>Member of Colegio de Odontólogos Metropolitano.</li>
       </ul>
