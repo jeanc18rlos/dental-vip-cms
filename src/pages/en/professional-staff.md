@@ -91,7 +91,7 @@ asides:
 '
     content: |
       <ul style="font-weight:400;list-style:none">
-        <li><strong>Doctor of Dental Surgery </strong>&nbsp;<em>(Universidad Central de Venezuela, 2000).</em></li>
+        <li><strong>Doctor of Dental Surgery</strong>&nbsp;<em>(Universidad Central de Venezuela, 2000).</em></li>
         <li><strong>Postgraduate Course in Integral Stomatology of the Adult</strong>&nbsp;<em>(Universidad Santa María, 2004).</em></li>
         <li><strong>Specialist Degree in Periodontics</strong>&nbsp;<em>(Universidad Central de Venezuela, 2014).</em></li>
         <li>Aspiring to the degree of DOCTOR OF DENTISTRY.</li>
