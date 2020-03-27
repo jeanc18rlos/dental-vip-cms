@@ -31,8 +31,9 @@ extendedHeading:
     of course, under the terms and conditions detailed further down. This gives you
     that peace of mind that if anything is to happen, we will be here to solve it!</p>\n"
 bannerFooter:
-  body: '<p  class="title text-left"> Are You in Search of Treatments Highly Specialized?</p>
-    <p  class="subtitle text-left"> VISIT US IN CARACAS <b>WE CAN HELP YOU!</b> </p>
+  body: '<p  class="title text-left"> Is Your Quote Too Expensive For Your Dental
+    Treatment?</p> <p  class="subtitle text-left"> SAVE UP TO 70% <b>WE CAN HELP YOU!</b>
+    </p>
 
 '
   img: "/img/icon-travel.png"
