@@ -24,12 +24,12 @@ extendedHeading:
     it is undoubtedly one of the most important factors that differentiates one center
     from another.</p>\n <br> \n<p class=\"dv-subtitle text-left\"p> DENTAL VIP can
     offer you the best guarantee of any Dental Clinic in Caracas because we trust
-    in the high level of our work, the quality of the materials we use and the precision
-    of the dental technicians who labor in our prosthetic laboratory.</p> <br>  <p
-    class=\"dv-subtitle text-left\"p> If one of our guaranteed treatments fails structurally,
-    it will be replaced free of charge for you by our Dentists, of course, under the
-    terms and conditions detailed further down. This gives you that peace of mind
-    that if anything is to happen, we will be here to solve it!</p>\n"
+    in the high level of our work, in the quality of the materials we use and in the
+    precision of the dental technicians who labor in our prosthetic laboratory.</p>
+    <br>  <p class=\"dv-subtitle text-left\"p> If one of our guaranteed treatments
+    fails structurally, it will be replaced free of charge for you by our Dentists,
+    of course, under the terms and conditions detailed further down. This gives you
+    that peace of mind that if anything is to happen, we will be here to solve it!</p>\n"
 bannerFooter:
   body: '<p  class="title text-left"> Are You in Search of Treatments Highly Specialized?</p>
     <p  class="subtitle text-left"> VISIT US IN CARACAS <b>WE CAN HELP YOU!</b> </p>
