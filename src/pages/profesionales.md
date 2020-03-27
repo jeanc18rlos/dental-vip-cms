@@ -38,7 +38,7 @@ asides:
         <li><strong>Odontólogo</strong>&nbsp;<em>(Universidad Central de Venezuela, 1994)</em>.</li>
         <li><strong>Título de Especialista en Cirugía Bucal</strong>&nbsp;<em>(Universidad Central de Venezuela, 2006)</em>.</li>
         <li>Curso de Postgrado en Implantología Oral y Prótesis sobre Implantes.</li>
-        <li>Diplomado en Oseointegración y Regeneración Ósea Periimplantar.</li>
+        <li>Diplomado en Oseointegración y Regeneración Ósea Periimplantaria.</li>
         <li>Capacitación permanente en Técnicas Quirúrgicas Conservadoras y Microinvasivas.</li>
         <li>Experto clínico en el manejo de múltiples sistemas de Implantología Oral Avanzada.</li>
         <li>Profesor Asistente de la Facultad de Odontología, U.C.V.</li>
