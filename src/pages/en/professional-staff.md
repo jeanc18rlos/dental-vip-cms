@@ -34,7 +34,7 @@ asides:
     content: |
       <ul style="font-weight:400;list-style:none">
         <li><strong>Doctor of Dental Surgery</strong>&nbsp;<em>(Universidad Central de Venezuela, 1994)</em>.</li>
-        <li><strong>Specialist Degree in Oral Surgery </strong>&nbsp;<em>(Universidad Central de Venezuela, 2006)</em>.</li>
+        <li><strong>Specialist Degree in Oral Surgery</strong>&nbsp;<em>(Universidad Central de Venezuela, 2006)</em>.</li>
         <li>Postgraduate Course in Oral Implantology and Implant Prosthodontics.</li>
         <li>Diploma in Osseointegration and Peri-Implant Bone Regeneration.</li>
         <li>Permanent training in Conservative and Microinvasive Surgical Techniques. </li>
