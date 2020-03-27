@@ -20,7 +20,7 @@ extendedHeading:
   classname: section-reasons
   title: Our Guarantee Policy
   content: "<p  class=\"dv-subtitle text-left\"> Often, many patients overlook the
-    issue of guarantees when deciding which dental clinic to choose and, in our discretion;
+    issue of guarantees when deciding which dental clinic to choose and, in our discretion,
     it is undoubtedly one of the most important factors that differentiates one center
     from another.</p>\n <br> \n<p class=\"dv-subtitle text-left\"p> DENTAL VIP can
     offer you the best guarantee of any Dental Clinic in Caracas because we trust
