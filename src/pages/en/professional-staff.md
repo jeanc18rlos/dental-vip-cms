@@ -63,7 +63,7 @@ asides:
     content: |
       <ul style="font-weight:400;list-style:none">
         <li><strong>Doctor of Dental Surgery</strong>&nbsp;<em>(Universidad Santa María, 2001)</em>.</li>
-        <li><strong>Specialist in Prosthodontics</strong>&nbsp;<em>(Collegio dei Docenti di Odontoiatria, Italia, 2003).</em></li>
+        <li><strong>Specialist in Prosthodontics</strong>&nbsp;<em>(Collegio dei Docenti di Odontoiatria, Italy, 2003).</em></li>
         <li>Advanced course in Aesthetic and Restorative Dentistry&nbsp;<em>(U.S.M., 2004).</em></li>
         <li>Master in design and confection of Implant Supported Restorations.</li>
         <li>Residence in applied clinical Prosthodontics and Implantology.</li>
