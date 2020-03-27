@@ -30,9 +30,9 @@ extendedHeading:
     y condiciones que se detallan más adelante. Esto le brindará a Usted la tranquilidad
     de saber que si algo sucede, ¡estaremos aquí para resolverlo!</p>\n"
 bannerFooter:
-  body: '<p  class="title text-left"> ¿Está en la Búsqueda de Tratamientos Altamente
-    Especializados?</p> <p  class="subtitle text-left"> VISÍTENOS EN CARACAS <b>¡PODEMOS
-    AYUDARLE!</b> </p>
+  body: '<p  class="title text-left"> ¿Está en la Búsqueda de Tratamientos Dentales
+    de Alta Gama?</p> <p  class="subtitle text-left"> VISÍTENOS <b>¡PODEMOS AYUDARLE!</b>
+    </p>
 
 '
   img: "/img/icon-travel.png"
