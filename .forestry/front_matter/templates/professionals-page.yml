@@ -167,3 +167,5 @@ fields:
     - type: file
       name: img
       label: img
+pages:
+- src/pages/en/professional-staff.md
