@@ -41,7 +41,7 @@ asides:
         <li>Diplomado en Oseointegración y Regeneración Ósea Periimplantar.</li>
         <li>Capacitación permanente en Técnicas Quirúrgicas Conservadoras y Microinvasivas.</li>
         <li>Experto clínico en el manejo de múltiples sistemas de Implantología Oral Avanzada.</li>
-        <li>Profesor activo de la Facultad de Odontología, U.C.V.</li>
+        <li>Profesor Asistente de la Facultad de Odontología, U.C.V.</li>
         <li>Miembro del Colegio de Odontólogos de Venezuela.</li>
         <li>Miembro del Colegio de Odontólogos Metropolitano.</li>
         <li>Miembro de la Sociedad Venezolana de Cirugía Buco-Maxilofacial&nbsp;<em>(S.V.C.B.M.F.)</em>.</li>
