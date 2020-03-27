@@ -30,7 +30,7 @@ asides:
   - align: right
     title: '<h3 style="font-weight:300;" class="roboto">Dr. Castor José Garabán Povea</h3>
       <h5 class="bebas" style="padding:5px 5px 0px 5px;font-weight:normal;letter-spacing:2px;background:#333;color:#fff">CIRUGÍA
-      BUCAL - IMPLANTES</h5>
+      BUCAL - IMPLANTES DENTALES</h5>
 
 '
     content: |
