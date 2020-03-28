@@ -150,7 +150,7 @@ asides:
     content: |
       <ul style="font-weight:400;list-style:none">
         <li><strong>Doctor of Dental Surgery</strong>&nbsp;<em>(Universidad Central de Venezuela, 2000).</em></li>
-        <li><strong>Endodontics Postgraduate course</strong>&nbsp;<em>(Universidad Autónoma de Tamaulipas, México, 2003)</em>.</li>
+        <li><strong>Endodontics Postgraduate Course</strong>&nbsp;<em>(Universidad Autónoma de Tamaulipas, Mexico, 2003)</em>.</li>
         <li>Diploma in Pharmacotherapy and Immunopharmacology.</li>
         <li>Clinical Expert in the management of Endo-Periodontal and Endo-Prosthetic Lesions.</li>
         <li>Advanced training in the practical use of Nickel-Titanium Rotary Systems.</li>
