@@ -213,7 +213,7 @@ procedures:
   display: true
   title: "¡Dele a su Salud el Valor que se Merece!"
   procedures:
-  - title: Por Que elegirnos
+  - title: Por Qué elegirnos
     to: "/la-clinica/por-que-elegirnos/"
     img: "/img/procedures-why-choose-us.png"
   - title: Instalaciones
