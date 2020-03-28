@@ -1,0 +1,91 @@
+.dv-phases-sections {
+  .dv-main-menu {
+    max-width: 930px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0 5vw;
+  }
+  padding: 111px 0 0;
+  .dv-title-phases {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    margin-bottom: 168px;
+  }
+  .dv-phases {
+    padding-bottom: 95px;
+    background: #222;
+    padding-top: 61px;
+    @media screen and (max-width: 575px) {
+      padding-bottom: 66px;
+    }
+    .dv-content-phase {
+      padding-top: 45px;
+      color: #fff;
+      font-size: 16px;
+      font-weight: 400;
+    }
+    .dv-title-circle {
+      background: #91c508;
+      text-transform: uppercase;
+      color: #fff;
+      border-radius: 50%;
+      height: 120px;
+      width: 120px;
+      line-height: 120px;
+      top: -122px;
+      position: absolute;
+      font-weight: 700;
+      font-size: 27px;
+      left: 50%;
+      transform: translateX(-50%);
+      @media screen and (max-width: 575px) {
+        &.phase-2 {
+          margin-top: 67px;
+          position: relative;
+          top: 0;
+        }
+      }
+    }
+  }
+}
+
+// Slogan
+section.dv-slogan {
+  padding: 105px 5vw 88px;
+  text-align: center;
+  justify-content: center;
+  .slogan-btn {
+    cursor: pointer;
+    font-weight: 700;
+    padding: 10px 20px;
+    display: block;
+    margin: auto;
+    width: fit-content;
+    font-family: Roboto, sans-serif;
+    color: #91c508;
+    background-color: #222;
+    margin-bottom: 32px;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 20px;
+    &:hover {
+      background: #91c508;
+      color: #222;
+    }
+  }
+  .dv-slogan-title {
+    color: #fff;
+    margin-bottom: 52px;
+    font-family: Roboto, sans-serif;
+    font-size: 34px !important;
+    font-weight: 700 !important;
+  }
+  .dv-slogan-dsc {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 21px;
+    font-family: Roboto, sans-serif;
+  }
+}
