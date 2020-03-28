@@ -121,7 +121,7 @@ asides:
     content: |
       <ul style="font-weight:400;list-style:none">
         <li><strong>Doctor of Dental Surgery</strong>&nbsp;<em>(Universidad Central de Venezuela, 1996).</em></li>
-        <li><strong>Master Degree in Orthodontics</strong>&nbsp;<em>(Universidad Autónoma de Tamaulipas, México, 2003).</em></li>
+        <li><strong>Master Degree in Orthodontics</strong>&nbsp;<em>(Universidad Autónoma de Tamaulipas, Mexico, 2003).</em></li>
         <li>Fellowship Program in Clinical Orthodontics.</li>
         <li>Straight Wire System Certification Course.</li>
         <li>Advanced Training in Occlusion and Craniomandibular Dysfunction.</li>
