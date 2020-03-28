@@ -1,0 +1,376 @@
+---
+label: clinic-page
+hide_body: true
+fields:
+- type: text
+  name: templateKey
+  label: templateKey
+- type: text
+  name: language
+  label: language
+- type: text
+  name: title
+  label: title
+- type: text
+  name: redirects
+  label: redirects
+- type: boolean
+  name: published
+  label: published
+- type: field_group
+  name: hero
+  label: hero
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: type
+    label: type
+  - type: file
+    name: image
+    label: image
+  - type: boolean
+    name: parallax
+    label: parallax
+  - type: text
+    name: title
+    label: title
+  - type: boolean
+    name: indicator
+    label: indicator
+  - type: boolean
+    name: halfSize
+    label: halfSize
+- type: field_group
+  name: customBlocks
+  label: customBlocks
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: boolean
+    name: heading
+    label: heading
+  - type: boolean
+    name: procedures
+    label: procedures
+  - type: list
+    name: blocks
+    label: blocks
+- type: field_group
+  name: bgText
+  label: bgText
+  fields:
+  - type: file
+    name: img
+    label: img
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: body
+    label: body
+  - type: field_group
+    name: footer
+    label: footer
+    fields:
+    - type: boolean
+      name: display
+      label: display
+    - type: text
+      name: head
+      label: head
+    - type: text
+      name: body
+      label: body
+    - type: text
+      name: link
+      label: link
+- type: field_group
+  name: checkout
+  label: checkout
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: options
+    label: options
+    fields:
+    - type: file
+      name: img
+      label: img
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: subTitle
+      label: subTitle
+  - type: field_group_list
+    name: checkout
+    label: checkout
+    fields:
+    - type: file
+      name: img
+      label: img
+    - type: text
+      name: to
+      label: to
+    - type: text
+      name: text
+      label: text
+  - type: field_group
+    name: banner
+    label: banner
+    fields:
+    - type: text
+      name: aside
+      label: aside
+    - type: file
+      name: img
+      label: img
+- type: field_group
+  name: heading
+  label: heading
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: classname
+    label: classname
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+- type: field_group
+  name: gallery
+  label: gallery
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: boolean
+    name: isMasonry
+    label: isMasonry
+- type: field_group_list
+  name: elements
+  label: elements
+  fields:
+  - type: text
+    name: link
+    label: link
+  - type: file
+    name: bg
+    label: bg
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: body
+    label: body
+  - type: text
+    name: icon
+    label: icon
+  - type: boolean
+    name: action
+    label: action
+- type: field_group
+  name: reasons
+  label: reasons
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: field_group_list
+    name: reasons
+    label: reasons
+    fields:
+    - type: number
+      name: type
+      label: type
+    - type: file
+      name: img
+      label: img
+    - type: text
+      name: nameimg
+      label: nameimg
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: paragraph
+      label: paragraph
+- type: field_group
+  name: sections
+  label: sections
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: field_group_list
+    name: sections
+    label: sections
+    fields:
+    - type: number
+      name: type
+      label: type
+    - type: file
+      name: titleimage
+      label: titleimage
+    - type: file
+      name: contentimage
+      label: contentimage
+    - type: text
+      name: titlecontent
+      label: titlecontent
+    - type: text
+      name: content
+      label: content
+- type: field_group
+  name: lightQuote
+  label: lightQuote
+  fields:
+  - type: text
+    name: color
+    label: color
+  - type: boolean
+    name: display
+    label: display
+  - type: field_group
+    name: img
+    label: img
+    fields:
+    - type: file
+      name: ld
+      label: ld
+    - type: file
+      name: pt
+      label: pt
+  - type: text
+    name: content
+    label: content
+- type: field_group
+  name: lightbox
+  label: lightbox
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: type
+    label: type
+  - type: text
+    name: placeholder
+    label: placeholder
+  - type: field_group_list
+    name: images
+    label: images
+    fields:
+    - type: file
+      name: image
+      label: image
+- type: field_group
+  name: banner
+  label: banner
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: file
+    name: img
+    label: img
+  - type: field_group_list
+    name: paragraphs
+    label: paragraphs
+    fields:
+    - type: text
+      name: paragraph1
+      label: paragraph1
+    - type: text
+      name: paragraph2
+      label: paragraph2
+- type: field_group
+  name: social
+  label: social
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: file
+    name: imgparallax
+    label: imgparallax
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: subtitle
+    label: subtitle
+  - type: text
+    name: additionalText
+    label: additionalText
+  - type: field_group_list
+    name: icons
+    label: icons
+    fields:
+    - type: field_group
+      name: icon
+      label: icon
+      fields:
+      - type: boolean
+        name: img
+        label: img
+      - type: text
+        name: class
+        label: class
+    - type: text
+      name: alt
+      label: alt
+    - type: text
+      name: nameicon
+      label: nameicon
+    - type: field_group
+      name: link
+      label: link
+      fields:
+      - type: text
+        name: href
+        label: href
+      - type: text
+        name: target
+        label: target
+      - type: text
+        name: rel
+        label: rel
+- type: field_group
+  name: procedures
+  label: procedures
+  fields:
+  - type: boolean
+    name: display
+    label: display
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: procedures
+    label: procedures
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: to
+      label: to
+    - type: file
+      name: img
+      label: img
