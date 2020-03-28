@@ -54,7 +54,7 @@ quote:
 '
   author: María José Tirado
   footer:
-    position: Clinical Coordination
+    position: Office Coordination
     clinic: DENTAL VIP, Especialidades Odontológicas s.c.
 testimonial:
   title: Testimonials and Ratings
