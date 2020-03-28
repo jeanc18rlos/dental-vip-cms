@@ -187,8 +187,8 @@ personal:
     title: DLT. Vanesa Hernández
     position: Functional Devices and Active Plates
   - image: "/img/personal-aymara-guillen-portillo.jpg"
-    title: Reception and Patient Care
-    position: Reception and attention to Patient
+    title: Aymara Guillén Portillo
+    position: Reception and Patient Care
   - image: "/img/personal-maria-betancourt-matos.jpg"
     title: María Betancourt Matos
     position: Dental Hygienist
