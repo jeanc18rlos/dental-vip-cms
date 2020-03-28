@@ -199,7 +199,7 @@ personal:
     title: Paola Rivas
     position: Financial Management
   - image: "/img/personal-esteban-garrido.jpg"
-    title: Lic. Esteban Garrido
+    title: CPA. Esteban Garrido
     position: Administration and Accounting
   - image: "/img/personal-maria-jose-tirado.jpg"
     title: María José Tirado
