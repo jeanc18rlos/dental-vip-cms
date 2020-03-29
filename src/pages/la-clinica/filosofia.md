@@ -100,36 +100,20 @@ sections:
     titleimage: "/img/icon-teeth-implants.jpg"
     contentimage: "/img/sections-treatment.jpg"
     titlecontent: En el tratamiento...
-    content: |
-      <p class="light-font">
-        Como nuestra principal preocupación es su salud, en DENTAL VIP&nbsp;
-        <stro ng>
-          trabajamos con los materiales e instrumentos de mayor calidad.&nbsp;
-        </strong>
-        Garantizamos ética en los servicios y óptimos resultados en la
-        resolución de casos clínicos de alta complejidad. Para ello, nos
-        valemos de&nbsp;
-        <strong>
-          competencia profesional, compromiso, flexibilidad y capacidad de
-          innovación.
-        </strong>
-        Además, somos un equipo multidisciplinario que se mantiene en
-        constante evolución, entrenándonos día a día en las nuevas técnicas y
-        procedimientos que nos permitan mejorar aún más los resultados
-        estéticos y funcionales de todos nuestros tratamientos.
-      </p> <p class="light-font">
-        En nuestro quehacer siempre nos aseguramos de proporcionar&nbsp;
-        <strong>
-          un servicio Médico-Odontológico completamente personalizado y
-          ajustado a sus necesidades.&nbsp;
-        </strong>
-        Nuestro coordinador clínico hará que los Especialistas trabajen en
-        equipo, poniendo a su disposición&nbsp;
-        <strong>
-          experiencia, conocimiento científico y los más recientes avances en
-          el campo de la salud oral.
-        </strong>
-      </p>
+    content: <p class="light-font">Como nuestra principal preocupación es su salud,
+      en DENTAL VIP <strong>trabajamos con los materiales e instrumentos de mayor
+      calidad.</strong> Garantizamos ética en los servicios y óptimos resultados en
+      la resolución de casos clínicos de alta complejidad. Para ello, nos valemos
+      de <strong>competencia profesional, compromiso, flexibilidad y capacidad de
+      innovación.</strong> Además, somos un equipo multidisciplinario que se mantiene
+      en constante evolución, entrenándonos día a día en las nuevas técnicas y procedimientos
+      que nos permitan mejorar aún más los resultados estéticos y funcionales de todos
+      nuestros tratamientos.</p> <p class="light-font">En nuestro quehacer siempre
+      nos aseguramos de proporcionar <strong>un servicio Médico-Odontológico completamente
+      personalizado y ajustado a sus necesidades.</strong> Nuestro coordinador clínico
+      hará que los Especialistas trabajen en equipo, poniendo a su disposición <strong>experiencia,
+      conocimiento científico y los más recientes avances en el campo de la salud
+      oral.</strong></p>
   - type: 1
     titleimage: "/img/icon-handshake.jpg"
     contentimage: "/img/sections-humanity.jpg"
