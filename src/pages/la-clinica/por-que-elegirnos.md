@@ -114,7 +114,7 @@ reasons:
     img: "/img/icon-number-02.jpg"
     nameimg: reason2
     title: Modernas y Cómodas Instalaciones
-    paragraph: Ambiente Tranquilo, Relajado y de Máximo Confort, con Servicio de Internet
+    paragraph: Ambiente Tranquilo, Relajado y de Máximo Confort con Servicio de Internet
       (zona Wi-Fi). Consultorios Privados y Totalmente Independientes.
   - type: 1
     img: "/img/icon-number-03.jpg"
