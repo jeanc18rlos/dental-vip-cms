@@ -107,9 +107,9 @@ reasons:
     img: "/img/icon-number-01.jpg"
     nameimg: reason1
     title: Reconocido Equipo de Odontólogos Especialistas
-    paragraph: Profesionales Universitarios de alto nivel con estudios de Postgrado
-      en las diferentes ramas de la Odontología clínica. Todas las Especialidades
-      en el mismo lugar.
+    paragraph: Profesionales Universitarios de Alto Nivel con Estudios de Postgrado
+      en las diferentes ramas de la Odontología Clínica. Todas las Especialidades
+      en el Mismo Lugar.
   - type: 2
     img: "/img/icon-number-02.jpg"
     nameimg: reason2
