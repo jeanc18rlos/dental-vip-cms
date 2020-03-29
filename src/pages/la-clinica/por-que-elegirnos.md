@@ -43,7 +43,7 @@ bgText:
   footer:
     display: true
     head: "<h4>¿Pensando en viajar y visitarnos?</h4>\n"
-    body: "<h3>Conozca Más Acerca de Nuestro Protocolo Clínico de Actuación</h3>\n"
+    body: "<h3>Conozca Más Acerca de Nuestro Protocolo Clínico de Actuación.</h3>"
     link: "/pacientes-del-exterior/"
 checkout:
   display: false
