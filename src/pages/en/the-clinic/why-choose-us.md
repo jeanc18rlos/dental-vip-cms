@@ -112,7 +112,7 @@ reasons:
     img: "/img/icon-number-02.jpg"
     nameimg: reason2
     title: Modern and Comfortable Facilities
-    paragraph: Quiet, Relaxed and Maximum Comfort Environment with Internet service
+    paragraph: Quiet, Relaxed and Maximum Comfort Environment with Internet Service
       (Wi-Fi zone). Private and Totally Independent Dental Rooms.
   - type: 1
     img: "/img/icon-number-03.jpg"
