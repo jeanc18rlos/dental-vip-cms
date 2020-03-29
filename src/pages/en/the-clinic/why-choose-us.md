@@ -107,7 +107,7 @@ reasons:
     nameimg: reason1
     title: Renowned Team of Specialist Dentists
     paragraph: High Level University Professionals with Postgraduate Studies in the
-      different areas of clinical Dentistry. All Specialties in the same place.
+      different areas of Clinical Dentistry. All Specialties in the Same Place.
   - type: 2
     img: "/img/icon-number-02.jpg"
     nameimg: reason2
