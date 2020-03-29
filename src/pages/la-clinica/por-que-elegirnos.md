@@ -189,7 +189,7 @@ banner:
     paragraph2: ''
 procedures:
   display: true
-  title: "¡Una Especialidad para cada Tratamiento!"
+  title: "¡Una Especialidad para Cada Tratamiento!"
   procedures:
   - title: Implantes
     to: "/la-clinica/implantes-dentales/"
