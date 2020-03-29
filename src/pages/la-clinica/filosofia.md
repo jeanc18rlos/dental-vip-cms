@@ -118,39 +118,22 @@ sections:
     titleimage: "/img/icon-handshake.jpg"
     contentimage: "/img/sections-humanity.jpg"
     titlecontent: En lo humano...
-    content: |
-      <p class="light-font">
-        Nos hemos fijado como norte lograr que los pacientes reciban la mejor
-        atención, por ello ofrecemos siempre&nbsp;
-        <strong>
-          un trato personal, amable, sincero y muy profesional por parte de
-          todo el equipo humano que labora en la institución.
-        </strong>
-        Transparencia, honestidad, tolerancia y equidad en la colaboración
-        constituyen nuestra base para el éxito, la armonía y la satisfacción
-        en el trabajo. Aunque los resultados del tratamiento sean siempre su
-        principal motivación, intentaremos ir más allá para superar
-        expectativas, lograr su entera aprobación y&nbsp;
-        <strong>
-          consolidarnos como centro de referencia para amigos y familiares
-          cercanos.
-        </strong>
-      </p>
-      <p class="light-font">
-        Nuestra filosofía bien se refleja en nuestro gran esfuerzo por&nbsp;
-        <strong>
-          conseguir una buena comunicación entre el Odontólogo y el
-          Paciente.&nbsp;
-        </strong>
-        Para nosotros es fundamental que Usted logre comprender y razonar cuál
-        es su problema dental, cuáles fueron sus causas y cuáles son sus
-        consecuencias y alternativas terapéuticas, para que juntos logremos
-        darle solución y podamos además prevenir su recurrencia. Claro debe
-        quedar que&nbsp;
-        <strong>
-          la prevención es la piedra angular de toda estrategia en salud.
-        </strong>
-      </p>
+    content: <p class="light-font">Nos hemos fijado como norte lograr que los pacientes
+      reciban la mejor atención, por ello ofrecemos siempre <strong>un trato personal,
+      amable, sincero y muy profesional por parte de todo el equipo humano que labora
+      en la institución.</strong> Transparencia, honestidad, tolerancia y equidad
+      en la colaboración constituyen nuestra base para el éxito, la armonía y la satisfacción
+      en el trabajo. Aunque los resultados del tratamiento sean siempre su principal
+      motivación, intentaremos ir más allá para superar expectativas, lograr su entera
+      aprobación y <strong>consolidarnos como centro de referencia para amigos y familiares
+      cercanos.</strong></p><p class="light-font">Nuestra filosofía bien se refleja
+      en nuestro gran esfuerzo por <strong>conseguir una buena comunicación entre
+      el Odontólogo y el Paciente.</strong> Para nosotros es fundamental que Usted
+      logre comprender y razonar cuál es su problema dental, cuáles fueron sus causas
+      y cuáles son sus consecuencias y alternativas terapéuticas, para que juntos
+      logremos darle solución y podamos además prevenir su recurrencia. Claro debe
+      quedar que <strong>la prevención es la piedra angular de toda estrategia en
+      salud.</strong></p>
   - type: 2
     titleimage: "/img/icon-money.jpg"
     contentimage: "/img/sections-economics.jpg"
