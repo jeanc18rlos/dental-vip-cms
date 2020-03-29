@@ -138,7 +138,7 @@ reasons:
     img: "/img/icon-number-06.jpg"
     nameimg: reason6
     title: Organización y Mínimo Lapso de Espera
-    paragraph: Valoramos y respetamos su tiempo por eso Trabajamos Bajo un Sistema
+    paragraph: Valoramos y respetamos su tiempo, por eso, Trabajamos Bajo un Sistema
       de Previa Cita que nos permite Optimizar Nuestro Servicio.
   - type: 1
     img: "/img/icon-number-07.jpg"
