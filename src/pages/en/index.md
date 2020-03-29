@@ -111,7 +111,7 @@ specialties:
   paragraph: A newfangled multidisciplinary approach that makes possible the integrative
     management of knowledge and maximizes the resolution capacity of our healthcare
     team.
-  slogan: All the Specialties in the same place!
+  slogan: All Specialties in the Same Place!
   features:
   - to: "/en/specialties/oral-surgery/"
     img: "/img/specialties-oral-surgery.png"
