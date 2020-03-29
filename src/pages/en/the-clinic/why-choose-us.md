@@ -160,7 +160,7 @@ reasons:
     img: "/img/icon-number-10.jpg"
     nameimg: reason10
     title: Financing and Payment Facilities
-    paragraph: Flexibility in the collection of professional fees, Special Financing
+    paragraph: Flexibility in the Collection of professional fees, Special Financing
       Plans and Commercial Point of Sale for payment with Debit and Credit Cards.
 social:
   display: false
