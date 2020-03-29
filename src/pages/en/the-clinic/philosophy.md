@@ -116,20 +116,20 @@ sections:
     titleimage: "/img/icon-money.jpg"
     contentimage: "/img/sections-economics.jpg"
     titlecontent: In the economic...
-    content: <p class="light-font"> Many patients go to a dental insurance, a franchise
+    content: <p class="light-font">Many patients go to a dental insurance, a franchise
       or a popular clinic for the price they offer, but generally the care is very
       basic, massive, little specialized and offered by itinerant dentists who are
-      just beginning in the profession.&nbsp; <strong> When it comes to private attention,
+      just beginning in the profession. <strong>When it comes to private attention,
       always mistrust of free consultations, 2x1 offers and excessively low fees,
-      since they usually hide a great deterioration in the quality of care </strong>
+      since they usually hide a great deterioration in the quality of care</strong>
       that can put your health at risk and make you easy prey to professional malpractice.
       Work very fast, attend to many patients, delegate functions and spare the most
       in academic training, infrastructure, technology, biosafety and expenses of
       clinical material is a common philosophy in those who tender cheap dentistry.
-      </p> <p class="light-font"> DENTAL VIP offers&nbsp; <strong> dedication, personalization,
-      excellence and exclusivity, </strong> combining the best of Specialized Integrated
-      Dentistry with the most current and relevant technology, all <strong>&nbsp;at
-      fair and truly favorable prices,</strong> surely below those of our direct competition.
+      </p> <p class="light-font">DENTAL VIP offers <strong>dedication, personalization,
+      excellence and exclusivity,</strong> combining the best of Specialized Integrated
+      Dentistry with the most current and relevant technology, all <strong>at fair
+      and truly favorable prices,</strong> surely below those of our direct competition.
       </p>
 reasons:
   display: false
