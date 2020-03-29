@@ -144,9 +144,9 @@ reasons:
     img: "/img/icon-number-07.jpg"
     nameimg: reason7
     title: Excelente Ubicación
-    paragraph: Estamos en el Municipio Chacao en el "centro del este" de la ciudad
-      capital dentro de un Complejo Urbanístico Empresarial de gran actividad económica
-      y comercial.
+    paragraph: Estamos en el Municipio Chacao, en el "centro del este" de la ciudad
+      capital, dentro de un Complejo Urbanístico Empresarial de Gran Actividad Económica
+      y Comercial.
   - type: 2
     img: "/img/icon-number-08.jpg"
     nameimg: reason8
