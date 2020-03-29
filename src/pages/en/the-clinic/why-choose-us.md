@@ -28,21 +28,21 @@ bgText:
   img: "/img/parallax-why-choose-us.jpg"
   display: true
   title: "<h1>Do You Live Outside of Venezuela?</h1>\n"
-  body: "<div>\n   <p class=\"dv-subtitle text-center text-white\">We are also an
-    option!\n   </p>\n   \n   <p class=\"text-left dv-subtitle\">At present our country
-    has become an important destination of Dental Tourism and there are already many
-    foreign patients who visit us to receive First Level Health Care.</p>\n\n   <p
-    class=\"text-left dv-subtitle\">Our recognized quality of care and the possibility
-    of saving large sums of money in complex oral treatments are two competitive advantages
-    difficult to ignore. </p>\n\n   <p class=\"text-left dv-subtitle\">For your convenience
-    we have a privileged location and two excellent hotel infrastructures located
-    less than 50 meters from the clinic. CHACAO SUITES and SHELTER SUITES offer nice
-    and comfortable rooms, parking, restaurants and other services that will facilitate
-    and make enjoyable your short stay in the city of Caracas. </p>\n </div>\n"
+  body: <div>   <p class="dv-subtitle text-center text-white">We are also an option!   </p>      <p
+    class="text-left dv-subtitle">At present our country has become an important destination
+    of Dental Tourism and there are already many foreign patients who visit us to
+    receive First Level Health Care.</p>   <p class="text-left dv-subtitle">Our recognized
+    Quality of Care and the possibility of Saving Large Sums of Money in complex oral
+    treatments are two competitive advantages difficult to ignore. </p>   <p class="text-left
+    dv-subtitle">For your convenience we have a privileged location and two excellent
+    hotel infrastructures located less than 50 meters from the clinic. CHACAO SUITES
+    and SHELTER SUITES offer nice and comfortable rooms, parking, restaurants and
+    other services that will facilitate and make enjoyable your short stay in the
+    city of Caracas. </p> </div>
   footer:
     display: true
     head: "<h4>Thinking of traveling and visiting us?</h4>\n"
-    body: "<h3>Learn More About Our Clinical Acting Protocol.</h3>\n"
+    body: "<h3>Know More About Our Clinical Acting Protocol.</h3>"
     link: "/en/foreign-patients/"
 checkout:
   display: false
