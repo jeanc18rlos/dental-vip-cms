@@ -114,7 +114,7 @@ specialties:
   title: "¿Qué Ventajas le Ofrece Nuestra Exclusiva Metodología de Trabajo?"
   paragraph: Un novedoso enfoque multidisciplinario que posibilita la gestión integradora
     del conocimiento y potencia la capacidad resolutiva de nuestro equipo asistencial.
-  slogan: "¡Todas las Especialidades en el mismo lugar!"
+  slogan: "¡Todas las Especialidades en el Mismo Lugar!"
   features:
   - to: "/especialidades/cirugia-bucal/"
     img: "/img/specialties-oral-surgery.png"
