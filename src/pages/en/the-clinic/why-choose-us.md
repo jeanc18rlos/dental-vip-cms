@@ -143,8 +143,8 @@ reasons:
     nameimg: reason7
     title: Excellent Location
     paragraph: We are in the Chacao Municipality, in the "center of the east" of the
-      capital city, within a Business Urban Complex of great economic and commercial
-      activity.
+      Capital City, Within a Business Urban Complex of Great Economic and Commercial
+      Activity.
   - type: 2
     img: "/img/icon-number-08.jpg"
     nameimg: reason8
