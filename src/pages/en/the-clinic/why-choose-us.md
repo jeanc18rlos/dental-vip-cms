@@ -150,7 +150,7 @@ reasons:
     nameimg: reason8
     title: Security and Easy Access
     paragraph: Numerous Private Surveillance, more than 2,000 Parking Positions at
-      your disposal and pedestrian entrance from the underground system Metro de Caracas.
+      your disposal and pedestrian entrance from the Underground System Metro de Caracas.
   - type: 1
     img: "/img/icon-number-09.jpg"
     nameimg: reason9
