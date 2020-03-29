@@ -162,7 +162,7 @@ reasons:
     img: "/img/icon-number-10.jpg"
     nameimg: reason10
     title: Financiamiento y Facilidades de Pago
-    paragraph: Flexibilidad en el cobro de honorarios profesionales Planes Especiales
+    paragraph: Flexibilidad en el Cobro de honorarios profesionales, Planes Especiales
       de Financiamiento y Punto de Venta Comercial para el pago con Tarjetas de Débito
       y Crédito.
 social:
