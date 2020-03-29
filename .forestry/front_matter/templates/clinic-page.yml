@@ -377,4 +377,5 @@ fields:
 pages:
 - src/pages/en/the-clinic/philosophy.md
 - src/pages/en/the-clinic/why-choose-us.md
+- src/pages/la-clinica/filosofia.md
 - src/pages/la-clinica/por-que-elegirnos.md

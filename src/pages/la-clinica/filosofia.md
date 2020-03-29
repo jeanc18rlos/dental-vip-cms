@@ -2,16 +2,16 @@
 templateKey: clinic-page
 language: es
 title: Filosofía
-redirects: /en/the-clinic/philosophy/
+redirects: "/en/the-clinic/philosophy/"
 published: true
-
 hero:
   display: true
   type: default
-  image: /img/hero-philosophy.jpg
+  image: "/img/hero-philosophy.jpg"
   parallax: true
-  title: >
-    <span style="color:white">Filosofía</span>
+  title: '<span style="color:white">Filosofía</span>
+
+'
   indicator: true
   halfSize: false
 customBlocks:
@@ -19,109 +19,88 @@ customBlocks:
   heading: true
   procedures: true
   blocks:
-    - >
-      <div>
-        <p></P>
-        <p></P>
-      </div>
+  - |
+    <div>
+      <p></P>
+      <p></P>
+    </div>
 bgText:
-  img: /img/parallax-financing.jpg
+  img: "/img/parallax-financing.jpg"
   display: false
-  title: >
-    <h1>Recaudos y Documentos a Consignar</h1>
-  body: >
-    ''
-  footer: 
+  title: "<h1>Recaudos y Documentos a Consignar</h1>\n"
+  body: "''\n"
+  footer:
     display: true
-    head: >
-      <h4>;</h4>
-    body: >
-      <h3>¿Alguna Duda?</h3>
-    link: /contacto
-
+    head: "<h4>;</h4>\n"
+    body: "<h3>¿Alguna Duda?</h3>\n"
+    link: "/contacto"
 heading:
   display: true
-  classname:  section-reasons
+  classname: section-reasons
   title: Nuestra Base para el Trabajo y Éxito Profesional
-  content: >
-    <p class="dv-subtitle text-center">En DENTAL VIP entendemos el futuro como un gran reto para todos
-    y lo afrontamos con una actitud altamente positiva hacia las personas y el país. 
-    Consideramos nuestra situación actual y sus matices como una gran oportunidad y lección de vida.</p>
+  content: '<p class="dv-subtitle text-center">En DENTAL VIP entendemos el futuro
+    como un gran reto para todos y lo afrontamos con una actitud altamente positiva
+    hacia las personas y el país.  Consideramos nuestra situación actual y sus matices
+    como una gran oportunidad y lección de vida.</p>
+
+'
 checkout:
   display: false
   title: ''
   options:
-    - img: /img/icon-bank-transfer.png
-      title: ''
-      subTitle: ''
-
+  - img: "/img/icon-bank-transfer.png"
+    title: ''
+    subTitle: ''
   checkout:
-    - img: /img/icon-paypal.png
-      to: /
-      text: ''
+  - img: "/img/icon-paypal.png"
+    to: "/"
+    text: ''
   banner:
-      aside: >
-          ''
-      img: /img/icon-travel.png
-gallery: 
+    aside: "''\n"
+    img: "/img/icon-travel.png"
+gallery:
   display: false
   isMasonry: false
 reasons:
   display: false
-  reasons:  
+  reasons:
   - type: 1
-    img: /img/icon-number-01.jpg  
+    img: "/img/icon-number-01.jpg"
     nameimg: ''
     title: ''
-    paragraph:
-      ''
+    paragraph: ''
 lightbox:
   display: false
   placeholder: ''
   type: ''
-  images: 
-    - image: /img/procedures-implants.png
+  images:
+  - image: "/img/procedures-implants.png"
 sections:
   display: true
-  sections:  
+  sections:
   - type: 1
-    titleimage: /img/icon-clinic-chair.jpg
-    contentimage: /img/sections-facilities.jpg 
+    titleimage: "/img/icon-clinic-chair.jpg"
+    contentimage: "/img/sections-facilities.jpg"
     titlecontent: En la clínica...
-    content: >
-      <p class="light-font">
-        La clínica DENTAL VIP ha sido concebida y diseñada para que el
-        paciente se sienta inmerso en un ambiente acogedor y disfrute de&nbsp;
-        <strong>
-          un clima relajado, tranquilo y de máximo confort,
-        </strong>
-        desde el mismo momento en que es recibido y a lo largo de toda su
-        visita.&nbsp;
-        <strong>
-          Contamos con unas modernas y cómodas instalaciones, la mejor
-          tecnología de vanguardia, los equipos más avanzados y un reconocido
-          grupo de Odontólogos Especialistas de alto nivel.&nbsp;
-        </strong>
-          Esto nos permite ofrecer un nuevo concepto en Odontología:
-        <em>&nbsp;moderna, integral y especializada</em>.
-      </p>
-      <p class="light-font">
-        Una privilegiada ubicación con fácil acceso, la disponibilidad de
-        estacionamiento estructural en el propio inmueble y la presencia
-        permanente de un numeroso personal de seguridad privada conforman
-        también parte esencial de nuestra concepción de servicio, de nuestra
-        intención por hacer de su experiencia global algo positivo y de
-        nuestro gran empeño por&nbsp;
-        <strong>
-          lograr que su calendario de visitas sea lo más cómodo, expedito y
-          seguro posible.
-        </strong>
-      </p>
+    content: '<p class="light-font">La clínica DENTAL VIP ha sido concebida y diseñada
+      para que el paciente se sienta inmerso en un ambiente acogedor y disfrute de
+      <strong>un clima relajado, tranquilo y de máximo confort,</strong> desde el
+      mismo momento en que es recibido y a lo largo de toda su visita. <strong>Contamos
+      con unas modernas y cómodas instalaciones, la mejor tecnología de vanguardia,
+      los equipos más avanzados y un reconocido grupo de Odontólogos Especialistas
+      de alto nivel.</strong> Esto nos permite ofrecer un nuevo concepto en Odontología:
+      <em>moderna, integral y especializada</em>.</p> <p class="light-font">Una privilegiada
+      ubicación con fácil acceso, la disponibilidad de estacionamiento estructural
+      en el propio inmueble y la presencia permanente de un numeroso personal de seguridad
+      privada conforman también parte esencial de nuestra concepción de servicio,
+      de nuestra intención por hacer de su experiencia global algo positivo y de nuestro
+      gran empeño por <strong>lograr que su calendario de visitas sea lo más cómodo,
+      expedito y seguro posible.</strong></p>'
   - type: 2
-    titleimage: /img/icon-teeth-implants.jpg
-    contentimage: /img/sections-treatment.jpg
+    titleimage: "/img/icon-teeth-implants.jpg"
+    contentimage: "/img/sections-treatment.jpg"
     titlecontent: En el tratamiento...
-    content: >
+    content: |
       <p class="light-font">
         Como nuestra principal preocupación es su salud, en DENTAL VIP&nbsp;
         <stro ng>
@@ -138,8 +117,7 @@ sections:
         constante evolución, entrenándonos día a día en las nuevas técnicas y
         procedimientos que nos permitan mejorar aún más los resultados
         estéticos y funcionales de todos nuestros tratamientos.
-      </p>
-      <p class="light-font">
+      </p> <p class="light-font">
         En nuestro quehacer siempre nos aseguramos de proporcionar&nbsp;
         <strong>
           un servicio Médico-Odontológico completamente personalizado y
@@ -153,10 +131,10 @@ sections:
         </strong>
       </p>
   - type: 1
-    titleimage: /img/icon-handshake.jpg
-    contentimage: /img/sections-humanity.jpg
+    titleimage: "/img/icon-handshake.jpg"
+    contentimage: "/img/sections-humanity.jpg"
     titlecontent: En lo humano...
-    content: >
+    content: |
       <p class="light-font">
         Nos hemos fijado como norte lograr que los pacientes reciban la mejor
         atención, por ello ofrecemos siempre&nbsp;
@@ -174,7 +152,6 @@ sections:
           cercanos.
         </strong>
       </p>
-
       <p class="light-font">
         Nuestra filosofía bien se refleja en nuestro gran esfuerzo por&nbsp;
         <strong>
@@ -191,111 +168,95 @@ sections:
         </strong>
       </p>
   - type: 2
-    titleimage: /img/icon-money.jpg
-    contentimage: /img/sections-economics.jpg
+    titleimage: "/img/icon-money.jpg"
+    contentimage: "/img/sections-economics.jpg"
     titlecontent: En lo económico...
-    content:
-      <p class="light-font">
-        Muchos pacientes acuden a un seguro dental, a una franquicia o a una
-        clínica popular por el precio que ofrecen, pero generalmente la
-        atención es muy básica, masiva, poco especializada y ofrecida por
-        odontólogos itinerantes que apenas se inician en la profesión.&nbsp;
-        <strong>
-          Cuando de atención privada se trate, desconfíe siempre de las
-          consultas gratis, ofertas 2x1 y honorarios excesivamente bajos, ya
-          que suelen encubrir un gran deterioro de la calidad asistencial
-        </strong>
-        que puede poner en riesgo su salud y hacerle presa fácil de la mala
-        praxis profesional. Trabajar muy rápido, atender muchos pacientes,
-        delegar funciones y escatimar al máximo en formación académica,
-        infraestructura, tecnología, bioseguridad y gastos de material clínico
-        es filosofía común en aquellos que ofertan odontología barata.
-      </p>
-      <p class="light-font">
-        DENTAL VIP ofrece&nbsp;
-        <strong>
-          dedicación, personalización, excelencia y exclusividad,
-        </strong>
-        combinando lo mejor de la Odontología Integral Especializada con la
-        tecnología más actual y relevante, todo ello
-        <strong>
-          a precios justos y verdaderamente favorables,
-        </strong>
-        con seguridad por debajo de los de nuestra competencia directa.
-      </p>
-    
+    content: <p class="light-font"> Muchos pacientes acuden a un seguro dental, a
+      una franquicia o a una clínica popular por el precio que ofrecen, pero generalmente
+      la atención es muy básica, masiva, poco especializada y ofrecida por odontólogos
+      itinerantes que apenas se inician en la profesión.&nbsp; <strong> Cuando de
+      atención privada se trate, desconfíe siempre de las consultas gratis, ofertas
+      2x1 y honorarios excesivamente bajos, ya que suelen encubrir un gran deterioro
+      de la calidad asistencial </strong> que puede poner en riesgo su salud y hacerle
+      presa fácil de la mala praxis profesional. Trabajar muy rápido, atender muchos
+      pacientes, delegar funciones y escatimar al máximo en formación académica, infraestructura,
+      tecnología, bioseguridad y gastos de material clínico es filosofía común en
+      aquellos que ofertan odontología barata. </p> <p class="light-font"> DENTAL
+      VIP ofrece&nbsp; <strong> dedicación, personalización, excelencia y exclusividad,
+      </strong> combinando lo mejor de la Odontología Integral Especializada con la
+      tecnología más actual y relevante, todo ello <strong> a precios justos y verdaderamente
+      favorables, </strong> con seguridad por debajo de los de nuestra competencia
+      directa. </p>
 lightQuote:
-  color: '#fff'
+  color: "#fff"
   display: true
   img:
-    ld: /img/quotes-phillosophy.jpg
-    pt: /img/quotes-phillosophy-portrait.jpg
-  content: EL RESPETO A LA VIDA Y A LA INTEGRIDAD DE LA PERSONA HUMANA, EL FOMENTO Y LA PRESERVACIÓN DE LA SALUD, COMO COMPONENTE DEL DESARROLLO Y BIENESTAR SOCIAL Y SU PROYECCIÓN EFECTIVA A LA COMUNIDAD, CONSTITUYEN EN TODAS LAS CIRCUNSTANCIAS EL DEBER PRIMORDIAL DEL ODONTÓLOGO. "
-
+    ld: "/img/quotes-phillosophy.jpg"
+    pt: "/img/quotes-phillosophy-portrait.jpg"
+  content: EL RESPETO A LA VIDA Y A LA INTEGRIDAD DE LA PERSONA HUMANA, EL FOMENTO
+    Y LA PRESERVACIÓN DE LA SALUD, COMO COMPONENTE DEL DESARROLLO Y BIENESTAR SOCIAL
+    Y SU PROYECCIÓN EFECTIVA A LA COMUNIDAD, CONSTITUYEN EN TODAS LAS CIRCUNSTANCIAS
+    EL DEBER PRIMORDIAL DEL ODONTÓLOGO. "
 social:
   display: true
-  imgparallax: /img/parallax-follow-us.jpg
+  imgparallax: "/img/parallax-follow-us.jpg"
   title: Síganos
   subtitle: En nuestro blog y redes sociales
   additionalText: Noticias, Artículos, Consejos de Actualidad y Mucho Más...
   icons:
-    - icon:
-        img: false
-        class: icon-blog
-      alt: blog
-      nameicon: Blog
-      link:
-        href: /en/blog/
-        target: _blank
-        rel: noopener noreferrer
-    - icon:
-        img: false
-        class: icon-instagram
-      alt: instagram
-      nameicon: Instagram
-      link:
-        href: https://www.instagram.com/dental_vip/
-        target: _blank
-        rel: noopener noreferrer
-    - icon:
-        img: false
-        class: icon-facebook
-      alt: facebook
-      nameicon: Facebook
-      link:
-        href: https://www.facebook.com/dentalvip/
-        target: _blank
-        rel: noopener noreferrer
+  - icon:
+      img: false
+      class: icon-blog
+    alt: blog
+    nameicon: Blog
+    link:
+      href: "/en/blog/"
+      target: _blank
+      rel: noopener noreferrer
+  - icon:
+      img: false
+      class: icon-instagram
+    alt: instagram
+    nameicon: Instagram
+    link:
+      href: https://www.instagram.com/dental_vip/
+      target: _blank
+      rel: noopener noreferrer
+  - icon:
+      img: false
+      class: icon-facebook
+    alt: facebook
+    nameicon: Facebook
+    link:
+      href: https://www.facebook.com/dentalvip/
+      target: _blank
+      rel: noopener noreferrer
 banner:
   display: false
-  img: /img/banner-financing.png
+  img: "/img/banner-financing.png"
   paragraphs:
-    - paragraph1:
-        ''
-      paragraph2:
-        ''
-    
+  - paragraph1: ''
+    paragraph2: ''
 elements:
-  - link: #
-    bg: /img/procedures-implants.png
-    title: ''
-    placeholder: ''
-    body: >
-      ''
-    action: false
-
-
+- link: ''
+  bg: "/img/procedures-implants.png"
+  title: ''
+  placeholder: ''
+  body: "''\n"
+  action: false
+  icon: ''
 procedures:
   display: true
-  title: ¡Una Especialidad para cada Tratamiento!
+  title: "¡Una Especialidad para cada Tratamiento!"
   procedures:
-    - title: Implantes
-      to: /la-clinica/implantes-dentales/
-      img: /img/procedures-implants.png
-    - title: Ortodoncia
-      to: /especialidades/ortodoncia/
-      img: /img/procedures-orthodontics.png
-    - title: Estética dental
-      to:  /especialidades/estetica-dental/
-      img: /img/procedures-aesthetic-dentistry.png
+  - title: Implantes
+    to: "/la-clinica/implantes-dentales/"
+    img: "/img/procedures-implants.png"
+  - title: Ortodoncia
+    to: "/especialidades/ortodoncia/"
+    img: "/img/procedures-orthodontics.png"
+  - title: Estética dental
+    to: "/especialidades/estetica-dental/"
+    img: "/img/procedures-aesthetic-dentistry.png"
+
 ---
