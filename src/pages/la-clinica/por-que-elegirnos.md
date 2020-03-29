@@ -132,8 +132,8 @@ reasons:
     img: "/img/icon-number-05.jpg"
     nameimg: reason5
     title: Atención Totalmente Personalizada
-    paragraph: No somos un centro de atención masiva y por ende NO delegamos funciones.
-      Usted será siempre atendido por su Especialista de Confianza.
+    paragraph: No somos un centro de atención masiva y por ende no delegamos funciones.
+      Usted Será Siempre Atendido por su Especialista de Confianza.
   - type: 2
     img: "/img/icon-number-06.jpg"
     nameimg: reason6
