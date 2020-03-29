@@ -375,5 +375,6 @@ fields:
       name: img
       label: img
 pages:
+- src/pages/en/the-clinic/philosophy.md
 - src/pages/en/the-clinic/why-choose-us.md
 - src/pages/la-clinica/por-que-elegirnos.md
