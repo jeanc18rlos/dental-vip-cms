@@ -136,8 +136,8 @@ reasons:
     img: "/img/icon-number-06.jpg"
     nameimg: reason6
     title: Organization and Minimum Waiting Time
-    paragraph: We value and respect your time, that is why We Work Under a Prior Appointment
-      System that allows us to Optimize Our Service.
+    paragraph: We value and respect your time, that is why, We Work Under a Prior
+      Appointment System that allows us to Optimize Our Service.
   - type: 1
     img: "/img/icon-number-07.jpg"
     nameimg: reason7
