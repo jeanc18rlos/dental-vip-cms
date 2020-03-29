@@ -82,35 +82,18 @@ sections:
     titleimage: "/img/icon-teeth-implants.jpg"
     contentimage: "/img/sections-treatment.jpg"
     titlecontent: In the treatment...
-    content: |
-      <p class="light-font">
-        As our main concern is your health, in DENTAL VIP&nbsp;
-          <strong>
-            we work with the highest quality materials and instruments.&nbsp;
-          </strong>
-          We guarantee ethics in services and optimal results in the resolution
-          of highly complex clinical cases. For this, we use&nbsp;
-          <strong>
-            professional competence, commitment, flexibility and innovation
-            capacity.
-          </strong>
-          In addition, we are a multidisciplinary team that is constantly
-          evolving, training us every day in the new techniques and procedures
-          that allow us to further improve the aesthetic and functional results
-          of all our treatments.
-      </p> <p class="light-font">
-        In our work we always make sure to provide&nbsp;
-          <strong>
-            a fully customized Medical-Dental service tailored to your
-            needs.&nbsp;
-          </strong>
-          Our clinical coordinator will make the Specialists work as a team,
-          putting at your disposal&nbsp;
-          <strong>
-            experience, scientific knowledge and the latest advances in the
-            field of oral health.
-          </strong>
-      </p>
+    content: <p class="light-font">As our main concern is your health, in DENTAL VIP
+      <strong>we work with the highest quality materials and instruments.</strong>
+      We guarantee ethics in services and optimal results in the resolution of highly
+      complex clinical cases. For this, we use <strong>professional competence, commitment,
+      flexibility and innovation capacity.</strong> In addition, we are a multidisciplinary
+      team that is constantly evolving, training us every day in the new techniques
+      and procedures that allow us to further improve the aesthetic and functional
+      results of all our treatments.</p> <p class="light-font">In our work we always
+      make sure to provide <strong>a fully customized Medical-Dental service tailored
+      to your needs.</strong> Our clinical coordinator will make the Specialists work
+      as a team, putting at your disposal <strong>experience, scientific knowledge
+      and the latest advances in the field of oral health.</strong></p>
   - type: 1
     titleimage: "/img/icon-handshake.jpg"
     contentimage: "/img/sections-humanity.jpg"
