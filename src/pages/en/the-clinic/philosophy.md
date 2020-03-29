@@ -98,35 +98,20 @@ sections:
     titleimage: "/img/icon-handshake.jpg"
     contentimage: "/img/sections-humanity.jpg"
     titlecontent: In the human...
-    content: |
-      <p class="light-font">
-        We have set ourselves as north to ensure that patients receive the
-          best care, so we always offer&nbsp;
-          <strong>
-            a personal, friendly, sincere and very professional deal by the
-            entire human team that works in the institution.
-          </strong>
-          Transparency, honesty, tolerance and equity in collaboration
-          constitute our basis for success, harmony and job satisfaction.
-          Although the results of the treatment always be your main motivation,
-          we will try to go further to exceed expectations, achieve your full
-          approval and&nbsp;
-          <strong>
-            consolidate us as a reference center for close friends and family.
-          </strong>
-      </p>
-      <p class="light-font">
-         Our philosophy is well reflected in our great effort &nbsp;
-          <strong>
-            to achieve good communication between the Dentist and the
-            Patient.&nbsp;
-          </strong>
-          For us it is essential that you get to understand and reason what your
-          dental problem is, what were its causes and what are its consequences
-          and therapeutic alternatives, so that together we can give it solution
-          and can also prevent its recurrence. Remember that &nbsp;
-          <strong>prevention is the cornerstone of any health strategy.</strong>
-      </p>
+    content: <p class="light-font">We have set ourselves as north to ensure that patients
+      receive the best care, so we always offer <strong>a personal, friendly, sincere
+      and very professional deal by the entire human team that works in the institution.</strong>
+      Transparency, honesty, tolerance and equity in collaboration constitute our
+      basis for success, harmony and job satisfaction. Although the results of the
+      treatment always be your main motivation, we will try to go further to exceed
+      expectations, achieve your full approval and <strong>consolidate us as a reference
+      center for close friends and family.</strong></p><p class="light-font">Our philosophy
+      is well reflected in our great effort <strong>to achieve good communication
+      between the Dentist and the Patient.</strong> For us it is essential that you
+      get to understand and reason what your dental problem is, what were its causes
+      and what are its consequences and therapeutic alternatives, so that together
+      we can give it solution and can also prevent its recurrence. Remember that <strong>prevention
+      is the cornerstone of any health strategy.</strong></p>
   - type: 2
     titleimage: "/img/icon-money.jpg"
     contentimage: "/img/sections-economics.jpg"
