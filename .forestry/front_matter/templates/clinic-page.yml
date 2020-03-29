@@ -374,3 +374,5 @@ fields:
     - type: file
       name: img
       label: img
+pages:
+- src/pages/la-clinica/por-que-elegirnos.md
