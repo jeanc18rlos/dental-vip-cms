@@ -120,8 +120,8 @@ reasons:
     img: "/img/icon-number-03.jpg"
     nameimg: reason3
     title: La Mejor Tecnología
-    paragraph: Contamos con los equipos de Última Generación a nivel mundial. Siempre
-      estamos a la vanguardia en Innovación Odontológica.
+    paragraph: Contamos con los Equipos de Última Generación a Nivel Mundial. Siempre
+      estamos a la Vanguardia en Innovación Odontológica.
   - type: 2
     img: "/img/icon-number-04.jpg"
     nameimg: reason4
