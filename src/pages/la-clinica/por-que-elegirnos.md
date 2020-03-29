@@ -65,7 +65,7 @@ heading:
   title: 10 Razones que Marcarán la Diferencia
   content: '<p class="dv-subtitle text-center">Tomar decisiones es muchas veces complicado,
     pero como seres racionales que somos, siempre nos decantaremos por aquella alternativa,
-    que a priori, maximice nuestro bienestar personal.</p>
+    que a priori; maximice nuestro bienestar personal.</p>
 
 '
 lightQuote:
