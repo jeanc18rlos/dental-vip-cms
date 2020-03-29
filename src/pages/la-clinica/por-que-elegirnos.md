@@ -151,7 +151,7 @@ reasons:
     img: "/img/icon-number-08.jpg"
     nameimg: reason8
     title: Seguridad y Fácil Acceso
-    paragraph: Numerosa Vigilancia Privada más de 2.000 Puestos de Estacionamiento
+    paragraph: Numerosa Vigilancia Privada, más de 2.000 Puestos de Estacionamiento
       a su disposición y entrada peatonal desde el sistema subterráneo Metro de Caracas.
   - type: 1
     img: "/img/icon-number-09.jpg"
