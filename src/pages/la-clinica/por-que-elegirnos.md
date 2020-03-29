@@ -157,7 +157,7 @@ reasons:
     img: "/img/icon-number-09.jpg"
     nameimg: reason9
     title: Precios Justos y Verdaderamente Competitivos
-    paragraph: Con seguridad los mejores en Odontología de Alto Standing.
+    paragraph: Con Seguridad los Mejores en Odontología de Alto Standing.
   - type: 2
     img: "/img/icon-number-10.jpg"
     nameimg: reason10
