@@ -138,21 +138,21 @@ sections:
     titleimage: "/img/icon-money.jpg"
     contentimage: "/img/sections-economics.jpg"
     titlecontent: En lo económico...
-    content: <p class="light-font"> Muchos pacientes acuden a un seguro dental, a
-      una franquicia o a una clínica popular por el precio que ofrecen, pero generalmente
+    content: <p class="light-font">Muchos pacientes acuden a un seguro dental, a una
+      franquicia o a una clínica popular por el precio que ofrecen, pero generalmente
       la atención es muy básica, masiva, poco especializada y ofrecida por odontólogos
-      itinerantes que apenas se inician en la profesión.&nbsp; <strong> Cuando de
-      atención privada se trate, desconfíe siempre de las consultas gratis, ofertas
-      2x1 y honorarios excesivamente bajos, ya que suelen encubrir un gran deterioro
-      de la calidad asistencial </strong> que puede poner en riesgo su salud y hacerle
-      presa fácil de la mala praxis profesional. Trabajar muy rápido, atender muchos
-      pacientes, delegar funciones y escatimar al máximo en formación académica, infraestructura,
+      itinerantes que apenas se inician en la profesión. <strong>Cuando de atención
+      privada se trate, desconfíe siempre de las consultas gratis, ofertas 2x1 y honorarios
+      excesivamente bajos, ya que suelen encubrir un gran deterioro de la calidad
+      asistencial</strong> que puede poner en riesgo su salud y hacerle presa fácil
+      de la mala praxis profesional. Trabajar muy rápido, atender muchos pacientes,
+      delegar funciones y escatimar al máximo en formación académica, infraestructura,
       tecnología, bioseguridad y gastos de material clínico es filosofía común en
-      aquellos que ofertan odontología barata. </p> <p class="light-font"> DENTAL
-      VIP ofrece&nbsp; <strong> dedicación, personalización, excelencia y exclusividad,
-      </strong> combinando lo mejor de la Odontología Integral Especializada con la
-      tecnología más actual y relevante, todo ello <strong> a precios justos y verdaderamente
-      favorables, </strong> con seguridad por debajo de los de nuestra competencia
+      aquellos que ofertan odontología barata. </p> <p class="light-font">DENTAL VIP
+      ofrece <strong>dedicación, personalización, excelencia y exclusividad,</strong>
+      combinando lo mejor de la Odontología Integral Especializada con la tecnología
+      más actual y relevante, todo ello <strong>a precios justos y verdaderamente
+      favorables,</strong> con seguridad por debajo de los de nuestra competencia
       directa. </p>
 lightQuote:
   color: "#fff"
