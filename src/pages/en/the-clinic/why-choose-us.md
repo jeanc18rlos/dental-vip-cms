@@ -131,7 +131,7 @@ reasons:
     nameimg: reason5
     title: Fully Personalized Attention
     paragraph: We are not a center of mass attention and therefore we do not delegate
-      functions. You Will Always Be Attended By Your Trusted Specialist.
+      functions. You Will Always Be Attended by your Trusted Specialist.
   - type: 2
     img: "/img/icon-number-06.jpg"
     nameimg: reason6
