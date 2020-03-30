@@ -121,13 +121,9 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-06.jpg"
   title: SILLONES ERGONÓMICOS Y BIARTICULADOS
-  body: |
-    <p>
-      Unidades dentales de última generación con respaldares anatómicos
-      amplios y envolventes que brindan gran confort al paciente, reducen
-      el nivel de estrés y evitan tensiones o molestias posturales durante
-      el tratamiento.
-    </p>
+  body: "<p>  Unidades dentales de última generación con respaldares anatómicos amplios
+    y envolventes que brindan gran confort al paciente, reducen el nivel de estrés
+    y evitan tensiones o molestias posturales durante el tratamiento.</p>"
   icon: ''
   action: false
 - link: ''
