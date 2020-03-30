@@ -83,7 +83,7 @@ listGallery:
   display: true
   title: "<h1>Sus Dientes + Blancos en Solo 8 Pasos:</h1>"
   desc: '<p class="dv-div-text text-center dv-mb-83">Previa profilaxis dental y pulido
-    de esmalte con conos de goma y pastas de grano ultrafino, son muy pocos los pasos
+    del esmalte con conos de goma y pastas de grano ultrafino, son muy pocos los pasos
     que le separarán de una hermosa y radiante apariencia:</p>
 
 '
