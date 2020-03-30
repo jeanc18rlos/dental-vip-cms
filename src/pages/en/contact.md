@@ -83,7 +83,7 @@ amenities:
           Francisco de Miranda Ave. (<em>East direction</em>) <br class="hidden-xs hidden-sm visible-md visible-lg">
           Libertador Ave. (<em>West direction</em>)
         </p>
-  - title: WI-FI ZONA
+  - title: WI-FI ZONE
     to: false
     img: "/img/procedures-wifi.jpg"
     info:
