@@ -89,7 +89,7 @@ amenities:
     info:
       image: "/img/icon-wifi.png"
       text: |
-        <p>We Will Keep You Always Connected <br class="visible-xs visible-sm visible-md visible-lg">
+        <p>We Will Keep You Always Connected! <br class="visible-xs visible-sm visible-md visible-lg">
           INTERNET <br class="hidden-xs hidden-sm visible-md visible-lg">
          Broadband Service Available to Our <br class="hidden-xs hidden-sm visible-md visible-lg"> Distinguished Visitors.
         </p>
