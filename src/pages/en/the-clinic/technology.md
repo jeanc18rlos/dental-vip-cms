@@ -112,13 +112,9 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-05.jpg"
   title: " INTRAORAL CAMERA"
-  body: |
-    <p>
-      Captures and stores high-resolution digital images that allow us to
-      appreciate in detail the initial oral condition of the patient,
-      design the smile, compare and evaluate the final results of the
-      esthetic dental treatment.
-    </p>
+  body: "<p>  Captures and stores high-resolution digital images that allow us to
+    appreciate in detail the initial oral condition of the patient, design the smile,
+    compare and evaluate the final results of the esthetic dental treatment.</p>"
   icon: ''
   action: false
 - link: ''
