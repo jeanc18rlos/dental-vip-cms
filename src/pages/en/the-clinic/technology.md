@@ -103,15 +103,15 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-04.jpg"
   title: KODAK RVG 5100 RADIOVISIOGRAPHY
-  body: |
-    <p>
-      Computerized digital radiology that minimizes the generation of x-rays and provides high-definition instantaneous images with more than 20 pairs of visible lines per millimeter, thus expanding the technical capabilities of diagnosis and clinical evaluation.
-    </p>
+  body: "<p>  Computerized digital radiology that minimizes the generation of x-rays
+    and provides high-definition instantaneous images with more than 20 pairs of visible
+    lines per millimeter, thus expanding the technical capabilities of diagnosis and
+    clinical evaluation.</p>"
   icon: ''
   action: false
 - link: ''
   bg: "/img/gallery-technology-05.jpg"
-  title: CÁMARA INTRAORAL
+  title: " INTRAORAL CAMERA"
   body: |
     <p>
       Captures and stores high-resolution digital images that allow us to
