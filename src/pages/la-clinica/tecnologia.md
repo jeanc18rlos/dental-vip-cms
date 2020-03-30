@@ -197,13 +197,10 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-15.jpg"
   title: PROGRAMAT® P310
-  body: |
-    <p className="dv-text-feat">
-      Moderno horno de cocción para cerámica dental equipado con variados
-      programas de sinterizado y tecnología de mufla QTK2 que garantizan
-      una distribución homogénea del calor, óptima coalescencia atómica y
-      prolongación del ciclo de vida de los diversos elementos cerámicos.
-    </p>
+  body: <p className="dv-text-feat">  Moderno horno de cocción para cerámica dental
+    equipado con variados programas de sinterizado y tecnología de mufla QTK2 que
+    garantizan una distribución homogénea del calor, óptima coalescencia atómica y
+    prolongación del ciclo de vida de los diversos elementos cerámicos.</p>
   icon: ''
   action: false
 reasons:
