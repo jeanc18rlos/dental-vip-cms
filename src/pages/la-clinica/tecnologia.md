@@ -179,13 +179,10 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-13.jpg"
   title: UNIDAD QUIRÚRGICA
-  body: |
-    <p className="dv-text-feat">
-      Motor eléctrico para cirugía e implantología oral diseñado bajo un
-      concepto de manejo intuitivo, con función de mecanizado y control
-      automático del torque que facilitan la correcta conformación del
-      lecho quirúrgico, inserción y atornillado de los implantes dentales.
-    </p>
+  body: <p className="dv-text-feat">  Motor eléctrico para cirugía e implantología
+    oral diseñado bajo un concepto de manejo intuitivo, con función de mecanizado
+    y control automático del torque que facilitan la correcta conformación del lecho
+    quirúrgico, inserción y atornillado de los implantes dentales.</p>
   icon: ''
   action: false
 - link: ''
