@@ -167,11 +167,8 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-12.jpg"
   title: DIGITAL DENTISTRY
-  body: |
-    <p className="dv-text-feat">
-      Extraoral digital camera, smile design software and LED monitors to
-          optimize communication with the patient and teamwork.
-    </p>
+  body: <p className="dv-text-feat">  Extraoral digital camera, smile design software
+    and LED monitors to optimize communication with the patient and teamwork.</p>
   icon: ''
   action: false
 - link: ''
