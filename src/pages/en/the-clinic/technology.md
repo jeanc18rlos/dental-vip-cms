@@ -103,7 +103,7 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-04.jpg"
   title: KODAK RVG 5100 RADIOVISIOGRAPHY
-  body: "<p>  Computerized digital radiology that minimizes the generation of x-rays
+  body: "<p>  Computerized digital radiology that minimizes the generation of X-rays
     and provides high-definition instantaneous images with more than 20 pairs of visible
     lines per millimeter, thus expanding the technical capabilities of diagnosis and
     clinical evaluation.</p>"
