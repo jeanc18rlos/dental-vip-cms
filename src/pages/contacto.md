@@ -60,7 +60,7 @@ social:
       rel: noopener noreferrer
 amenities:
   display: true
-  title: "¡Será un Honor Recibir su Visita!"
+  title: "¡Será un Honor Recibir Su Visita!"
   procedures:
   - title: METRO DE CARACAS
     to: false
