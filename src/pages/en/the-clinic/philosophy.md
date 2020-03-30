@@ -110,8 +110,8 @@ sections:
       between the Dentist and the Patient.</strong> For us it is essential that you
       get to understand and reason what your dental problem is, what were its causes
       and what are its consequences and therapeutic alternatives, so that together
-      we can give it solution and can also prevent its recurrence. Of course it must
-      be that <strong>prevention is the cornerstone of any health strategy.</strong></p>
+      we can give it solution and can also prevent its recurrence. We should remember
+      that <strong>prevention is the cornerstone of any health strategy.</strong></p>
   - type: 2
     titleimage: "/img/icon-money.jpg"
     contentimage: "/img/sections-economics.jpg"
