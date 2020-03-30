@@ -95,13 +95,10 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-03.jpg"
   title: SISTEMA CAD-CAM
-  body: |
-    <p>
-      Tecnología computarizada que permite el escaneo en 3D,
-      digitalización y transferencia de datos a un software que diseña y
-      confecciona cualquier tipo de restauración cerámica fija a través de
-      la activación y control de un sistema robótico de microfresado.
-    </p>
+  body: "<p>  Tecnología computarizada que permite el escaneo en 3D, digitalización
+    y transferencia de datos a un software que diseña y confecciona cualquier tipo
+    de restauración cerámica fija a través de la activación y control de un sistema
+    robótico de microfresado.</p>"
   icon: ''
   action: false
 - link: ''
