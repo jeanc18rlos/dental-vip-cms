@@ -153,13 +153,10 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-10.jpg"
   title: ULTRASONIDO BIOSONIC® S1
-  body: |
-    <p className="dv-text-feat">
-      Potente scaler ultrasónico piezoeléctrico que facilita la
-      eliminación de cálculo dental, obturaciones, coronas defectuosas y
-      la irrigación e instrumentación mecánica de los conductos
-      radiculares en la terapia endodóntica.
-    </p>
+  body: <p className="dv-text-feat">  Potente scaler ultrasónico piezoeléctrico que
+    facilita la eliminación de cálculo dental, obturaciones, coronas defectuosas y
+    la irrigación e instrumentación mecánica de los conductos radiculares en la terapia
+    endodóntica.</p>
   icon: ''
   action: false
 - link: ''
