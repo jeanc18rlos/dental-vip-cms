@@ -171,12 +171,9 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-12.jpg"
   title: ODONTOLOGÍA DIGITAL
-  body: |
-    <p className="dv-text-feat">
-      Cámara digital extraoral, software de diseño de sonrisa y monitores
-      LED para optimizar la comunicación con el paciente y el trabajo en
-      equipo.
-    </p>
+  body: <p className="dv-text-feat">  Cámara digital extraoral, software de diseño
+    de sonrisa y monitores LED para optimizar la comunicación con el paciente y el
+    trabajo en equipo.</p>
   icon: ''
   action: false
 - link: ''
