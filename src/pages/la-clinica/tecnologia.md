@@ -129,12 +129,9 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-07.jpg"
   title: LÁMPARA DE FOTOCURADO
-  body: |
-    <p>
-      Dispositivo inalámbrico de luz halógena utilizado para polimerizar
-      los materiales plásticos fotosensibles en los procesos de
-      restauración dental y odontología operatoria.
-    </p>
+  body: "<p>  Dispositivo inalámbrico de luz halógena utilizado para polimerizar los
+    materiales plásticos fotosensibles en los procesos de restauración dental y odontología
+    operatoria.</p>"
   icon: ''
   action: false
 - link: ''
