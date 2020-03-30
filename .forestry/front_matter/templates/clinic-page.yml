@@ -377,6 +377,7 @@ fields:
 pages:
 - src/pages/en/the-clinic/facilities.md
 - src/pages/en/the-clinic/philosophy.md
+- src/pages/en/the-clinic/technology.md
 - src/pages/en/the-clinic/why-choose-us.md
 - src/pages/la-clinica/filosofia.md
 - src/pages/la-clinica/instalaciones.md
