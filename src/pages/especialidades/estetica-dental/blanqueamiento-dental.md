@@ -129,7 +129,7 @@ listGallery:
       number: 6
       title: '<h2>Fotoactivación</h2><p class="dv-div-text list">Por períodos parciales
         de 15 minutos y luz LED de espectro azul con longitudes de onda de entre 380
-        y 515 nanómetros, y potencia igual o superior a 400mW/cm2.</p>
+        y 515 nanómetros, y potencia igual o superior a 400 mW/cm2.</p>
 
 '
     - img: "/img/teeth-whitening-list-07.png"
