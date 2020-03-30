@@ -60,7 +60,7 @@ sidePanel:
       to treat dyschromias in non-vital teeth  <em>(with root canal treatment)</em>,
       since it represents a conservative and very economical intervention compared
       to other more complex procedures such as adhesive restorations, porcelain veneers
-      or ceramic crowns. </p><p class="dv-srv-pr dv-srv-pr-45">It usually involves
+      and ceramic crowns. </p><p class="dv-srv-pr dv-srv-pr-45">It usually involves
       the endodontic approach of the tooth, sealing of the root canal, application
       of bleaching solutions of the highest concentration, washing and final filling.
       Several clinical sessions are usually required to achieve the desired color.</p></div>
