@@ -137,13 +137,9 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-08.jpg"
   title: NSK CLEAN HEAD SYSTEM®
-  body: |
-    <p>
-      Equipamiento rotatorio de alta velocidad especialmente fabricado
-      para prevenir la entrada y acumulación de fluidos orales y demás
-      contaminantes, garantizando la asepsia en todo tipo de procedimiento
-      dental.
-    </p>
+  body: "<p>  Equipamiento rotatorio de alta velocidad especialmente fabricado para
+    prevenir la entrada y acumulación de fluidos orales y demás contaminantes, garantizando
+    la asepsia en todo tipo de procedimiento dental.</p>"
   icon: ''
   action: false
 - link: ''
