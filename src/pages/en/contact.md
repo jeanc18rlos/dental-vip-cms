@@ -68,8 +68,8 @@ amenities:
     info:
       image: "/img/icon-subway.png"
       text: "<p>\n  Line 1  \n  <br class=\"visible-xs visible-sm visible-md visible-lg\">\n
-        \ Chacao Station. \n  <br class=\"hidden-xs hidden-sm visible-md visible-lg\">\n
-        \ Exit Francisco de Miranda Ave./<br class=\"hidden-xs hidden-sm visible-md
+        \ Chacao Station \n  <br class=\"hidden-xs hidden-sm visible-md visible-lg\">\n
+        \ Exit: Francisco de Miranda Ave/<br class=\"hidden-xs hidden-sm visible-md
         visible-lg\">Los Maristas Street.\n</p>\n"
   - title: PARKING
     to: false
