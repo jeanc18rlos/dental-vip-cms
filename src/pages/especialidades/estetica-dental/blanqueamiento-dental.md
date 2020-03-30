@@ -62,7 +62,7 @@ sidePanel:
       tratar las discromías en piezas no vitales <em>(con tratamiento de conducto)</em>,
       ya que representa una intervención conservadora y muy económica frente a otros
       procedimientos más complejos como las restauraciones adhesivas, carillas de
-      porcelana o coronas cerámicas. </p><p class="dv-srv-pr dv-srv-pr-45">Generalmente
+      porcelana y coronas cerámicas. </p><p class="dv-srv-pr dv-srv-pr-45">Generalmente
       implica el abordaje endodóntico del diente, sellado del conducto radicular,
       aplicación de soluciones blanqueadoras de altísima concentración, lavado y obturación
       final. Suelen requerirse varias sesiones clínicas para alcanzar el color deseado.   </p></div>
