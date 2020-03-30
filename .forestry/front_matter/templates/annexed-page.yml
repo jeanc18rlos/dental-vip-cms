@@ -360,3 +360,5 @@ fields:
     - type: file
       name: img
       label: img
+pages:
+- src/pages/en/specialties/aesthetic-dentistry/teeth-whitening.md
