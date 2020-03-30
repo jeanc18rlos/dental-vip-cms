@@ -105,7 +105,7 @@ sections:
       basis for success, harmony and job satisfaction. Although the results of the
       treatment always be your main motivation, we will try to go further to exceed
       expectations, achieve your full approval and <strong>consolidate us as a reference
-      center for close friends and family.</strong></p><p class="light-font">Our Philosophy
+      center for family and close friends.</strong></p><p class="light-font">Our Philosophy
       is well reflected in our great effort <strong>to achieve good communication
       between the Dentist and the Patient.</strong> For us it is essential that you
       get to understand and reason what your dental problem is, what were its causes
