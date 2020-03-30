@@ -183,13 +183,10 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-14.jpg"
   title: SANDBLASTER
-  body: |
-    <p className="dv-text-feat">
-      Sandblasting and microabrasion technology for the internal
-          preparation of metals and ceramic restorations, adjustment and
-          settlement of crowns, optimization of proximal contacts and removal
-          of oxides and residual cements.
-    </p>
+  body: <p className="dv-text-feat">  Sandblasting and microabrasion technology for
+    the internal preparation of metals and ceramic restorations, adjustment and settlement
+    of crowns, optimization of proximal contacts and removal of oxides and residual
+    cements.</p>
   icon: ''
   action: false
 - link: ''
