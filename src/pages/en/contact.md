@@ -79,7 +79,7 @@ amenities:
       text: |
         <p>
           Multicentro Empresarial del Este Parking <br class="visible-xs visible-sm visible-md visible-lg">
-          Accesses by: <br class="hidden-xs hidden-sm visible-md visible-lg">
+          Accesses by : <br class="hidden-xs hidden-sm visible-md visible-lg">
           Francisco de Miranda Ave. <em>(east direction).</em> <br class="hidden-xs hidden-sm visible-md visible-lg">
           Libertador Ave. <em>(west direction).</em>
         </p>
