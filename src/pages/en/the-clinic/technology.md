@@ -120,13 +120,9 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-06.jpg"
   title: ERGONOMIC AND BIARTICULATED ARMCHAIRS
-  body: |
-    <p>
-      Last generation dental units with wide and enveloping anatomical
-      endorsements that provide great comfort to the patient, reduce the
-      level of stress and avoid tensions or postural discomfort during
-      treatment.
-    </p>
+  body: "<p>  Last generation dental units with wide and enveloping anatomical endorsements
+    that provide great comfort to the patient, reduce the level of stress and avoid
+    tensions or postural discomfort during treatment.</p>"
   icon: ''
   action: false
 - link: ''
