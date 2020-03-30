@@ -122,7 +122,7 @@ listGallery:
       number: 5
       title: '<h2>Aplicación del gel</h2><p class="dv-div-text list">En abundante
         cantidad y directamente sobre las superficies de las caras frontales o vestibulares
-        de los dientes, cuidando de no traspasar los limites de las barreras protectoras.</p>
+        de los dientes, cuidando de no traspasar los límites de las barreras protectoras.</p>
 
 '
     - img: "/img/teeth-whitening-list-06.png"
