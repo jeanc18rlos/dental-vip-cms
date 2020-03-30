@@ -80,10 +80,10 @@ amenities:
       image: "/img/icon-parking.png"
       text: |
         <p>
-          Estacionamiento Multicentro Empresarial del Este. <br class="visible-xs visible-sm visible-md visible-lg">
+          Estacionamiento Multicentro Empresarial del Este <br class="visible-xs visible-sm visible-md visible-lg">
           Accesos por: <br class="hidden-xs hidden-sm visible-md visible-lg">
-          Av. Francisco de Miranda (<em>sentido Este</em>) <br class="hidden-xs hidden-sm visible-md visible-lg">
-          Av. Libertador (<em>sentido Oeste</em>)
+          Av. Francisco de Miranda <em>(sentido este).</em> <br class="hidden-xs hidden-sm visible-md visible-lg">
+          Av. Libertador <em>(sentido oeste).</em>
         </p>
   - title: ZONA WI-FI
     to: false
