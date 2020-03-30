@@ -116,7 +116,7 @@ bgText:
 heading:
   display: true
   classname: section-reasons
-  title: 'DENTAL FLEX: El Mejor Plan de Financiamiento para su Salud Oral'
+  title: 'DENTAL FLEX: El Mejor Plan de Financiamiento para Su Salud Oral'
   content: '<p class="dv-subtitle-small"><span>*</span>Oferta sujeta a la previa aprobación
     de nuestra entidad financiera aliada tras el estudio de la documentación requerida
     y firma del contrato.</p>
