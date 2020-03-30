@@ -89,13 +89,10 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-02.jpg"
   title: HIGH INTENSITY LED LAMP
-  body: |
-    <p className="dv-text-feat">
-      The ZOOM Advanced Power is a cold light lamp for teeth whitening
-      that emits UV light at wavelengths close to blue (between 365-500
-      nm) and that provides energy to accelerate the diffusion and
-      oxidation of bleaching solutions within the dental structure.
-    </p>
+  body: <p className="dv-text-feat">  The ZOOM Advanced Power is a cold light lamp
+    for teeth whitening that emits UV light at wavelengths close to blue <i>(between
+    365-500 nm)</i> and that provides energy to accelerate the diffusion and oxidation
+    of bleaching solutions within the dental structure.</p>
   icon: ''
   action: false
 - link: ''
