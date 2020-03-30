@@ -162,13 +162,10 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-11.jpg"
   title: VACUUM DENTAL
-  body: |
-    <p className="dv-text-feat">
-      Máquina de vacío para el termoformado de placas miorelajantes,
-      férulas de blanqueamiento, férulas para el bruxismo, protectores
-      bucales, placas base, cubetas individuales, retenedores de
-      Ortodoncia, guías quirúrgicas y coronas provisionales.
-    </p>
+  body: <p className="dv-text-feat">  Máquina de vacío para el termoformado de placas
+    miorelajantes, férulas de blanqueamiento, férulas para el bruxismo, protectores
+    bucales, placas base, cubetas individuales, retenedores de ortodoncia, guías quirúrgicas
+    y coronas provisionales.</p>
   icon: ''
   action: false
 - link: ''
