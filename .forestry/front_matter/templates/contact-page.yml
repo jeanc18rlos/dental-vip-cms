@@ -145,3 +145,4 @@ fields:
         label: text
 pages:
 - src/pages/contacto.md
+- src/pages/en/contact.md
