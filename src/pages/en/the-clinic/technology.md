@@ -143,13 +143,9 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-09.jpg"
   title: APEX LOCATOR
-  body: |
-    <p>
-      Electronic instrument that basing on the frequency, resistance and
-      electrical impedance is able to locate the greatest apical
-      constriction of the root and determine the length of work within the
-      root canal.
-    </p>
+  body: "<p>  Electronic instrument that basing on the frequency, resistance and electrical
+    impedance is able to locate the greatest apical constriction of the root and determine
+    the length of work within the root canal.</p>"
   icon: ''
   action: false
 - link: ''
