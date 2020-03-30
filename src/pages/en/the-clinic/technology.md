@@ -174,13 +174,10 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-13.jpg"
   title: SURGICAL IMPLANT UNIT
-  body: |
-    <p className="dv-text-feat">
-      Electric motor for surgery and oral implantology designed under an
-          intuitive handling concept, with mechanized function and automatic
-          torque control that facilitate the correct conformation of the
-          surgical bed, insertion and screwing of dental implants.
-    </p>
+  body: <p className="dv-text-feat">  Electric motor for surgery and oral implantology
+    designed under an intuitive handling concept, with mechanized function and automatic
+    torque control that facilitate the correct conformation of the surgical bed, insertion
+    and screwing of dental implants.</p>
   icon: ''
   action: false
 - link: ''
