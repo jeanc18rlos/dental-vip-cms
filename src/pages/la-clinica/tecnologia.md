@@ -145,13 +145,9 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-09.jpg"
   title: LOCALIZADOR DE ÁPICES
-  body: |
-    <p>
-      Instrumento electrónico que basándose en la frecuencia, resistencia
-      e impedancia eléctrica es capaz de localizar la mayor constricción
-      apical de la raíz y determinar la longitud de trabajo dentro del
-      conducto radicular.
-    </p>
+  body: "<p>  Instrumento electrónico que basándose en la frecuencia, resistencia
+    e impedancia eléctrica es capaz de localizar la mayor constricción apical de la
+    raíz y determinar la longitud de trabajo dentro del conducto radicular.</p>"
   icon: ''
   action: false
 - link: ''
