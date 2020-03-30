@@ -191,7 +191,7 @@ elements:
   action: false
 - link: ''
   bg: "/img/gallery-technology-15.jpg"
-  title: PROGRAMAT<sup>®</sup> P310
+  title: PROGRAMAT® P310
   body: <p className="dv-text-feat">  Modern dental porcelain furnace equipped with
     varied programs of sintered and QTK2 muffle technology that guarantee a homogeneous
     distribution of heat, optimal atomic coalescence and the life cycle extension
