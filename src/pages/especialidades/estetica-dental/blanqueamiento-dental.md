@@ -34,8 +34,8 @@ sidePanel:
   - img: "/img/sections-teeth-whitening-clinic.png"
     section: '<div class="dv-sp-srv-cd"><h2 class="dv-srv-pl4 dv-pb-15em">Blanqueamiento
       dental en clínica</h2><p class="dv-srv-pl dv-srv-pl-pr">También denominado por
-      luz o fotoradiación. Se trata de un procedimento mucho más avanzado, en el que
-      una sola sesión de 45 minutos, se logran usualmente resultados notables.</p><p
+      luz o fotoactivación. Se trata de un procedimiento mucho más avanzado, en el
+      que una sola sesión de 45 minutos, se logran usualmente resultados notables.</p><p
       class="dv-srv-pl dv-srv-pl-pr">El alto grado de concentración del peróxido utilizado,
       hace pertinente proteger cuidadosamente las encías con una barrera o funda especial.
       A continuación, se aplica el gel blanqueador, cuyas propiedades se potencian
