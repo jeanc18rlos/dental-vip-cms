@@ -112,4 +112,5 @@ fields:
         name: rel
         label: rel
 pages:
+- src/pages/en/thank-you.md
 - src/pages/gracias-por-contactarnos.md
