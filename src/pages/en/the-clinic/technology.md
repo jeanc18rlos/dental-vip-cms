@@ -150,14 +150,10 @@ elements:
   action: false
 - link: ''
   bg: "/img/gallery-technology-10.jpg"
-  title: BIOSONIC® S1 ULTRASONIC SCALER
-  body: |
-    <p className="dv-text-feat">
-          Powerful piezoelectric ultrasonic             scaler that facilitates the
-          elimination of dental calculus, fillings, defective crowns and the
-          irrigation and mechanical instrumentation of root canals in
-          endodontic therapy.
-    </p>
+  title: BIOSONIC<sup>®</sup> S1 ULTRASONIC SCALER
+  body: <p className="dv-text-feat"> Powerful piezoelectric ultrasonic scaler that
+    facilitates the elimination of dental calculus, fillings, defective crowns and
+    the irrigation and mechanical instrumentation of root canals in endodontic therapy.</p>
   icon: ''
   action: false
 - link: ''
