@@ -35,7 +35,7 @@ sidePanel:
       in clinic</h2><p class="dv-srv-pl dv-srv-pl-pr">Also called by light or photoactivation.
       This is a much more advanced procedure, in which in a single 45-minute session,
       notable results are usually achieved.</p><p class="dv-srv-pl dv-srv-pl-pr">The
-      high degree of concentration of the peroxide used makes it important to carefully
+      high degree of concentration of the peroxide used, makes it important to carefully
       protect the gums with a special barrier or cover. Next, the bleaching gel is
       applied, whose properties are increased thanks to the energy supplied by a high
       intensity LED light, which allows variable adjustments to provide maximum safety
