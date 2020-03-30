@@ -54,7 +54,7 @@ heading:
   title: A Last Generation Clinical Equipment
   content: '<p class="dv-subtitle text-center">In DENTAL VIP we have the most modern
     equipments and the most advanced dental technology to offer you and your whole
-    family cutting-edge and proven quality Dental treatments.</p>
+    family cutting-edge and proven quality dental treatments.</p>
 
 '
 gallery:
