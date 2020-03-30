@@ -70,8 +70,8 @@ amenities:
       text: |
         <p>
           Línea 1 <br class="visible-xs visible-sm visible-md visible-lg">
-          Estación Chacao. <br class="hidden-xs hidden-sm visible-md visible-lg">
-          Salida Av. Francisco de Miranda Sur/Calle los <br class="hidden-xs hidden-sm visible-md visible-lg">Maristas.
+          Estación Chacao <br class="hidden-xs hidden-sm visible-md visible-lg">
+          Salida: Av. Francisco de Miranda/Calle los <br class="hidden-xs hidden-sm visible-md visible-lg">Maristas.
         </p>
   - title: PARKING
     to: false
