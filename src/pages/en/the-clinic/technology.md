@@ -128,12 +128,8 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-07.jpg"
   title: UV CURING LAMP
-  body: |
-    <p>
-      Wireless halogen light device used to polymerize photosensitive
-      plastic materials in dental restoration processes and operative
-      dentistry.
-    </p>
+  body: "<p>  Wireless halogen light device used to polymerize photosensitive plastic
+    materials in dental restoration processes and operative dentistry.</p>"
   icon: ''
   action: false
 - link: ''
