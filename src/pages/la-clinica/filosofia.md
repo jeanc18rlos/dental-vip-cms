@@ -126,7 +126,7 @@ sections:
       en el trabajo. Aunque los resultados del tratamiento sean siempre su principal
       motivación, intentaremos ir más allá para superar expectativas, lograr su entera
       aprobación y <strong>consolidarnos como centro de referencia para amigos y familiares
-      cercanos.</strong></p><p class="light-font">Nuestra filosofía bien se refleja
+      cercanos.</strong></p><p class="light-font">Nuestra Filosofía bien se refleja
       en nuestro gran esfuerzo por <strong>conseguir una buena comunicación entre
       el Odontólogo y el Paciente.</strong> Para nosotros es fundamental que Usted
       logre comprender y razonar cuál es su problema dental, cuáles fueron sus causas
