@@ -188,13 +188,10 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-14.jpg"
   title: SANDBLASTER
-  body: |
-    <p className="dv-text-feat">
-      Tecnología de arenado y microabrasión para la preparación interna de
-      metales y restauraciones cerámicas, ajuste y asentamiento de
-      coronas, optimización de contactos proximales y remoción de óxidos y
-      cementos residuales.
-    </p>
+  body: <p className="dv-text-feat">  Tecnología de arenado y microabrasión para la
+    preparación interna de metales y restauraciones cerámicas, ajuste y asentamiento
+    de coronas, optimización de contactos proximales y remoción de óxidos y cementos
+    residuales.</p>
   icon: ''
   action: false
 - link: ''
