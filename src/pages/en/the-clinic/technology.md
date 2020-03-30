@@ -159,13 +159,9 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-11.jpg"
   title: VACUUM SYSTEM
-  body: |
-    <p className="dv-text-feat">
-      Vacuum machine for the thermoforming of myo-relaxing plates,
-          whitening splints, occlusal splints for bruxism, mouth guards, base
-          plates, individual trays, orthodontic retainers, surgical guides and
-          provisional crowns.
-    </p>
+  body: <p className="dv-text-feat">  Vacuum machine for the thermoforming of myo-relaxing
+    plates, whitening splints, occlusal splints for bruxism, mouth guards, base plates,
+    individual trays, orthodontic retainers, surgical guides and provisional crowns.</p>
   icon: ''
   action: false
 - link: ''
