@@ -86,14 +86,10 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-02.jpg"
   title: Lámpara LED de Alta Intensidad
-  body: |
-    <p className="dv-text-feat">
-      La ZOOM Advanced Power es una lámpara de luz fría para
-      blanqueamiento dental que emite luz UV en longitudes de onda
-      cercanas al azul (entre 365-500 nm) y que aporta energía para
-      acelerar la difusión y oxidación de las soluciones blanqueadoras
-      dentro de la estructura dental.
-    </p>
+  body: <p className="dv-text-feat">  La ZOOM Advanced Power es una lámpara de luz
+    fría para blanqueamiento dental que emite luz UV en longitudes de onda cercanas
+    al azul <i>(entre 365-500 nm)</i> y que aporta energía para acelerar la difusión
+    y oxidación de las soluciones blanqueadoras dentro de la estructura dental.</p>
   icon: ''
   action: false
 - link: ''
