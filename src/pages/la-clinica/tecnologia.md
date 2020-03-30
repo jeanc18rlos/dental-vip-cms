@@ -113,13 +113,9 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-05.jpg"
   title: CÁMARA INTRAORAL
-  body: |
-    <p>
-      Captura y almacena imágenes digitales de alta resolución que
-      permiten apreciar con detalle la condición oral inicial del
-      paciente, diseñar la sonrisa, comparar y evaluar los resultados
-      finales del tratamiento odontoestético.
-    </p>
+  body: "<p>  Captura y almacena imágenes digitales de alta resolución que permiten
+    apreciar con detalle la condición oral inicial del paciente, diseñar la sonrisa,
+    comparar y evaluar los resultados finales del tratamiento odontoestético.</p>"
   icon: ''
   action: false
 - link: ''
