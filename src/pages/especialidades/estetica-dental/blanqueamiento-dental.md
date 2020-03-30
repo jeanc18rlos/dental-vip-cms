@@ -228,13 +228,13 @@ paragraphSection:
     <p class="dv-div-text dv-pb-15">Indudablemente, el principal beneficio es la satisfacción
     personal de tener una dentición más atractiva que le permitan al paciente sentirse
     cómodo y agradado con su sonrisa, seguro de sí mismo y mejor valorado por la sociedad.
-    Además, es irrefutable que unos dientes blancos y pulcros proyectan de inmediato
-    una apariencia de buena higiene y cuidado personal.</p><p class="dv-div-text dv-pb-15">Sin
-    embargo, los factores estéticos y psicológicos no son las únicas ventajas, ya
-    que numerosos estudios han demostrado los efectos del peróxido de carbamida como
-    antiséptico oral y su importante acción en la reducción de los índices de placa
-    y enfermedad periodontal; promoviendo considerablemente la salud de dientes y
-    encías.</p> <img src="https://dentalvip.com.ve/wp-content/uploads/2018/09/zoom-logo.jpg"
+    Además, es irrefutable el hecho de que unos dientes blancos y pulcros proyectan
+    de inmediato una apariencia de buena higiene y cuidado personal.</p><p class="dv-div-text
+    dv-pb-15">Sin embargo, los factores estéticos y psicológicos no son las únicas
+    ventajas, ya que numerosos estudios han demostrado los efectos del peróxido de
+    carbamida como antiséptico oral y su importante acción en la reducción de los
+    índices de placa y enfermedad periodontal; promoviendo considerablemente la salud
+    de dientes y encías.</p> <img src="https://dentalvip.com.ve/wp-content/uploads/2018/09/zoom-logo.jpg"
     alt="¡Máxima adhesión y resistencia!" class="dv-logo-sp dv-pt-60 dv-logo-brand-mobile">
 
 '
