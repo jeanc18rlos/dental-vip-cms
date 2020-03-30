@@ -95,13 +95,9 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-03.jpg"
   title: CAD-CAM SYSTEM
-  body: |
-    <p>
-      Computerized technology that allows 3D scanning, digitalization and
-      data transfer to software that designs and manufactures any type of
-      fixed ceramic restoration through the activation and control of a
-      robotic milling system.
-    </p>
+  body: "<p>  Computerized technology that allows 3D scanning, digitalization and
+    data transfer to software that designs and manufactures any type of fixed ceramic
+    restoration through the activation and control of a robotic milling system.</p>"
   icon: ''
   action: false
 - link: ''
