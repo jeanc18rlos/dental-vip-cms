@@ -92,9 +92,9 @@ listGallery:
     - img: "/img/teeth-whitening-list-01.png"
       number: 1
       title: '<h2>Registro del color inicial</h2><p class="dv-div-text list">Se debe
-        realizar de forma visual y siempre bajo una fuente de luz natural, si la presencia
-        de pintura de labuios y con la ayuda de una guía estandarizada de al menos
-        15 tonos.</p>
+        realizar de forma visual y siempre bajo una fuente de luz natural, sin la
+        presencia de pintura de labios y con la ayuda de una guía estandarizada de
+        al menos 15 tonos.</p>
 
 '
     - img: "/img/teeth-whitening-list-02.png"
