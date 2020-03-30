@@ -143,3 +143,5 @@ fields:
       - type: textarea
         name: text
         label: text
+pages:
+- src/pages/contacto.md
