@@ -134,7 +134,7 @@ elements:
   action: false
 - link: ''
   bg: "/img/gallery-technology-08.jpg"
-  title: NSK CLEAN HEAD SYSTEM<sup>®</sup>
+  title: NSK CLEAN HEAD SYSTEM®
   body: "<p>  High speed rotary equipment specially manufactured to prevent the entry
     and accumulation of oral fluids and other contaminants, guaranteeing asepsis in
     all types of dental procedures.</p>"
