@@ -78,13 +78,9 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-01.jpg"
   title: Láser Dental
-  body: |
-    <p>
-      El láser de diodo EPIC™ es un dispositivo quirúrgico y terapéutico de
-      vanguardia, concebido para realizar una amplia variedad de
-      procedimientos en tejidos blandos, blanqueamiento dental y alivio
-      temporal del dolor.
-    </p>
+  body: "<p>  El láser de diodo EPIC™ es un dispositivo quirúrgico y terapéutico de
+    vanguardia, concebido para realizar una amplia variedad de procedimientos en tejidos
+    blandos, blanqueamiento dental y alivio temporal del dolor.</p>"
   icon: ''
   action: false
 - link: ''
