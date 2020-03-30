@@ -108,7 +108,7 @@ listGallery:
       number: 3
       title: '<h2>Barrera gingival</h2><p class="dv-div-text list">Colocación de una
         capa de resina poliacrílica que protege las encías y tejidos blandos de quemaduras
-        químicas y lesiones caústicas durante el procedimiento.</p>
+        químicas y lesiones cáusticas durante el procedimiento.</p>
 
 '
     - img: "/img/teeth-whitening-list-04.png"
