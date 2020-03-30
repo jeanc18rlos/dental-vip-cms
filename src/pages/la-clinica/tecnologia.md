@@ -104,13 +104,10 @@ elements:
 - link: ''
   bg: "/img/gallery-technology-04.jpg"
   title: RADIOVISIÓGRAFO KODAK RVG 5100
-  body: |
-    <p>
-      Radiología digital computarizada que minimiza la generación de Rx y
-      proporciona imágenes instantáneas de alta definición con más de 20
-      pares de líneas visibles por milímetro, ampliando así las
-      capacidades técnicas de diagnóstico y evaluación clínica.
-    </p>
+  body: "<p>  Radiología digital computarizada que minimiza la generación de rayos
+    X y proporciona imágenes instantáneas de alta definición con más de 20 pares de
+    líneas visibles por milímetro, ampliando así las capacidades técnicas de diagnóstico
+    y evaluación clínica.</p>"
   icon: ''
   action: false
 - link: ''
