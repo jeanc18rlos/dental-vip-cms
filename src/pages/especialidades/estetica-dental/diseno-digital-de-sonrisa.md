@@ -236,7 +236,7 @@ procedures:
   - title: Prótesis sobre implantes
     to: "/especialidades/implantes-dentales/protesis-sobre-implantes/"
     img: "/img/procedures-dental-implants.jpg"
-  - title: Técnologia cad-cam
+  - title: Tecnología cad-cam
     to: "/especialidades/protesis/tecnologia-cad-cam/"
     img: "/img/procedures-cad-cam.jpg"
   - title: Brackets Estéticos
