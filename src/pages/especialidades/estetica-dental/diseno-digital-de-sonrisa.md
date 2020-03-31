@@ -67,7 +67,7 @@ slogan:
     to: ''
     text: ''
   img: "/img/slogan-teeth.jpg"
-  title: "¡Ahora podrá Ver el Resultado Final Antes de Iniciar su Tratamiento!"
+  title: "¡Ahora Podrá Ver el Resultado Final Antes de Iniciar Su Tratamiento!"
   description: Definitivamente, el Diseño de Sonrisa revolucionó para siempre el estudio
     y ejercicio clínico de la Odontología Estética.
 steps:
