@@ -17,7 +17,7 @@ heading:
   classname: section-reasons bebas-title
   title: PORCELAIN VENEERS
   content: '<p class="dv-subtitle text-center">Veneers or porcelain facets are thin
-    ceramic sheets between 0.8 and 1.5 mm of thickness that, adhered to the front
+    ceramic sheets between 0.8 and 1.5 mm. of thickness that, adhered to the front
     surface of the teeth, are capable of completely modifying their shape, texture,
     color and size.</p>
 
