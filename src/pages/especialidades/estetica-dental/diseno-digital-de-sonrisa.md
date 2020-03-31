@@ -27,7 +27,7 @@ sidePanel:
   - img: "/img/sections-dds-shoot.jpg"
     section: '<div class="dv-sp-srv-cd"><h2 class="dv-srv-pr dv-srv-pr-45">Captura
       de imágenes</h2><p class="dv-srv-pr dv-srv-pr-45">Estamos plenamente convencidos
-      de que la fotografía clínica es para la Estética dental lo que la radiografía
+      de que la fotografía clínica es para la Estética Dental lo que la radiografía
       es para la Odontología en general. "Una imagen dice más que mil palabras" y
       "una fotografía muestra más de mil detalles".</p><p class="dv-srv-pr dv-srv-pr-45">Nos
       valemos de una cámara reflex digital para registrar la boca y la cara del paciente
