@@ -135,7 +135,7 @@ listGallery:
 
 '
   - sections:
-    - img: "/img/b&a-5.jpg"
+    - img: "/img/porcelain-veneers-5.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Coronary
         fractures</p>
