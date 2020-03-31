@@ -114,49 +114,49 @@ listGallery:
     - img: "/img/porcelain-veneers-1.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Diastemas
-        or interdental spaces</p>
+        or interdental spaces.</p>
 
 '
     - img: "/img/porcelain-veneers-2.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Pigmentations
-        or irreversible stains</p>
+        or irreversible stains.</p>
 
 '
     - img: "/img/porcelain-veneers-3.jpg"
       number: 1
-      title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Mild malpositions</p>
+      title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Mild malpositions.</p>
 
 '
     - img: "/img/porcelain-veneers-4.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Black triangles
-        or gingival embrasures</p>
+        or gingival embrasures.</p>
 
 '
   - sections:
     - img: "/img/porcelain-veneers-5.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Coronary
-        fractures</p>
+        fractures.</p>
 
 '
     - img: "/img/porcelain-veneers-6.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Alterations
-        in shape, color and size</p>
+        in shape, color and size.</p>
 
 '
     - img: "/img/porcelain-veneers-7.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Old or
-        defective restorations</p>
+        defective restorations.</p>
 
 '
     - img: "/img/porcelain-veneers-8-1.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Need for
-        permanent bleaching</p>
+        permanent bleaching.</p>
 
 '
 implantTypes:
