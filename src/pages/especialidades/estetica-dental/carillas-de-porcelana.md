@@ -82,11 +82,11 @@ blockGallery:
       o bien, con un espesor de cerámica insuficiente, débil, con alto riesgo de fractura
       e incapaz de enmascarar el defecto estético de fondo. </p>"
   - img: "/img/gallery-blocks-dds-lasting.jpg"
-    title: "<h1> ¿Cuántos años durarán mis carillas? </h1>\n"
-    desc: "<p >Aunque la longevidad de la cerámica IPS e.max® va siempre a depender
-      de múltiples factores como higiene oral, cumplimiento de chequeos periódicos
-      y control de hábitos oclusales, entre otros; estimamos que entre 10 y 15 años
-      será el tiempo de vida útil para la gran mayoría de nuestros diseños.</p>\n"
+    title: "<h1> ¿Cuántos años durarán mis carillas? </h1>"
+    desc: "<p >Aunque la longevidad de la cerámica IPS e.max<sup>®</sup> va siempre
+      a depender de múltiples factores como higiene oral, cumplimiento de chequeos
+      periódicos y control de hábitos oclusales, entre otros; estimamos que entre
+      10 y 15 años será el tiempo de vida útil para la gran mayoría de nuestros diseños.</p>"
 paragraph:
   display: false
   image: "/img/slogan-teeth.jpg"
