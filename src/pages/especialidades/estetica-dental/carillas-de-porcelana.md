@@ -80,7 +80,7 @@ blockGallery:
     desc: "<p> En el 85% de los casos será indispensable hacer un pequeño desgaste.
       De lo contrario, se generaría una restauración con sobrecontorno inaceptable,
       o bien, con un espesor de cerámica insuficiente, débil, con alto riesgo de fractura
-      e incapaz de enmascarar el defecto estético de fondo </p>\n"
+      e incapaz de enmascarar el defecto estético de fondo. </p>"
   - img: "/img/gallery-blocks-dds-lasting.jpg"
     title: "<h1> ¿Cuántos años durarán mis carillas? </h1>\n"
     desc: "<p >Aunque la longevidad de la cerámica IPS e.max® va siempre a depender
