@@ -82,11 +82,11 @@ blockGallery:
       ceramic´s thickness, weak, with high risk of fracture and unable to mask the
       aesthetic background defect.</p>\n"
   - img: "/img/gallery-blocks-dds-lasting.jpg"
-    title: "<h1> How many years will my veneers last? </h1>\n"
-    desc: "<p >Although the longevity of IPS e.max® ceramic will always depend on
-      multiple factors such as oral hygiene, compliance with periodic checkups and
-      control of occlusal habits, among others; we estimate that between 10 and 15
-      years will be the lifespan for the vast majority of our designs.</p>\n"
+    title: "<h1> How many years will my veneers last? </h1>"
+    desc: "<p >Although the longevity of IPS e.max<sup>®</sup> ceramic will always
+      depend on multiple factors such as oral hygiene, compliance with periodic checkups
+      and control of occlusal habits, among others; we estimate that between 10 and
+      15 years will be the lifespan for the vast majority of our designs.</p>"
 paragraph:
   display: false
   image: "/img/slogan-teeth.jpg"
