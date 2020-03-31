@@ -196,7 +196,7 @@ paragraphSection:
     class="icon-check circle"></i>Promotes the active and decisive participation of
     the patient in his treatment.</p> <p class="dv-div-text list"><i class="icon-check
     circle"></i>It allows us to experiment with different shapes, sizes and colors
-    of teeth, before choosing the definitive ones. </p> <p class="dv-div-text list"><i
+    of teeth; before choosing the definitive ones. </p> <p class="dv-div-text list"><i
     class="icon-check circle"></i>It facilitates communication and interaction between
     our team of Dentists. </p> <p class="dv-div-text list"><i class="icon-check circle"></i>It
     makes possible the transmission of exact graphic indications to the dental technician.
