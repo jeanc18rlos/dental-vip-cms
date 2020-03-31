@@ -7,7 +7,7 @@ published: true
 hero:
   display: true
   type: default
-  image: "/img/hero-digital-smile-design.jpg"
+  image: "/img/hero-digital-smile-design-en.jpg"
   parallax: false
   title: "''\n"
   indicator: false
