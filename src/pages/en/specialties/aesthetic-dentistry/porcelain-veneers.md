@@ -147,7 +147,7 @@ listGallery:
         in shape, color and size</p>
 
 '
-    - img: "/img/b&a-7.jpg"
+    - img: "/img/porcelain-veneers-7.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Old or
         defective restorations</p>
