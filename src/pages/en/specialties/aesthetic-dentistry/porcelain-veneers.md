@@ -153,7 +153,7 @@ listGallery:
         defective restorations</p>
 
 '
-    - img: "/img/b&a-8.jpg"
+    - img: "/img/porcelain-veneers-8-1.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Need for
         permanent bleaching</p>
