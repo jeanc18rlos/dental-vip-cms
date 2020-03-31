@@ -128,7 +128,7 @@ listGallery:
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Mild malpositions</p>
 
 '
-    - img: "/img/b&a-4.jpg"
+    - img: "/img/porcelain-veneers-4.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Black triangles
         or gingival embrasures</p>
