@@ -145,16 +145,14 @@ dds:
     a Smile</h2>
 
 '
-  description: 'It is unquestionable that to enhance the beauty of a person we must
-    always seek harmony between his face, his facial features and the shape of his
+  description: It is unquestionable that to enhance the beauty of a person we must
+    always seek harmony between his visage, his facial features and the shape of his
     teeth. But with the technique of Visagism we go even so further and seek to project
-    the patient''s personality through the geometric pattern of his smile. Today we
+    the patient's personality through the geometric pattern of his smile. Today we
     know that our unconscious and emotional understanding tends to associate oval
     shapes with sensitive and melancholic characters, triangular shapes with dynamic
     and extroverted people, rectangular ones with strong and dominant temperaments
     and square ones with serious and discrete individuals.
-
-'
   sections:
   - img: "/img/dds-custom-block-oval.png"
     description: '<p class="dv-div-text">DOMINANT CENTRALS</p> <p class="dv-div-text">ROUNDED
