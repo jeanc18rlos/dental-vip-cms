@@ -123,7 +123,7 @@ listGallery:
         or irreversible stains</p>
 
 '
-    - img: "/img/b&a-3.jpg"
+    - img: "/img/porcelain-veneers-3.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Mild malpositions</p>
 
