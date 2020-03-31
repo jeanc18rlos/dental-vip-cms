@@ -208,7 +208,7 @@ procedures:
   - title: Rehabilitación Oral
     to: "/especialidades/protesis/"
     img: "/img/procedures-rehabilitation.jpg"
-  - title: Técnologia cad-cam
+  - title: Tecnología cad-cam
     to: "/especialidades/protesis/tecnologia-cad-cam/"
     img: "/img/procedures-cad-cam.jpg"
   - title: Prótesis sobre implantes
