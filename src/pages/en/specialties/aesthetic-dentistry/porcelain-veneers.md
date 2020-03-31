@@ -106,7 +106,7 @@ listGallery:
   title: "<h1>When are they indicated?</h1>\n"
   desc: '<p class="dv-div-text text-center dv-mb-83">In the presence of aesthetic
     anomalies that compromise the appearance of the person. Below we present various
-    clinical conditions susceptible to this type of dental restoration:</p>
+    <br>  clinical conditions susceptible to this type of dental restoration:</p>
 
 '
   blocks:
