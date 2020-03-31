@@ -206,7 +206,7 @@ paragraphSection:
     class="icon-check circle"></i>Promueve la activa y determinante participación
     del paciente en su tratamiento.</p> <p class="dv-div-text list"><i class="icon-check
     circle"></i>Nos permite experimentar con diferentes formas, tamaños y colores
-    de dientes, antes de elegir los definitivos.</p> <p class="dv-div-text list"><i
+    de dientes; antes de elegir los definitivos.</p> <p class="dv-div-text list"><i
     class="icon-check circle"></i>Facilita la comunicación e interacción entre nuestro
     equipo de Odontólogos.</p> <p class="dv-div-text list"><i class="icon-check circle"></i>Hace
     posible la transmisión de indicaciones gráficas exactas al técnico dental.</p>
