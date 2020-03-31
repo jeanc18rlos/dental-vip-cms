@@ -169,7 +169,7 @@ dds:
       AXES</p>
 
 '
-  - img: "/img/dds-custom-block-cuadradra.png"
+  - img: "/img/dsd-custom-block-square.png"
     description: '<p class="dv-div-text">ABSENCE OF DOMINANCE</p> <p class="dv-div-text">DIVERGENT
       AXES</p> <p class="dv-div-text">HORIZONTAL LAYOUT</p>
 
