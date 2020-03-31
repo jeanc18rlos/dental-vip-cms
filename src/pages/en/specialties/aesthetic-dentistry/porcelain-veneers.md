@@ -117,7 +117,7 @@ listGallery:
         or interdental spaces</p>
 
 '
-    - img: "/img/b&a-2.jpg"
+    - img: "/img/porcelain-veneers-2.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Pigmentations
         or irreversible stains</p>
