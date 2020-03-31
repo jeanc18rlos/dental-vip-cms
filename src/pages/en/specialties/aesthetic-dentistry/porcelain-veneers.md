@@ -141,7 +141,7 @@ listGallery:
         fractures</p>
 
 '
-    - img: "/img/b&a-6.jpg"
+    - img: "/img/porcelain-veneers-6.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Alterations
         in shape, color and size</p>
