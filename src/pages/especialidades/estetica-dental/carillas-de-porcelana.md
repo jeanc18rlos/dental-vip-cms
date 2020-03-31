@@ -114,50 +114,50 @@ listGallery:
     - img: "/img/b&a-1.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Diastemas
-        o separaciones interdentales</p>
+        o separaciones interdentales.</p>
 
 '
     - img: "/img/b&a-2.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Manchas
-        o tinciones irreversibles</p>
+        o tinciones irreversibles.</p>
 
 '
     - img: "/img/b&a-3.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Malposición
-        leve</p>
+        leve.</p>
 
 '
     - img: "/img/b&a-4.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Triángulos
-        negros o troneras gingivales</p>
+        negros o troneras gingivales.</p>
 
 '
   - sections:
     - img: "/img/b&a-5.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Fracturas
-        coronarias</p>
+        coronarias.</p>
 
 '
     - img: "/img/b&a-6.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Alteraciones
-        de forma, color y tamaño</p>
+        de forma, color y tamaño.</p>
 
 '
     - img: "/img/b&a-7.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Restauraciones
-        antiguas o defectuosas</p>
+        antiguas o defectuosas.</p>
 
 '
     - img: "/img/b&a-8.jpg"
       number: 1
       title: '<p class="dv-div-text list"><i class="icon-check circle"></i>Necesidad
-        de blanqueamiento permanente</p>
+        de blanqueamiento permanente.</p>
 
 '
 implantTypes:
