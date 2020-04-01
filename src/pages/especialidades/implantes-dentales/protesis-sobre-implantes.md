@@ -219,7 +219,7 @@ procedures:
   - title: Diagnóstico y Planificación 3D
     to: "/especialidades/implantes-dentales/diagnostico-y-planificacion-3d/"
     img: "/img/procedures-diagnostic.jpg"
-  - title: Técnologia cad-cam
+  - title: Tecnología cad-cam
     to: "/especialidades/protesis/tecnologia-cad-cam/"
     img: "/img/procedures-cad-cam.jpg"
   - title: Diseño digital de sonrisa
