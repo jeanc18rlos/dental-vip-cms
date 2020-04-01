@@ -137,15 +137,13 @@ paragraph:
   desc:
     display: true
     title: Occlusal balance
-    text: 'Without fear of being wrong, we can affirm that the occlusion we give to
+    text: Without fear of being wrong, we can affirm that the occlusion we give to
       an implant-supported restoration, especially if it is fixed, will represent
       its life insurance. The implant does not have mechanisms or "fuse" sensors that
-      allow it, in the event of an overload, to emit an alarm signal, as is the case
+      allow it, in the event of an overload, to emit an alarm signal; as is the case
       with a natural tooth through the proprioceptive elements contained in its periodontium.
       Hence the importance of achieving a perfect occlusion or bite in all restorative
       treatments on osseointegrated implants.
-
-'
   blocks:
   - title: Impression making
     text: It is the procedure that allows us to register, copy and reproduce in negative
