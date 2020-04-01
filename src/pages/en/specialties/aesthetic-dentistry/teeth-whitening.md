@@ -82,7 +82,7 @@ listGallery:
   title: "<h1>Your Teeth + White in Just 8 Steps:</h1>"
   desc: '<p class="dv-div-text text-center dv-m83">Previous dental prophylaxis and
     polishing of the enamel with rubber cones and ultrafine grain pastes, will be
-    very few the steps <br> tha will separate you from a beautiful and radiant appearance:</p>
+    very few the steps <br> that will separate you from a beautiful and radiant appearance:</p>
 
 '
   blocks:
