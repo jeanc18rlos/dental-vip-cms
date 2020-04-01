@@ -123,7 +123,7 @@ paragraph:
   - title: Because we want to satisfy all your expectations!
     text: Beautiful, radiant and natural smiles at any age. In recent years, the use
       of aesthetic appliances has significantly increased the acceptance and satisfaction
-      rates in all our orthodontic treatments.
+      rates of all our orthodontic treatments.
 blockGallery:
   img:
     display: false
