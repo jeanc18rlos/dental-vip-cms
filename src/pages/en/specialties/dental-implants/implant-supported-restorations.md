@@ -122,7 +122,7 @@ implantTypes:
 
 '
     desc: '<p class="dv-srv-pr">Snap on denture is a total prosthesis of acrylic resin,
-      removable and that is anchored on 2, 3 or 4 implants. It is also known as "lace
+      removable and that is anchored on 2, 3 or 4 implants. It is also known as "fit
       denture" because it is based on a male and female system for insertion and removal.
       The fact of being able to be removed by the patient considerably facilitates
       the process of oral hygiene, and although it is removable, the implants provide
