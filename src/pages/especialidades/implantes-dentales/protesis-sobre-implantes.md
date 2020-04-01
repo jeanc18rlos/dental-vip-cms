@@ -148,11 +148,12 @@ paragraph:
 
 '
   blocks:
-  - title: Montaje del caso y encerado diagnóstico
-    text: Su objetivo es intentar reproducir el resultado final de la futura prótesis.
-      Con él, el Especialista en Prostodoncia podrá determinar el número y posición
-      exacta de los implantes requeridos y confeccionará una guía plástica termoformada
-      para el momento de la cirugía.
+  - title: Toma de impresión
+    text: Es el procedimiento que nos permite registrar, copiar y reproducir en negativo
+      y con exactitud las infra y mesoestructuras artificiales con el objetivo de
+      obtener el modelo de trabajo para la confección de la prótesis definitiva. Para
+      rehabilitar implantes manejamos el concepto de transferencia y materiales elastoméricos
+      como las siliconas por adición.
   - title: Intervención guiada con férula quirúrgica
     text: La férula o guía quirúrgica es un prototipo, un dispositivo físico que orienta
       al Cirujano durante el acto de implantación, permitiéndole colocar cada elemento
