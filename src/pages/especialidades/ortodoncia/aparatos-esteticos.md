@@ -132,14 +132,14 @@ blockGallery:
   display: true
   blocks:
   - img: "/img/gallery-blocks-ceramic-brackets.jpg"
-    title: <h1 class="top-title">Brackets cerámicos</h1>
+    title: <h1 class="top-title">Brackets Cerámicos</h1>
     desc: '<p  class="top-title">Son los brackets estéticos más utilizados y económicos
       del mercado. Los aparatos de Porcelana son reproducciones exactas de los brackets
       metálicos tradicionales, pero de un color similar al de los dientes. </p>
 
 '
   - img: "/img/gallery-blocks-shappire-brackets.jpg"
-    title: <h1 class="top-title"> Brackets de zafiro </h1>
+    title: <h1 class="top-title"> Brackets de Zafiro </h1>
     desc: '<p  class="top-title">Estos brackets son prácticamente invisibles, ya que
       son fabricados con el Cristal de Zafiro, un elemento transparente y brillante
       que combinado con otros minerales se hace muy resistente.</p>
