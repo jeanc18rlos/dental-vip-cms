@@ -39,7 +39,7 @@ sidePanel:
         <div class="row"><i class="icon-check circle col-md-2"></i><p class="dv-srv-pr dv-npl col-md-10">Scanned with the patient in sitting posture. </p></div>
         <div class="row"><i class="icon-check circle col-md-2"></i><p class="dv-srv-pr dv-npl col-md-10">Open tomograph that provides great comfort, avoiding feelings of confinement or claustrophobia. </p></div>
         <div class="row"><i class="icon-check circle col-md-2"></i><p class="dv-srv-pr dv-npl col-md-10">Information in DICOM format that allows, through special software, a unique procedure of visualization and therapeutic planning.</p></div>
-        <div class="row"><i class="icon-check circle col-md-2"></i><p class="dv-srv-pr dv-npl col-md-10">Reasonable cost.</p></div><img src="https://dentalvip.com.ve/wp-content/uploads/2018/09/impl-img7.jpg" alt="Logo" class="dv-sp-log"></div>
+        <img src="https://dentalvip.com.ve/wp-content/uploads/2018/09/impl-img7.jpg" alt="Logo" class="dv-sp-log"></div>
 slogan:
   link:
     display: false
