@@ -45,7 +45,7 @@ slogan:
   img: "/img/slogan-teeth.jpg"
   title: Diseñamos Su Sonrisa con Tecnología Computarizada CAD-CAM
   description: Nuestro equipo de Técnicos Dentales cuenta con más de 20 años de experiencia
-    en restauraciones Implantoasistidas.
+    en Restauraciones Implantoasistidas.
 listGallery:
   position: top
   type: column
