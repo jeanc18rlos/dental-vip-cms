@@ -43,7 +43,7 @@ slogan:
     to: "/especialidades/estetica-dental/diseno-digital-de-sonrisa/"
     text: Más Información
   img: "/img/slogan-teeth.jpg"
-  title: Diseñamos su Sonrisa con Tecnología Computarizada CAD-CAM
+  title: Diseñamos Su Sonrisa con Tecnología Computarizada CAD-CAM
   description: Nuestro equipo de Técnicos Dentales cuenta con más de 20 años de experiencia
     en restauraciones Implantoasistidas.
 listGallery:
