@@ -138,15 +138,13 @@ paragraph:
   desc:
     display: true
     title: Equilibrio oclusal
-    text: 'Sin temor a equivocarnos podemos afirmar que la oclusión que le procuremos
+    text: Sin temor a equivocarnos, podemos afirmar que la oclusión que le procuremos
       a una restauración implantosoportada, sobre todo si es fija, representará su
       seguro de vida. El implante no posee mecanismos o sensores "fusibles" que le
       permitan, ante una sobrecarga, emitir una señal de alarma, tal y como sucede
       con un diente natural a través de los elementos propioceptores contenidos en
       su periodonto. De allí la importancia de lograr una perfecta oclusión o mordida
       en todos los tratamientos restauradores sobre implantes oseointegrados.
-
-'
   blocks:
   - title: Toma de impresión
     text: Es el procedimiento que nos permite registrar, copiar y reproducir en negativo
