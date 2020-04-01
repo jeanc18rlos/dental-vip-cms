@@ -154,10 +154,11 @@ paragraph:
       obtener el modelo de trabajo para la confección de la prótesis definitiva. Para
       rehabilitar implantes manejamos el concepto de transferencia y materiales elastoméricos
       como las siliconas por adición.
-  - title: Intervención guiada con férula quirúrgica
-    text: La férula o guía quirúrgica es un prototipo, un dispositivo físico que orienta
-      al Cirujano durante el acto de implantación, permitiéndole colocar cada elemento
-      según lo dispuesto, con precisión espacial milimétrica e inclinación axial adecuada.
+  - title: "¿Prótesis atornillada o cementada?"
+    text: Depende del caso. Cada una tiene sus indicaciones y utilidades específicas.
+      Sin embargo, la aparición de nuevos cementos especiales para uso implantológico
+      va dando como resultado que, poco a poco, las prótesis cementadas vayan ganando
+      terreno en la selección.
 steps:
   display: false
   blocks:
