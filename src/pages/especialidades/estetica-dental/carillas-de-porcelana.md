@@ -39,7 +39,7 @@ slogan:
     to: ''
     text: ''
   img: "/img/slogan-teeth.jpg"
-  title: "¡10 Días nos serán Suficientes para Transformar su Vida!"
+  title: "¡10 Días nos serán Suficientes para Transformar Su Vida!"
   description: Visítenos y en solo 3 o 4 sesiones de trabajo podremos diseñar y crear
     esa sonrisa que siempre ha soñado.
 steps:
