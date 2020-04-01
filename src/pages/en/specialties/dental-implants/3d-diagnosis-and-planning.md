@@ -149,8 +149,8 @@ paragraphSection:
     to detect anatomical structures, evaluate the morphology, quantity and bone quality,
     make accurate measurements of the alveolar ridge in width, height and depth, determine
     if a bone graft or a maxillary sinus lift is necessary, make surgical guides,
-    select the size and model of implants, optimize their location and minimize surgical
-    risks. <br><br><br><img src="https://dentalvip.com.ve/wp-content/uploads/2018/09/impl-img10.jpg"
+    select the size and model of implants, optimize their location and reduce to the
+    minimum the surgical risks. <br><br><br><img src="https://dentalvip.com.ve/wp-content/uploads/2018/09/impl-img10.jpg"
     alt="Logo" class="dv-sp-log"></p>
 
 '
