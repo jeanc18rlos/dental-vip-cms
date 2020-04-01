@@ -191,7 +191,7 @@ procedures:
   - title: Diseño digital de sonrisa
     to: "/especialidades/estetica-dental/diseno-digital-de-sonrisa/"
     img: "/img/procedures-design.jpg"
-  - title: Técnologia cad-cam
+  - title: Tecnología cad-cam
     to: "/especialidades/protesis/tecnologia-cad-cam/"
     img: "/img/procedures-cad-cam.jpg"
   - title: Carillas de porcelana
