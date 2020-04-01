@@ -200,9 +200,9 @@ paragraphSection:
     that establishes the structural connection between the implant and the prosthesis.
     It is screwed into the implant, and then over it, the restoration is cemented
     or screwed too. It can be prefabricated or made to measure by a process of metal
-    casting. A transfer or impression coping device and an analog or implant´s replica
-    are also generally required to be able to successfully carry out the laboratory
-    process. <br><br><br> <img src="https://dentalvip.com.ve/wp-content/uploads/2018/09/transfer-analog-img.jpg"
+    casting.</p><p class="dv-div-text text-right">A transfer or impression coping
+    device and an analog or implant´s replica are also generally required to be able
+    to successfully carry out the laboratory process. <br><br><br> <img src="https://dentalvip.com.ve/wp-content/uploads/2018/09/transfer-analog-img.jpg"
     alt="Logo" class="dv-sp-log center-block dv-mtop-psi">    </p>
 
 '
