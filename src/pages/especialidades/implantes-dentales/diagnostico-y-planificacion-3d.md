@@ -50,7 +50,7 @@ sidePanel:
         <div class="row"><i class="icon-check circle col-md-2"></i><p class="dv-srv-pr dv-npl col-md-10">Escaneado con el paciente en postura sentada.</p></div>
         <div class="row"><i class="icon-check circle col-md-2"></i><p class="dv-srv-pr dv-npl col-md-10">Tomógrafo abierto que proporciona gran comodidad, evitando sensaciones de encierro o claustrofobia.</p></div>
         <div class="row"><i class="icon-check circle col-md-2"></i><p class="dv-srv-pr dv-npl col-md-10">Información en formato DICOM que permite, a través de un software especial, un procedimiento único de visualización y planificación terapéutica.</p></div>
-        <div class="row"><i class="icon-check circle col-md-2"></i><p class="dv-srv-pr dv-npl col-md-10">Coste razonable.</p></div><img src="https://dentalvip.com.ve/wp-content/uploads/2018/09/impl-img7.jpg" alt="Logo" class="dv-sp-log"></div>
+        <img src="https://dentalvip.com.ve/wp-content/uploads/2018/09/impl-img7.jpg" alt="Logo" class="dv-sp-log"></div>
 slogan:
   link:
     display: false
