@@ -133,11 +133,9 @@ blockGallery:
   blocks:
   - img: "/img/gallery-blocks-ceramic-brackets.jpg"
     title: <h1 class="top-title">Ceramic Brackets</h1>
-    desc: '<p  class="top-title">They are the most used and economical aesthetic brackets
-      on the market. Porcelain appliances are exact reproductions of traditional metal
+    desc: <p  class="top-title">They are the most used and economical aesthetic brackets
+      on the market. Porcelain Appliances are exact reproductions of traditional metal
       brackets, but of a color similar to that of teeth.</p>
-
-'
   - img: "/img/gallery-blocks-shappire-brackets.jpg"
     title: <h1 class="top-title"> Sapphire Brackets</h1>
     desc: '<p  class="top-title">These braces are practically invisible, since they
