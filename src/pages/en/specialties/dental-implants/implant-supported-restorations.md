@@ -103,7 +103,7 @@ implantTypes:
       maxillary bone bases.</p>
 
 '
-    icon: "/img/icon-teeth-implants.jpg"
+    icon: "/img/icon-full-arch-rehabilitation.png"
   - img: "/img/implant-types-hybrid-prosthesis.jpg"
     title: '<h2 class="dv-div-title">Hybrid prosthesis</h2>
 
