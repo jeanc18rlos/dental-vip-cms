@@ -183,7 +183,7 @@ paragraphSection:
     class="dv-div-text dv-pb-15">We always entrust our work to the cementing agents
     of the 3M multinational. <strong>RelyX™ Ultimate </strong>is an innovative adhesive
     resin cement and dual polymerization that was developed thinking exclusively about
-    the own needs of vitreous ceramics, and that consequently guarantees us an excellent
+    the own needs of vitreous ceramics, and that consequently, guarantees us an excellent
     clinical performance. </p> <p class="dv-div-text dv-pb-15">Thanks to this new
     system, our patients can always be calm, confident and proud of their new smile.</p>
     <img src="https://dentalvip.com.ve/wp-content/uploads/2018/09/carp-img13.jpg"
