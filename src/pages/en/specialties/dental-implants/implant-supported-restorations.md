@@ -43,7 +43,7 @@ slogan:
     to: "/en/specialties/aesthetic-dentistry/digital-smile-design/"
     text: More
   img: "/img/slogan-teeth.jpg"
-  title: We design your Smile with CAD-CAM Computerized Technology
+  title: We Design Your Smile with CAD-CAM Computerized Technology
   description: Our team of Dental Technicians has more than 20 years of experience
     in Implant-Assisted Restorations.
 listGallery:
