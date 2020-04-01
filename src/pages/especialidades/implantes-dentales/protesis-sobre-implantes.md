@@ -105,7 +105,7 @@ implantTypes:
       económica y de unas bases óseas maxilares casi intactas.</p>
 
 '
-    icon: "/img/icon-teeth-implants.jpg"
+    icon: "/img/icon-full-arch-rehabilitation.png"
   - img: "/img/implant-types-hybrid-prosthesis.jpg"
     title: '<h2 class="dv-div-title">Prótesis híbrida</h2>
 
