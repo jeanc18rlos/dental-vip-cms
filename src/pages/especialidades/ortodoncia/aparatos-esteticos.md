@@ -123,7 +123,7 @@ paragraph:
   - title: "¡Porque queremos satisfacer todas sus expectativas!"
     text: Sonrisas hermosas, radiantes y naturales a cualquier edad. En los últimos
       años, el uso de la aparatología estética ha incrementado considerablemente los
-      índices de aceptación y satisfacción en todos nuestros tratamientos de Ortodoncia.
+      índices de aceptación y satisfacción de todos nuestros tratamientos de Ortodoncia.
 blockGallery:
   img:
     display: false
