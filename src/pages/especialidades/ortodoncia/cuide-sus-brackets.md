@@ -220,12 +220,12 @@ paragraphSection:
     en zonas altamente retentivas como las que se forman con los aparatos de Ortodoncia
     puede generar con facilidad inflamación gingival, caries dental y halitosis. Gran
     cantidad de ensayos clínicos han demostrado que, bajo esas condiciones, los irrigadores
-    bucales Waterpik® eliminan el 99,9% de la placa depositada sobre dientes, encías
-    y lugares de difícil acceso, gracias a la aplicación directa de un chorro pulsátil
-    de agua o colutorio común.</p><p class=\"dv-div-text text-left\">A nuestro entender,
-    la técnica de irrigación estará siempre indicada como recurso coadyuvante en la
-    higiene de pacientes portadores de Ortodoncia, Prótesis Fija e Implantes Dentales.</p><img
-    src=\"https://dentalvip.com.ve/wp-content/uploads/2018/09/cuide-sus-brackets-waterpik.jpg\"
+    bucales Waterpik<sup>®</sup> eliminan el 99,9% de la placa depositada sobre dientes,
+    encías y lugares de difícil acceso, gracias a la aplicación directa de un chorro
+    pulsátil de agua o colutorio común.</p><p class=\"dv-div-text text-left\">A nuestro
+    entender, la técnica de irrigación estará siempre indicada como recurso coadyuvante
+    en la higiene de pacientes portadores de Ortodoncia, Prótesis Fija e Implantes
+    Dentales.</p><img src=\"https://dentalvip.com.ve/wp-content/uploads/2018/09/cuide-sus-brackets-waterpik.jpg\"
     alt=\"Logo\" class=\"dv-sp-log\">   \n"
   image: "/img/aside-brackets-care.png"
 form:
