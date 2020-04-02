@@ -103,7 +103,7 @@ slogan:
     to: ''
     text: ''
   img: "/img/slogan-teeth.jpg"
-  title: "¿Cuenta ya con un Presupuesto Definitivo?\n"
+  title: "¿Cuenta Ya con un Presupuesto Definitivo?"
   description: 'Remítanoslo vía e-mail para homologarlo y someterlo a su consideración.
     ¡Con seguridad le sorprenderemos!
 
