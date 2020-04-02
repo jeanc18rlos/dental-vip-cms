@@ -124,7 +124,7 @@ listGallery:
       number: 6
       title: '<h2>Fresado mecánico</h2><p class="dv-div-text list">La restauración
         creada en la computadora se talla de forma automática a partir de un bloque
-        cerámico de Disilicato de Litio (LS2) u Óxido de Zirconio (ZrO2).</p>
+        cerámico de Disilicato de Litio (LS<sub>2</sub>) u Óxido de Zirconio (ZrO<sub>2</sub>).</p>
 
 '
     - img: "/img/cad-cam-list-7.jpg"
