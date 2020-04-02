@@ -217,7 +217,7 @@ paragraphSection:
   align: right
   body: "<p class=\"dv-div-title text-left\">Irrigadores bucales</p> <p class=\"dv-div-text
     text-left\">La complejidad de la eliminación del biofilm oral <em>(placa  bacteriana)</em>
-    \ zonas altamente retentivas como las que se forman con los aparatos de Ortodoncia
+    en zonas altamente retentivas como las que se forman con los aparatos de Ortodoncia
     puede generar con facilidad inflamación gingival, caries dental y halitosis. Gran
     cantidad de ensayos clínicos han demostrado que, bajo esas condiciones, los irrigadores
     bucales Waterpik® eliminan el 99,9% de la placa depositada sobre dientes, encías
