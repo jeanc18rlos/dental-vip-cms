@@ -211,7 +211,7 @@ paragraphSection:
   align: right
   body: "<p class=\"dv-div-title text-left\">Oral irrigators</p> <p class=\"dv-div-text
     text-left\">The complexity of removing oral biofilm <em>(bacterial plaque)</em>
-    in highly retentive areas such like the ones that form with orthodontic appliances
+    in highly retentive areas such like the ones that form with Orthodontic appliances
     can easily generate gingival inflammation, tooth decay and halitosis. A large
     number of clinical trials have shown that, under these conditions, Waterpik<sup>®</sup>
     oral irrigators eliminate 99.9% of plaque deposited on teeth, gums and hard-to-reach
