@@ -2,226 +2,234 @@
 templateKey: annexed-page
 language: en
 title: CAD-CAM Technology
-redirects: /en/specialties/prosthodontics/cad-cam-technology
+redirects: "/en/specialties/prosthodontics/cad-cam-technology"
 published: true
-
-#1 Hero Section
 hero:
   display: true
   type: default
-  image: /img/hero-cad-cam.jpg
+  image: "/img/hero-cad-cam.jpg"
   parallax: false
-  title: >
-    ''
+  title: "''\n"
   indicator: false
   halfSize: true
-
-#2 Heading Section
 heading:
   display: true
   classname: section-reasons bebas-title
   title: CAD-CAM TECHNOLOGY
-  content: >
-    <p class="dv-subtitle text-center">Computerized technology that allows 3D scanning, digitalization and data transfer to software that designs and builds the core of any type of total ceramic restoration through the activation and control of a micro-milling robotic system. </p>
+  content: '<p class="dv-subtitle text-center">Computerized technology that allows
+    3D scanning, digitalization and data transfer to software that designs and builds
+    the core of any type of total ceramic restoration through the activation and control
+    of a micro-milling robotic system. </p>
 
-#3 Aside Section
-sidePanel: 
+'
+sidePanel:
   display: false
-  sections: 
-    - 
-      img: /img/sections-dds-shoot.jpg
-      section: > 
-        "''\n"
-    - 
-      img: /img/sections-dds-shoot.jpg
-      section: > 
-        "''\n"
-    - 
-      img: /img/sections-dds-shoot.jpg
-      section: >
-        "''\n"
+  sections:
+  - img: "/img/sections-dds-shoot.jpg"
+    section: '"''''\n"
 
+'
+  - img: "/img/sections-dds-shoot.jpg"
+    section: '"''''\n"
 
-#4 Slogan Section
+'
+  - img: "/img/sections-dds-shoot.jpg"
+    section: '"''''\n"
+
+'
 slogan:
   link:
     display: false
     to: ''
     text: ''
-  img: /img/slogan-teeth.jpg
+  img: "/img/slogan-teeth.jpg"
   title: The Most Aesthetic and Natural Solution for your New Smile!
-  description: Without the undesirable black edges that stand out at the gum level in many fixed restorations of metallic core.
-
-#5 DDS Custom
+  description: Without the undesirable black edges that stand out at the gum level
+    in many fixed restorations of metallic core.
 steps:
   display: false
   blocks:
-  -
-    number: 1
-    description: >
-        ''
+  - number: 1
+    description: "''\n"
     img:
       display: true
       images:
-        - src: /img/brackets-care-steps-1.jpg
-        - src: /img/brackets-care-steps-2.jpg
+      - src: "/img/brackets-care-steps-1.jpg"
+      - src: "/img/brackets-care-steps-2.jpg"
     list:
       display: false
       rows:
-        - icon: /img/icons-brush.jpg
-          image: /img/brackets-care-steps-3.jpg
-          desc:
-            text: > 
-              ''
-dds: 
+      - icon: "/img/icons-brush.jpg"
+        image: "/img/brackets-care-steps-3.jpg"
+        desc:
+          text: "''\n"
+dds:
   display: false
-  heading: > 
-    ''
-  img: /img/dds-custom-block-smile.jpg
-  title: > 
-    ''
-  description: > 
-    ''
+  heading: "''\n"
+  img: "/img/dds-custom-block-smile.jpg"
+  title: "''\n"
+  description: "''\n"
   sections:
-    - img: /img/dds-custom-block-oval.png
-      description: > 
-        ''
-
+  - img: "/img/dds-custom-block-oval.png"
+    description: "''\n"
 listGallery:
   position: top
   type: Column
   display: true
-  title: >
-    <h1>How does it work?</h1>
-  desc: >
-    <p class="dv-div-text text-center dv-mb-83"><b>CAD</b> <em>(Computer Aided Design)</em> CAM <em>(Computer Aided Manufacturing)</em>. The step by step process in our facilities::</p>
+  title: "<h1>How does it work?</h1>\n"
+  desc: '<p class="dv-div-text text-center dv-mb-83"><b>CAD</b> <em>(Computer Aided
+    Design)</em> CAM <em>(Computer Aided Manufacturing)</em>. The step by step process
+    in our facilities:</p>
+
+'
   blocks:
   - sections:
-    - img: /img/cad-cam-list-1.jpg
+    - img: "/img/cad-cam-list-1.jpg"
       number: 1
-      title: >
-        <h2>Intraoral preparation</h2><p class="dv-div-text list">Exposition of dental implants, selection and location of transfer devices, carving of stumps, definition of termination lines and analysis of the interocclusal space.</p>
-    - img: /img/cad-cam-list-2.jpg
+      title: '<h2>Intraoral preparation</h2><p class="dv-div-text list">Exposition
+        of dental implants, selection and location of transfer devices, carving of
+        stumps, definition of termination lines and analysis of the interocclusal
+        space.</p>
+
+'
+    - img: "/img/cad-cam-list-2.jpg"
       number: 2
-      title: >
-        <h2>Impression taking</h2><p class="dv-div-text list">Packaging of the retraction cord and registering prosthetic preparations with high fidelity elastomeric materials, usually based on silicones by addition.</p>
-    - img: /img/cad-cam-list-3.jpg
+      title: '<h2>Impression taking</h2><p class="dv-div-text list">Packaging of the
+        retraction cord and registering prosthetic preparations with high fidelity
+        elastomeric materials, usually based on silicones by addition.</p>
+
+'
+    - img: "/img/cad-cam-list-3.jpg"
       number: 3
-      title: >
-        <h2>Pouring of master cast and dies fabrication</h2><p class="dv-div-text list">Individualization of carvings and prosthetic pillars to provide better access and visualization of their margins and biological limits.</p>
-    - img: /img/cad-cam-list-4.jpg
+      title: '<h2>Pouring of master cast and dies fabrication</h2><p class="dv-div-text
+        list">Individualization of carvings and prosthetic pillars to provide better
+        access and visualization of their margins and biological limits.</p>
+
+'
+    - img: "/img/cad-cam-list-4.jpg"
       number: 4
-      title: >
-        <h2>3D scanning and digitization</h2><p class="dv-div-text list">Three-dimensional digital extrapolation of the work model through a spherical coordinate system that accurately reproduces all its geometric details.</p>
-    - img: /img/cad-cam-list-5.jpg
+      title: '<h2>3D scanning and digitization</h2><p class="dv-div-text list">Three-dimensional
+        digital extrapolation of the work model through a spherical coordinate system
+        that accurately reproduces all its geometric details.</p>
+
+'
+    - img: "/img/cad-cam-list-5.jpg"
       number: 5
-      title: >
-        <h2>Computer design</h2><p class="dv-div-text list">Creation and 3D modeling of the desired product using a computer software that draws the infrastructure and transfers the data to a robot or milling machine.</p>
-    - img: /img/cad-cam-list-6.jpg
+      title: '<h2>Computer design</h2><p class="dv-div-text list">Creation and 3D
+        modeling of the desired product using a computer software that draws the infrastructure
+        and transfers the data to a robot or milling machine.</p>
+
+'
+    - img: "/img/cad-cam-list-6.jpg"
       number: 6
-      title: >
-        <h2>Mechanical milling</h2><p class="dv-div-text list">The restoration created in the computer is automatically carved from a ceramic block of Lithium Disilicate <em>(LS2)</em> or Zirconium Oxide <em>(ZrO2)</em>.</p>
-    - img: /img/cad-cam-list-7.jpg
+      title: '<h2>Mechanical milling</h2><p class="dv-div-text list">The restoration
+        created in the computer is automatically carved from a ceramic block of Lithium
+        Disilicate <em>(LS2)</em> or Zirconium Oxide <em>(ZrO2)</em>.</p>
+
+'
+    - img: "/img/cad-cam-list-7.jpg"
       number: 7
-      title: >
-        <h2>Ceramic copings test</h2><p class="dv-div-text list">Verification of the contour, structural integrity, extension, sealing, adaptation, stability and settlement of the ceramic skeleton generated by the system.</p>
-    - img: /img/cad-cam-list-8.jpg
+      title: '<h2>Ceramic copings test</h2><p class="dv-div-text list">Verification
+        of the contour, structural integrity, extension, sealing, adaptation, stability
+        and settlement of the ceramic skeleton generated by the system.</p>
+
+'
+    - img: "/img/cad-cam-list-8.jpg"
       number: 8
-      title: >
-        <h2>Porcelain stratification</h2><p class="dv-div-text list">Manual artistic finish to characterize rehabilitation, add dyes, achieve polychromatism and translucency, refine color and reproduce anatomical details.</p>
-#6 Block gallery
+      title: '<h2>Porcelain stratification</h2><p class="dv-div-text list">Manual
+        artistic finish to characterize rehabilitation, add dyes, achieve polychromatism
+        and translucency, refine color and reproduce anatomical details.</p>
+
+'
 blockGallery:
-  img: 
+  img:
     display: true
-    img: /img/gallery-blocks-main-cad-cam.jpg
+    img: "/img/gallery-blocks-main-cad-cam.jpg"
   position: bottom
   display: true
   blocks:
-    - img: /img/sections-dds-shoot.jpg
-      title: >
-        <h1> When Disilicate? </h1>
-      desc: >
-        <p>Being more translucent, it allows us to achieve a better mimicry with natural teeth and is our material of choice to make inlays, veneers and anterior crowns on a light substrate.</p>
-    - img: /img/sections-dds-shoot.jpg
-      title: >
-        <h1> When Zirconia?</h1>
-      desc: >
-        <p>Due to its greater opacity and resistance to fracture, we indicate it for posterior crowns and on dark substrates, anterior and posterior ceramic bridges and dental implants rehabilitation.</p>
-
-# Custom Paragraph center img
+  - img: "/img/sections-dds-shoot.jpg"
+    title: "<h1> When Disilicate? </h1>\n"
+    desc: "<p>Being more translucent, it allows us to achieve a better mimicry with
+      natural teeth and is our material of choice to make inlays, veneers and anterior
+      crowns on a light substrate.</p>\n"
+  - img: "/img/sections-dds-shoot.jpg"
+    title: "<h1> When Zirconia?</h1>\n"
+    desc: "<p>Due to its greater opacity and resistance to fracture, we indicate it
+      for posterior crowns and on dark substrates, anterior and posterior ceramic
+      bridges and dental implants rehabilitation.</p>\n"
 paragraph:
   display: false
-  image: /img/slogan-teeth.jpg
+  image: "/img/slogan-teeth.jpg"
   desc:
     display: false
     title: some
-    text: >
-      SOme text
+    text: 'SOme text
+
+'
   blocks:
   - title: SOme other title
     text: SOme other text
-
 implantTypes:
   display: false
   blocks:
-    - img: /img/implant-types-individual-crown.jpg
-      title: >
-        <h2 class="dv-div-title">Corona individual</h2>
-      desc: >
-        <p class="dv-srv-pr">Aunque el trabajo clínico y de laboratorio es mucho más complejo que el de una corona o funda dentosoportada <em>(sobre un diente natural)</em>, es la restauración más básica que se puede confeccionar sobre un implante oseointegrado. Están indicadas en casos de implantes unitarios y pueden ser de metal-porcelana, Disilicato de Litio u Óxido de Zirconio <em>(alta estética dental).</em></p>
-      icon: /img/icons-individual-crown.png
-#7 Parallax Section
-plainParallax:
-  image: /img/parallax-cad-cam.jpg
+  - img: "/img/implant-types-individual-crown.jpg"
+    title: '<h2 class="dv-div-title">Corona individual</h2>
 
-#8 Aside Section
+'
+    desc: '<p class="dv-srv-pr">Aunque el trabajo clínico y de laboratorio es mucho
+      más complejo que el de una corona o funda dentosoportada <em>(sobre un diente
+      natural)</em>, es la restauración más básica que se puede confeccionar sobre
+      un implante oseointegrado. Están indicadas en casos de implantes unitarios y
+      pueden ser de metal-porcelana, Disilicato de Litio u Óxido de Zirconio <em>(alta
+      estética dental).</em></p>
+
+'
+    icon: "/img/icons-individual-crown.png"
+plainParallax:
+  image: "/img/parallax-cad-cam.jpg"
 paragraphSection:
   align: left
-  body: >
-    <p class="dv-div-title">Advantages of CAD-CAM in fixed prosthodontics</p>
-      <i class="icon-check circle"></i>
-      <p class="dv-div-text list">High dental aesthetics because it is a technology that uses state-of-the-art ceramic systems. </p><i class="icon-check circle">
-      
-      </i><p class="dv-div-text list">More conservative treatment that favors the preservation of healthy dental tissue.</p>
-      
-      <i class="icon-check circle"></i><p class="dv-div-text list">100% metal-free fixed crowns and bridges.</p>
-      
-      <i class="icon-check circle"></i><p class="dv-div-text list">Greater biocompatibility and resistance to dental plaque.</p>
-      
-      <i class="icon-check circle"></i><p class="dv-div-text list">Precision in the adaptation to the pillars, with an exact peripheral marginal seal that guarantees its long-term performance.</p>
-      
-      <i class="icon-check circle"></i><p class="dv-div-text list">Longevity very similar to traditional metal-porcelain prostheses.</p>
-      
-      <i class="icon-check circle"></i><p class="dv-div-text list">Rapidity of elaboration, because it is a robotized system that simplifies the laboratory process. </p>     
-  image: /img/aside-cad-cam.jpeg
-
-# 9 Contact Form
+  body: "<p class=\"dv-div-title\">Advantages of CAD-CAM in fixed prosthodontics</p>\n
+    \ <i class=\"icon-check circle\"></i>\n  <p class=\"dv-div-text list\">High dental
+    aesthetics because it is a technology that uses state-of-the-art ceramic systems.
+    </p><i class=\"icon-check circle\">\n  \n  </i><p class=\"dv-div-text list\">More
+    conservative treatment that favors the preservation of healthy dental tissue.</p>\n
+    \ \n  <i class=\"icon-check circle\"></i><p class=\"dv-div-text list\">100% metal-free
+    fixed crowns and bridges.</p>\n  \n  <i class=\"icon-check circle\"></i><p class=\"dv-div-text
+    list\">Greater biocompatibility and resistance to dental plaque.</p>\n  \n  <i
+    class=\"icon-check circle\"></i><p class=\"dv-div-text list\">Precision in the
+    adaptation to the pillars, with an exact peripheral marginal seal that guarantees
+    its long-term performance.</p>\n  \n  <i class=\"icon-check circle\"></i><p class=\"dv-div-text
+    list\">Longevity very similar to traditional metal-porcelain prostheses.</p>\n
+    \ \n  <i class=\"icon-check circle\"></i><p class=\"dv-div-text list\">Rapidity
+    of elaboration, because it is a robotized system that simplifies the laboratory
+    process. </p>     \n"
+  image: "/img/aside-cad-cam.jpeg"
 form:
   title: Consult Us Right Now!
-  img: /img/parallax-form-professionals.jpg
-
-# 10 Procedures
+  img: "/img/parallax-form-professionals.jpg"
 procedures:
   display: true
   title: Other Procedures
   procedures:
-    - title: ORAL REHABILITATION
-      to: >
-        /en/specialties/prosthodontics/
-      img: /img/procedures-rehabilitation.jpg
-    - title: 3D DIAGNOSIS AND PLANNING
-      to: /en/specialties/dental-implants/3d-diagnosis-and-planning/
-      img: /img/procedures-diagnostic.jpg
-    - title: DIGITAL SMILE DESIGN
-      to: /en/specialties/aesthetic-dentistry/digital-smile-design/
-      img: /en/img/procedures-design.jpg
-    - title: PORCELAIN VENEERS
-      to: /en/specialties/aesthetic-dentistry/porcelain-veneers/
-      img: /img/procedures-veneers.jpg
-    - title: AESTHETIC BRACKETS
-      to: /en/specialties/orthodontics/aesthetic-devices/
-      img: /img/procedures-brackets.jpg
-    - title: IMPLANT SUPPORTED RESTORATIONS
-      to: /en/specialties/dental-implants/implant-supported-restorations/
-      img: /img/procedures-dental-implants.jpg
+  - title: ORAL REHABILITATION
+    to: "/en/specialties/prosthodontics/\n"
+    img: "/img/procedures-rehabilitation.jpg"
+  - title: 3D DIAGNOSIS AND PLANNING
+    to: "/en/specialties/dental-implants/3d-diagnosis-and-planning/"
+    img: "/img/procedures-diagnostic.jpg"
+  - title: DIGITAL SMILE DESIGN
+    to: "/en/specialties/aesthetic-dentistry/digital-smile-design/"
+    img: "/en/img/procedures-design.jpg"
+  - title: PORCELAIN VENEERS
+    to: "/en/specialties/aesthetic-dentistry/porcelain-veneers/"
+    img: "/img/procedures-veneers.jpg"
+  - title: AESTHETIC BRACKETS
+    to: "/en/specialties/orthodontics/aesthetic-devices/"
+    img: "/img/procedures-brackets.jpg"
+  - title: IMPLANT SUPPORTED RESTORATIONS
+    to: "/en/specialties/dental-implants/implant-supported-restorations/"
+    img: "/img/procedures-dental-implants.jpg"
+
 ---
