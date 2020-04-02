@@ -200,7 +200,7 @@ paragraphSection:
   body: '<p class="dv-div-title text-right dv-npr dv-npl">A truly biological and conservative
     approach</p> <p class="dv-div-text text-right">We believe that the routine of
     wearing out or overloading healthy teeth with the sole intention of replacing
-    other absent ones should already be a thing of the past. Compromise the health,
+    other absent ones, should already be a thing of the past. Compromise the health,
     integrity and longevity of its pillars, as it happens with the various variants
     of the conventional prosthesis, it was the price forced to pay before the discovery
     and development of osseointegration. </p> <p class="dv-div-text text-right">We
