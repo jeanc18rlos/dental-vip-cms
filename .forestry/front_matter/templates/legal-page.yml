@@ -1,0 +1,19 @@
+---
+label: legal-page
+hide_body: false
+fields:
+- type: text
+  name: templateKey
+  label: templateKey
+- type: text
+  name: language
+  label: language
+- type: text
+  name: title
+  label: title
+- type: text
+  name: redirects
+  label: redirects
+- type: boolean
+  name: published
+  label: published
