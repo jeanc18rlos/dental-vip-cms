@@ -108,7 +108,7 @@ listGallery:
 '
 paragraph:
   display: true
-  image: "/img/info-block-advertisement.png"
+  image: "/img/we-design-perfect-smiles-img.png"
   desc:
     display: false
     title: some
