@@ -37,7 +37,7 @@ EE. UU.<br />Teléfonos: +58 <i>(212)</i> 771.9061 / 800
 5000555<br />Dirección de correo electrónico: <a
 href="mailto:support@netlify.com"
 class="dv-link-green"
->HQ@godaddy.com</a
+>support@netlify.com</a
 ><br />Página web: <a
 rel="noopener noreferrer"
 target="_blank"
