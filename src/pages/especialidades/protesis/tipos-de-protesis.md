@@ -219,7 +219,7 @@ procedures:
   display: true
   title: Otros Procedimientos
   procedures:
-  - title: Técnologia cad-cam
+  - title: Tecnología cad-cam
     to: "/especialidades/protesis/tecnologia-cad-cam/"
     img: "/img/procedures-cad-cam.jpg"
   - title: Diagnóstico y Planificación 3D
