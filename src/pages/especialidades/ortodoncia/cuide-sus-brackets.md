@@ -16,7 +16,7 @@ heading:
   display: true
   classname: section-reasons bebas-title
   title: "¡Cuide sus brackets!"
-  content: '<p class="dv-subtitle text-center">Si Usted ha iniciado un tratamiento
+  content: '<p class="dv-subtitle text-center">Si Usted ha iniciado un Tratamiento
     de Ortodoncia, es necesario que conozca la siguiente información y cumpla con
     estas sencillas indicaciones:</p>
 
