@@ -135,13 +135,11 @@ steps:
       - icon: "/img/icon-dental-floss.jpg"
         image: "/img/brackets-care-steps-5.jpg"
         desc:
-          text: '<p class="dv-div-text text-left">Finally, use dental floss <em>(Special
+          text: <p class="dv-div-text text-left">Finally, use dental floss <em>(Special
             for Prosthetics and Orthodontics) </em>to clean the deepest areas of the
             proximal surfaces of the teeth. Insert it directly above the wire arch,
             first hugging the surface of one tooth and then that of the other. If
-            it is your desire, complement the process with the mouthwash of your choice.</p>
-
-'
+            it is your desire, complement the process with the mouthwash of your preference.</p>
 dds:
   display: false
   heading: "''\n"
