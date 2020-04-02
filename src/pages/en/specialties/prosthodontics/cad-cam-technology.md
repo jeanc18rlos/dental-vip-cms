@@ -43,7 +43,7 @@ slogan:
     to: ''
     text: ''
   img: "/img/slogan-teeth.jpg"
-  title: The Most Aesthetic and Natural Solution for your New Smile!
+  title: The Most Aesthetic and Natural Solution for Your New Smile!
   description: Without the undesirable black edges that stand out at the gum level
     in many fixed restorations of metallic core.
 steps:
