@@ -221,7 +221,7 @@ paragraphSection:
     bucales Waterpik<sup>®</sup> eliminan el 99,9% de la placa depositada sobre dientes,
     encías y lugares de difícil acceso; gracias a la aplicación directa de un chorro
     pulsátil de agua o colutorio común.</p><p class=\"dv-div-text text-left\">A nuestro
-    entender, la técnica de irrigación estará siempre indicada como recurso coadyuvante
+    entender, la Técnica de Irrigación estará siempre indicada como recurso coadyuvante
     en la higiene de pacientes portadores de Ortodoncia, Prótesis Fija e Implantes
     Dentales.</p><img src=\"https://dentalvip.com.ve/wp-content/uploads/2018/09/cuide-sus-brackets-waterpik.jpg\"
     alt=\"Logo\" class=\"dv-sp-log\">   \n"
