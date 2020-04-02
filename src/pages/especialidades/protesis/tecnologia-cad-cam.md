@@ -43,7 +43,7 @@ slogan:
     to: ''
     text: ''
   img: "/img/slogan-teeth.jpg"
-  title: "¡La Solución Más Estética y Natural para su Nueva Sonrisa!"
+  title: "¡La Solución Más Estética y Natural para Su Nueva Sonrisa!"
   description: Sin los indeseables bordes negros que resaltan a nivel de encía en
     muchas restauraciones fijas de núcleo metálico.
 steps:
