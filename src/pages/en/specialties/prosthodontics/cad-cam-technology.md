@@ -19,7 +19,7 @@ heading:
   content: '<p class="dv-subtitle text-center">Computerized technology that allows
     3D scanning, digitalization and data transfer to software that designs and builds
     the core of any type of total ceramic restoration, through the activation and
-    control of a Micro-milling Robotic System. </p>
+    control of a Micro-Milling Robotic System. </p>
 
 '
 sidePanel:
