@@ -17,7 +17,7 @@ heading:
   classname: section-reasons bebas-title
   title: Take Care of Your Brackets!
   content: '<p class="dv-subtitle text-center">If you have started an orthodontic
-    treatment you need to know the following information and comply with these simple
+    treatment, you need to know the following information and comply with these simple
     indications:</p>
 
 '
