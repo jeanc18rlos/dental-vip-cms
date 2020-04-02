@@ -124,7 +124,7 @@ listGallery:
       number: 6
       title: '<h2>Mechanical milling</h2><p class="dv-div-text list">The restoration
         created in the computer is automatically carved from a ceramic block of Lithium
-        Disilicate <em>(LS2)</em> or Zirconium Oxide <em>(ZrO2)</em>.</p>
+        Disilicate <em>(LS<sub>2</sub>)</em> or Zirconium Oxide <em>(ZrO<sub>2</sub>)</em>.</p>
 
 '
     - img: "/img/cad-cam-list-7.jpg"
