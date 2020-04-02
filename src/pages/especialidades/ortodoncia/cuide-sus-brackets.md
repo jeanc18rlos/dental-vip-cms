@@ -219,7 +219,7 @@ paragraphSection:
     puede generar con facilidad inflamación gingival, caries dental y halitosis. Gran
     cantidad de ensayos clínicos han demostrado que, bajo esas condiciones, los irrigadores
     bucales Waterpik<sup>®</sup> eliminan el 99,9% de la placa depositada sobre dientes,
-    encías y lugares de difícil acceso, gracias a la aplicación directa de un chorro
+    encías y lugares de difícil acceso; gracias a la aplicación directa de un chorro
     pulsátil de agua o colutorio común.</p><p class=\"dv-div-text text-left\">A nuestro
     entender, la técnica de irrigación estará siempre indicada como recurso coadyuvante
     en la higiene de pacientes portadores de Ortodoncia, Prótesis Fija e Implantes
