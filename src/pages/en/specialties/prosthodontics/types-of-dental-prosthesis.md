@@ -130,9 +130,9 @@ implantTypes:
       <em>(plastic material)</em>, metal-acrylic or thermoplastic nylon. It can be
       inserted and removed by the patient himself. It rests on the oral mucosa and
       is retained by a system of extracoronal elements or hooks that surround some
-      of the teeth still present. Although, due to its aesthetic and functional limitations,
+      of the teeth still present. Although due to its aesthetic and functional limitations
       it moves away from the ideal prosthetic prototype, it still having valid as
-      a provisional and even definitive denture; in cases of surgical contraindication
+      a provisional denture, and even definitive; in cases of surgical contraindication
       or economic limitation.</p>
 
 '
