@@ -14,6 +14,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
+  - legal-page
   - guarantees
   - dental-tourism-2
   - blog-post
@@ -33,6 +34,7 @@ sections:
   exclude: "/en/**/*"
   new_doc_ext: md
   templates:
+  - legal-page
   - guarantees
   - dental-tourism-2
   - blog-post
