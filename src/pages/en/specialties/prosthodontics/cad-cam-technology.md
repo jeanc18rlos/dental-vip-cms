@@ -150,9 +150,9 @@ blockGallery:
   blocks:
   - img: "/img/sections-dds-shoot.jpg"
     title: "<h1> When Disilicate? </h1>\n"
-    desc: "<p>Being more translucent, it allows us to achieve a better mimicry with
-      natural teeth and is our material of choice to make inlays, veneers and anterior
-      crowns on a light substrate.</p>\n"
+    desc: "<p>For being more translucent, it allows us to achieve a better mimicry
+      with natural teeth and is our material of choice to make inlays, veneers and
+      anterior crowns on a light substrate.</p>"
   - img: "/img/sections-dds-shoot.jpg"
     title: "<h1> When Zirconia?</h1>\n"
     desc: "<p>Due to its greater opacity and resistance to fracture, we indicate it
