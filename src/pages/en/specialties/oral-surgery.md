@@ -25,8 +25,8 @@ paragraphSection:
   body: "<p>Although the mouth represents a small and limited region of the human
     body, <b>a large number of congenital and/or acquired pathological entities that
     require elective surgical treatment</b> can be presented in it. Among the most
-    common of those that are treated in our clinic, we can mention the extraction
-    of the included third molars  <em>(wisdom teeth)</em>, simple, complex and multiple
+    common of those that are treated in our clinic we can mention the extraction of
+    the included third molars  <em>(wisdom teeth)</em>, simple, complex and multiple
     dental extractions, placement of DENTAL IMPLANTS, phrenilectomies, apicectomies
     and periapical surgeries, excision and biopsy of minor oral lesions and dentigerous
     cysts; among others.</p>\n<p><b>Usually all these procedures are performed under
