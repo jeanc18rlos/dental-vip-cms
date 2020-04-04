@@ -112,7 +112,7 @@ faq:
         tissue scarring and prophylactic premedication with broad-spectrum antibiotics,
         usually amoxicillin with clavulanic acid or cephalosporins in allergic patients.</p>\n"
     - question: Other special surgeries may be necessary?
-      answer: "<p>Unfortunately, in some cases the quantity, quality and density of
+      answer: "<p>Unfortunately in some cases the quantity, quality and density of
         the recipient bone may be deficient and it is usually necessary to place autogenous
         or synthetic bone grafts to improve the local environment and avoid a possible
         failure. Another relatively common maneuver is the elevation of the maxillary
@@ -144,7 +144,7 @@ faq:
     - question: How aesthetic do implants look?
       answer: "<p>The implants are not visible, they are embedded inside the bone,
         so that the aesthetic responsibility lies with the definitive prosthesis.
-        This should be made to meet all relevant functional requirements, and also
+        This should be made to meet all relevant functional requirements, and also,
         to provide the patient with teeth that look truly natural, of a color, shape
         and size that project harmony and proportionality, individually characterized
         and capable of reflecting and translucent light. These are all key factors
