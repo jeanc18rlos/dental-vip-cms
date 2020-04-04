@@ -51,7 +51,7 @@ quote:
   title: ''
   body: 'It is truly gratifying to perceive day by day how Dental Implants improve
     people''s health and quality of life. The fact of being able to eat and chew with
-    comfort, speak normally and smile without fear, are benefits of invaluable repercussion.
+    comfort, speak normally and smile without fear; are benefits of invaluable repercussion.
 
 '
   author: Dr. Castor José Garabán Povea
