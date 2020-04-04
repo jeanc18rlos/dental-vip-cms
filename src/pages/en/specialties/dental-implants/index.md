@@ -281,7 +281,8 @@ asides:
     title: <h3 style="color:#333;font-family:'Bebas Neue Bold'">WHY ZIMMER BIOMET?</h3>
     content: '<p style="font-weight:400">Our brand of preference for being one of
       the 5 best worldwide among the more than 500 currently marketed. Because we
-      know that High-End Implants are a guarantee of excellence, quality and longevity!</p>
+      know that High-End Dental Implants are a guarantee of excellence, quality and
+      longevity!</p>
 
 '
     image: "/img/sections-hexagon-dental-implants.jpg"
