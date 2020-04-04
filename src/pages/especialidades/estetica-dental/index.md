@@ -121,7 +121,7 @@ faq:
         tuvieran una concentración profesional, causarían grandes daños y lesiones
         cáusticas a los tejidos periodontales.</p>\n"
     - question: "¿Cómo blanquea el peróxido de carbamida?"
-      answer: "<p>Al entrar en contacto con la saliva se descompone en peróxido de
+      answer: "<p>Al entrar en contacto con la saliva, se descompone en peróxido de
         hidrógeno y urea. Por su bajo peso molecular, el peróxido de hidrógeno penetra
         con facilidad los prismas de esmalte y canalículos dentinarios, en cuyo interior
         es metabolizado por ciertas enzimas como la catalasa, peroxidasa e hidroperoxidasa,
