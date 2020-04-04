@@ -22,23 +22,20 @@ export default function HTML(props) {
         <div
           id="preloader"
           style={{
-            position: 'fixed',
-            width: '100%',
+            position: "fixed",
+            width: "100%",
             zIndex: 1000,
-            top: '0',
-            left: '0',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            background: '#fff',
-            overflow: 'hidden',
-            height: '100%',
+            top: "0",
+            left: "0",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            background: "#fff",
+            overflow: "hidden",
+            height: "100%",
           }}
         >
-          <img
-            alt="loading"
-            src={preloader}
-          />
+          <img alt="loading" src={preloader} />
         </div>
         <div
           key={`body`}
@@ -46,10 +43,6 @@ export default function HTML(props) {
           dangerouslySetInnerHTML={{ __html: props.body }}
         />
         {props.postBodyComponents}
-        <link
-          href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap"
-          rel="stylesheet"
-        />
       </body>
     </html>
   )

@@ -42,15 +42,15 @@ exports.createPages = ({ actions, graphql }) => {
         }
       }
     }
-  `).then(result => {
+  `).then((result) => {
     if (result.errors) {
-      result.errors.forEach(e => console.error(e.toString()));
+      result.errors.forEach((e) => console.error(e.toString()));
       return Promise.reject(result.errors);
     }
 
     const posts = result.data.allMarkdownRemark.edges;
 
-    posts.forEach(edge => {
+    posts.forEach((edge) => {
       const id = edge.node.id;
       const language = edge.node.frontmatter.language;
       createPage({
@@ -62,8 +62,8 @@ exports.createPages = ({ actions, graphql }) => {
         // additional data can be passed via context
         context: {
           id,
-          language
-        }
+          language,
+        },
       });
     });
 
@@ -71,12 +71,14 @@ exports.createPages = ({ actions, graphql }) => {
     let tags = [];
     let entags = [];
     // Iterate through each post, putting all found tags into `tags`
-    posts.forEach(edge => {
+    posts.forEach((edge) => {
       if (_.get(edge, `node.frontmatter.tags`)) {
-        if (_.get(edge, `node.frontmatter.language`) === "en") {
-          entags = entags.concat(edge.node.frontmatter.tags);
-        } else if (_.get(edge, `node.frontmatter.language`) === "es") {
-          tags = tags.concat(edge.node.frontmatter.tags);
+        if (_.get(edge, `node.frontmatter.templateKey`) === "blog-post") {
+          if (_.get(edge, `node.frontmatter.language`) === "en") {
+            entags = entags.concat(edge.node.frontmatter.tags);
+          } else if (_.get(edge, `node.frontmatter.language`) === "es") {
+            tags = tags.concat(edge.node.frontmatter.tags);
+          }
         }
       }
     });
@@ -85,7 +87,7 @@ exports.createPages = ({ actions, graphql }) => {
     tags = _.uniq(tags);
 
     // Make tag pages
-    entags.forEach(tag => {
+    entags.forEach((tag) => {
       const tagPath = `/en/categories/${_.kebabCase(tag)}/`;
 
       createPage({
@@ -93,11 +95,11 @@ exports.createPages = ({ actions, graphql }) => {
         component: path.resolve(`src/templates/tags.js`),
         context: {
           tag,
-          language: "en"
-        }
+          language: "en",
+        },
       });
     });
-    tags.forEach(tag => {
+    tags.forEach((tag) => {
       const tagPath = `/categorias/${_.kebabCase(tag)}/`;
 
       createPage({
@@ -105,8 +107,8 @@ exports.createPages = ({ actions, graphql }) => {
         component: path.resolve(`src/templates/tags.js`),
         context: {
           tag,
-          language: "es"
-        }
+          language: "es",
+        },
       });
     });
   });
@@ -121,7 +123,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     createNodeField({
       name: `slug`,
       node,
-      value
+      value,
     });
   }
 };

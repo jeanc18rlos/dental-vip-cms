@@ -1,9 +1,12 @@
 ---
-templateKey: index-page
+templateKey: home-page
 language: es
-redirects: "/en/"
+redirects: /en/
 title: Inicio
 published: true
+tags: [
+  "s"
+]
 hero:
   type: animated
   image: "/img/hero-home.jpg"

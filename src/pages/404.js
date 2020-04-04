@@ -1,49 +1,32 @@
-import React, { useState, useEffect } from "react";
-import Layout from "../Layout";
-import SEO from "../components/seo";
-import { navigate } from "gatsby";
-import SetLang from "../components/setLang";
-const NotFoundPage = () => {
-  const [searchText, setSearchText] = useState("default");
-  return (
-    <Layout>
-      <SetLang language="es" link="/en/404" />
-      <SEO title="404: Página no encontrada" />
-      <section className="error-404">
-        <h1>404</h1>
-        <div className="error-box">PÁGINA NO ENCONTRADA</div>
-        <p className="error-paragraph-1">
-          Es posible que la entrada que busca haya sido eliminada o que la
-          dirección no exista en nuestros registros.
-        </p>
-        <p className="error-paragraph-2">
-          Puede regresar a la pagina anterior o intentar realizar una nueva
-          búsqueda mediante el siguiente formulario.
-        </p>
-        <div className="dv-search-area-blog">
-          <div className="dv-search-area-blog">
-            <div className="form" id="form4">
-              <input
-                value={searchText}
-                onChange={e => {
-                  setSearchText(e.target.value);
-                }}
-                type="text"
-                placeholder="Search"
-              />
-              <button
-                onClick={() => {
-                  navigate(`/blog/busqueda?text=${searchText}`);
-                }}
-              >
-                <i className="icon-search" />
-              </button>
-            </div>
-          </div>
-        </div>
-      </section>
-    </Layout>
-  );
-};
+import React from "react"
+import { graphql } from "gatsby"
 
-export default NotFoundPage;
+import Layout from "../layout"
+import SEO from "../components/seo"
+
+class NotFoundPage extends React.Component {
+  render() {
+    const { data } = this.props
+    const siteTitle = data.site.siteMetadata.title
+
+    return (
+      <Layout location={this.props.location} title={siteTitle}>
+        <SEO title="404: Not Found" />
+        <h1>Not Found</h1>
+        <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+      </Layout>
+    )
+  }
+}
+
+export default NotFoundPage
+
+export const pageQuery = graphql`
+  query {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+  }
+`
