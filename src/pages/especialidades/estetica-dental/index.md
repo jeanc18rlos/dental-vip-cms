@@ -42,8 +42,8 @@ paragraphSection:
     CARILLAS DE PORCELANA, que son finas láminas de material cerámico que se adhieren
     firmemente a las estructuras dentarias y que se indican para la corrección de
     los defectos estéticos de mayor extensión y gravedad.</p><p><strong>Hoy en día
-    la Odontología Estética prácticamente no tiene límites, </strong>salvo por la
-    creatividad, destreza y preparación del equipo profesional.</p>  \n"
+    la Odontología Estética prácticamente no tiene límites, </strong>salvo la creatividad,
+    destreza y preparación del equipo profesional.</p>  \n"
   image: "/img/aside-aesthetic-dentistry.jpg"
 quote:
   title: ''
