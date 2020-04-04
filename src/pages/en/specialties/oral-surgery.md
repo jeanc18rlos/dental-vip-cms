@@ -136,7 +136,7 @@ faq:
         generate pressure and unsightly spaces between the central incisors <em>(diastemas)</em>.
         Abnormal lingual insertions cause serious phonetic and diction alterations.</p>\n"
     - question: Are cysts and tumors of the oral cavity very common?
-      answer: "<p>Fortunately they are pathologies of very low prevalence. However,
+      answer: "<p>Fortunately, they are pathologies of very low prevalence. However,
         once its existence is detected, it is imperative to study the case and immediately
         determine the therapeutic behavior to be implemented. </p>\n"
     - question: What is a biopsy and what is it done for?
