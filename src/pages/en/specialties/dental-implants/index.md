@@ -26,7 +26,7 @@ paragraphSection:
     is the development of Dental Implants. These, <b>are small titanium devices in
     the form of a cylinder and that, due to their high degree of biocompatibility,
     are capable of osseointegrate into the maxillary structures to “ideally” replace
-    teeth lost</b> due to decay, trauma and periodontal disease, thus avoiding the
+    teeth lost</b> due to decay, trauma and periodontal disease; thus avoiding the
     use of old ones removable prostheses.</p> <p>With the LAST GENERATION IMPLANTS
     <b>the surgical procedure of placement is quite simple, fast and painless.</b>
     However, it must always be performed by Specialists in Oral or Maxillofacial Surgery,
