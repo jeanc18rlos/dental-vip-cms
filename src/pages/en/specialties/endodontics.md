@@ -139,8 +139,8 @@ faq:
     - question: Are teeth that have undergone Root Canal Treatments more fragile?
       answer: "<p>Undoubtedly! The loss of tooth coronal structure and pulp mechanoreceptors
         make them less flexible, less resistant and more susceptible to fracture.
-        That is why their permanence and longevity will depend on their adequate and
-        immediate reconstruction.</p>\n"
+        That is why their permanence and longevity, will depend on their adequate
+        and immediate reconstruction.</p>\n"
     - question: How long can I stay without the definitive restoration?
       answer: "<p>The shortest possible time. As long as an endodontic treated tooth
         is not restored, it will be prone to fracture and reinfection. In those cases
