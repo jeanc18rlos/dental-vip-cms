@@ -137,7 +137,7 @@ faq:
         prosthesis the same day)</em>.\n  </li>\n  <li>Shorter and more favorable
         postoperative for the patient.\n  </li>\n  <li>Best short, medium and long
         term forecast.\n  </li>  \n</ol> <p>In addition, the Zygomatic Implants protocol
-        guarantees the barrier function of, biomechanical stability and correct distribution
+        guarantees the barrier function, biomechanical stability and correct distribution
         of the masticatory forces through the maxillomalar pillars; thus avoiding
         overloads and occasional fatigue failures. </p>\n"
     - question: What risks and contraindications exist?
