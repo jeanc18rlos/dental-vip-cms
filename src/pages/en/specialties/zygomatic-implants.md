@@ -98,7 +98,7 @@ faq:
     - question: Is there an age limit to qualify for the procedure?
       answer: "<p>None, as long as the life expectancy of the person justify the investment
         of time and money. In fact, many of our patients are over 65 years old.</p>\n"
-    - question: What percentage of success do they currently have?
+    - question: What percentage of success does it currently have?
       answer: "<p>Extraordinary!, superior to conventional implants and very close
         to 100% of cases, with an average survival rate of 95% at 10 years.</p>\n"
     - question: Is it a painful treatment?
