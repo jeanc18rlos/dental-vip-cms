@@ -9,7 +9,8 @@ hero:
   type: default
   image: "/img/hero-sedation-and-general-anesthesia.jpg"
   parallax: false
-  title: "<p>Sedación y anestesia general</p>"
+  title: <p></p><p>&lt;span class="bebas" style="font-family:Bebas Neue Bold;color:white;font-weight:lighter"&gt;Sedación
+    y anestesia &lt;br&gt;&lt;/br&gt;general&lt;/span&gt;</p>
   indicator: false
   halfSize: true
 specialtiesHeading:
