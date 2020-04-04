@@ -96,9 +96,8 @@ faq:
         and of course; physiological resorption as a result of the lack of interest
         or inability to replace lost teeth in a reasonable period of time.</p>\n"
     - question: Is there an age limit to qualify for the procedure?
-      answer: "<p>In adults none, as long as the life expectancy of the person justify
-        the investment of time and money. In fact, many of our patients are over 65
-        years old.</p>\n"
+      answer: "<p>None, as long as the life expectancy of the person justify the investment
+        of time and money. In fact, many of our patients are over 65 years old.</p>\n"
     - question: What percentage of success do they currently have?
       answer: "<p>Extraordinary!, superior to conventional implants and very close
         to 100% of cases, with an average survival rate of 95% at 10 years.</p>\n"
