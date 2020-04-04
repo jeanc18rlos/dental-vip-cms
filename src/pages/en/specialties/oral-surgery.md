@@ -168,7 +168,7 @@ faq:
       answer: "<p>It is natural to experience some swelling after any surgery. A surgical
         cut in the skin or mucosa, also called incision, is a form of aggression to
         the organism. The body's natural response to an injury of this type is the
-        inflammatory process, which, as we know, occurs with increased volume. However,
+        inflammatory process, which as we know, occurs with increased volume. However,
         if the inflammation becomes exaggerated, contact your Specialist immediately.</p>\n"
     - question: Is it necessary to take antibiotics, analgesics and anti-inflammatories?
       answer: "<p>Depends on the situation. Simple procedures rarely require postoperative
