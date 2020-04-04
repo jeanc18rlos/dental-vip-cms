@@ -159,7 +159,7 @@ faq:
         que pudiera impedir un acto quirúrgico, son muy pocas, y generalmente todas
         asociadas a patologías o infecciones preexistentes dentro del seno o antro
         maxilar. De modo que en algunos casos, la interconsulta y tratamiento previo
-        con un Otorrinolaringólogo, pudiera ser imprescindible. </p>\n"
+        con un Otorrinolaringólogo pudiera ser imprescindible. </p>\n"
   - questions:
     - question: "¿Cómo es y cuánto tiempo dura la cirugía?"
       answer: "<p>Las 4 técnicas más destacadas son la de Brånemark, la de Stella
