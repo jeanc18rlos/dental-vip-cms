@@ -118,7 +118,7 @@ faq:
         they suffer carious lesions of considerable extent.</p>\n"
     - question: What are included teeth?
       answer: "<p> Dental inclusion is a developmental disorder in which a given tooth,
-        come the normal time of its eruption remains inside the tissues of the oral
+        come the normal time of its eruption, remains inside the tissues of the oral
         cavity <em>(alveolar bone and oral mucosa)</em>. The teeth that most frequently
         suffer from this situation are the third molars, mainly those of the lower
         jaw. The diagnosis of the inclusion of a tooth can only be made using radiological
