@@ -87,7 +87,7 @@ faq:
         true aesthetic criteria.</p>\n"
     - question: What parameters are used to choose the shape of the new teeth?
       answer: "<p>Race, sex, age, personality, size and shape of the face, biotype
-        and gingival state, smile line, type of occlusion or bite, and of course,
+        and gingival state, smile line, type of occlusion or bite, and of course;
         the patient's preferences and tastes. It is also very important to always
         work under the precept of the golden or divine proportion, try as much as
         possible that the new restorations keep in tune with one of the most used
