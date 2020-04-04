@@ -95,7 +95,7 @@ faq:
         a proportional ratio of 1/1,618 between the size of nearby and well-defined
         elements, it will guarantee success in the expression and projection of harmony,
         beauty and naturalness.</p>\n"
-    - question: When is tooth whitening indicated?
+    - question: When is teeth whitening indicated?
       answer: "<p>Like any aesthetic treatment, the indication of whether or not to
         perform a teeth whitening is determined by the patient's own perception and
         needs. This procedure allows us to remove stains and dental pigmentations
