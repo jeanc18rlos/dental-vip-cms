@@ -48,7 +48,7 @@ columns:
 '
     body: |
       <p class="dv-content-phase">Desplazamiento, recepción y alojamiento.</p>
-      <p>TRATAMIENTO ODONTOLÓGICO INTENSIVO Y MULTIDISCIPLINARIO para poder cubrir en tiempo récord <em>(1 o 2 semanas)</em> todos los requerimientos bucales previamente establecidos.</p>
+      <p class="dv-content-phase">TRATAMIENTO ODONTOLÓGICO INTENSIVO Y MULTIDISCIPLINARIO para poder cubrir en tiempo récord <em>(1 o 2 semanas)</em> todos los requerimientos bucales previamente establecidos.</p>
 hostSection:
   bg: "/img/host-bg.jpg"
   title: "<h1>Traslados y Alojamiento</h1>\n"
