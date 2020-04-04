@@ -48,9 +48,9 @@ paragraphSection:
   image: "/img/aside-oral-surgery.jpg"
 quote:
   title: ''
-  body: 'As a general rule, extractions of ectopic, including or semi-erupted third
-    molars, are easier to perform in patients under 25 years old, before their roots
-    have fully developed.
+  body: 'As a general rule, extractions of ectopic, including or partially erupted
+    third molars, are easier to perform in patients under 25 years old, before their
+    roots have fully developed.
 
 '
   author: Dr. Castor José Garabán Povea
