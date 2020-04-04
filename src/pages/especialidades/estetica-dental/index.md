@@ -173,7 +173,7 @@ faq:
         manchados, desalineados, desgastados, separados o malformados.</p>\n"
     - question: "¿En qué se diferencian las incrustaciones, las carillas y las coronas?"
       answer: "<p>Las incrustaciones y carillas son restauraciones de recubrimiento
-        parcial, es decir, solo sustituyen una parte o porción del diente, mientras
+        parcial, es decir, solo sustituyen una parte o porción del diente; mientras
         que las coronas restauran o reemplazan toda la parte visible del mismo. Las
         carillas se indican en los dientes anteriores, las incrustaciones en los posteriores
         y las coronas en cualquier diente de la cavidad bucal.</p>\n"
