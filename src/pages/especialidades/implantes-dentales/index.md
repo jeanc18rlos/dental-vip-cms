@@ -53,7 +53,7 @@ quote:
   title: ''
   body: 'Es verdaderamente gratificante percibir día a día como los Implantes Dentales
     mejoran la calidad de vida y la salud de las personas. El hecho de poder comer
-    y masticar con comodidad, hablar con normalidad y sonreír sin temor, son beneficios
+    y masticar con comodidad, hablar con normalidad y sonreír sin temor; son beneficios
     de invalorable repercusión.
 
 '
