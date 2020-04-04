@@ -38,7 +38,7 @@ paragraphSection:
     materials based on nanotechnology allow us for its great versatility to modify
     the shape, color and size of the teeth at pleasure. In very few appointments the
     result is obvious and the transformation looks spectacular</b>. For the most complex
-    cases we have the so-called PORCELAIN VENEERS that are thin sheets of ceramic
+    cases we have the so-called PORCELAIN VENEERS, that are thin sheets of ceramic
     material that adhere firmly to the dental structures and that are indicated for
     the correction of aesthetic defects of greater extent and severity.</p> <p><b>Nowadays
     Aesthetic Dentistry has no limits</b>, except for the creativity, skill and preparation
