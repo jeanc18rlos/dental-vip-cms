@@ -46,7 +46,7 @@ paragraphSection:
     of his restorative treatment, who be really capable to design and manufacture
     prosthetic devices that allow you to speak, eat and smile comfortably and without
     any type of limitation.</p>\n"
-  image: "/img/aside-prosthodontics.jpg"
+  image: "/img/aside-prosthodontics-correct.jpg"
 quote:
   title: ''
   body: 'Our mission consists in to spread the benefits of oral health and promote
@@ -235,7 +235,7 @@ clinicCases:
   title: Prosthodontics - Clinical Cases
   items:
   - image: "/img/clinic-cases-prosthodontics-en-01-thumb.jpg"
-    title: "<h6>SEVERE TOOTH WEAR </h6>\n"
+    title: "<h6>SEVERE TOOTH WEAR </h6>"
   - image: "/img/clinic-cases-prosthodontics-en-02-thumb.jpg"
     title: "<h6>FIXED PARTIAL PROSTHESIS REPLACEMENT </h6>\n"
   - image: "/img/clinic-cases-prosthodontics-en-03-thumb.jpg"

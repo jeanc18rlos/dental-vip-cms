@@ -47,7 +47,7 @@ paragraphSection:
     y funcional de su tratamiento restaurador, que verdaderamente esté en capacidad
     de diseñar y fabricar dispositivos protésicos que le permitan hablar, comer y
     sonreír con comodidad y sin ningún tipo de limitación.</p> \n"
-  image: "/img/aside-prosthodontics.jpg"
+  image: "/img/aside-prosthodontics-correct.jpg"
 quote:
   title: ''
   body: 'Nuestra misión consiste en difundir los beneficios de la salud oral y promover
