@@ -39,7 +39,7 @@ paragraphSection:
     recurrir sin inconvenientes al emplazamiento de\n  INJERTOS autólogos o sintéticos
     como paso previo o simultáneo a la colocación\n  de implantes dentales. Sin embargo,
     si la pérdida ósea es muy grande y\n  generalizada, estos procedimientos suelen
-    volverse muy incómodos, complejos,\n  extensos e impredecibles, ya que implican
+    volverse muy incómodos, complejos,\n  extensos e impredecibles; ya que implican
     la necesidad de generar una gran\n  herida corporal a nivel de pelvis o cabeza
     para recolectar tacos de hueso de\n  cresta ilíaca o calota, altas posibilidades
     de rechazo por la crueldad propia\n  de la técnica quirúrgica y un período de
