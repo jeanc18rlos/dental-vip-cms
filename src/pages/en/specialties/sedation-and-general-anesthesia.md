@@ -10,7 +10,7 @@ hero:
   image: "/img/hero-sedation-and-general-anesthesia.jpg"
   parallax: false
   title: <p>&lt;span class="bebas" style="font-family:Bebas Neue Bold;color:white;font-weight:lighter"&gt;SEDATION
-    AND &lt;br&gt;&lt;/br&gt;GENERAL ANESTHESIA&lt;/span&gt;</p>
+    AND  GENERAL&lt;br&gt;&lt;/br&gt;ANESTHESIA&lt;/span&gt;</p>
   indicator: false
   halfSize: true
 specialtiesHeading:
