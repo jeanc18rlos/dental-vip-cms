@@ -293,8 +293,8 @@ asides:
     title: <h3 style="color:#333;font-family:'Bebas Neue Bold'">¿POR QUÉ ZIMMER BIOMET?</h3>
     content: '<p style="font-weight:400">Nuestra marca de preferencia por ser una
       de las 5 mejores a nivel mundial de entre las más de 500 que se comercializan
-      en la actualidad. ¡Porque sabemos que los Implantes de Alta Gama son garantía
-      de excelencia, calidad y longevidad!</p>
+      en la actualidad. ¡Porque sabemos que los Implantes Dentales de Alta Gama son
+      garantía de excelencia, calidad y longevidad!</p>
 
 '
     image: "/img/sections-hexagon-dental-implants.jpg"
