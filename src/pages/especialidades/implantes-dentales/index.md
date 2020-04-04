@@ -18,9 +18,9 @@ hero:
 specialtiesHeading:
   display: true
   img: "/img/icon-dental-implants.jpg"
-  content: La utilización de Implantes Oseointegrados en la Rehabilitación Oral de
-    los pacientes parcial o totalmente edéntulos ha sido plenamente consolidada como
-    una alternativa confiable y altamente predecible a largo plazo.
+  content: La utilización de Implantes Dentales Oseointegrados en la Rehabilitación
+    Oral de los pacientes parcial o totalmente edéntulos ha sido plenamente consolidada
+    como una alternativa confiable y altamente predecible a largo plazo.
 paragraphSection:
   body: "<p>Indudablemente, uno de los progresos más espectaculares de la Odontología
     moderna es el desarrollo de los Implantes Dentales. Estos, <strong>son pequeños
