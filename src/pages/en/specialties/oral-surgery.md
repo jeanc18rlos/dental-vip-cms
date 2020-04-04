@@ -147,7 +147,7 @@ faq:
         oral cancer or for the diagnosis of ulcers, erosions and blisters that does
         not show evidence of healing within 5 to 10 days, rapidly growing nodules,
         black lesions, white lesions, red lesions with suspected erythroplasia, lesions
-        without a definite diagnosis, and in some cases; for the study of infectious
+        without a definite diagnosis, and in some cases; for the study of infectious,
         fungal and bacterial diseases. </p>\n"
     - question: What is an apicectomy?
       answer: "<p>Apicectomy is a surgical procedure whose objective is to eliminate
