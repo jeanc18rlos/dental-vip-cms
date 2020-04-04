@@ -167,7 +167,7 @@ faq:
       answer: "<p>Inlays and veneers are partial coating restorations, that is, they
         only replace a part or portion of the tooth; while crowns restore or replace
         the entire visible part thereof. Veneers are indicated on the anterior teeth,
-        the inlays and onlays on the posterior teeth and the crowns on any tooth of
+        the inlays and onlays on the posterior ones and the crowns on any tooth of
         the oral cavity.</p>\n"
     - question: What is better then for a front tooth, a veneer or a crown?
       answer: "<p>It all depends on the clinical conditions and requirements of the
