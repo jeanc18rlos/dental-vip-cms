@@ -104,7 +104,7 @@ faq:
       answer: "<p>When the patient has cavities, active periodontal diseases or extreme
         dental sensitivity. In addition, in cases of intrinsic or excessively dark
         spots such as those caused by tetracyclines, internal pulp hemorrhages, alterations
-        in the histological formation of enamel and dentin, and those caused as a
+        in the histological formation of enamel and dentin; and those caused as a
         result of corrosion of old metal restorations. In these cases, the realization
         of veneers or ceramic crowns would be indicated to achieve the desired color
         change.</p>\n"
