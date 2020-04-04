@@ -97,7 +97,7 @@ faq:
     - question: How are they placed?
       answer: "<p>Through a small surgery, very little invasive, a perforation or
         surgical bed is created in the thickness of the alveolar bone. Next, the implant
-        is introduced by screwing it under pressure so that its surface is in intimate
+        is introduced by screwing it under pressure, so that its surface is in intimate
         contact with the underlying bone tissue. Making simple analogy we can say
         that the surgical phase is quite similar to the way of placing a ramplug on
         a wall. In some cases it is not even necessary to take stitches.</p>\n"

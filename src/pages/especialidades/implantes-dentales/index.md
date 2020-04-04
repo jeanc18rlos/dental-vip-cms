@@ -104,7 +104,7 @@ faq:
     - question: "¿Cómo se colocan?"
       answer: "<p>A través de una pequeña cirugía, muy poco invasiva, se crea una
         perforación o lecho quirúrgico en el espesor del hueso alveolar. Seguidamente,
-        se introduce el implante enroscándolo a presión de modo que su superficie
+        se introduce el implante enroscándolo a presión, de modo que su superficie
         quede en íntimo contacto con el tejido óseo subyacente. Haciendo analogía
         simple podemos decir que la fase quirúrgica es bastante parecida a la forma
         de colocar un ramplug en una pared. En algunos casos ni siquiera es necesario
