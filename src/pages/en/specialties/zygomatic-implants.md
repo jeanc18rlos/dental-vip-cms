@@ -38,7 +38,7 @@ paragraphSection:
     located, it is possible to resort without problems to the placement of autologous
     or synthetic GRAFTS as a prior or simultaneous step to the placement of dental
     implants. However, if the bone loss is very large and widespread, these procedures
-    usually become very uncomfortable, complex, extensive and unpredictable, since
+    usually become very uncomfortable, complex, extensive and unpredictable; since
     they imply the need to generate a large body wound at the level of the pelvis
     or head to collect iliac crest or calotte bone blocks', high chances of rejection
     due to the own cruelty of the surgical technique and a period of tissue healing
