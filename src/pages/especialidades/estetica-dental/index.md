@@ -196,7 +196,7 @@ faq:
     - question: "¿Son todas las carillas de porcelana?"
       answer: "<p>¡No! Pueden fabricarse también de resinas compuestas mediante técnica
         directa, en una sola sesión y sin intervención del laboratorio dental, sin
-        embargo, son mucho menos estéticas, menos resistentes y su vida útil menor
+        embargo; son mucho menos estéticas, menos resistentes y su vida útil menor
         que las de cerámica. Estas últimas pueden permanecer hasta 20 años en boca.</p>\n"
     - question: Si al sonreír muestro gran cantidad de encía, ¿qué se puede hacer?
       answer: "<p>Depende del caso y su etiología. Si la causa de la sonrisa gingival
