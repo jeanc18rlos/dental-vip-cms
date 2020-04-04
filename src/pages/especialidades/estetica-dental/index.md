@@ -124,7 +124,7 @@ faq:
       answer: "<p>Al entrar en contacto con la saliva, se descompone en peróxido de
         hidrógeno y urea. Por su bajo peso molecular, el peróxido de hidrógeno penetra
         con facilidad los prismas de esmalte y canalículos dentinarios, en cuyo interior
-        es metabolizado por ciertas enzimas como la catalasa, peroxidasa e hidroperoxidasa,
+        es metabolizado por ciertas enzimas como la catalasa, peroxidasa e hidroperoxidasa;
         liberándose como producto final moléculas de oxígeno que reblandecen y eliminan
         los pigmentos y desechos interplasmáticos. La luz azul de alta intensidad
         actúa como catalizador suministrándole energía a la solución blanqueadora
