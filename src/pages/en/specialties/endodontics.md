@@ -82,7 +82,7 @@ faq:
     - question: Is it necessary to place anesthesia?
       answer: "<p>Of course! They are usually infected, inflamed or necrotic tissues,
         highly sensitive to clinical manipulation. Fortunately, a good previous diagnosis
-        and an adequate technique of truncal or infiltrative local anesthesia will
+        and an adequate technique of truncal or infiltrative local anesthesia, will
         be sufficient to carry out the procedure without major discomfort for the
         patient.</p>\n"
     - question: Why is it always recommended to isolate the tooth to be treated with
