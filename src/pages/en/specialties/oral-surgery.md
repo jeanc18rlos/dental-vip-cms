@@ -19,7 +19,7 @@ specialtiesHeading:
   display: true
   img: "/img/icon-oral-surgery.jpg"
   content: Avoid pain, complications and bad times. A true Surgeon will be able to
-    carry out a clean, safe, fast and accurate intervention, with hardly any postoperative
+    carry out a clean, safe, fast and accurate intervention with hardly any postoperative
     sequel.
 paragraphSection:
   body: "<p>Although the mouth represents a small and limited region of the human
