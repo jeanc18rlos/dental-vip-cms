@@ -120,7 +120,7 @@ faq:
       answer: "<p>Upon contact with saliva, it decomposes into hydrogen peroxide and
         urea. Due to its low molecular weight, hydrogen peroxide easily penetrates
         enamel prisms and dentinary tubules, inside which it is metabolized by certain
-        enzymes such as catalase, peroxidase and hydroperoxidase, releasing oxygen
+        enzymes such as catalase, peroxidase and hydroperoxidase; releasing oxygen
         molecules as the final product that soften and eliminate pigments and interplasmic
         wastes. The high intensity blue light acts as a catalyst providing energy
         to the bleaching solution to accelerate its diffusion and oxidation within
