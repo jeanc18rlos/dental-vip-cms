@@ -48,7 +48,7 @@ paragraphSection:
     Endodoncista cuenta con los últimos avances tecnológicos como los sistemas rotatorios
     de alta velocidad para la instrumentación mecánica de conductos, </strong>localizador
     electrónico de ápices radiculares, radiología digital computarizada o RADIOVISIOGRAFÍA
-    que reduce al mínimo la emisión de rayos x y modernos sistemas de obturación termoplástica
+    que reduce al mínimo la emisión de rayos X y modernos sistemas de obturación termoplástica
     que disminuyen casi a cero los índices de fracaso clínico y la necesidad de retratamientos,
     cirugías endodónticas periapicales, apicectomías y extracciones dentales.</p>
     \n"
