@@ -110,7 +110,7 @@ faq:
         de colocar un ramplug en una pared. En algunos casos ni siquiera es necesario
         tomar puntos de sutura.</p>\n"
     - question: "¿Es muy doloroso este procedimiento?"
-      answer: "<p>En lo absoluto, siempre y cuando se efectúe bajo una adecuada técnica
+      answer: "<p>En lo absoluto!, siempre y cuando se efectúe bajo una adecuada técnica
         de anestesia local. Nuestro Cirujano Bucal maneja excelentes protocolos quirúrgicos
         y potentes anestésicos que hacen el procedimiento simple, rápido e indoloro.
         El postoperatorio suele ser muy similar al de una extracción dental.</p>\n"
