@@ -142,7 +142,7 @@ faq:
         Las inserciones linguales anómalas generan serias alteraciones de fonética
         y dicción.</p>\n"
     - question: "¿Son comunes los quistes y tumores de la cavidad oral?"
-      answer: "<p>Afortunadamente son patologías de muy baja prevalencia. Sin embargo,
+      answer: "<p>Afortunadamente, son patologías de muy baja prevalencia. Sin embargo,
         una vez detectada su existencia, se hace imperativo estudiar el caso y determinar
         la conducta terapéutica a implementar.</p>\n"
     - question: "¿Qué es una biopsia y para qué se realiza?"
