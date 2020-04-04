@@ -86,7 +86,7 @@ faq:
         luego sobre ellos se cementan o atornillan coronas individuales o prótesis
         fijas exclusivamente implantosoportadas.</p>\n"
     - question: "¿Existen contraindicaciones al tratamiento con implantes?"
-      answer: "<p>Por norma general son las mismas que impiden ejecutar otros procedimientos
+      answer: "<p>Por norma general, son las mismas que impiden ejecutar otros procedimientos
         quirúrgicos como trastornos de coagulación sanguínea, historia reciente de
         infarto agudo al miocardio o accidente cerebrovascular, inmunosupresión severa,
         tumoraciones malignas en tratamiento con químio o radioterapia, artritis reumatoide
