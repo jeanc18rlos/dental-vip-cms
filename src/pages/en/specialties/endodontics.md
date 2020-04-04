@@ -103,7 +103,7 @@ faq:
     - question: What materials are used to fill or seal off the empty root canals?
       answer: "<p>Throughout history a wide variety of materials have been used for
         this purpose, however, none has been shown to meet all desirable requirements
-        of the ideal material. At present, gutta-percha remains the most used, a type
+        of the ideal material. At present gutta-percha remains the most used, a type
         of polymer substance similar to rubber and that is extracted from a tree originating
         from the islands of the Malay archipelago. Additionally, a cement is placed
         that guarantees apical sealing, usually based on calcium hydroxide.</p>\n"
