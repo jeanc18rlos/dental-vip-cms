@@ -99,7 +99,7 @@ faq:
       answer: "<p>Like any aesthetic treatment, the indication of whether or not to
         perform a teeth whitening is determined by the patient's own perception and
         needs. This procedure allows us to remove stains and dental pigmentations
-        of extrinsic origin and clarify the color tone of the entire denture.</p>\n"
+        of extrinsic origin and clarify the color tone of the entire smile.</p>\n"
     - question: When is it contraindicated?
       answer: "<p>When the patient has cavities, active periodontal diseases or extreme
         dental sensitivity. In addition, in cases of intrinsic or excessively dark
