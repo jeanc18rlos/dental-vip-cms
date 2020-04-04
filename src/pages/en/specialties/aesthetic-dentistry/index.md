@@ -64,7 +64,7 @@ faq:
     - question: Why is the use of clinical photography in Aesthetic Dentistry important?
       answer: "<p>An intraoral photograph provides instant visualization of the teeth
         in real time. With it we can see details difficult to appreciate with the
-        naked eye and also allows the patient to opinion and actively participate
+        naked eye, and also, allows the patient to opinion and actively participate
         in the development of your treatment plan. Another advantage of serial photography
         is the storage of images for future comparisons before and after treatment.</p>\n"
     - question: What is a smile design?
