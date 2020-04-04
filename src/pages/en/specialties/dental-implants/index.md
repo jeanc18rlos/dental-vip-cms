@@ -23,7 +23,7 @@ specialtiesHeading:
     and highly predictable alternative in the long term.
 paragraphSection:
   body: "<p>Undoubtedly, one of the most spectacular advances of the modern dentistry
-    is the development of Dental Implants. These <b>are small titanium devices in
+    is the development of Dental Implants. These, <b>are small titanium devices in
     the form of a cylinder and that, due to their high degree of biocompatibility,
     are capable of osseointegrate into the maxillary structures to “ideally” replace
     teeth lost</b> due to decay, trauma and periodontal disease, thus avoiding the
