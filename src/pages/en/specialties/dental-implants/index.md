@@ -102,7 +102,7 @@ faq:
         that the surgical phase is quite similar to the way of placing a ramplug on
         a wall. In some cases it is not even necessary to take stitches.</p>\n"
     - question: Is this procedure very painful?
-      answer: "<p>Not at all, as long as it is performed under a proper local anesthetic
+      answer: "<p>Not at all!, as long as it is performed under a proper local anesthetic
         technique. Our Oral Surgeon handles excellent surgical protocols and powerful
         anesthetics that make the procedure simple, fast and painless. The postoperative
         period is usually very similar to a dental extraction.</p>\n"
