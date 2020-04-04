@@ -109,7 +109,7 @@ faq:
         o sensibildad dental extrema. Además, en los casos de manchas intrínsecas
         o excesivamente oscuras como las ocasionadas por tetraciclinas, hemorragias
         pulpares internas, alteraciones en la formación histológica del esmalte y
-        dentina, y las originadas como producto de la corrosión de antiguas restauraciones
+        dentina; y las originadas como producto de la corrosión de antiguas restauraciones
         metálicas. En estos casos, estaría indicada la realización de carillas o coronas
         cerámicas para lograr el cambio de color deseado.</p>\n"
     - question: "¿Por qué debe realizarlo un Odontólogo?"
