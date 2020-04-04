@@ -142,7 +142,7 @@ faq:
   - questions:
     - question: What is the dental reshaping or cosmetic contouring?
       answer: "<p>Over the years, the teeth wear out and suffer microfractures that
-        alter their natural shape and age the appearance of the denture. With only
+        alter their natural shape and age the appearance of the person. With only
         make small and accurate modifications of the edges and dental angles it is
         possible to immediately recover the lost morphology and the original appearance
         of the smile. It is a painless, fast, safe and very economical procedure.</p>\n"
