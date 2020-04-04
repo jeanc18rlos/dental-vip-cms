@@ -39,7 +39,7 @@ paragraphSection:
     nos permiten por su gran versatilidad modificar a placer la forma, color y tamaño
     de los dientes. En muy pocas citas el resultado salta a la vista y la transformación
     luce espectacular. </strong>Para los casos más complejos contamos con las llamadas
-    CARILLAS DE PORCELANA que son finas láminas de material cerámico que se adhieren
+    CARILLAS DE PORCELANA, que son finas láminas de material cerámico que se adhieren
     firmemente a las estructuras dentarias y que se indican para la corrección de
     los defectos estéticos de mayor extensión y gravedad.</p><p><strong>Hoy en día
     la Odontología Estética prácticamente no tiene límites, </strong>salvo la creatividad,
