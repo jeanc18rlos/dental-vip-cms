@@ -163,8 +163,9 @@ faq:
         the ideal materials for making ceramic prostheses in areas of high mechanical
         compromise. However, like high-strength aluminous, these ceramics are very
         opaque <em>(they do not have a vitreous phase),</em> and therefore they are
-        used only to manufacture the core of the restoration, that is, they must be
-        also coated with conventional porcelain to achieve a good aesthetics.</p>\n"
+        used only to manufacture the core of the restoration, that is to say; they
+        must also be covered with conventional porcelains to achieve a good aesthetic
+        result.</p>\n"
     - question: Are fixed prostheses for a lifetime?
       answer: "<p>Influence so many, but so many factors in the longevity of a fixed
         rehabilitation that no professional is able to predict, for sure, its duration
