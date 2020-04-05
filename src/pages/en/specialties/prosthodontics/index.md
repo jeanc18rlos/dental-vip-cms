@@ -82,8 +82,8 @@ faq:
         can vary from 2 or 3 days for provisional ones to 6 or 7 months for those
         that are manufactured over implants, of course, taking into account the osseointegration
         period. As a general rule and under normal conditions, 3 weeks is the average
-        period of time required to test and complete the vast majority of our definitive
-        restorations, whether fixed or removable.</p>\n"
+        period of time required to do tests and complete the vast majority of our
+        definitive restorations; whether fixed or removable.</p>\n"
     - question: How is a conventional removable prosthesis?
       answer: "<p>They are &ldquo;remove and put&rdquo; devices that can be inserted
         and removed by the patient, rest on the oral mucosa, and if they are partial,
