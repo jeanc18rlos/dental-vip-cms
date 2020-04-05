@@ -69,7 +69,7 @@ testimonial:
     name: Mohammad Byherzade
   - img: "/img/testimonials-viviana.png"
     testimonial: "“Before I was embarrassed to smile because I was not satisfied with
-      the appearance of my teeth. Since I visited DENTAL VIP I feel more comfortable
+      the appearance of my teething. Since I visited DENTAL VIP I feel more comfortable
       and sure of myself. They made me a digital smile design, cut my gums, bleached
       my teeth and placed me four truly spectacular porcelain veneers. I would recommend
       them with my eyes closed”.\n"
