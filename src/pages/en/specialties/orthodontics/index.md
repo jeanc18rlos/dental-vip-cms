@@ -308,7 +308,7 @@ asides:
 '
     content: '<p  style="font-weight:400"><b>Indications for people with fixed appliances.  </b></br></br>Never
       forget that an adequate oral hygiene technique and the permanent collaboration
-      of the patient with his treatment are indispensable requirements for its success.</p>
+      of the patient with his treatment, are indispensable requirements for its success.</p>
 
 '
     image: "/img/sections-orthodontics-brackets-care.jpg"
