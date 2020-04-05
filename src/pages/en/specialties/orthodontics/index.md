@@ -89,7 +89,7 @@ faq:
         maxillary structures.</span></p>\n"
     - question: Why is it important to correct malocclusions and align teeth?
       answer: "<p>Because socially it is very favorable to have a good appearance,
-        and also, in large part; because oral health depends on a correct occlusion
+        and also, because in large part; oral health depends on a correct occlusion
         or bite. Straight and aligned teeth are easier to clean and less susceptible
         to cavities and periodontal diseases.</span></p>\n"
     - question: Do I need a Dentist or an Orthodontist?
