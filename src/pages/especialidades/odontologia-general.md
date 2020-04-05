@@ -137,7 +137,7 @@ faq:
         mejor que los manuales en personas con destreza limitada, artritis, enfermedades
         degenerativas, mentales o que comprometan la capacidad motriz.</p>\n"
     - question: "¿Cada cuánto tiempo se debe visitar al Odontólogo?"
-      answer: "<p>Normalmente se recomienda una vez al año. Afortunadamente el proceso
+      answer: "<p>Normalmente se recomienda una vez al año. Afortunadamente, el proceso
         de desarrollo de caries y sarro es relativamente lento si se practica una
         higiene oral razonable, por lo que un control cada 12 meses será adecuado
         para prevenir enfermedades, detectar y tratar lesiones incipientes y mantener
