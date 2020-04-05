@@ -41,8 +41,8 @@ paragraphSection:
     tratamiento especializado se pierde todo el hueso de sostén y entonces los dientes
     se aflojarán y caerán irremediablemente. </strong></p><p>Otro beneficio adicional
     de esta Especialidad es el que podemos obtener de la llamada CIRUGÍA PLÁSTICA
-    PERIODONTAL que abarca un conjunto de técnicas que permiten al Odontólogo  <strong>modificar
-    el contorno, grosor y forma de las encías,  </strong>logrando efectos estéticos
+    PERIODONTAL, que abarca un conjunto de técnicas que permiten al Odontólogo  <strong>modificar
+    el contorno, grosor y forma de las encías;  </strong>logrando efectos estéticos
     invalorables para los pacientes. Generalmente este tipo de cirugía es complementaria
     a tratamientos de ortodoncia, blanqueamiento y estética dental.</p>"
   image: "/img/aside-periodontics.jpg"
