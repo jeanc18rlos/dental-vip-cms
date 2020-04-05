@@ -80,12 +80,12 @@ faq:
         inflamarse, reabsorberse el hueso alveolar, aflojarse y caerse los pilares;
         para finalmente, perderse prematuramente la prótesis dental.</p>\n"
     - question: "¿Cuánto tiempo toma confeccionar una prótesis dental?"
-      answer: "<p>Depende mucho del caso y tipo de prótesis. Los lapsos pueden variar
-        desde 2 o 3 días para las provisionales hasta los 6 o 7 meses para las que
-        se fabrican sobre implantes, claro está, tomando en consideración el período
-        de oseointegración. Por norma general y en condiciones normales, 3 semanas
-        es el lapso de tiempo promedio necesario para hacer pruebas y culminar la
-        gran mayoría de nuestras restauraciones definitivas, sean fijas o removibles.</p>\n"
+      answer: "<p>Depende mucho del caso y tipo de rehabilitación. Los lapsos pueden
+        variar desde 2 o 3 días para las provisionales hasta los 6 o 7 meses para
+        las que se fabrican sobre implantes, claro está, tomando en consideración
+        el período de oseointegración. Por norma general y en condiciones normales,
+        3 semanas es el lapso de tiempo promedio necesario para hacer pruebas y culminar
+        la gran mayoría de nuestras restauraciones definitivas, sean fijas o removibles.</p>\n"
     - question: "¿Cómo es una prótesis removible convencional?"
       answer: "<p>Son dispositivos de “quita y pon” que pueden ser insertados y retirados
         por el propio paciente, se apoyan sobre la mucosa bucal, y si son parciales,
