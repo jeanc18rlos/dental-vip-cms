@@ -183,10 +183,10 @@ faq:
         deep. A periodontal pocket is a degenerative lesion of the periodontium, an
         abnormal space <em>(greater than 4 mm.)</em> that forms between the gum and
         the tooth, at the level of the gingival groove; as a result of the constant
-        accumulation of plaque and bacteria below of the gum. Due to its depth, the
-        presence of pathological sacs completely impede the removal of dental plaque
-        by the patient and favors the formation of tartar, the destruction of the
-        supporting bone and the aggravation of periodontal disease.</p>\n"
+        accumulation of plaque and bacteria below of the gum. Due to their depth,
+        the presence of pathological sacs completely impede the removal of dental
+        plaque by the patient and favors the formation of tartar, the destruction
+        of the supporting bone and the aggravation of periodontal disease.</p>\n"
     - question: What does it consist of and when is a flap surgery indicated?
       answer: "<p>A periodontal flap is a gum portion that is surgically separated
         from the underlying tissues to allow access, visibility and cleanliness of
