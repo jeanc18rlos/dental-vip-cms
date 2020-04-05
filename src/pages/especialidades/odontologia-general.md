@@ -43,9 +43,9 @@ paragraphSection:
     Generalista debe poseer sólidos conocimientos de patología oral, radiología, periodoncia
     y gnatología</strong> para poder detectar la presencia de lesiones o enfermedades
     en lengua, encías, tejidos blandos y articulaciones temporomandibulares. Debe
-    además ser un verdadero experto en ODONTOLOGÍA RESTAURADORA, ya que usualmente
-    <strong>es el que elabora las preparaciones cavitarias necesarias para el tratamiento
-    de la Caries Dental,</strong> aplicando diseños conservadores y tratando de preservar
+    además ser un verdadero experto en ODONTOLOGÍA OPERATORIA, ya que usualmente <strong>es
+    el que elabora las preparaciones cavitarias necesarias para el tratamiento de
+    la Caries Dental,</strong> aplicando diseños conservadores y tratando de preservar
     en todo momento la vitalidad pulpar, para finalmente; devolver al órgano su anatomía
     y funcionalidad habitual mediante el proceso de restauración dental. Debe por
     tanto conocer y manejar con propiedad los diferentes sistemas adhesivos basados
