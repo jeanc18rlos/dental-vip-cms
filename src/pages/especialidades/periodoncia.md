@@ -202,7 +202,7 @@ faq:
         y la placa de zonas inaccesibles, eliminar o reducir las bolsas periodontales,
         procurar un contorno tisular más favorable e incrementar la cantidad de encía
         adherida. Además, en algunos pacientes con retracciones severas, raíces expuestas
-        o lesiones mucogingivales, un colgajo nos permite desplazar la encía a diferentes
+        o lesiones mucogingivales; un colgajo nos permite desplazar la encía a diferentes
         posiciones para corregir lesiones por defecto.</p>\n"
     - question: "¿Cuándo se coloca un injerto óseo?"
       answer: "<p>Las técnicas quirúrgicas disponibles en la actualidad solo permiten
