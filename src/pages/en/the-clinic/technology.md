@@ -79,7 +79,7 @@ elements:
   bg: "/img/gallery-technology-01.jpg"
   title: DENTAL LASER
   body: "<p>  The EPIC™ diode laser is a state-of-the-art surgical and therapeutic
-    device designed to perform a wide variety of soft tissue procedures, teeth whitening
+    device, designed to perform a wide variety of soft tissue procedures, teeth whitening
     and temporary pain relief.</p>"
   icon: ''
   action: false
