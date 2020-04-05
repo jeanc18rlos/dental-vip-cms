@@ -79,7 +79,7 @@ faq:
         tratada a tiempo, avanza y ataca al hueso alveolar, causando infección, reabsorción
         y pérdida del mismo <em>(Periodontitis)</em> con formación de bolsas o sacos
         periodontales, pus y recesión de la encía. Al perder su hueso de sostén, los
-        dientes se van aflojando progresivamente hasta caerse. A pesar de que la periodontitis
+        dientes se van aflojando progresivamente hasta caerse. A pesar de que la Periodontitis
         puede ser localizada o generalizada, crónica, agresiva, necrotizante, asociada
         a enfermedades sistémicas, a fármacos, a lesiones endoperiodontales o a otras
         afecciones adquiridas, lo más importante es que el Especialista sepa reconocer
