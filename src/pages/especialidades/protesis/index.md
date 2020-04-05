@@ -167,8 +167,9 @@ faq:
         materiales idóneos para elaborar prótesis cerámicas en zonas de alto compromiso
         mecánico. Sin embargo, y al igual que las aluminosas de alta resistencia,
         estas cerámicas son muy opacas <em>(no tienen fase vítrea)</em>, y por ello
-        se emplean únicamente para fabricar el núcleo de la restauración, es decir,
-        deben recubrirse con porcelanas convencionales para lograr una buena estética.</p>\n"
+        se emplean únicamente para fabricar el núcleo de la restauración, es decir;
+        deben también recubrirse con porcelanas convencionales para lograr una buena
+        estética.</p>\n"
     - question: "¿Son las prótesis fijas para toda la vida?"
       answer: "<p>Influyen tantos, pero tantos factores en la longevidad de una rehabilitación
         fija que ningún profesional está en capacidad de predecir, a ciencia cierta,
