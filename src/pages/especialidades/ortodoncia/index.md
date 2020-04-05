@@ -171,7 +171,7 @@ faq:
     - question: "¿Qué cosas no se pueden comer con aparatos dentales?"
       answer: "<p>Prácticamente podrá comer de todo, sin embargo, es recomendable
         evitar algunos alimentos excesivamente duros como el hielo y los huesos, y
-        pegajosos como el chicle, ya que pueden desprender con facilidad los brackets,
+        pegajosos como el chicle; ya que pueden desprender con facilidad los brackets,
         bandas y demás dispositivos.</p>\n"
     - question: "¿Con qué frecuencia se realizan los controles de Ortodoncia?"
       answer: "<p>Generalmente cada 4 semanas, salvo circunstancias especiales.</p>\n"
