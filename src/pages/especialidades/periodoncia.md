@@ -188,7 +188,7 @@ faq:
         inserción epitelial formando un surco <em>(surco gingival)</em> de entre 1
         y 3 mm. de profundidad. Una bolsa es una lesión degenerativa del periodonto,
         un espacio anormal <em>(mayor a 4 mm.)</em> que se forma entre la encía y
-        el diente, a nivel del surco gingival, como consecuencia de la acumulación
+        el diente, a nivel del surco gingival; como consecuencia de la acumulación
         constante de placa y bacterias por debajo de la encía. Por su profundidad,
         la presencia de sacos patológicos imposibilita por completo la remoción de
         la placa dental por parte del paciente y favorece la formación de sarro, la
