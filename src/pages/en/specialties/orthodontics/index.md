@@ -93,7 +93,7 @@ faq:
         or bite. Straight and aligned teeth are easier to clean and less susceptible
         to cavities and periodontal diseases.</span></p>\n"
     - question: Do I need a Dentist or an Orthodontist?
-      answer: "<p>During the Dentistry degree, barely some basic concepts about Orthodontics
+      answer: "<p>During the Dentistry degree barely some basic concepts about Orthodontics
         are taught, therefore additional Specialization studies </span><em>(</em></span><em>University
         Postgraduate degree of 2 or 3 years duration</em><em>) </em></span>are required
         to be truly trained in the area. Keep this always in mind, avoid failures
