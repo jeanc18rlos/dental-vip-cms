@@ -72,7 +72,7 @@ faq:
         based on the knowledge of the craniofacial growth and development process
         and the domain of biomechanics, a science that deals with studying and controlling
         the vectors, intensities, senses and physical effects of the forces that need
-        to be applied on the teeth to move them and correct your position.</span></p>\n"
+        to be applied on the teeth to move them and correct their position.</span></p>\n"
     - question: What is a malocclusion?
       answer: "<p>It is any irregular arrangement of the teeth and jaws that affect
         the aesthetic and masticatory function of the person. There are dental malocclusions
