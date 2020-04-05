@@ -122,20 +122,21 @@ faq:
       answer: "<p>It is a natural tooth that has been carved and worn to serve as
         a pillar to a crown or conventional fixed prosthesis. When the remaining dental
         structure is scarce or weakened, it will be necessary to make an &ldquo;artificial
-        stump&rdquo; that consists of two portions, a root bolt that is housed inside
-        the root canal <em>(endodontic treated and desobturated previously)</em> and
-        a coronal portion that replaces to the dentin lost and reinforces the existing
-        one. Artificial stumps <em>(post and core)</em> can be made with fiberglass-based
-        materials or by foundry and casting of high-strength metal alloys.</p>\n"
+        stump&rdquo; that consists of two portions, a radicular post that is housed
+        inside the root canal <em>(endodontic treated and desobturated previously)</em>
+        and a coronal portion that replaces to the dentin lost and reinforces the
+        existing one. Artificial stumps <em>(post and core)</em> can be made with
+        fiberglass-based materials or by foundry and casting of high-strength metal
+        alloys.</p>\n"
     - question: And stumps carving does not harm teeth?
       answer: "<p>It depends on the case. If the teeth are already very decayed or
         fractured, on the contrary, the carving and subsequent reconstruction of the
         stump will reinforce them, allow their aesthetic restoration and guarantee
         their permanence in the mouth. It would be different if we had to carve completely
         healthy teeth with the sole purpose of replacing other absent teeth using
-        conventional fixed prostheses. Nowadays the main advantage of dental implants
-        is that they allow us to keep intact the neighboring to edentulous spaces
-        teeth.</p>\n"
+        conventional fixed prostheses. Today the main advantage of dental implants
+        is that they allow us to keep intact the neighboring teeth to the edentulous
+        spaces.</p>\n"
     - question: Is it always necessary to perform a root canal before carving a stump?
       answer: "<p>Not always, but in the vast majority of cases. The mechanical drilling
         applied to a vital tooth to wear it and turn it into a stump constitutes a
