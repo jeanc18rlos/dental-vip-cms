@@ -153,7 +153,7 @@ faq:
         and dental plaque accumulated in the teeth, gingival margin and interdental
         spaces, through the use of ultrasonic devices and special dental instruments.
         It should be practiced periodically, every 6 or 12 months, since there are
-        areas in the mouth that not even a correct brushing is able to reach.</p>
+        areas in the mouth that even a correct brushing cannot reach.</p>
 
 '
     - question: What is a tooth polishing?
