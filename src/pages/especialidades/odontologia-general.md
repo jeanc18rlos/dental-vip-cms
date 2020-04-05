@@ -104,7 +104,7 @@ faq:
         precipitación y acumulación progresiva de sales minerales; calcio y fósforo
         principalmente. Por ser una materia mineralizada, rugosa y firmemente adherida
         a los dientes, aloja y retiene enormes cantidades de placa bacteriana en su
-        superficie, y a diferencia de ella, no puede ser removida por el cepillo dental.
+        superficie, y a diferencia de ella; no puede ser removida por el cepillo dental.
         Solo una limpieza profesional podrá eliminarlo.</p>\n"
     - question: "¿Es normal que sangren las encías al cepillarse los dientes?"
       answer: "<p>¡En lo absoluto! Aunque tal fenómeno podría deberse a una condición
