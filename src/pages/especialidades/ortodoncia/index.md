@@ -166,7 +166,7 @@ faq:
       answer: "<p>Por supuesto que la higiene oral es un factor clave para el éxito
         del mismo. Es fundamental cepillarse después de cada comida, utilizar el cepillo
         interdental, hilo dental y enjuague bucal. También se recomiendan chequeos
-        periódicos con el Odontólogo General, y en algunos casos con el Periodoncista,
+        periódicos con el Odontólogo General, y en algunos casos; con el Periodoncista,
         de modo que dientes y encías permanezcan sanos en todo momento.</p>\n"
     - question: "¿Qué cosas no se pueden comer con aparatos dentales?"
       answer: "<p>Prácticamente podrá comer de todo, sin embargo, es recomendable
