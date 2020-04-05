@@ -187,7 +187,7 @@ faq:
     - question: How is special dental floss for prostheses?
       answer: "<p>It usually consists of 3 portions. A first rigid section to be inserted
         directly below the prosthesis, a second spongy section to clean around the
-        restoration, between pillars and between the interdental spaces and a third
+        restoration, between pillars and between the interdental spaces, and a third
         section without wax to remove the gingival groove plaque.</p>\n"
     - question: How is an implant-assisted or implant-supported restoration?
       answer: "<p>It is the one that is retained exclusively by dental implants. There
