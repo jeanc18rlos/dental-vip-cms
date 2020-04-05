@@ -177,7 +177,7 @@ faq:
         as long as the treatment is planned based on a right diagnosis and the patient
         regularly attends his control appointments. Sometimes it is necessary to complement
         these results with procedures of dental aesthetics, whitening or periodontal
-        plastic surgery, so that the teeth look really spectacular.</span></p>\n"
+        plastic surgery; so that the teeth look really spectacular.</span></p>\n"
     - question: Could they move after removing the braces?
       answer: "<p>Dental alignment is a dynamic and changing entity over time, that
         is, teeth tend to move throughout life, with or without prior Orthodontics,
