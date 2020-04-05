@@ -107,7 +107,7 @@ faq:
         y enfermedades sistémicas como diabetes, osteoporosis o estados de inmunosupresión
         severa. Las restauraciones defectuosas, sobrecontorneadas o mal ajustadas,
         los dientes torcidos o apiñados <em>(maloclusiones)</em> y la mala higiene
-        oral, son también factores que desencadenan y estimulan el potencial patógeno
+        oral son también factores que desencadenan y estimulan el potencial patógeno
         de las enfermedades periodontales.</p>\n"
     - question: "¿Existe alguna relación entre enfermedad periodontal y embarazo?"
       answer: "<p>El embarazo causa muchos cambios hormonales que aumentan exponencialmente
