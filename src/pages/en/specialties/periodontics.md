@@ -110,9 +110,9 @@ faq:
         the risk of periodontal disease in women, and this in turn, is associated
         with preeclampsia, low birth weight and premature birth. Periodontal disease,
         by suppose a deposit of microorganisms and their toxic products, can trigger
-        a systemic risk response. Therefore, expectant women should always seek immediate
-        care for periodontal disease and thus reduce the risk of pre and postnatal
-        complications.</p>\n"
+        a response with systemic risk. Therefore, expectant women should always seek
+        immediate care for periodontal disease and thus reduce the risk of pre and
+        postnatal complications.</p>\n"
     - question: How can periodontal diseases be prevented?
       answer: "<p>Keeping gums healthy throughout life should not be as difficult
         as it seems. We only need constancy in the hygiene and care of our mouth,
