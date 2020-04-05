@@ -242,7 +242,7 @@ faq:
         control it so that the implants behave equal and have the same chances of
         success as in a healthy patient. If we take into account, that from the periodontal
         point of view, dental implants are subject to the same risks of infection
-        as natural teeth, we will understand why it is essential, to prevent implants
+        as natural teeth; we will understand why it is essential, to prevent implants
         from running the same fate, that a person who has lost their teeth due to
         failures of oral hygiene be trained and qualified in the techniques of brushing
         and flossing.</p>\n"
