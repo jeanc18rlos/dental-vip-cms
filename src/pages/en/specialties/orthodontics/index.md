@@ -150,7 +150,7 @@ faq:
         be provided with a special wax that you must place on the bracket that is
         bothering you and thus solve the problem.</span></p>\n"
     - question: Do they need to be placed on all teeth?
-      answer: "<p>In the vast majority of cases yes. To obtain optimal results, it
+      answer: "<p>In the vast majority of cases yes. To obtain optimal results it
         is also necessary to place bands </span><em>(metal rings)</em></span> around
         the molars, since these are the ones that provide the necessary anchorage
         to perform and control the vast majority of dental movements contemplated
