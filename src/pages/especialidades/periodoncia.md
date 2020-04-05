@@ -249,9 +249,9 @@ faq:
       answer: "<p>¡Por supuesto que sí!, y es de hecho la alternativa ideal, pero
         nunca en casos de enfermedad periodontal activa. Primero es necesario tratarla
         y controlarla para que los implantes se comporten igual y tengan las mismas
-        probabilidades de éxito que en un paciente sano. Si tomamos en consideración
-        que desde el punto de vista periodontal los implantes dentales están sometidos
-        a los mismos riesgos de infección que los dientes naturales, entenderemos
+        probabilidades de éxito que en un paciente sano. Si tomamos en consideración,
+        que desde el punto de vista periodontal, los implantes dentales están sometidos
+        a los mismos riesgos de infección que los dientes naturales; entenderemos
         por qué es fundamental, para evitar que los implantes corran la misma suerte,
         que una persona que haya perdido sus dientes por carencias de higiene oral
         se entrene y capacite a conciencia en las técnicas de cepillado y uso del
