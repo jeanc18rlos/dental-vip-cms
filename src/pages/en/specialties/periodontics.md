@@ -195,7 +195,7 @@ faq:
         and its basic objectives are to remove calculus and plaque from inaccessible
         areas, eliminate or reduce periodontal pockets, ensure a more favorable tissue
         contour and increase the amount of attached gum. In addition, in some patients
-        with severe retractions, exposed roots or mucogingival defects, a flap allows
+        with severe retractions, exposed roots or mucogingival defects; a flap allows
         us to move the gum to different positions to correct lesions by default.</p>\n"
     - question: When is a bone graft placed?
       answer: "<p>The surgical techniques currently available only allow to graft
