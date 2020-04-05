@@ -167,7 +167,7 @@ faq:
         mecanismos de acción. No obstante, y debido a su carácter crónico, no es viable
         usarlos de forma continua en casos de periodontitis, pues su uso prolongado
         generaría resistencia bacteriana y efectos secundarios inaceptables sobre
-        el organismo. En la actualidad se recomienda utilizar antibióticos solo contra
+        el organismo. En la actualidad, se recomienda utilizar antibióticos solo contra
         las variantes más agresivas, en fase aguda, por un lapso de tiempo bien definido
         y siempre con la ayuda de un cultivo y antibiograma que nos revele el fármaco
         más efectivo para cada situación particular.</p>\n"
