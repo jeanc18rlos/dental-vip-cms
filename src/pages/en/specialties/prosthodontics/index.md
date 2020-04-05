@@ -108,7 +108,7 @@ faq:
         or when its necessary periodic adjustments are not able to guarantee its stability
         and retention. We must understand that traditional removable dentures are
         very poor from the biomechanical point of view, they always generate undesirable
-        forces on the anchor teeth and cause resorption of their supporting tissues,
+        forces on the anchor teeth and cause resorption of their supporting tissues;
         all circumstances that considerably limit their longevity or useful life.</p>\n"
     - question: How is a tooth-supported fixed prosthesis?
       answer: "<p>The classic fixed prosthesis is cemented to the remaining natural
