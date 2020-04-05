@@ -258,7 +258,7 @@ clinicCases:
   - image: "/img/clinic-cases-periodontics-en-04-thumb.jpg"
     title: "<h6>1ST PHASE OF THE PERIODONTAL TREATMENT </h6>\n"
   - image: "/img/clinic-cases-periodontics-en-05-thumb.jpg"
-    title: "<h6>GINGIVAL RECESSION</h6>\n"
+    title: "<h6>GINGIVAL RECESSIONS</h6>"
   - image: "/img/clinic-cases-periodontics-en-06-thumb.jpg"
     title: "<h6>ALTERED PASSIVE ERUPTION</h6>\n"
   - image: "/img/clinic-cases-periodontics-en-07-thumb.jpg"
