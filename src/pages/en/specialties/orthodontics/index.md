@@ -105,7 +105,7 @@ faq:
       answer: "<p>There is no specific age, it all depends on the type and severity
         of the problem. </span>It is ideal to attend to consultation during the mixed
         dentition period </span><em>(between 7 and 9 years old)</em></span> to rule
-        out any dental and especially skeletal alterations, since growth modification
+        out any dental alteration, and especially skeletal; since growth modification
         </span><em>(Orthopedics)</em></span> is only possible before maturity or sexual
         development. Purely dental malocclusions can be treated at any stage of life.</span></p>\n"
     - question: How long does a treatment of this type last?
