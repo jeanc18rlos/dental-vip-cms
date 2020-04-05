@@ -80,7 +80,7 @@ faq:
         bone, the teeth gradually loosen until falling. Although Periodontitis can
         be localized or generalized, chronic, aggressive, necrotizing, associated
         with systemic diseases, drugs, endo-periodontal lesions or other acquired
-        conditions, the most important thing is that the Specialist knows to recognize
+        conditions; the most important thing is that the Specialist knows to recognize
         to which of the variants he faces to be able to establish an adequate and
         effective periodontal treatment that offers the greatest chance of success.</p>\n"
     - question: What are their causes?
