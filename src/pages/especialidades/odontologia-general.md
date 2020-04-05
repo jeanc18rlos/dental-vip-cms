@@ -218,7 +218,7 @@ faq:
         inorgánico que actúa como mineral de relleno. Generalmente son fotosensibles
         y se utiliza luz halógena para su colocación.</p>\n"
     - question: "¿En qué momento es necesario reemplazar una obturación antigua?"
-      answer: "<p>La respuesta es muy sencilla, cuando exista sensibilidad dental,
+      answer: "<p>La respuesta es muy sencilla: cuando exista sensibilidad dental,
         cuando el material esté deteriorado, roto o fracturado, cuando se observe
         filtración marginal y/o caries de recidiva o cuando tras un estudio radiográfico
         se detecte un área radiolúcida coronal que sugiera una falla de tipo cohesivo.</p>\n"
