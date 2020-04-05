@@ -145,7 +145,7 @@ faq:
       answer: "<p>Usually the first 3 or 4 days following the installation of the
         braces are somewhat annoying because it is normal to experience some pain
         when eating and chewing. After this period, the inconveniences are usually
-        limited to occasional minor discomforts, mainly caused by the friction of
+        limited to occasional minor discomforts; mainly caused by the friction of
         the appliances with the inner part of the lips and cheeks. For this you will
         be provided with a special wax that you must place on the bracket that is
         bothering you and thus solve the problem.</span></p>\n"
