@@ -140,7 +140,7 @@ faq:
         con periodontitis, aparte de aprender, dominar y aplicar a conciencia las
         diversas técnicas de higiene oral, debe mantener un control periódico de por
         vida con su Periodoncista, para estabilizar su condición en el tiempo y lograr
-        lo que hoy en día conocemos como un “periodonto sano reducido”, un periodonto
+        lo que hoy en día conocemos como un “periodonto sano reducido”; un periodonto
         afectado hasta cierto punto pero con capacidad de regeneración y sin evidencia
         de enfermedad activa. Bajo esta condición, se podrá conservar la dentición
         natural por muchos años más.</p>\n"
