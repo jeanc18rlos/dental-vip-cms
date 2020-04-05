@@ -168,8 +168,8 @@ faq:
         resistance of the enamel, is antibacterial and promotes remineralization.
         Fluorides directly inhibit the formation of bacterial acids and contribute
         to the incorporation of calcium and phosphate ions in the enamel, decreasing
-        their susceptibility to tooth decay. Normally they are applied in gel form
-        with the use of special trays and directly on the dental surface.</p>\n"
+        its susceptibility to tooth decay. Normally they are applied in gel form with
+        the use of special trays and directly on the dental surface.</p>\n"
     - question: How are cavities formed?
       answer: "<p>If they are not removed periodically, the bacteria contained in
         the dental plaque generate powerful organic acids that attack and demineralize
