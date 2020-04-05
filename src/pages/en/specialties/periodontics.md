@@ -66,7 +66,7 @@ faq:
     - question: How is a healthy gum?
       answer: "<p>Under normal conditions, the gum is fine, thin, resilient, firmly
         adhered to the underlying bone tissue and arranged in such a way that its
-        contours faithfully the cervical surface of the teeth, forming a well-defined
+        contours faithfully the cervical surface of the teeth; forming a well-defined
         scalloping. It must cover the entire root, be coral pink and have a pointed
         surface texture very similar to the peel of an orange.</p>\n"
     - question: How are periodontal diseases classified?
