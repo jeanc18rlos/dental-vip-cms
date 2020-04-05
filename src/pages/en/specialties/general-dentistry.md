@@ -97,7 +97,7 @@ faq:
         and progressive accumulation of mineral salts; calcium and phosphorus mainly.
         Because it is a mineralized, rough and firmly adhered to the teeth material,
         it houses and retains enormous amounts of bacterial plaque on its surface,
-        and unlike it, it cannot be removed by the toothbrush. Only a professional
+        and unlike it; it cannot be removed by the toothbrush. Only a professional
         cleaning can eliminate it.</p>\n"
     - question: Is it normal for the gums to bleed when I brushing my teeth?
       answer: "<p>At all! Although such a phenomenon could be due to a systemic condition,
