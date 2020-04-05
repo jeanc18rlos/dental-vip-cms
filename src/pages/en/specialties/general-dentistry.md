@@ -184,7 +184,7 @@ faq:
       answer: "<p>It depends on the development, extension and depth of them. If it
         is incipient or moderate all infected tissue is removed and the cavity is
         sealed with a special material, usually based on Dental Composite Resins.
-        In more advanced states, caries usually affects the dental pulp or nerve of
+        In more advanced states caries usually affects the dental pulp or nerve of
         the tooth and it is then necessary to perform a Root Canal Treatment. In addition,
         after Endodontics, a Ceramic Inlay or Crown is usually indicated to protect
         the weakened remaining dental structure and prevent its fracture.</p>\n"
