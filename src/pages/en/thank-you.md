@@ -30,7 +30,7 @@ elements:
   placeholder: View more
   body: |
     <p class="dv-text-feat">
-      On the forefront of equipment and digital processes!
+      On the forefront of equipments and digital processes!
     </p>
   action: false
 - link: "/profesionales/"
