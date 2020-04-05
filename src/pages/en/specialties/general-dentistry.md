@@ -67,7 +67,7 @@ faq:
   blocks:
   - questions:
     - question: What are the most common diseases that affect teeth and gums?
-      answer: "<p>The most frequent oral diseases are caries and periodontal conditions
+      answer: "<p>The most frequent oral pathologies are caries and periodontal conditions
         <em>(gingivitis and periodontitis)</em>. Then, to a lesser extent, infectious
         diseases of bacterial origin, physical trauma, congenital lesions and mouth
         cancer. According to the World Health Organization between 60% to 90% of school-age
