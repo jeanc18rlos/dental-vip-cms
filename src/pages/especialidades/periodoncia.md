@@ -95,7 +95,7 @@ faq:
     - question: "¿A qué edad suelen aparecer?"
       answer: "<p>Con excepción de la gingivitis, las enfermedades periodontales rara
         vez se diagnostican antes de los 15 años de edad, aunque de hacerlo, es bajo
-        formas muy severas y agresivas que amenazan seriamente a la dentición, e incluso,
+        formas muy severas y agresivas que amenazan seriamente a la dentición, e incluso;
         a la salud general del niño. Normalmente aparecen en adultos, iniciando sus
         primeras manifestaciones a temprana edad, en torno a los 25 años. Cuanto más
         joven sea el individuo al momento de aparecer, más severa será probablemente
