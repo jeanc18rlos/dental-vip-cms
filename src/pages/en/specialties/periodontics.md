@@ -39,8 +39,8 @@ paragraphSection:
     of advanced phases of it. <strong>Without specialized treatment all the support
     bone is lost and then the teeth will loosen and fall </strong><strong><br /> irremedibly</strong><strong>.</strong></p>
     <p>Another additional benefit of this Specialty is that we can obtain from the
-    so-called PERIODONTAL PLASTIC SURGERY that includes a set of techniques that allow
-    the Dentist <strong>to modify the gum's contour, thickness and shape</strong>,
+    so-called PERIODONTAL PLASTIC SURGERY, that includes a set of techniques that
+    allow the Dentist <strong>to modify the gum's contour, thickness and shape</strong>;
     achieving invaluable aesthetic effects for patients. Generally this type of surgery
     is complementary to treatments of orthodontics, whitening and dental aesthetics.</p>
     \ "
