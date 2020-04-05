@@ -223,8 +223,8 @@ faq:
         the upper or lower arch <em>(depending on the characteristics of the case)</em>
         of the patient, and which is used for palliative treatment of Bruxism and
         to reduce muscle hyperactivity associated with occlusal, functional and inflammatory
-        disorders of the temporomandibular joint <em>(TMJ)</em>. We also indicate
-        it routinely as a protective device in patients with extensive fixed or implant-supported
+        disorders of the temporomandibular joint <em>(TMJ)</em>. Also, we indicate
+        it routinely as a protective device in patients with extensive fixed or implant-assisted
         rehabilitations.</p>\n"
 clinicCases:
   title: General Dentistry - Clinical Cases
