@@ -133,7 +133,7 @@ faq:
         so a check every 12 months will be adequate to prevent diseases, detect and
         treat incipient lesions and maintain healthy mouth, teeth and gums. However,
         for some people with pre-existing pathologies, extensive oral rehabilitations,
-        dental implants, orthodontic treatments or bad habits, a higher frequency
+        dental implants, orthodontic treatments or bad habits; a higher frequency
         may be necessary, which can range between 2 and 4 times a year. A typical
         case is that of those patients who suffer from gingivitis or chronic periodontitis,
         and who usually require permanent periodontal support therapy.</p>\n"
