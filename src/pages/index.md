@@ -80,7 +80,7 @@ testimonial:
     position: Médico Cirujano
     name: Viviana Hernández
   - img: "/img/testimonials-carlos.png"
-    testimonial: "“Luego de dos tratamientos de Ortodoncia y más de 5 años con brackets
+    testimonial: "“Luego de dos tratamientos de Ortodoncia y más de 5 años con brackets,
       pensé que mi caso ya no tenía solución. Casi sin esperanzas, y solo por los
       resultados que observé en mi prima Marta, decidí visitar al Dr. José Miguel
       Gómez. En solo 3 meses con mis nuevos aparatos noté una mejoría impresionante,
