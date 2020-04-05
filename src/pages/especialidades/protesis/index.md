@@ -111,7 +111,7 @@ faq:
         su estabilidad y retención. Debemos entender que las dentaduras removibles
         tradicionales son muy pobres desde el punto de vista biomecánico, generan
         siempre fuerzas indeseables sobre sus dientes pilares y causan reabsorción
-        de sus tejidos de soporte, circunstancias todas que limitan considerablemente
+        de sus tejidos de soporte; circunstancias todas que limitan considerablemente
         su longevidad o vida útil.</p>\n"
     - question: "¿Cómo es una prótesis fija dentosoportada?"
       answer: "<p>La prótesis fija clásica va cementada a los dientes naturales remanentes,
