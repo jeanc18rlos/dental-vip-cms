@@ -74,7 +74,7 @@ faq:
     - question: "¿Cómo se clasifican las enfermedades periodontales?"
       answer: "<p>Aunque su clasificación científica es sumamente amplia y compleja,
         bastaría con saber que de todas las enfermedades periodontales la gingivitis
-        es la más común, leve y de mejor pronóstico, ya que su evolución solo afecta
+        es la más común, leve y de mejor pronóstico; ya que su evolución solo afecta
         a la encía marginal y sus daños son totalmente reversibles. Pero si no es
         tratada a tiempo, avanza y ataca al hueso alveolar, causando infección, reabsorción
         y pérdida del mismo <em>(periodontitis)</em> con formación de bolsas o sacos
