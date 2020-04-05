@@ -182,7 +182,7 @@ faq:
         insertion forming a groove <em>(gingival groove)</em> of between 1 and 3 mm.
         deep. A periodontal pocket is a degenerative lesion of the periodontium, an
         abnormal space <em>(greater than 4 mm.)</em> that forms between the gum and
-        the tooth, at the level of the gingival groove, as a result of the constant
+        the tooth, at the level of the gingival groove; as a result of the constant
         accumulation of plaque and bacteria below of the gum. Due to its depth, the
         presence of pathological sacs completely impede the removal of dental plaque
         by the patient and favors the formation of tartar, the destruction of the
