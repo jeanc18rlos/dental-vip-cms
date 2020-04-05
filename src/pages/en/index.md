@@ -63,8 +63,8 @@ testimonial:
     testimonial: "“After 11 implants and 11 ceramic crowns in the center, I have always
       had very good experiences. I was honestly very satisfied with the services of
       DENTAL VIP. Implants are a great success, and the only thing I regret is not
-      having done it before. Thanks to everyone, and especially Dr. Garabán, for his
-      patience, human quality and professional ethics”.\n"
+      having done it before. Thanks to everyone, and especially to Dr. Garabán, for
+      his patience, human quality and professional ethics”.\n"
     position: Businessman
     name: Mohammad Byherzade
   - img: "/img/testimonials-viviana.png"
