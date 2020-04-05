@@ -90,8 +90,8 @@ faq:
         are retained with hooks that surround some natural teeth. They are usually
         made with chromium-cobalt metal alloys, thermopolymerizable acrylic resin
         and thermoplastic nylon by injection. Due to their great aesthetic and functional
-        limitations, we only indicate them as provisional or transitional structures
-        in extensive rehabilitations, or definitive, only in those cases where really
+        limitations we only indicate them as provisional or transitional structures
+        in extensive rehabilitations, or definitive; only in those cases where really
         no other alternative applies.</p>\n"
     - question: What care should be taken with such a denture?
       answer: "<p>Periodic professional controls and scrupulous oral hygiene to avoid
