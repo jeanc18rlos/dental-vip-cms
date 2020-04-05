@@ -188,7 +188,7 @@ faq:
     - question: Are they only used to fix complete dentures, that is, when all teeth
         are missing?
       answer: "<p>Yes in the past, since it was a procedure designed for this purpose,
-        with 4 implants in total, 2 on each side of the upper jaw. However, at present,
+        with 4 implants in total, 2 on each side of the upper jaw. However, at present
         modifications of the original technique are applied that allow the Zygomatic
         or Pterygoid Implant to be placed in a suitable position and compatible with
         a rehabilitation based on fixed partial prosthodontics <em>(crowns and ceramic
