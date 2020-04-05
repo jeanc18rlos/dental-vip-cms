@@ -86,7 +86,7 @@ faq:
         definitive restorations; whether fixed or removable.</p>\n"
     - question: How is a conventional removable prosthesis?
       answer: "<p>They are &ldquo;remove and put&rdquo; devices that can be inserted
-        and removed by the patient, rest on the oral mucosa, and if they are partial,
+        and removed by the patient, rest on the oral mucosa, and if they are partial;
         are retained with hooks that surround some natural teeth. They are usually
         made with chromium-cobalt metal alloys, thermopolymerizable acrylic resin
         and thermoplastic nylon by injection. Due to their great aesthetic and functional
