@@ -192,7 +192,7 @@ faq:
       answer: "<p>Consta generalmente de 3 porciones. Un primer tramo rígido para
         poder insertarlo directamente por debajo de la prótesis, un segundo tramo
         esponjoso para limpiar alrededor de la restauración, entre pilares y entre
-        los espacios interdentales y un tercer tramo sin cera para remover la placa
+        los espacios interdentales; y un tercer tramo sin cera para remover la placa
         del surco gingival.</p>\n"
     - question: "¿Cómo es una prótesis implantoasistida o implantosoportada?"
       answer: "<p>Es la que va retenida exclusivamente por implantes dentales. Existen
