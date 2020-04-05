@@ -42,7 +42,7 @@ paragraphSection:
     in children and adolescents, through the use of DENTOFACIAL ORTHOPEDICS and functional
     jaw orthopedics devices <em>(removable appliances)</em> that allow us to recover
     the facial and biological balance lost by developmental disorders.<strong> In
-    the extreme cases of severe dentofacial deformities, a combined Orthodontic-Surgical
+    the extreme cases of severe dentofacial deformities a combined Orthodontic-Surgical
     approach is already necessary</strong>, so that the execution of the treatment
     implies the joint and coordinated participation with the Maxillofacial Surgeon,
     who will be responsible for repositioning the affected maxillary structures through
