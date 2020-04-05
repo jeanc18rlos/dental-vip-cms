@@ -315,7 +315,7 @@ asides:
 '
     content: '<p  style="font-weight:400"><b>Indicaciones para personas con aparatos
       fijos. </b></br></br>Jamás olvide que una adecuada técnica de higiene oral y
-      la permanente colaboración del paciente con su tratamiento son requisitos indispensables
+      la permanente colaboración del paciente con su tratamiento, son requisitos indispensables
       para el éxito del mismo.</p>
 
 '
