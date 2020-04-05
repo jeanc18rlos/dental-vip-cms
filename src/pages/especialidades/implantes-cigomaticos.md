@@ -227,7 +227,7 @@ faq:
         aunque sea una provisional?"
       answer: "<p>Muchas veces sí, ya que el anclaje multicortical y el probado diseño
         del ápice de estos implantes proporcionan generalmente una gran estabilidad
-        primaria. No obstante, es solo después de la cirugía, que se decidirá si se
+        primaria. No obstante, es solo después de la cirugía que se decidirá si se
         instala una prótesis fija o una convencional con alivios en las zonas donde
         emerjan las plataformas intraorales. Luego, una vez transcurrido el período
         de oseointegración, al cabo de 4, 5 o 6 meses, es que se realiza la rehabilitación
@@ -350,9 +350,7 @@ asides:
         to: "/"
         display: true
   - align: right
-    title: '<h3 style="color:#333;font-family:''Bebas Neue Bold''">SOLUCIONES PROTÉSICAS</h3>
-
-'
+    title: <h3 style="color:#333;font-family:'Bebas Neue Bold'">PRÓTESIS SOBRE IMPLANTES</h3>
     content: '<p style="font-weight:400">Al igual que con los implantes dentales convencionales,
       son variadas las opciones disponibles a la hora de rehabilitar Implantes Cigomáticos.
       Aunque el diseño y confección de dentaduras híbridas metal-acrílico suele ser
