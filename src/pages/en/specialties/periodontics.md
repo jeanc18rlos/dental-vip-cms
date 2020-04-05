@@ -158,7 +158,7 @@ faq:
         diagnosis and control of the disease.</p>\n"
     - question: Are antibiotics useful in general therapy?
       answer: "<p>Antibiotics are substances capable of eliminating or inactivating
-        bacteria, and periodontal disease as an infection is susceptible to their
+        bacteria, and periodontal disease as an infection, is susceptible to their
         mechanisms of action. However, and due to its chronic nature, it is not feasible
         to use them continuously in cases of periodontitis, since their prolonged
         use would generate bacterial resistance and unacceptable side effects on the
