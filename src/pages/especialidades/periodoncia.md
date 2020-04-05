@@ -24,7 +24,7 @@ paragraphSection:
   body: "<p>Esta Especialidad Odontológica se encarga de la prevención, diagnóstico
     y tratamiento de todas las enfermedades infecciosas <i>(GINGIVITIS y PERIODONTITIS)</i>
     que atacan al aparato de fijación de los dientes: encías, hueso alveolar, cemento
-    y ligamento periodontal, y que son las responsables hasta del 80% de las pérdidas
+    y ligamento periodontal; y que son las responsables hasta del 80% de las pérdidas
     dentarias en sujetos mayores de 35 años.  <strong>No basta con unos dientes sanos,
     la salud de las encías es tan o más importante que permanecer libre de caries.
     </strong></p><p><strong>Usualmente, el tratamiento consiste en la eliminación
