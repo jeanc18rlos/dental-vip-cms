@@ -200,11 +200,11 @@ faq:
     - question: What are and how are Dental Composites placed?
       answer: "<p>They are synthetic materials mixed heterogeneously to form a single
         compound of varied elements. They are used in Dentistry to fill teeth because
-        they are very aesthetic and also because they adhere micromechanically to
-        their surface using the acid etching technique. Composite Resins consist of
-        a polymeric organic component called matrix and an inorganic component that
-        acts as a filler mineral. They are generally photosensitive and halogen light
-        is used for placement.</p>\n"
+        they are very aesthetic, and in addition, because they adhere micromechanically
+        to their surface using the acid etching technique. Composite Resins consist
+        of a polymeric organic component called matrix and an inorganic component
+        that acts as a filler mineral. They are generally photosensitive and halogen
+        light is used for placement.</p>\n"
     - question: When is it necessary to replace an old filling?
       answer: "<p>The answer is very simple, when there is dental sensitivity, when
         the material is damaged, broken or fractured, when marginal filtration and/or
