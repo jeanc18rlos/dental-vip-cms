@@ -147,7 +147,7 @@ faq:
         ways, either in the form of filler material, resorbable membranes or with
         substances derived from organic proteins that stimulate bone growth. These
         procedures are complex and require a high professional qualification, but
-        we reiterate, they are only possible in some very specific occasions, generally
+        we reiterate, they are only possible in some very specific occasions; generally
         in well-defined vertical defects.</p>\n"
   - questions:
     - question: Is the dental mobility produced by periodontitis reversible?
