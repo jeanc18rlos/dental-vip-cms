@@ -67,7 +67,7 @@ faq:
     - question: "¿Cómo es una encía sana?"
       answer: "<p>En condiciones de normalidad, la encía es fina, delgada, resiliente,
         firmemente adherida al tejido óseo subyacente y dispuesta de tal forma que
-        contornea fielmente a la superficie cervical de los dientes, conformando un
+        contornea fielmente a la superficie cervical de los dientes; conformando un
         festoneado bien definido. Debe cubrir la totalidad de la raíz, ser de color
         rosa coral y poseer una textura superficial puntillada muy similar a la cáscara
         de una naranja.</p>\n"
