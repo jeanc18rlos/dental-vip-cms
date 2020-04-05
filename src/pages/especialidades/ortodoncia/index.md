@@ -96,7 +96,7 @@ faq:
         a las caries y enfermedades periodontales.</p>\n"
     - question: "¿Necesito un Odontólogo o un Ortodoncista?"
       answer: "<p>Durante la carrera de Odontología apenas se imparten algunos conceptos
-        básicos acerca de Ortodoncia, por lo tanto se requieren estudios adicionales
+        básicos acerca de Ortodoncia, por lo tanto, se requieren estudios adicionales
         de Especialización <em>(Postgrado Universitario de 2 o 3 años de duración)</em>
         para estar verdaderamente capacitado en el área. Tenga esto siempre presente,
         evite fracasos y malas experiencias que lamentablemente son muy comunes. Los
