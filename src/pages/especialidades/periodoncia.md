@@ -152,7 +152,7 @@ faq:
         de membranas reabsorbibles o con sustancias derivadas de las proteínas orgánicas
         que estimulan el crecimiento óseo. Estos procedimientos son complejos y requieren
         de una alta cualificación profesional, pero reiteramos, no son posibles más
-        que en algunas ocasiones muy puntuales, generalmente en defectos verticales
+        que en algunas ocasiones muy puntuales; generalmente en defectos verticales
         bien definidos.</p>\n"
   - questions:
     - question: "¿Es reversible la movilidad dental producida por la periodontitis?"
