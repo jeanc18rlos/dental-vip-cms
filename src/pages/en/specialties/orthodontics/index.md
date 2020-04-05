@@ -180,7 +180,7 @@ faq:
         plastic surgery; so that the teeth look really spectacular.</span></p>\n"
     - question: Could they move after removing the braces?
       answer: "<p>Dental alignment is a dynamic and changing entity over time, that
-        is, teeth tend to move throughout life, with or without prior Orthodontics,
+        is, teeth tend to move throughout life, with or without prior Orthodontics;
         so the retention phase is the longest and most complex of an orthodontic treatment
         and requires excellent collaboration by the patient.</span></p>\n"
     - question: What are the retainers and what are they for?
