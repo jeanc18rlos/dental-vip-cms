@@ -29,13 +29,13 @@ paragraphSection:
     gums is as or more important than staying caries free.</strong></p> <p><strong>Usually,
     treatment involves the elimination and control of local infectious irritants such
     as bacterial plaque and dental calculus</strong> through deep tartrectomies <em>(cleanings)</em>
-    and the teaching of proper oral hygiene techniques. In more advanced cases, it
+    and the teaching of proper oral hygiene techniques. In more advanced cases it
     is usually necessary to implement more complex surgical procedures that involve
     scaling&nbsp;and&nbsp;root planing, periodontal flaps, bone grafts, membranes
     placement and the so-called GUIDED TISSUE REGENERATION.</p> <p><strong>Periodontal
     Disease is almost always asymptomatic in its early stages, which is why it is
     so dangerous and destructive</strong>. When the first signs such as brushing bleeding,
-    tooth separation and dental mobility appear, we are generally in the presence
+    tooth separation and dental mobility appear; we are generally in the presence
     of advanced phases of it. <strong>Without specialized treatment all the support
     bone is lost and then the teeth will loosen and fall </strong><strong><br /> irremedibly</strong><strong>.</strong></p>
     <p>Another additional benefit of this Specialty is that we can obtain from the
