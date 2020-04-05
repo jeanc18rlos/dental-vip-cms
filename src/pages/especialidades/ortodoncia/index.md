@@ -91,7 +91,7 @@ faq:
         las estructuras maxilares displásicas.</p>\n"
     - question: "¿Por qué es importante corregir las maloclusiones y alinear los dientes?"
       answer: "<p>Porque socialmente es muy favorable tener buena apariencia, y además,
-        en gran parte; la salud bucal depende de una correcta oclusión o mordida.
+        porque en gran parte; la salud bucal depende de una correcta oclusión o mordida.
         Unos dientes derechos y alineados son más fáciles de limpiar y menos susceptibles
         a las caries y enfermedades periodontales.</p>\n"
     - question: "¿Necesito un Odontólogo o un Ortodoncista?"
