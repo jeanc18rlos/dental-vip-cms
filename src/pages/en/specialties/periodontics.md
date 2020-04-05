@@ -77,7 +77,7 @@ faq:
         is not treated on time, it advances and attacks the alveolar bone, causing
         infection, reabsorption and loss of it <em>(Periodontitis)</em> with formation
         of periodontal sacs, pus and recession of the gum. When losing their support
-        bone, the teeth gradually loosen until falling. Although periodontitis can
+        bone, the teeth gradually loosen until falling. Although Periodontitis can
         be localized or generalized, chronic, aggressive, necrotizing, associated
         with systemic diseases, drugs, endo-periodontal lesions or other acquired
         conditions, the most important thing is that the Specialist knows to recognize
