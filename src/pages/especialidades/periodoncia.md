@@ -82,7 +82,7 @@ faq:
         dientes se van aflojando progresivamente hasta caerse. A pesar de que la Periodontitis
         puede ser localizada o generalizada, crónica, agresiva, necrotizante, asociada
         a enfermedades sistémicas, a fármacos, a lesiones endoperiodontales o a otras
-        afecciones adquiridas, lo más importante es que el Especialista sepa reconocer
+        afecciones adquiridas; lo más importante es que el Especialista sepa reconocer
         a cuál de las variantes se enfrenta para poder instaurar un tratamiento periodontal
         adecuado, eficaz y que ofrezca las mayores posibilidades de éxito.</p>\n"
     - question: "¿Cuáles son sus causas?"
