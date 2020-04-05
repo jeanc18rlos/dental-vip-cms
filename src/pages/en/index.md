@@ -76,7 +76,7 @@ testimonial:
     position: General Physician
     name: Viviana Hernández
   - img: "/img/testimonials-carlos.png"
-    testimonial: "“After two orthodontic treatments and more than 5 years with braces,
+    testimonial: "“After two Orthodontic treatments and more than 5 years with braces,
       I thought that my case had no solution. Almost without hope, and only because
       of the results I observed in my cousin Marta, I decided to visit Dr. José Miguel
       Gómez. In just 3 months with my new brackets I noticed an impressive improvement,
