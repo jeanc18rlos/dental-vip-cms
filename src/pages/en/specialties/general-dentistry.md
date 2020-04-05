@@ -137,7 +137,7 @@ faq:
         may be necessary, which can range between 2 and 4 times a year. A typical
         case is that of those patients who suffer from gingivitis or chronic periodontitis,
         and who usually require permanent periodontal support therapy.</p>\n"
-    - question: Why are several x-rays necessary to make a good Oral Diagnosis?
+    - question: Why are several X-rays necessary to make a good Oral Diagnosis?
       answer: "<p>Because they expose details that are not accessible to the human
         eye. Only through radiological images we will can detect the very frequent
         proximal caries <em>(those that form on the contact surfaces of the teeth)</em>,
