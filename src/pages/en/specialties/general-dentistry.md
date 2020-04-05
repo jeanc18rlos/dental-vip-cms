@@ -24,7 +24,7 @@ paragraphSection:
   body: "<p><strong>The General Dentist is trained to prevent, diagnose and treat
     common problems of the general public</strong>. If you require a ROUTINE CHECK
     or Basic Dentistry such as caries removal, cleaning, prophylaxis or oral prosthesis
-    without aesthetic, functional or periodontal compromise, a general practice professional
+    without aesthetic, functional or periodontal compromise; a general practice professional
     can provide an excellent service. However, because the different areas of Dentistry
     have become increasingly complex and highly technified, <strong>there are numerous
     cases that require the intervention of professionals with long and intensive training
