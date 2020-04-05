@@ -110,7 +110,7 @@ faq:
         development. Purely dental malocclusions can be treated at any stage of life.</span></p>\n"
     - question: How long does a treatment of this type last?
       answer: "<p>It also depends on the case, but as a general rule the time varies
-        between 18 and 24 months. In those patients with severe abnormalities, the
+        between 18 and 24 months. In those patients with severe abnormalities the
         duration may be longer by virtue of the degree of skeletal and dental involvement.</span></p>\n"
     - question: Is it always necessary to extract permanent teeth?
       answer: "<p>Of course not! This is determined based on the dento-maxillary discrepancy
