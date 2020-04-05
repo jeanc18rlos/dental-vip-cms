@@ -180,7 +180,7 @@ faq:
         satisfactorios siempre y cuando el tratamiento se planifique en base a un
         diagnóstico acertado y el paciente acuda regularmente a sus citas de control.
         Algunas veces es necesario complementar estos resultados con procedimientos
-        de estética dental, blanqueamiento o cirugía plástica periodontal, de modo
+        de estética dental, blanqueamiento o cirugía plástica periodontal; de modo
         que los dientes luzcan realmente espectaculares.</p>\n"
     - question: "¿Se pudieran mover después de retirar los aparatos?"
       answer: "<p>La alineación dental es una entidad dinámica y cambiante a lo largo
