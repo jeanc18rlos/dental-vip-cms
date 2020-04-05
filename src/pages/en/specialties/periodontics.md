@@ -23,7 +23,7 @@ specialtiesHeading:
 paragraphSection:
   body: "<p>This Dental Specialty is focusing in the prevention, diagnosis and treatment
     of all infectious diseases <em>(GINGIVITIS and PERIODONTITIS)</em> that attack
-    the teeth fixation apparatus: gums, alveolar bone, cement and periodontal ligament,
+    the teeth fixation apparatus: gums, alveolar bone, cement and periodontal ligament;
     and which are responsible for up to 80 % of dental losses in subjects over 35
     years old. <strong>It is not enough with have healthy teeth, the health of the
     gums is as or more important than staying caries free.</strong></p> <p><strong>Usually,
