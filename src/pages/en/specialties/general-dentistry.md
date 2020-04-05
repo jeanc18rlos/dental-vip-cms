@@ -40,7 +40,7 @@ paragraphSection:
     country.</p><p><strong>The Generalist must have solid knowledge of oral pathology,
     radiology, periodontics and gnatology</strong> to be able to detect the presence
     of lesions or diseases in the tongue, gums, soft tissues and temporomandibular
-    joints. He must also be an expert in RESTORATIVE DENTISTRY, since <strong>he is
+    joints. He must also be an expert in OPERATIVE DENTISTRY, since <strong>he is
     usually the one who does the cavitary preparations necessary for the treatment
     of Dental Caries</strong>, applying conservative designs and trying to preserve
     pulp vitality at all times, to finally; return to the organ its usual anatomy
