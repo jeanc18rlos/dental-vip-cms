@@ -147,7 +147,7 @@ sections:
       asistencial</strong> que puede poner en riesgo su salud y hacerle presa fácil
       de la mala praxis profesional. Trabajar muy rápido, atender muchos pacientes,
       delegar funciones y escatimar al máximo en formación académica, infraestructura,
-      tecnología, bioseguridad y gastos de material clínico es filosofía común en
+      tecnología, bioseguridad y gastos de material clínico; es filosofía común en
       aquellos que ofertan odontología barata. </p> <p class="light-font">DENTAL VIP
       ofrece <strong>dedicación, personalización, excelencia y exclusividad,</strong>
       combinando lo mejor de la Odontología Integral Especializada con la tecnología
