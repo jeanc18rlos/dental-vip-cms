@@ -117,10 +117,10 @@ faq:
         the use of the conventional brush, interproximal brush, dental floss and mouthwash.
         Optimal brushing takes at least three minutes of time and to perform it properly
         we must place the bristles on the dental surface and its adjacent gum with
-        an angle of 45 degrees, then apply short and smooth horizontal movements paying
-        special attention to the tooth-gum interface, hard to reach back teeth and
-        areas where there are fillings, crowns, orthodontic appliances or dental implants.
-        Never forget to brush your tongue.</p>\n"
+        an angle of 45 degrees, to then, apply short and smooth horizontal movements
+        paying special attention to the tooth-gum interface, hard to reach back teeth
+        and areas where there are fillings, crowns, orthodontic appliances or dental
+        implants. Never forget to brush your tongue.</p>\n"
     - question: Are electric brushes better than manual ones?
       answer: "<p>Both are definitely effective, with both types you can achieve optimal
         and adequate tooth brushing. You can use the one that suits you, as long as
