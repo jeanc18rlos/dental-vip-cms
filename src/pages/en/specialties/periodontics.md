@@ -135,7 +135,7 @@ faq:
         from learning, mastering and conscientiously applying the various oral hygiene
         techniques, must maintain a regular lifetime control with his Periodontist,
         to stabilize his condition over time and achieve what we know today as a "reduced
-        but healthy periodontium", a periodontium affected to some extent but with
+        but healthy periodontium"; a periodontium affected to some extent but with
         a capacity for regeneration and no evidence of active disease. Under this
         condition, natural dentition may be preserved for many more years.</p>
 
