@@ -85,7 +85,7 @@ faq:
         las que se fabrican sobre implantes, claro está, tomando en consideración
         el período de oseointegración. Por norma general y en condiciones normales,
         3 semanas es el lapso de tiempo promedio necesario para hacer pruebas y culminar
-        la gran mayoría de nuestras restauraciones definitivas, sean fijas o removibles.</p>\n"
+        la gran mayoría de nuestras restauraciones definitivas; sean fijas o removibles.</p>\n"
     - question: "¿Cómo es una prótesis removible convencional?"
       answer: "<p>Son dispositivos de “quita y pon” que pueden ser insertados y retirados
         por el propio paciente, se apoyan sobre la mucosa bucal, y si son parciales,
