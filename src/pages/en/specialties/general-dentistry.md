@@ -204,7 +204,7 @@ faq:
         to their surface using the acid etching technique. Composite Resins consist
         of a polymeric organic component called matrix and an inorganic component
         that acts as a filler mineral. They are generally photosensitive and halogen
-        light is used for placement.</p>\n"
+        light is used for their placement.</p>\n"
     - question: When is it necessary to replace an old filling?
       answer: "<p>The answer is very simple, when there is dental sensitivity, when
         the material is damaged, broken or fractured, when marginal filtration and/or
