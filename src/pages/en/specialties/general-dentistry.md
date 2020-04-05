@@ -248,7 +248,7 @@ clinicCases:
   - image: "/img/clinic-cases-general-dentistry-en-09-thumb.jpg"
     title: "<h6>FRACTURED INCISAL EDGE </h6>"
   - image: "/img/clinic-cases-general-dentistry-en-10-thumb.jpg"
-    title: "<h6>TONGUE INJURY TREATMENT </h6>"
+    title: "<h6>TONGUE LESION TREATMENT </h6>"
   - image: "/img/clinic-cases-general-dentistry-en-11-thumb.jpg"
     title: "<h6>DENTO-MUCO-SUPPORTED PROSTHESIS REPLACEMENT </h6>\n"
   - image: "/img/clinic-cases-general-dentistry-en-12-thumb.jpg"
