@@ -168,8 +168,8 @@ faq:
         mecánico. Sin embargo, y al igual que las aluminosas de alta resistencia,
         estas cerámicas son muy opacas <em>(no tienen fase vítrea)</em>, y por ello
         se emplean únicamente para fabricar el núcleo de la restauración, es decir;
-        deben también recubrirse con porcelanas convencionales para lograr una buena
-        estética.</p>\n"
+        deben también recubrirse con porcelanas convencionales para lograr un buen
+        resultado estético.</p>\n"
     - question: "¿Son las prótesis fijas para toda la vida?"
       answer: "<p>Influyen tantos, pero tantos factores en la longevidad de una rehabilitación
         fija que ningún profesional está en capacidad de predecir, a ciencia cierta,
