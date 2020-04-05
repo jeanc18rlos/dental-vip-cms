@@ -285,10 +285,10 @@ asides:
     title: '<h3 style="color:#333;font-family:''Bebas Neue Bold''">AESTHETIC BRACES</h3>
 
 '
-    content: '<p  style="font-weight:400">Thanks to their color, texture and transparency,
+    content: '<p  style="font-weight:400">Thanks to their color, texture and transparency
       Porcelain or Sapphire Crystals Aesthetic Brackets mimetize with dental enamel
-      and are particularly suitable for those persons who due to their work or social
-      activity want a very low profile treatment but of proven clinical quality.</p>
+      and are particularly suitable for those persons, who due to their work or social
+      activity, want a very low profile treatment but of proven clinical quality.</p>
 
 '
     image: "/img/sections-orthodontics-asthetic-braces.jpg"
