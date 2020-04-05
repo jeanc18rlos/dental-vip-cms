@@ -143,7 +143,7 @@ faq:
         para prevenir enfermedades, detectar y tratar lesiones incipientes y mantener
         sanos boca, dientes y encías. Sin embargo, para algunas personas con patologías
         preexistentes, rehabilitaciones orales extensas, implantes dentales, tratamientos
-        de ortodoncia o malos hábitos, es posible que sea necesaria una frecuencia
+        de ortodoncia o malos hábitos; es posible que sea necesaria una frecuencia
         mayor, que puede oscilar entre 2 y 4 veces al año. Un caso típico es el de
         aquellos pacientes que sufren de gingivitis o periodontitis crónica, y que
         suelen requerir de una terapia permanente de soporte periodontal.</p>\n"
