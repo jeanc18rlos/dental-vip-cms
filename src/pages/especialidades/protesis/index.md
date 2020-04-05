@@ -93,7 +93,7 @@ faq:
         elaboradas con aleaciones metálicas de cromo-cobalto, resina acrílica termopolimerizable
         y nylon termoplástico por inyección. Por sus grandes limitaciones estéticas
         y funcionales solo las indicamos como estructuras provisionales o de transición
-        en rehabilitaciones extensas, o definitivas, solo en aquellos casos donde
+        en rehabilitaciones extensas, o definitivas; solo en aquellos casos donde
         de verdad no aplique otra alternativa.</p>\n"
     - question: "¿Qué cuidados hay que tener con una dentadura de este tipo?"
       answer: "<p>Controles profesionales periódicos e higiene bucal escrupulosa para
