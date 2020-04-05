@@ -25,7 +25,7 @@ paragraphSection:
   body: "<p><strong>El Odontólogo General se encuentra capacitado para prevenir, diagnosticar
     y tratar los problemas comunes del público en general. </strong> Si Usted requiere
     de un CHEQUEO DE RUTINA o de Odontología Básica como eliminación de caries, limpieza,
-    profilaxis o prótesis bucal sin compromiso estético, funcional o periodontal,
+    profilaxis o prótesis bucal sin compromiso estético, funcional o periodontal;
     un profesional de práctica general podrá prestarle un excelente servicio. Sin
     embargo, debido a que las diferentes áreas de la Odontología se han hecho cada
     vez más complejas y altamente tecnificadas,  <strong>existen numerosos casos que
