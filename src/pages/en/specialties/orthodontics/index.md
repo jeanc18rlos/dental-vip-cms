@@ -126,8 +126,8 @@ faq:
 '
     - question: What are the differences between metal brackets and aesthetic brackets?
       answer: "<p>Mainly the color and the material. The aesthetic brackets are made
-        of plastic, porcelain </span><em>(whites)</em></span> or sapphire crystals
-        </span><em>(transparents),</em></span> which makes them virtually imperceptible
+        of plastic, porcelain </span><em>(white)</em></span> or sapphire crystals
+        </span><em>(transparent),</em></span> which makes them virtually imperceptible
         to the naked eye. Another important difference to consider is the cost, since
         the aesthetic brackets of proven quality triple in value to those of stainless
         steel.</span></p>\n"
