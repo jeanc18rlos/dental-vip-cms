@@ -75,7 +75,7 @@ faq:
         is the most common, mild and with best prognosis; since its evolution only
         affects the marginal gum and its damage is completely reversible. But if it
         is not treated on time, it advances and attacks the alveolar bone, causing
-        infection, reabsorption and loss of it <em>(periodontitis)</em> with formation
+        infection, reabsorption and loss of it <em>(Periodontitis)</em> with formation
         of periodontal sacs, pus and recession of the gum. When losing their support
         bone, the teeth gradually loosen until falling. Although periodontitis can
         be localized or generalized, chronic, aggressive, necrotizing, associated
