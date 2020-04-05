@@ -190,7 +190,7 @@ faq:
     - question: What does it consist of and when is a flap surgery indicated?
       answer: "<p>A periodontal flap is a gum portion that is surgically separated
         from the underlying tissues to allow access, visibility and cleanliness of
-        the bone and root surfaces. We could essentially consider it as an open subgingival
+        the bone and root surfaces. We could consider it essentially as an open subgingival
         curettage. It is one of the most used treatments in advanced periodontitis
         and its basic objectives are to remove calculus and plaque from inaccessible
         areas, eliminate or reduce periodontal pockets, ensure a more favorable tissue
