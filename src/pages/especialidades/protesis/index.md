@@ -88,7 +88,7 @@ faq:
         la gran mayoría de nuestras restauraciones definitivas; sean fijas o removibles.</p>\n"
     - question: "¿Cómo es una prótesis removible convencional?"
       answer: "<p>Son dispositivos de “quita y pon” que pueden ser insertados y retirados
-        por el propio paciente, se apoyan sobre la mucosa bucal, y si son parciales,
+        por el propio paciente, se apoyan sobre la mucosa bucal, y si son parciales;
         se retienen con ganchos que rodean a algunos dientes naturales. Suelen ser
         elaboradas con aleaciones metálicas de cromo-cobalto, resina acrílica termopolimerizable
         y nylon termoplástico por inyección. Por sus grandes limitaciones estéticas
