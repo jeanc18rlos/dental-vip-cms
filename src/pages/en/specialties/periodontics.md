@@ -71,8 +71,8 @@ faq:
         surface texture very similar to the peel of an orange.</p>\n"
     - question: How are periodontal diseases classified?
       answer: "<p>Although their scientific classification is extremely extensive
-        and complex, it would suffice to know that of all periodontal diseases, gingivitis
-        is the most common, mild and with best prognosis, since its evolution only
+        and complex, it would suffice to know that of all periodontal diseases gingivitis
+        is the most common, mild and with best prognosis; since its evolution only
         affects the marginal gum and its damage is completely reversible. But if it
         is not treated on time, it advances and attacks the alveolar bone, causing
         infection, reabsorption and loss of it <em>(periodontitis)</em> with formation
