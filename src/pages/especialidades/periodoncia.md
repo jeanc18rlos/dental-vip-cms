@@ -36,7 +36,7 @@ paragraphSection:
     óseos, colocación de membranas y la llamada REGENERACIÓN TISULAR GUIADA.</p><p><strong>La
     Enfermedad Periodontal es casi siempre asintomática en sus fases iniciales, por
     eso es tan peligrosa y destructiva. </strong> Cuando ya aparecen los primeros
-    signos como sangramiento al cepillado, separación de los dientes y movilidad dental,
+    signos como sangramiento al cepillado, separación de los dientes y movilidad dental;
     estamos generalmente en presencia de fases avanzadas de la misma.  <strong>Sin
     tratamiento especializado se pierde todo el hueso de sostén y entonces los dientes
     se aflojarán y caerán irremediablemente. </strong></p><p>Otro beneficio adicional
