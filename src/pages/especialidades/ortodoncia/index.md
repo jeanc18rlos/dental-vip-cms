@@ -144,11 +144,11 @@ faq:
     - question: "¿Es muy incómodo utilizar brackets?"
       answer: "<p>Usualmente los primeros 3 o 4 días siguientes a la instalación de
         los aparatos son algo molestos porque es normal experimentar cierto dolor
-        al comer y masticar. Transcurrido este período los inconvenientes suelen limitarse
-        a pequeñas molestias ocasionales, principalmente causadas por el roce de los
-        aparatos con la parte interna de labios y mejillas. Para esto se le proporcionará
-        una cera especial que debe colocar sobre el bracket que esté molestando y
-        así solventar el problema.</p>\n"
+        al comer y masticar. Transcurrido este período, los inconvenientes suelen
+        limitarse a pequeñas molestias ocasionales, principalmente causadas por el
+        roce de los aparatos con la parte interna de labios y mejillas. Para esto
+        se le proporcionará una cera especial que debe colocar sobre el bracket que
+        esté molestando y así solventar el problema.</p>\n"
     - question: "¿Es necesario colocarlos en todos los dientes?"
       answer: "<p>En la gran mayoría de los casos sí. Para obtener resultados óptimos
         es también necesario colocar bandas <em>(anillos metálicos)</em> en los molares,
