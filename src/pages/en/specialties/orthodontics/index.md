@@ -169,7 +169,7 @@ faq:
     - question: What things can not be eaten with dental appliances?
       answer: "<p>You can practically eat everything, however, it is advisable to
         avoid some excessively hard foods such as ice and bones, and sticky like chewing
-        gum, since they can easily detach brackets, bands and other devices.</span></p>\n"
+        gum; since they can easily detach brackets, bands and other devices.</span></p>\n"
     - question: How often are Orthodontic checks performed?
       answer: "<p>Generally every 4 weeks, except for special circumstances.</span></p>\n"
     - question: Will my teeth really look perfect?
