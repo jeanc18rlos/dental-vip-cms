@@ -390,7 +390,7 @@ sidePanel:
     section: |
       <div class="dv-sp-srv-cd">
       <h2 class="dv-srv-pl4 text-left dv-npr">Do you already have a dental quote?</h2>
-      <p class="dv-srv-pl text-left dv-npr">Have you visited several Dentists and still can not find a treatment option that is truly within your means? Want to get more out of your money? </p>
+      <p class="dv-srv-pl text-left dv-npr">Have you visited several Dentists and still cannot find a treatment option that is truly within your means? Want to get more out of your money? </p>
       <p class="dv-srv-pl text-left dv-npr">Send us your quote to improve it and submit it to your consideration. We will surely surprise you!</p> <br><br> <a>LOAD FILE</a> </div>
   - img: "/img/sections-dental-tourism-hotel.png"
     section: |
