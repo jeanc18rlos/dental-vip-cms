@@ -86,7 +86,7 @@ faq:
         system, without loss of consciousness, but with alteration of it. It has an
         effect on pain, since by decreasing anxiety the painful threshold is raised,
         it facilitates the administration of the local anesthetic without the person
-        knowing and, at the correct dose, it also produces amnesia; so that the patient
+        knowing and, at the correct dose; it also produces amnesia, so that the patient
         has little or nothing to remember about the procedure.</p>\n"
     - question: What is the difference between both and which is better?
       answer: "<p>Basically that in sedation reflexes, breathing control and responsiveness
