@@ -191,7 +191,7 @@ faq:
     - question: If you are going to sedate me, can I go alone or should I be accompanied?
       answer: "<p>It is necessary to always be accompanied, since it is very useful
         and comforting to receive physical and emotional support after the procedure,
-        and in addition, it is essential to delegate the responsibility of the move
+        and in addition; it is essential to delegate the responsibility of the move
         to the place of residence. After sedation, feelings of clumsiness, confusion
         and disorientation are frequent.</p>\n"
     - question: How long will it take me to wake up after the intervention?
@@ -199,7 +199,7 @@ faq:
         the patient to his normal state, which makes it possible to discharge him
         without further delay after finishing the procedure. However, it is common
         to experience a certain degree of drowsiness and tiredness, which is why we
-        recommend waiting at least one hour before leaving the facilities.</p>\n"
+        recommend waiting, at least; one hour before leaving the facilities.</p>\n"
     - question: What postoperative care should I have?
       answer: "<p>Basically postpone for 24 hours any activity that requires mental
         coordination, balance or equilibrium, such as: driving, operating heavy machinery,
