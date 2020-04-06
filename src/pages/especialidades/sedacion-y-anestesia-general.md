@@ -148,7 +148,7 @@ faq:
           <li>Niños o adultos con experiencias previas médico-odontológicas traumatizantes, y en los que no es posible lograr una comunicación positiva ni la cooperación necesaria para el tratamiento.</li>
           <li>Pacientes alérgicos a los anestésicos locales.</li>
           <li>Niños y adultos con discrasias sanguíneas, ya que la anestesia infiltrativa o troncular podría provocar hemorragias en los espacios látero-faríngeos.</li>
-          <li>Personas con retraso mental, trastornos psicomotores, genéticos o musculoesqueléticos, que impidan el tratamiento convencional en estado de consciencia.</li>
+          <li>Personas con retraso mental, trastornos psicomotores, genéticos o musculoesqueléticos; que impidan el tratamiento convencional en estado de consciencia.</li>
           <li>Pacientes con cardiopatías congénitas en los que se vaya a practicar un tratamiento extenso o que contemple la remoción de procesos sépticos dentarios, restauraciones múltiples o de cirugía maxilofacial.</li>
           <li>Pacientes médicamente comprometidos y que su condición general requiera alivio de la ansiedad para prevenir riesgos mayores. </li>
           <li>Situaciones en las que determinemos que la anestesia local no logrará el efecto deseado por el tamaño, ubicación de la lesión y/o duración del procedimiento; como por ejemplo, la colocación de implantes múltiples en ambos maxilares.</li>
