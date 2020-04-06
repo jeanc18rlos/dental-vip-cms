@@ -244,7 +244,7 @@ faq:
         esperar, al menos; una hora antes de abandonar las instalaciones. </p>\n"
     - question: "¿Qué cuidados postoperatorios debo tener?"
       answer: "<p>Básicamente posponer por 24 horas cualquier actividad que requiera
-        de coordinación mental, balance o equilibrio, tales como: conducir, operar
+        de coordinación mental, balance o equilibrio; tales como: conducir, operar
         maquinarias, hacer cálculos complejos o cualquier otra función que demande
         precisión psicomotriz.</p>\n"
     - question: Luego, ¿es necesario guardar algún tipo de reposo?
