@@ -205,7 +205,7 @@ faq:
         pulmonar del contenido gástrico tras la inducción de la anestesia, durante
         el transcurrir del procedimiento o en el postoperatorio inmediato. Los protocolos
         actuales de ayuno preoperatorio coinciden en la duración del lapso de tiempo
-        durante el cual no debe ingerirse sustancia alguna, e indican, 2 horas para
+        durante el cual no debe ingerirse sustancia alguna, e indican; 2 horas para
         los líquidos claros y 6 para los alimentos más sólidos. Entiéndase por líquidos
         claros solo el agua, zumo de frutas sin pulpa, bebidas carbonatadas, té claro
         y café negro.</p>\n"
