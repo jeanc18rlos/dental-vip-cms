@@ -124,7 +124,7 @@ asides:
       <ul style="font-weight:400;list-style:none">
         <li><strong>Odontólogo</strong>&nbsp;<em>(Universidad Central de Venezuela, 1996).</em></li>
         <li><strong>Maestría en Ortodoncia</strong>&nbsp;<em>(Universidad Autónoma de Tamaulipas, México, 2003).</em></li>
-        <li>Fellowship in Clinical Orthodontics.</li>
+        <li>Fellowship Program in Clinical Orthodontics.</li>
         <li>Especialización en Técnica de Arco Recto&nbsp;<em>(Straight Wire System).</em></li>
         <li>Entrenamiento avanzado en Oclusión y Disfunción Craneomandibular.</li>
         <li>Numerosas estancias de formación académica en España, México y USA.</li>
