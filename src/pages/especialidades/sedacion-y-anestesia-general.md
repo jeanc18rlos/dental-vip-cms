@@ -221,7 +221,7 @@ faq:
       answer: "<p>Solo en los casos de anestesia general. Sin embargo, al aplicar
         una SC, se deben tener siempre a mano todos los recursos profesionales y de
         soporte vital que permitan hacer frente a cualquier eventualidad y salvaguardar
-        la vida del paciente, y entre los cuales, los tubos endotraqueales y dispositivos
+        la vida del paciente, y entre los cuales; los tubos endotraqueales y dispositivos
         de ventilación mecánica son indispensables.</p>\n"
     - question: "¿Son muy elevados los costos de este tipo de anestesia?"
       answer: "<p>Indudablemente suman a la cuenta y elevan el importe final del tratamiento.
