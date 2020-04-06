@@ -124,7 +124,7 @@ asides:
         <li><strong>Master Degree in Orthodontics</strong>&nbsp;<em>(Universidad Autónoma de Tamaulipas, Mexico, 2003).</em></li>
         <li>Fellowship Program in Clinical Orthodontics.</li>
         <li>Straight Wire System Certification Course.</li>
-        <li>Advanced Training in Occlusion and Craniomandibular Dysfunction.</li>
+        <li>Advanced training in Occlusion and Craniomandibular Dysfunction.</li>
         <li>Numerous stays of academic formation in Spain, Mexico and USA.</li>
         <li>Exclusive dedication to the Specialty of Orthodontics and Dentofacial Orthopedics.</li>
         <li>Member of Colegio de Odontólogos de Venezuela.</li>
