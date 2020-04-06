@@ -144,7 +144,7 @@ faq:
         general condition requires anxiety relief to prevent greater risks.</li> <li>Situations
         in which we determine that local anesthesia will not achieve the desired effect
         due to the size, location of the lesion and/or duration of the procedure;
-        such as the placement of multiple implants in both jaws.</li> <li>Odontophobic
+        for example, the placement of multiple implants in both jaws.</li> <li>Odontophobic
         patients or with real panic to the Dentist.</li> </ol>\n"
     - question: Can these interventions produce any side effects?
       answer: "<p>It is very difficult, since the drugs are generally used with very
