@@ -154,7 +154,7 @@ asides:
         <li><strong>Odontólogo</strong>&nbsp;<em>(Universidad Central de Venezuela, 2000).</em></li>
         <li><strong>Postgrado en Endodoncia</strong>&nbsp;<em>(Universidad Autónoma de Tamaulipas, México, 2003)</em>.</li>
         <li>Diplomado en Farmacoterapia e Inmunofarmacología.</li>
-        <li>Experto clínico en el manejo de Lesiones Endoperiodontales y Endoprotésicas.</li>
+        <li>Experto Clínico en el manejo de Lesiones Endoperiodontales y Endoprotésicas.</li>
         <li>Entrenamiento avanzado en el uso práctico de Sistemas Rotatorios de Níquel-Titanio.</li>
         <li>Adiestramiento certificado en Técnicas de Condensación y Obturación Termoplástica.</li>
         <li>Asistencia a más de 50 cursos teóricos y prácticos de la Especialidad.</li>
