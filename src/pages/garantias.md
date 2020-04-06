@@ -26,7 +26,7 @@ extendedHeading:
     que utilizamos y en la precisión de los técnicos dentales que laboran en nuestro
     laboratorio protésico.</p> <br>  <p class=\"dv-subtitle text-left\"p> Si uno de
     nuestros tratamientos garantizados falla estructuralmente, nuestros Odontólogos
-    lo reemplazarán sin ningún tipo de costo adicional, por supuesto, bajo los términos
+    lo reemplazarán sin ningún tipo de costo adicional, por supuesto; bajo los términos
     y condiciones que se detallan más adelante. Esto le brindará a Usted la tranquilidad
     de saber que si algo sucede, ¡estaremos aquí para resolverlo!</p>\n"
 bannerFooter:
