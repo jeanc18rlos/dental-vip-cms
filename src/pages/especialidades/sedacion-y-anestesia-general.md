@@ -175,7 +175,7 @@ faq:
         lugar varios días antes de la intervención programada. El lapso previsto debe
         permitir la realización de las pruebas complementarias e interconsultas externas
         pertinentes, sesiones de terapia respiratoria en caso de ser requeridas, la
-        abstinencia de tabaco y/o alcohol, e incluso, la administración de algún aporte
+        abstinencia de tabaco y/o alcohol, e incluso; la administración de algún aporte
         nutricional específico.</p>\n"
     - question: "¿Puede aplicarse la SC libremente en el consultorio dental?"
       answer: "<p>¡A NUESTRO CRITERIO JAMÁS!, a menos que el centro cuente con instalaciones,
