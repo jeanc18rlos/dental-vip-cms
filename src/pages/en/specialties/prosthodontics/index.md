@@ -198,12 +198,12 @@ faq:
     - question: Why are prostheses over dental implants better?
       answer: "<p>In essence because they are totally independent, self-sufficient
         structures and that are closest to the ideal prosthetic prototype. They do
-        not hold back from patient's natural teeth, do not compromise them, do not
-        generate harmful forces or functional overloads, and consequently; replace
-        lost teeth without any negative effect on present ones, a condition impossible
-        to achieve with any type of conventional prosthesis. In addition, it is the
-        only fixed alternative for those patients who have lost all or most of their
-        teeth.</p>\n"
+        not rest or retain on the patient's natural teeth, do not compromise them,
+        do not generate harmful forces or functional overloads, and consequently;
+        replace lost teeth without any negative effect on present ones, a condition
+        impossible to achieve with any type of conventional prosthesis. In addition,
+        it is the only fixed alternative for those patients who have lost all or most
+        of their teeth.</p>\n"
     - question: How many types of implant-supported restorations are there?
       answer: "<p>In essence, 3 types: fixed of metal-porcelain or total ceramic,
         hybrids of metal-acrylic or metal-porcelain and removable overdentures. In
