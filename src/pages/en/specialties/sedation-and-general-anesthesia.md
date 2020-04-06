@@ -91,8 +91,8 @@ faq:
     - question: What is the difference between both and which is better?
       answer: "<p>Basically that in sedation reflexes, breathing control and responsiveness
         to tactile and verbal stimuli are preserved. In general anesthesia, the patient
-        is asleep in a deep sleep and airway protection and assisted ventilation are
-        frequently required. In addition, cardiovascular function is usually also
+        is asleep in a deep sleep, and airway protection and assisted ventilation
+        are frequently required. In addition, cardiovascular function is usually also
         altered, so constant monitoring of vital signs is pertinent. None is better
         than another, and simply each one has its indications. In Dentistry, general
         anesthesia for more extensive, complex and invasive procedures, such as maxillofacial
