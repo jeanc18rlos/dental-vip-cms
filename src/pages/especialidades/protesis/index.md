@@ -222,7 +222,7 @@ faq:
         expectativas funcionales de una pieza natural bien rehabilitada. Cuando un
         solo diente haya sufrido fractura o gran destrucción por caries de su corona
         clínica, pero conserve su raíz buena integridad, longitud favorable y adecuado
-        soporte periodontal, será siempre preferible, y sin discusión alguna; su tratamiento
+        soporte periodontal; será siempre preferible, y sin discusión alguna, su tratamiento
         y restauración con endodoncia, muñón artificial y corona de porcelana.</p>\n"
     - question: Pero, ¿cómo saber si un diente natural puede ser exitosamente restaurado?
       answer: "<p>Estudiando el caso minuciosamente mediante examen intraoral, evaluación
