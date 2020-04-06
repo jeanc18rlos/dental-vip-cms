@@ -81,7 +81,7 @@ faq:
       answer: "<p>Por su gran efectividad, seguridad y ausencia casi absoluta de efectos
         secundarios, la anestesia local troncular o infiltrativa es la de elección
         para las intervenciones de rutina en Odontología y de cirugía oral menor en
-        medios ambulatorios, mientras que la sedación consciente inhalatoria o con
+        medios ambulatorios; mientras que la sedación consciente inhalatoria o con
         narcóticos intravenosos es la mejor opción para pacientes especiales o excesivamente
         aprensivos. La anestesia general solo es necesaria en los casos de cirugía
         mayor como la ortognática y maxilofacial.</p>\n"
