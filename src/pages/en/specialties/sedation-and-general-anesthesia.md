@@ -34,13 +34,13 @@ paragraphSection:
     professional and the mourner fails, and in which the usual conditioning techniques
     seem not to work, when we should consider the possibility of applying alternative
     clinical resources to MANAGE ANXIETY and preoperative stress.</p> <p><strong>Currently,
-    local anesthesia by infiltration continues to be, without any discussion, the
-    simplest, more frequent and more effective method for dispensing and ensuring
-    a pain-free dental treatment</strong>, however; it is also unquestionable the
-    fact that it is a procedure that per se can cause discomfort and rejection, due
-    to the need to apply one or several injections inside the mouth.</p> <p>And it
-    is definitely in those situations, in which it is not even possible to tolerate
-    a puncture, in which we must resort to other anesthetic techniques such as <strong>Conscious
+    local anesthesia by infiltration continues to be without any discussion, the simplest,
+    more frequent and more effective method for dispensing and ensuring a pain-free
+    dental treatment</strong>, however; it is also unquestionable the fact that it
+    is a procedure that per se can cause discomfort and rejection, due to the need
+    to apply one or several injections inside the mouth.</p> <p>And it is definitely
+    in those situations, in which it is not even possible to tolerate a puncture,
+    in which we must resort to other anesthetic techniques such as <strong>Conscious
     Sedation, which represents a valid, relevant and very effective pharmacological
     option for fear, stress and pain control</strong>; making possible the dental
     treatment and avoiding the typical confrontations with the pediatric patient or

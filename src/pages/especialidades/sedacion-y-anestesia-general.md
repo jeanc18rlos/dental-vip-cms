@@ -46,7 +46,7 @@ paragraphSection:
       MANEJAR LA ANSIEDAD y el estrés preoperatorio.
     </p>
     <p>
-      <strong>Actualmente, la anestesia local por infiltración continúa siendo, sin
+      <strong>Actualmente, la anestesia local por infiltración continúa siendo sin
         discusión alguna, el método más sencillo, frecuente y efectivo para
         dispensar y asegurar un tratamiento dental libre de dolor</strong>, sin embargo; es también incuestionable el hecho de que es un procedimiento
       que per se puede causar incomodidad y rechazo, debido a la necesidad de
