@@ -158,7 +158,7 @@ faq:
       answer: "<p>Es muy difícil, ya que generalmente los fármacos se emplean con
         dosis muy bien controladas que se metabolizan por completo en poco tiempo,
         permitiendo que el paciente despierte con total normalidad, como si de una
-        larga siesta se tratase. No obstante, para dar el alta, la persona debe estar
+        larga siesta se tratase. No obstante, para dar el alta; la persona debe estar
         consciente y orientada, hemodinámica y respiratoriamente estable y sin necesidad
         de ayuda para la marcha.</p>\n"
   - questions:
