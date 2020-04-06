@@ -31,7 +31,7 @@ paragraphSection:
       Tanto así, que a través de estudios estadísticos recientes se ha podido
       demostrar que hasta un 25% de los adultos evitan o postergan concurrir a la
       consulta del Odontólogo por temor a sufrir dolor, constituyendo la
-      circunstancia una verdadera barrera psicológica que impide, en ocasiones,
+      circunstancia una verdadera barrera psicológica que impide, en ocasiones;
       recibir la atención necesaria y preservar la salud oral. Y aunque las
       estrategias de manejo del comportamiento son útiles en la gran mayoría de los
       casos, no son siempre efectivas, sobre todo al enfrentar a
