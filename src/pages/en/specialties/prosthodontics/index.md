@@ -194,7 +194,7 @@ faq:
         are several types and they are basically made with the same materials as traditional
         prostheses. Structurally they are designed under a male-female connection
         system, in which the implants house the abutments or prosthetic pillars inside
-        them, and over these, we fit, cement or screw the artificial teeth.</p>\n"
+        them, and over these; we fit, cement or screw the artificial teeth.</p>\n"
     - question: Why are prostheses over dental implants better?
       answer: "<p>In essence because they are totally independent, self-sufficient
         structures and that are closer to the ideal prosthetic prototype. They do
