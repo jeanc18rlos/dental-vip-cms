@@ -233,7 +233,7 @@ faq:
         de si funcionará como corona individual o como pilar de puente fijo.</p>\n"
     - question: "¿Pueden las prótesis convencionales ser reemplazadas por implantes
         dentales?"
-      answer: "<p>Por supuesto que sí, y es de hecho lo más recomendable para proteger
+      answer: "<p>¡Por supuesto que sí!, y es de hecho lo más recomendable para proteger
         los dientes naturales que permanezcan en boca, pero claro está; siempre y
         cuando el estado de salud general del paciente lo permita, contemos con suficiente
         hueso maxilar para la implantación pretendida y esté la persona dispuesta
