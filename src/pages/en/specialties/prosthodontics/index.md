@@ -217,7 +217,7 @@ faq:
         a well-rehabilitated natural piece. When a single tooth has suffered a fracture
         or great destruction of its clinical crown due to caries, but its root preserves
         good integrity, favorable length and adequate periodontal support; it will
-        always be preferable, and without any discussion; its treatment and restoration
+        always be preferable, and without any discussion, its treatment and restoration
         with endodontics, post and core and porcelain crown.</p>\n"
     - question: But, how do we know if a natural tooth can be successfully restored?
       answer: "<p>Studying the case thoroughly through intraoral examination, radiographic
