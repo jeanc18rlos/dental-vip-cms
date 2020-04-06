@@ -150,7 +150,7 @@ faq:
       answer: "<p>It is very difficult, since the drugs are generally used with very
         well controlled doses that are completely metabolized in a short time, allowing
         the patient to wake up normally, as if it were a long nap. However, in order
-        to discharge, the person must be conscious and oriented, hemodynamic and respiratoryly
+        to discharge; the person must be conscious and oriented, hemodynamic and respiratoryly
         stable and without the need for help to walking.</p>\n"
   - questions:
     - question: Is it necessary to do some type of study or previous evaluation?
