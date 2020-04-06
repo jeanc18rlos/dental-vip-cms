@@ -40,7 +40,7 @@ asides:
         <li>Curso de Postgrado en Implantología Oral y Prótesis sobre Implantes.</li>
         <li>Diplomado en Oseointegración y Regeneración Ósea Periimplantaria.</li>
         <li>Capacitación permanente en Técnicas Quirúrgicas Conservadoras y Microinvasivas.</li>
-        <li>Experto clínico en el manejo de múltiples sistemas de Implantología Oral Avanzada.</li>
+        <li>Experto Clínico en el manejo de múltiples sistemas de Implantología Oral Avanzada.</li>
         <li>Profesor Asistente de la Facultad de Odontología, U.C.V.</li>
         <li>Miembro del Colegio de Odontólogos de Venezuela.</li>
         <li>Miembro del Colegio de Odontólogos Metropolitano.</li>
