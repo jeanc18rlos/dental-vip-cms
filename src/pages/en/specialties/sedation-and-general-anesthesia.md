@@ -202,7 +202,7 @@ faq:
         recommend waiting, at least; one hour before leaving the facilities.</p>\n"
     - question: What postoperative care should I have?
       answer: "<p>Basically postpone for 24 hours any activity that requires mental
-        coordination, balance or equilibrium, such as: driving, operating heavy machinery,
+        coordination, balance or equilibrium; such as: driving, operating heavy machinery,
         making complex calculations or any other function that demands psychomotor
         precision.</p>\n"
     - question: Later, is it necessary to keep some kind of rest?
