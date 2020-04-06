@@ -74,7 +74,7 @@ faq:
         option for special or excessively apprehensive patients. General anesthesia
         is only necessary in cases of major surgery such as the orthognathic and maxillofacial.</p>\n"
     - question: What is General Anesthesia?
-      answer: "<p>It can be defined as induced, controlled and reversible intoxication
+      answer: "<p>GA can be defined as induced, controlled and reversible intoxication
         of the central nervous system that produces unconsciousness, temporary amnesia,
         analgesia, loss of sensation, muscle relaxation and suppression of autonomic
         and sensory reflexes. The drugs supplied have hypnotic properties and can
