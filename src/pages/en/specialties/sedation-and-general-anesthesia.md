@@ -166,7 +166,7 @@ faq:
         of gastric contents after induction of anesthesia, during the course of the
         procedure or in the immediate postoperative period. Current preoperative fasting
         protocols coincide in the duration of the period of time during which no substance
-        should be ingested, indicating, 2 hours for clear liquids and 6 hours for
+        should be ingested, indicating; 2 hours for clear liquids and 6 hours for
         more solid foods. It is understood by clear liquids only water, fruit juice
         without pulp, carbonated drinks, light tea and black coffee.</p>\n"
     - question: Should an Anesthesiologist always be present?
