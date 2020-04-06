@@ -215,8 +215,8 @@ faq:
         y terapia del dolor, con experiencia en técnicas infiltrativas, habilidad
         de titular las drogas que se administren y experticia en el manejo de la vía
         aérea, monitoreo de las constantes vitales y aplicación de técnicas de resucitación.
-        La presencia de un Anestesiólogo puede significar la diferencia entre la vida
-        y la muerte, así de claro. </p>\n"
+        ¡La presencia de un Anestesiólogo puede significar la diferencia entre la
+        vida y la muerte, así de claro! </p>\n"
     - question: "¿Deben entubarme y colocarme un respirador artificial?"
       answer: "<p>Solo en los casos de anestesia general. Sin embargo, al aplicar
         una SC, se deben tener siempre a mano todos los recursos profesionales y de
