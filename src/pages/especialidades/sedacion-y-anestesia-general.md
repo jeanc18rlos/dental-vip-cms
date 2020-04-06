@@ -48,7 +48,7 @@ paragraphSection:
     <p>
       <strong>Actualmente, la anestesia local por infiltración continúa siendo sin
         discusión alguna, el método más sencillo, frecuente y efectivo para
-        dispensar y asegurar un tratamiento dental libre de dolor</strong>, sin embargo; es también incuestionable el hecho de que es un procedimiento
+        dispensar y asegurar un tratamiento dental libre de dolor</strong>; sin embargo, es también incuestionable el hecho de que es un procedimiento
       que per se puede causar incomodidad y rechazo, debido a la necesidad de
       aplicar una o varias inyecciones dentro de la boca.
     </p>
@@ -61,7 +61,7 @@ paragraphSection:
   image: "/img/aside-sedation-and-general-anesthesia.jpg"
 quote:
   title: ''
-  body: 'Tanto la Sedación Consciente (SC) como la Anestesia General (AG), son procedimientos
+  body: 'Tanto la Sedación Consciente (SC) como la Anestesia General (AG) son procedimientos
     seguros y confiables, claro está, siempre y cuando se practiquen en condiciones
     ideales de infraestructura y dotación clínica, y por supuesto; bajo la responsabilidad
     de un Equipo Médico Altamente Especializado.
