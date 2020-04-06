@@ -268,4 +268,5 @@ fields:
       name: img
       label: img
 pages:
+- src/pages/en/dental-tourism.md
 - src/pages/turismo-dental.md
