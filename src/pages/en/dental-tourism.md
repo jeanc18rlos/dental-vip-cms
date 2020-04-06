@@ -415,7 +415,7 @@ blocksDescription:
         Do not compromise your quality of life anymore and take advantage of the great
         benefits that globalization offers in the health sector. Take our attention
         proposal seriously and overcome once and for all any barrier that prevents
-        you from show off white, healthy and beautiful teeth.</p>\n"
+        you from showing white, healthy and beautiful teeth.</p>\n"
       image: "/img/aside-dental-tourism-map.png"
     right:
     - icon: "/img/icons-accesibility.png"
