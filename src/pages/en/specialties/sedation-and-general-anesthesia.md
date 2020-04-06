@@ -179,7 +179,7 @@ faq:
     - question: Should he intubate me and put on an artificial respirator?
       answer: "<p>Only in cases of general anesthesia. However, when applying a CS,
         all professional and life support resources that allow to face any eventuality
-        and safeguard the patient&acute;s life must always be at hand, and among which,
+        and safeguard the patient&acute;s life must always be at hand, and among which;
         the endotracheal tubes and mechanical ventilation devices are indispensable.</p>\n"
     - question: Are the costs of this type of anesthesia very high?
       answer: "<p>They undoubtedly add to the account and raise the final amount of
