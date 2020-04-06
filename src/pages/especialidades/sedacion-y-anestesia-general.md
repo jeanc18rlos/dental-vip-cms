@@ -232,7 +232,7 @@ faq:
         impacto económico.</p>\n"
     - question: Si me van a sedar, ¿puedo ir solo o debo ir acompañado?
       answer: "<p>Es necesario ir siempre acompañado, ya que es muy útil y reconfortante
-        recibir apoyo físico y emocional luego del procedimiento, y además, imprescindible
+        recibir apoyo físico y emocional luego del procedimiento, y además; imprescindible
         delegar la responsabilidad del traslado al lugar de residencia. Luego de una
         sedación, son frecuentes los sentimientos de torpeza, confusión y desorientación.
         </p>\n"
