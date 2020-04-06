@@ -421,7 +421,7 @@ blocksDescription:
     - icon: "/img/icons-accesibility.png"
       title: "<h4>Accessibility</h4>"
       content: "<p>Huge possibility of materializing aesthetic, extensive or highly
-        complex dental treatments, often unattainable for the vast majority of people
+        complex dental treatments; often unattainable for the vast majority of people
         in many countries of Europe, North, Central and South America and the Caribbean
         Islands.</p>\n"
     - icon: "/img/icons-inmediacy.png"
