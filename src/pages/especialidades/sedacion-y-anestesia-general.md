@@ -124,7 +124,7 @@ faq:
         riesgos podemos encontrar las reacciones alérgicas, aspiración de secreciones
         a nivel pulmonar, hipoxia, hipoventilación, obstrucción de la vía aérea por
         cuerpos extraños y reacciones anómalas del sistema nervioso autónomo. Sin
-        embargo, las complicaciones mencionadas rara vez se presentan, y en tal caso,
+        embargo, las complicaciones mencionadas rara vez se presentan, y en tal caso;
         la presencia de un Anestesiólogo garantizará una rápida y segura resolución
         de las mismas.</p>\n"
     - question: "¿Existen contraindicaciones a esta técnica de anestesia?"
