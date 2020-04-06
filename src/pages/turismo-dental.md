@@ -26,7 +26,7 @@ heading:
 prices:
   footer:
     image: "/img/icons-OANDA.png"
-    title: "<p>Precios expresados en dólares americanos <em>($USD)</em>.<br>Conviértalos
+    title: "<p>Precios expresados en dólares Americanos <em>(US$)</em>.<br>Conviértalos
       de inmediato a su moneda con:<p>"
     to: https://www1.oanda.com/lang/es/currency/converter/
   rows:
