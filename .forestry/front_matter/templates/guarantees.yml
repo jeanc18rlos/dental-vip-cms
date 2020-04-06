@@ -71,3 +71,5 @@ fields:
   - type: file
     name: img
     label: img
+pages:
+- src/pages/garantias.md
