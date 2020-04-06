@@ -72,4 +72,5 @@ fields:
     name: img
     label: img
 pages:
+- src/pages/en/guarantees.md
 - src/pages/garantias.md
