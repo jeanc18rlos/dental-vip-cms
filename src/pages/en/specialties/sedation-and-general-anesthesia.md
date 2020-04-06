@@ -120,7 +120,7 @@ faq:
         the use of narcotics.</p>\n"
     - question: If I am very nervous and I am just going to fix a tooth, can you sleep
         me completely?
-      answer: "<p>Of course yes, however, we would have to assess very well if the
+      answer: "<p>Of course, yes; however, we would have to assess very well if the
         cost and complexity of the treatment would truly compensate you in such a
         simple case. The correct thing is that before considering sedation, it becomes
         pertinent to exhaust all persuasive and related to the conditioning of behavior
