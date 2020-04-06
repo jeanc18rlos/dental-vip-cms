@@ -198,8 +198,8 @@ faq:
       answer: "<p>Es la que va retenida exclusivamente por implantes dentales. Existen
         varios tipos y básicamente se elaboran con los mismos materiales que las prótesis
         tradicionales. Estructuralmente son diseñadas bajo un sistema de macho y hembra,
-        en el que los implantes alojan en su interior a los abutments o pilares protésicos
-        y sobre estos, se ajustan, cementan o atornillan los dientes artificiales.</p>\n"
+        en el que los implantes alojan en su interior a los abutments o pilares protésicos,
+        y sobre estos; se ajustan, cementan o atornillan los dientes artificiales.</p>\n"
     - question: "¿Por qué son mejores las prótesis sobre implantes dentales?"
       answer: "<p>En esencia porque son estructuras totalmente independientes, autosuficientes
         y que más se aproximan al prototipo protésico ideal. No se apoyan ni retienen
