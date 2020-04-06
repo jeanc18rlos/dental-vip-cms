@@ -50,7 +50,7 @@ paragraphSection:
   image: "/img/aside-sedation-and-general-anesthesia.jpg"
 quote:
   title: ''
-  body: 'Both Conscious Sedation (CS) and General Anesthesia (GA), are safe and reliable
+  body: 'Both Conscious Sedation (CS) and General Anesthesia (GA) are safe and reliable
     procedures, logically, as long as they are practiced under ideal conditions of
     infrastructure and clinical equipment, and of course; under the responsibility
     of a Highly Specialized Medical Team.
