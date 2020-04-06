@@ -332,7 +332,7 @@ asides:
 '
     content: '<p  style="font-weight:400">Partial and total, fixed and removable,
       conventional and implant-assisted, acrylic and porcelain. Multiple are the alternatives
-      to replace the teeth that unfortunately have been lost, or that it is impossible
+      to replace the teeth that unfortunately have been lost, or that are impossible
       to keep for longer in the mouth.</p>
 
 '
