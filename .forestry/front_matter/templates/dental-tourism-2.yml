@@ -267,3 +267,5 @@ fields:
     - type: file
       name: img
       label: img
+pages:
+- src/pages/turismo-dental.md
