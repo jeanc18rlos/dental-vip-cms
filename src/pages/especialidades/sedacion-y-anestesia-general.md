@@ -98,7 +98,7 @@ faq:
         del sistema nervioso central, sin pérdida de la consciencia, pero con alteración
         de la misma. Tiene efecto sobre el dolor, ya que al disminuir la ansiedad
         se eleva el umbral doloroso, facilita la administración del anestésico local
-        sin que la persona se entere y, a la dosis correcta, produce también amnesia;
+        sin que la persona se entere y, a la dosis correcta; produce también amnesia,
         de forma que el paciente tenga poco o nada que recordar del procedimiento.</p>\n"
     - question: "¿Cuál es la diferencia entre ambas y cuál es mejor?"
       answer: "<p>Básicamente que en la sedación se preservan los reflejos, el control
