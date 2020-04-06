@@ -295,7 +295,7 @@ routes:
   icons:
     clock: "/img/icon- clock.png"
     currency: "/img/icon-currency.png"
-  footer: When planning your trip we will need to check the availability of non-stop
+  footer: When planning your trip, we will need to check the availability of non-stop
     flights and current rates.
   departures:
   - from: 'From: BOGOTA'
