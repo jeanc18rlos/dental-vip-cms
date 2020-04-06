@@ -136,7 +136,7 @@ faq:
         for treatment.</li> <li>Patients allergic to local anesthetics.</li> <li>Children
         and adults with blood dyscrasias, since infiltrative or trunk anesthesia could
         cause bleeding in the latero-pharyngeal spaces.</li> <li>People with mental
-        retardation, psychomotor, genetic or musculoskeletal disorders, which prevent
+        retardation, psychomotor, genetic or musculoskeletal disorders; which prevent
         conventional treatment in a state of consciousness.</li> <li>Patients with
         congenital heart disease in which extensive treatment is to be performed or
         that contemplates the removal of septic processes, multiple restorations or
