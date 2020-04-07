@@ -154,8 +154,8 @@ faq:
         the apex <em>(end)</em> of the root of a tooth to solve a localized infectious
         process of endodontic origin. This type of surgery is performed only if other
         more conservative treatments such as conventional endodontics have failed,
-        if it is impossible to access the apex of the root, if there are false ducts
-        in the affected tooth, or when inside it, has fractured some instrument of
+        if it is impossible to access the apex of the root, if there are false canals
+        in the affected tooth, or when inside it; has fractured some instrument of
         intraradicular use. </p>\n"
     - question: When are bone grafts indicated?
       answer: "<p>Usually in cases of advanced periodontal disease and in cases where
