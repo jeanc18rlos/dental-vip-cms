@@ -35,7 +35,7 @@ paragraphSection:
     patients or with any physical or emotional commitment. <b>Its objective is to
     get people into a state of tranquility and deep relaxation during the clinical
     act.</b></p>\n<p><b>Although the purpose of the intervention may vary, the techniques
-    used are always very similar, </b>  and involve, prior anesthesia, the gum incision,
+    used are always very similar; </b>  and involve, prior anesthesia, the gum incision,
     its detachment to a greater or lesser extent, the removal of pathological or excessive
     tissues, placement of implants or biocompatible grafts, and finally; the closure
     and suture of the wound. It will always be essential, for the final success of
