@@ -68,7 +68,7 @@ faq:
       answer: "<p>Porque es un amplio conocedor de la anatomía y patología oral, porque
         ejerce gran dominio sobre los principios médico-quirúrgicos contemporáneos
         y porque posee gran habilidad y destreza en el manejo de las técnicas clínicas
-        más innovadoras de la Especialidad, cualidades todas que le confieren el nivel
+        más innovadoras de la Especialidad; cualidades todas que le confieren el nivel
         de experto en la materia.</p>\n"
     - question: "¿Son muy dolorosos los actos quirúrgicos realizados en la boca?"
       answer: "<p>La evolución que la Odontología ha experimentado en las últimas
