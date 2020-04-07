@@ -184,9 +184,9 @@ faq:
         avoid to lying down. If the problem persists, contact your Specialist immediately.</p>\n"
     - question: How long should the sutures remain in the mouth?
       answer: "<p>It all depends on the case and extent of the procedure. As a general
-        rule, a period of between 7 and 10 days is sufficient, however, it could be
+        rule, a period of between 7 and 10 days is sufficient; however, it could be
         extended for a longer time. At present it is very common to use resorbable
-        sutures that, for being biodegradable, do not require a second clinical intervention
+        sutures that, for being biodegradable; do not require a second clinical intervention
         for their removal.</p>\n"
 clinicCases:
   title: Oral Surgery - Clinical Cases
