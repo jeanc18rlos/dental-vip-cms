@@ -189,7 +189,7 @@ faq:
         Si ese sangrado fuese más intenso <em>(hemorragia)</em>, se deberá entonces
         doblar una o más gasas, colocarlas sobre la herida y comprimirlas mordiendo
         suavemente con los dientes antagonistas hasta que pare la sangre. Si fuese
-        necesario colocar más gasas, nunca retire las primeras, aplique otras nuevas
+        necesario colocar más gasas, nunca retire las primeras; aplique otras nuevas
         sobre estas. Coloque hielo y evite acostarse. Si el problema persistiese,
         contacte de inmediato con su Especialista.</p>\n"
     - question: "¿Por cuánto tiempo deben permanecer las suturas en boca?"
