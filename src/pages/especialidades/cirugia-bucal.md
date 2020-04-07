@@ -151,10 +151,10 @@ faq:
         la remoción de una cantidad pequeña de tejido con una aguja, mientras que
         otras abarcan la remoción quirúrgica de la lesión entera. Usualmente, una
         biopsia se realiza para el despistaje del cáncer oral o para el diagnóstico
-        de úlceras, erosiones y ampollas que no muestren evidencia de curación en
-        un lapso de entre 5 y 10 días, nódulos de crecimiento rápido, lesiones negras,
-        lesiones blancas, lesiones rojas con sospecha de eritroplasia, lesiones sin
-        diagnóstico definido, y en algunos casos; para el estudio de enfermedades
+        de úlceras, erosiones y ampollas que no muestren evidencia de curación espontánea
+        en un lapso de entre 5 y 10 días, nódulos de crecimiento rápido, lesiones
+        negras, lesiones blancas, lesiones rojas con sospecha de eritroplasia, lesiones
+        sin diagnóstico definido, y en algunos casos; para el estudio de enfermedades
         infecciosas, micóticas y bacterianas.</p>\n"
     - question: "¿En qué consiste una apicectomía?"
       answer: "<p>La apicectomía es un procedimiento quirúrgico cuyo objetivo es eliminar
