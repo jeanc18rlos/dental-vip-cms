@@ -30,7 +30,7 @@ paragraphSection:
     dental extractions; placement of DENTAL IMPLANTS, phrenilectomies, apicectomies
     and periapical surgeries, excision and biopsy of minor oral lesions and dentigerous
     cysts; among others.</p>\n<p><b>Usually all these procedures are performed under
-    local anesthesia,</b> however, they are occasionally executed in conjunction with
+    local anesthesia;</b> however, they are occasionally executed in conjunction with
     an Anesthesiologist under CONSCIOUS SEDATION, especially in excessively nervous
     patients or with any physical or emotional commitment. <b>Its objective is to
     get people into a state of tranquility and deep relaxation during the clinical
