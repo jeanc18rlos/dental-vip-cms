@@ -91,7 +91,7 @@ faq:
         de anestesia general.</p>\n"
     - question: "¿Cuáles otros cuidados preoperatorios son recomendables?"
       answer: "<p>Generalmente sugerimos utilizar ropa fresca y ligera durante el
-        procedimiento, cepillar bien los dientes, encías y mucosas antes de la intervención
+        procedimiento, cepillar bien los dientes, encías y mucosas antes de la intervención;
         y contar con un acompañante adulto que le pueda prestar el apoyo necesario.</p>\n"
     - question: Para una Cirugía Oral, ¿me podrían suministrar anestesia general?
       answer: "<p>Solo en los casos de Cirugía Mayor como la Ortognática y Maxilofacial.
