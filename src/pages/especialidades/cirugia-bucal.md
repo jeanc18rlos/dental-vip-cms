@@ -162,7 +162,7 @@ faq:
         un proceso infeccioso localizado de origen endodóntico. Este tipo de cirugía
         se realiza únicamente si han fracasado otros tratamientos más conservadores
         como la endodoncia convencional, si es imposible acceder al ápice de la raíz,
-        si existen falsos conductos en el diente afectado, o cuando dentro de él,
+        si existen falsos conductos en el diente afectado, o cuando dentro de él;
         se haya fracturado algún instrumento de uso intraradicular.</p>\n"
     - question: "¿Cuándo están indicados los injertos óseos?"
       answer: "<p>Usualmente en casos de enfermedad periodontal avanzada y en los
