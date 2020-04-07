@@ -27,7 +27,7 @@ paragraphSection:
     require elective surgical treatment</b> can be presented in it. Among the most
     common of those that are treated in our clinic we can mention the extraction of
     the included third molars  <em>(wisdom teeth)</em>, simple, complex and multiple
-    dental extractions, placement of DENTAL IMPLANTS, phrenilectomies, apicectomies
+    dental extractions; placement of DENTAL IMPLANTS, phrenilectomies, apicectomies
     and periapical surgeries, excision and biopsy of minor oral lesions and dentigerous
     cysts; among others.</p>\n<p><b>Usually all these procedures are performed under
     local anesthesia,</b> however, they are occasionally executed in conjunction with
