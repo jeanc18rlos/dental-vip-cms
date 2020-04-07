@@ -180,7 +180,7 @@ faq:
         If this bleeding is more intense <em>(hemorrhage)</em>, then one or more gauze
         should be folded, placed on the wound and compressed by biting gently with
         the opposing teeth until the blood stops. If it is necessary to place more
-        gauzes, never remove the first ones, apply new ones on these. Place ice and
+        gauzes, never remove the first ones; apply new ones on these. Place ice and
         avoid to lying down. If the problem persists, contact your Specialist immediately.</p>\n"
     - question: How long should the sutures remain in the mouth?
       answer: "<p>It all depends on the case and extent of the procedure. As a general
