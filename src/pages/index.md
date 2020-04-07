@@ -26,6 +26,7 @@ hero:
       <h1>
         INNOVACIÓN Y PRESTIGIO EN ODONTOLOGÍA
       </h1>
+      
 welcome:
   logo: "/img/logo.png"
   heading: CENTRO DE ESTÉTICA Y REHABILITACIÓN ORAL
@@ -50,19 +51,33 @@ welcome:
     alt: Quality Dental Center
   - image: "/img/partners-iti.jpg"
     alt: International Team for Implantology
-quote:
-  title: La Calidad en Odontología no es fruto de la casualidad.
-  body: 'Es siempre el resultado de la búsqueda de la excelencia profesional y de
-    un esfuerzo inteligente por el mejoramiento continuo. La capacitación permanente
-    en nuevas tendencias y filosofías terapéuticas, la honestidad, el uso eficiente
-    de los recursos y el trato cordial a las personas generan los mayores niveles
-    de satisfacción en todos nuestros pacientes.
 
-'
-  author: María José Tirado
+# Quote component structure
+quote:
+  body: >
+    <p>
+      <strong>
+        The Quality in Dentistry is not the fruit of chance.
+      </strong>
+      <br />
+      <em>
+        It is always the result of the pursuit of professional excellence
+        and an intelligent effort for continuous improvement. Permanent
+        training in new trends and therapeutic philosophies, honesty,
+        efficient use of resources and cordial attention of people
+        generate the highest levels of satisfaction in all our patients.
+      </em>
+    </p>
   footer:
-    position: Coordinación Clínica
-    clinic: DENTAL VIP, Especialidades Odontológicas s.c.
+    author: >
+      <strong>María José Tirado</strong>
+    details: >
+      <strong>
+        Office Coordination
+        <br>
+        DENTAL VIP, <wbr/>Especialidades Odontológicas s.c.
+      </strong>
+
 testimonial:
   title: Testimonios y Valoraciones
   items:
@@ -113,64 +128,74 @@ parallax:
   portrait: "/img/parallax-stadistics-portrait-es.svg"
   desktop: "/img/parallax-stadistics-desktop-es.svg"
   portraitxl: "/img/parallax-stadistics-portrait-xl-es.svg"
-specialties:
-  title: "¿Qué Ventajas le Ofrece Nuestra Exclusiva Metodología de Trabajo?"
-  paragraph: Un novedoso enfoque multidisciplinario que posibilita la gestión integradora
-    del conocimiento y potencia la capacidad resolutiva de nuestro equipo asistencial.
-  slogan: "¡Todas las Especialidades en el mismo lugar!"
+
+# Features Section
+features:
+  title: >
+    <h1 class="title">
+      ¿Qué Ventajas le Ofrece Nuestra Exclusiva Metodología de Trabajo?
+    </h1>
+  description: >
+    <p>
+      Un novedoso enfoque multidisciplinario que posibilita la gestión
+      integradora del conocimiento y potencia la capacidad resolutiva de
+      nuestro equipo asistencial.
+      <br />
+      <strong>
+        <strong>¡Todas las Especialidades en el Mismo Lugar!</strong>
+      </strong>
+    </p>
   features:
-  - to: "/especialidades/cirugia-bucal/"
-    img: "/img/specialties-oral-surgery.png"
-    title: Cirugía Bucal
-    description: Prevención, diagnóstico y tratamiento de toda la patología quirúrgica
-      propia o asociada a dientes, mucosas, labios, encías y huesos maxilares.
-  - to: "/especialidades/implantes-dentales/"
-    img: "/img/specialties-dental-implants.png"
-    title: Implantes
-    description: Reposición de los dientes perdidos con dispositivos biocompatibles
-      de titanio que viabilizan la rehabilitación oral fija de los pacientes parcial
-      o totalmente edéntulos.
-  - to: "/especialidades/estetica-dental/"
-    img: "/img/specialties-dental-aesthetics.png"
-    title: Estética Dental
-    description: Análisis y estudio de las características dentogingivales para corregir
-      defectos cosméticos y embellecer el aspecto general de la dentadura.
-  - to: "/especialidades/endodoncia/"
-    img: "/img/specialties-endodontics.png"
-    title: Endodoncia
-    description: Limpieza, desinfección y conformación de los conductos radiculares
-      como paso previo a los múltiples procedimientos de prótesis y restauración dental.
-  - to: "/especialidades/ortodoncia/"
-    img: "/img/specialties-orthodontics.png"
-    title: Ortodoncia
-    description: Brackets y aparatología funcional para la corrección biomecánica
-      de maloclusiones, malposiciones dentales y deformidades dentofaciales.
-  - to: "/especialidades/protesis/"
-    img: "/img/specialties-prosthesis.png"
-    title: Prótesis y Rehabilitación Oral
-    description: Diseño y confección de coronas cerámicas y estructuras protésicas
-      que restituyen la integridad de las arcadas dentales, estética y función masticatoria.
-procedures:
-  title: Procedimientos Destacados
-  procedures:
-  - title: Prótesis sobre implantes
-    to: "/especialidades/implantes-dentales/protesis-sobre-implantes/"
-    img: "/img/procedures-dental-implants.jpg"
-  - title: Diagnóstico y Planificación 3D
-    to: "/especialidades/implantes-dentales/diagnostico-y-planificacion-3d/"
-    img: "/img/procedures-diagnostic.jpg"
-  - title: Carillas de porcelana
-    to: "/especialidades/estetica-dental/carillas-de-porcelana/"
-    img: "/img/procedures-veneers.jpg"
-  - title: Tecnología cad-cam
-    to: "/especialidades/protesis/tecnologia-cad-cam/"
-    img: "/img/procedures-cad-cam.jpg"
-  - title: Diseño digital de sonrisa
-    to: "/especialidades/estetica-dental/"
-    img: "/img/procedures-design.jpg"
-  - title: Brackets Estéticos
-    to: "/especialidades/ortodoncia/aparatos-esteticos/"
-    img: "/img/procedures-brackets.jpg"
+  - to: /especialidades/cirugia-bucal/
+    img: /img/specialties-oral-surgery.png
+    title: >
+      <h3 class="title bebas bold">Cirugía Bucal</h3>
+    description: >
+      <p>
+        Prevención, diagnóstico y tratamiento de toda la patología quirúrgica propia o asociada a dientes, mucosas, labios, encías y huesos maxilares.
+      </p>
+  - to: /especialidades/cirugia-bucal/
+    img: /img/specialties-oral-surgery.png
+    title: >
+      <h3 class="title bebas bold">Cirugía Bucal</h3>
+    description: >
+      <p>
+        Prevención, diagnóstico y tratamiento de toda la patología quirúrgica propia o asociada a dientes, mucosas, labios, encías y huesos maxilares.
+      </p>
+  - to: /especialidades/cirugia-bucal/
+    img: /img/specialties-oral-surgery.png
+    title: >
+      <h3 class="title bebas bold">Cirugía Bucal</h3>
+    description: >
+      <p>
+        Prevención, diagnóstico y tratamiento de toda la patología quirúrgica propia o asociada a dientes, mucosas, labios, encías y huesos maxilares.
+      </p>
+  - to: /especialidades/cirugia-bucal/
+    img: /img/specialties-oral-surgery.png
+    title: >
+      <h3 class="title bebas bold">Cirugía Bucal</h3>
+    description: >
+      <p>
+        Prevención, diagnóstico y tratamiento de toda la patología quirúrgica propia o asociada a dientes, mucosas, labios, encías y huesos maxilares.
+      </p>
+  - to: /especialidades/cirugia-bucal/
+    img: /img/specialties-oral-surgery.png
+    title: >
+      <h3 class="title bebas bold">Cirugía Bucal</h3>
+    description: >
+      <p>
+        Prevención, diagnóstico y tratamiento de toda la patología quirúrgica propia o asociada a dientes, mucosas, labios, encías y huesos maxilares.
+      </p>
+  - to: /especialidades/cirugia-bucal/
+    img: /img/specialties-oral-surgery.png
+    title: >
+      <h3 class="title bebas bold">Cirugía Bucal</h3>
+    description: >
+      <p>
+        Prevención, diagnóstico y tratamiento de toda la patología quirúrgica propia o asociada a dientes, mucosas, labios, encías y huesos maxilares.
+      </p>
+
+
 elements:
 - link: "/la-clinica/por-que-elegirnos/"
   bg: "/img/gallery-why.png"

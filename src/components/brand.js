@@ -1,9 +1,9 @@
-import React from "react"
-import { rhythm, scale } from "../utils/typography"
-import logo from "../css/icons/svg/logo.svg"
-import { colors } from "../styles"
-import styled, { css } from "styled-components"
-import { Container } from "../Elements/Container"
+import React from "react";
+import { rhythm, scale } from "../utils/typography";
+import logo from "../css/icons/svg/logo.svg";
+import { colors } from "../styles";
+import styled, { css } from "styled-components";
+import { Container } from "../Elements/Container";
 
 const BrandLogo = styled.a`
   display: flex;
@@ -11,22 +11,39 @@ const BrandLogo = styled.a`
     max-width: 150px;
     width: 150px;
   }
-`
+`;
 const StyledSection = styled.section`
   color: #999999;
-  padding: 0 5vw;
   p {
     color: #555;
+    @media (min-width: 768px) {
+      width: 80vw;
+    }
+    @media (min-width: 1024px) {
+      width: 70vw;
+    }
+    @media (min-width: 1355px) {
+      width: 60vw;
+    }
   }
   .light {
     text-transform: uppercase;
     font-weight: 400;
   }
   hr {
-    max-width: 70vw;
     margin-left: auto;
     margin-right: auto;
     background: #9a9a9a;
+    width: 100%;
+    @media (min-width: 768px) {
+      width: 65vw;
+    }
+    @media (min-width: 1024px) {
+      width: 55vw;
+    }
+    @media (min-width: 1355px) {
+      width: 45vw;
+    }
   }
   a {
     cursor: pointer;
@@ -57,9 +74,9 @@ const StyledSection = styled.section`
     background: #fff;
     padding: 0 30px;
   }
-`
+`;
 
-const Brand = props => {
+const Brand = (props) => {
   return (
     <StyledSection>
       <Container
@@ -125,7 +142,7 @@ const Brand = props => {
         </div>
       </Container>
     </StyledSection>
-  )
-}
+  );
+};
 
-export default Brand
+export default Brand;

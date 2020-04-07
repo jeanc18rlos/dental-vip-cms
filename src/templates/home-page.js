@@ -4,13 +4,34 @@ import Layout from "../layout";
 import SetLang from "../components/setLang";
 import Quote from "../components/quote";
 import Features from "../components/features";
-export const DefaultPageTemplate = ({ title }) => {
+import Brand from "../components/brand";
+import Boxes from "../components/boxes";
+import Parallax from "../components/parallax";
+import Heading from "../components/heading";
+export const DefaultPageTemplate = ({ title, hero, quote, features }) => {
   return (
     <div>
-      <br></br>
-      <Quote />
-      <Features></Features>
-      <br></br>
+      <Brand></Brand>
+      <Features {...features}></Features>
+      <Quote {...quote} />
+      <Heading />
+      <Parallax
+        {...{
+          img: hero.image,
+        }}
+      ></Parallax>
+
+      <Boxes
+        {...{
+          img: hero.image,
+        }}
+      ></Boxes>
+      <Parallax
+        nocontent={true}
+        {...{
+          img: hero.image,
+        }}
+      ></Parallax>
     </div>
   );
 };
@@ -21,12 +42,17 @@ const DefaultPage = ({ data }) => {
     language,
     title,
     redirects,
+    hero,
+    quote,
+    features,
   } = data.markdownRemark.frontmatter;
 
   return (
     <Layout>
       <SetLang language={language} link={redirects} />
-      <DefaultPageTemplate {...{ templateKey, language, title, redirects }} />
+      <DefaultPageTemplate
+        {...{ templateKey, language, title, hero, redirects, quote, features }}
+      />
     </Layout>
   );
 };
@@ -50,6 +76,31 @@ export const pageQuery = graphql`
                 ...GatsbyImageSharpFluid
               }
             }
+          }
+        }
+
+        quote {
+          body
+          footer {
+            author
+            details
+          }
+        }
+
+        features {
+          title
+          description
+          features {
+            to
+            img {
+              childImageSharp {
+                fluid(maxWidth: 224, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            title
+            description
           }
         }
       }

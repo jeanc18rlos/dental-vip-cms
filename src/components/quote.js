@@ -2,6 +2,7 @@ import React from "react";
 import { Container } from "../Elements/Container";
 import styled, { css } from "styled-components";
 import { rhythm, scale } from "../utils/typography";
+import ReactHtmlParser from "react-html-parser";
 
 const StyledQuote = styled.section`
   padding: ${rhythm(4)} 0;
@@ -13,12 +14,13 @@ const StyledQuote = styled.section`
   .icon-quotes-close {
     align-self: flex-end;
     font-size: 1.5em;
-    margin-bottom: calc(1.666rem - 1px);
+    margin-bottom: calc(${rhythm(1)} - 1px);
   }
   hr {
     margin-left: auto;
     margin-right: auto;
-    background: #3a3a3a;
+    height: 1px;
+    background: #999;
     width: 100%;
   }
   .author {
@@ -55,35 +57,13 @@ const Quote = (props) => {
     <StyledQuote>
       <Container color="#222">
         <i className="icon-quotes-open"></i>
-        <blockquote>
-          <p>
-            <strong>
-              The Quality in Dentistry is not the fruit of chance.
-            </strong>
-            <br />
-            <em>
-              It is always the result of the pursuit of professional excellence
-              and an intelligent effort for continuous improvement. Permanent
-              training in new trends and therapeutic philosophies, honesty,
-              efficient use of resources and cordial attention of people
-              generate the highest levels of satisfaction in all our patients.
-            </em>
-          </p>
-        </blockquote>
+        <blockquote>{ReactHtmlParser(props.body)}</blockquote>
         <i className="icon-quotes-close"></i>
       </Container>
       <Container className="author" color="#222">
         <hr />
-        <p className="author-name">
-          <strong>María José Tirado</strong>
-        </p>
-        <p className="author-title">
-          <strong>
-            Office Coordination
-            <br></br>
-            DENTAL VIP, <wbr/>Especialidades Odontológicas s.c.
-          </strong>
-        </p>
+        <p className="author-name">{ReactHtmlParser(props.footer.author)}</p>
+        <p className="author-title">{ReactHtmlParser(props.footer.details)}</p>
       </Container>
     </StyledQuote>
   );
