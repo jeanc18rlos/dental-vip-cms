@@ -176,7 +176,7 @@ faq:
       answer: "<p>Es natural experimentar cierta hinchazón después de cualquier cirugía.
         Un corte quirúrgico en la piel o mucosa, también llamado incisión, es una
         forma de agresión al organismo. La respuesta natural del cuerpo a una lesión
-        de este tipo es el proceso inflamatorio, que como sabemos, cursa con aumento
+        de este tipo es el proceso inflamatorio, que como sabemos; cursa con aumento
         de volumen. Sin embargo, si la inflamación llegase a ser exagerada, contacte
         de inmediato con su Especialista.</p>\n"
     - question: "¿Es necesario tomar antibióticos, analgésicos y antiinflamatorios?"
