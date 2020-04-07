@@ -94,10 +94,10 @@ faq:
     - question: For an Oral Surgery, could you give me general anesthesia?
       answer: "<p>Only in cases of Major Surgery such as Orthognathic and Maxillofacial.
         Due to its great effectiveness, safety and almost absolute absence of side
-        effects, local trunk or infiltrative anesthesia is the one of choice for minor
+        effects; local trunk or infiltrative anesthesia is the one of choice for minor
         Oral Surgery interventions in outpatient settings. Conscious sedation with
         benzodiazepine derivatives is the best option for special or excessively apprehensive
-        people, however, it requires the participation of an Anesthesiologist.</p>\n"
+        people; however, it requires the participation of an Anesthesiologist.</p>\n"
     - question: What is an atraumatic extraction and what is its importance?
       answer: "<p>Atraumatic surgical methods for tooth extraction aim to preserve
         intact the bone that surrounds the tooth root. This work philosophy is based
