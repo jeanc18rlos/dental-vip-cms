@@ -75,7 +75,7 @@ faq:
         any surgical act is truly small. Although all Oral Surgery procedures are
         essentially invasive, the reality is that the postoperative period is perfectly
         controllable. The application of an effective anesthetic technique, of a controlled
-        surgical act and the adoption of an adequate postoperative protocol, will
+        surgical act and the adoption of an adequate postoperative protocol; will
         minimize the risk and the possibility of pain, infection and inflammation
         of the affected area.</p>\n"
     - question: Is it necessary to undergo to blood tests before an intervention?
