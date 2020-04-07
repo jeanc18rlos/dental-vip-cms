@@ -125,7 +125,7 @@ faq:
         be made using radiological examinations, usually a panoramic dental X-ray.</p>\n"
   - questions:
     - question: Should they always be extracted?
-      answer: "<p>Yes in the vast majority of cases, however, there is no general
+      answer: "<p>Yes in the vast majority of cases; however, there is no general
         rule for making the decision. The different criteria must be evaluated in
         each particular clinical situation, weighing thoroughly the risks and benefits
         of the intervention.</p>\n"
