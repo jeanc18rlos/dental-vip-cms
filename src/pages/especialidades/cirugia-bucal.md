@@ -130,7 +130,7 @@ faq:
         panorámica dental-sinusal.</p>\n"
   - questions:
     - question: "¿Deben ser siempre extraídos?"
-      answer: "<p>Sí en la gran mayoría de los casos, sin embargo, no existe una regla
+      answer: "<p>Sí en la gran mayoría de los casos; sin embargo, no existe una regla
         general para tomar la decisión. Los diferentes criterios deben ser ponderados
         en cada situación clínica particular, sopesando muy bien los riesgos y beneficios
         de la intervención.</p>\n"
