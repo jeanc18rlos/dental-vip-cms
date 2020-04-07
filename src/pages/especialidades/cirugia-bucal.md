@@ -124,7 +124,7 @@ faq:
         un determinado diente, llegada la época normal de su erupción, permanece en
         el interior de los tejidos de la cavidad oral <em>(hueso alveolar y mucosa
         bucal)</em>. Los dientes que padecen con mayor frecuencia esta situación son
-        los terceros molares <em>(muelas del juicio o cordales)</em>, principalmente
+        los terceros molares <em>(muelas del juicio o cordales)</em>; principalmente
         los del maxilar inferior. El diagnóstico de la inclusión de un diente solo
         puede ser realizado recurriendo a exámenes radiológicos, usualmente una radiografía
         panorámica dental-sinusal.</p>\n"
