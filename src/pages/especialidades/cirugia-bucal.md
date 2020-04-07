@@ -36,7 +36,7 @@ paragraphSection:
     <b>Su objetivo es lograr que las personas entren en un estado de tranquilidad
     y relajación profunda mientras dure el acto clínico.</b></p>\n<p><b>Aunque la
     finalidad de la intervención puede variar, las técnicas empleadas son siempre
-    muy similares,</b> e implican, previa anestesia, la incisión de la encía, su desprendimiento
+    muy similares;</b> e implican, previa anestesia, la incisión de la encía, su desprendimiento
     en mayor o menor grado, la extirpación de los tejidos patológicos o excedentes,
     la colocación de implantes o injertos biocompatibles y, por último; el cierre
     y sutura de la herida. Será siempre imprescindible, para el éxito final del procedimiento,
