@@ -172,7 +172,7 @@ faq:
         if the inflammation becomes exaggerated, contact your Specialist immediately.</p>\n"
     - question: Is it necessary to take antibiotics, analgesics and anti-inflammatories?
       answer: "<p>Depends on the situation. Simple procedures rarely require postoperative
-        medication, however, more complex interventions do. We generally prescribe
+        medication; however, more complex interventions do. We generally prescribe
         a broad-spectrum antibiotic and a non-steroidal anti-inflammatory analgesic
         <em>(NSAID)</em>.</p>\n"
     - question: In case of bleeding, what is the behavior to follow?
