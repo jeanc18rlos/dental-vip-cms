@@ -181,7 +181,7 @@ faq:
         de inmediato con su Especialista.</p>\n"
     - question: "¿Es necesario tomar antibióticos, analgésicos y antiinflamatorios?"
       answer: "<p>Depende de la situación. Los procedimientos simples rara vez requieren
-        medicación postoperatoria, sin embargo, las intervenciones más complejas sí.
+        medicación postoperatoria; sin embargo, las intervenciones más complejas sí.
         Generalmente prescribimos un antibiótico de amplio espectro y un analgésico
         antiinflamatorio no esteroideo <em>(AINE)</em>.</p>\n"
     - question: En caso de hemorragia, ¿cuál es la conducta a seguir?
