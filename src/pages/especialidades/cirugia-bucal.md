@@ -27,7 +27,7 @@ paragraphSection:
     congénitas y/o adquiridas que requieren tratamiento quirúrgico electivo.</b> Entre
     las más comunes de las que ambulatoriamente se tratan en nuestra clínica podemos
     mencionar la extracción de los terceros molares incluidos <i>(cordales)</i>, extracciones
-    dentarias simples, complejas y múltiples, colocación de IMPLANTES DENTALES, frenilectomías,
+    dentarias simples, complejas y múltiples; colocación de IMPLANTES DENTALES, frenilectomías,
     apicectomías y cirugías periapicales, extirpación y biopsia de lesiones orales
     menores y quistes dentígeros; entre otras.</p>\n<p><b>Usualmente todos estos procedimientos
     son efectuados bajo anestesia local,</b> sin embargo, eventualmente se realizan
