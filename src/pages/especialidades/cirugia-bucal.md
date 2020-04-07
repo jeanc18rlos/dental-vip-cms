@@ -77,7 +77,7 @@ faq:
         de Cirugía Oral son esencia invasivos, la realidad es que el postoperatorio
         es perfectamente controlable. La aplicación de una técnica anestésica efectiva,
         de un acto quirúrgico controlado y la adopción de un protocolo postoperatorio
-        eficaz, reducirán al mínimo el riesgo y la posibilidad de dolor, infección
+        eficaz; reducirán al mínimo el riesgo y la posibilidad de dolor, infección
         e inflamación de la zona afectada.</p>\n"
     - question: "¿Es necesario someterse a exámenes de sangre antes de una intervención?"
       answer: "<p>Aunque sean extremadamente raras las complicaciones quirúrgicas
