@@ -95,11 +95,11 @@ faq:
         y contar con un acompañante adulto que le pueda prestar el apoyo necesario.</p>\n"
     - question: Para una Cirugía Oral, ¿me podrían suministrar anestesia general?
       answer: "<p>Solo en los casos de Cirugía Mayor como la Ortognática y Maxilofacial.
-        Por su gran efectividad, seguridad y ausencia casi absoluta de efectos secundarios,
+        Por su gran efectividad, seguridad y ausencia casi absoluta de efectos secundarios;
         la anestesia local troncular o infiltrativa es la de elección para las intervenciones
         de Cirugía Oral menor en medios ambulatorios. La sedación consciente con derivados
         de la benzodiazepina es la mejor opción para pacientes especiales o excesivamente
-        aprensivos, sin embargo, requiere de la participación de un Médico Anestesiólogo.</p>\n"
+        aprensivos; sin embargo, requiere de la participación de un Médico Anestesiólogo.</p>\n"
     - question: "¿Qué es una extracción atraumática y cuál es su importancia?"
       answer: "<p>Los métodos quirúrgicos atraumáticos para la extracción de dientes
         tienen como objetivo preservar intacto el hueso que rodea a la raíz dental.
