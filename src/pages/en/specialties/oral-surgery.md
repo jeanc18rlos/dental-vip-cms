@@ -67,7 +67,7 @@ faq:
       answer: "<p>Because he is a broad connoisseur of oral anatomy and pathology,
         because he exercises great mastery over contemporary medical-surgical principles
         and because he possesses great skill and dexterity on handling the most innovative
-        clinical techniques of the Specialty, qualities that confer him the level
+        clinical techniques of the Specialty; qualities that confer him the level
         of expert in the matter.</p>\n"
     - question: Are surgical acts performed in the mouth very painful?
       answer: "<p>The evolution that Dentistry has experienced in recent decades allows
