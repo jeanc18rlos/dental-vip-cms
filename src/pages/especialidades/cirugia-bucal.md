@@ -50,7 +50,7 @@ paragraphSection:
 quote:
   title: ''
   body: 'Por norma general, las extracciones de las cordales ectópicas, incluidas
-    o semierupcionadas son más fáciles de realizar en pacientes menores de 25 años,
+    o semierupcionadas son más fáciles de realizar en pacientes menores de 25 años;
     antes de que sus raíces se hayan desarrollado por completo.
 
 '
