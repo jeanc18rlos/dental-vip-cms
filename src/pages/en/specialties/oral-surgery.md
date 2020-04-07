@@ -145,10 +145,10 @@ faq:
         of a small amount of tissue with a needle, while others include surgical removal
         of the entire lesion. Usually, a biopsy is performed for the screening of
         oral cancer or for the diagnosis of ulcers, erosions and blisters that does
-        not show evidence of healing within 5 to 10 days, rapidly growing nodules,
-        black lesions, white lesions, red lesions with suspected erythroplasia, lesions
-        without a definite diagnosis, and in some cases; for the study of infectious,
-        fungal and bacterial diseases. </p>\n"
+        not show evidence of spontaneous healing within 5 to 10 days, rapidly growing
+        nodules, black lesions, white lesions, red lesions with suspected erythroplasia,
+        lesions without a definite diagnosis, and in some cases; for the study of
+        infectious, fungal and bacterial diseases. </p>\n"
     - question: What is an apicectomy?
       answer: "<p>Apicectomy is a surgical procedure whose objective is to eliminate
         the apex <em>(end)</em> of the root of a tooth to solve a localized infectious
