@@ -194,9 +194,9 @@ faq:
         contacte de inmediato con su Especialista.</p>\n"
     - question: "¿Por cuánto tiempo deben permanecer las suturas en boca?"
       answer: "<p>Todo depende del caso y extensión del procedimiento. Por norma general,
-        es suficiente con un período de entre 7 y 10 días, sin embargo, podría extenderse
+        es suficiente con un período de entre 7 y 10 días; sin embargo, podría extenderse
         por más tiempo. En la actualidad es muy común el uso de suturas reabsorbibles
-        que, por ser biodegradables, no requieren de una segunda intervención clínica
+        que, por ser biodegradables; no requieren de una segunda intervención clínica
         para su remoción.</p>\n"
 clinicCases:
   title: Cirugía Bucal - Casos Clínicos
