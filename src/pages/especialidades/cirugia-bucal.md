@@ -30,7 +30,7 @@ paragraphSection:
     dentarias simples, complejas y múltiples; colocación de IMPLANTES DENTALES, frenilectomías,
     apicectomías y cirugías periapicales, extirpación y biopsia de lesiones orales
     menores y quistes dentígeros; entre otras.</p>\n<p><b>Usualmente todos estos procedimientos
-    son efectuados bajo anestesia local,</b> sin embargo, eventualmente se realizan
+    son efectuados bajo anestesia local;</b> sin embargo, eventualmente se realizan
     en conjunto con un Médico Anestesiólogo bajo SEDACIÓN CONSCIENTE, sobre todo en
     pacientes excesivamente nerviosos o con algún compromiso de tipo físico o emocional.
     <b>Su objetivo es lograr que las personas entren en un estado de tranquilidad
