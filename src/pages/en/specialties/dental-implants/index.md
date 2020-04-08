@@ -90,7 +90,7 @@ faq:
         in women, presence of acute periodontal infection and severe smoking habits.</p>\n"
     - question: So they are contraindicated in smokers?
       answer: "<p>Cigarette does not constitute an absolute contraindication for implant
-        rehabilitation, however, it is scientifically proven that smoking causes peripheral
+        rehabilitation; however, it is scientifically proven that smoking causes peripheral
         vascular vasoconstriction that significantly alters the process of bone healing
         and regeneration. So that in these patients the chances of success are reduced
         from approximately 98% to 65% of cases.</p>\n"
@@ -100,7 +100,7 @@ faq:
         is introduced by screwing it under pressure, so that its surface is in intimate
         contact with the underlying bone tissue. Making simple analogy we can say
         that the surgical phase is quite similar to the way of placing a ramplug on
-        a wall. In some cases it is not even necessary to take stitches.</p>\n"
+        a wall. In some cases, it is not even necessary to take stitches.</p>\n"
     - question: Is this procedure very painful?
       answer: "<p>Not at all!, as long as it is performed under a proper local anesthetic
         technique. Our Oral Surgeon handles excellent surgical protocols and powerful
