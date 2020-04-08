@@ -220,11 +220,11 @@ faq:
     - question: What is the periodontal support or maintenance phase?
       answer: "<p>It is the phase of periodontal therapy during which the disease
         is monitored to control its etiological and risk factors. It is considered
-        from the clinical point of view, an active therapy, which should have the
+        from the clinical point of view, an active therapy; which should have the
         same professional attention and importance as the initial or attack therapy.
         Its main objective is to prevent the progression and recurrence of periodontal
         disease in patients who have been previously treated. It usually requires
-        periodic visits, every 3 months at the beginning, to rule out the presence
+        periodic visits, every 3 months at the beginning; to rule out the presence
         of local irritants, clinical signs of inflammation and to verify the full
         mastery over execution of the different oral hygiene techniques.</p>\n"
     - question: What to do if I finally lose some teeth?
