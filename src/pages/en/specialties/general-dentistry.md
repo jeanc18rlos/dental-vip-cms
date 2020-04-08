@@ -161,7 +161,7 @@ faq:
       answer: "<p>Both natural and artificial teeth suffer wear, and over time, they
         acquire certain roughness on their outer layers that it is advisable to remove.
         There are several techniques for this that provide not only an aesthetic benefit,
-        but also a hygienic and functional ones, since a smooth and polished surface
+        but also a hygienic and functional ones; since a smooth and polished surface
         retains a smaller amount of dental plaque and is then easier to address and
         clean.</p>\n"
     - question: What are the benefits of a topical fluoride application?
