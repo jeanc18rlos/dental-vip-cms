@@ -35,7 +35,7 @@ paragraphSection:
     This phenomenon has been called SMILE DESIGN and gives us the possibility of applying
     a more scientific and less subjective criterion when restoring decayed, fractured,
     pigmented, rotated, separated or malformed teeth. On the other hand, <b>new adhesive
-    materials based on nanotechnology allow us for its great versatility to modify
+    materials based on nanotechnology allow us for their great versatility to modify
     the shape, color and size of the teeth at pleasure. In very few appointments the
     result is obvious and the transformation looks spectacular</b>. For the most complex
     cases we have the so-called PORCELAIN VENEERS, that are thin sheets of ceramic
