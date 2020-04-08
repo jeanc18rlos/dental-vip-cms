@@ -25,7 +25,7 @@ paragraphSection:
   body: "<p>\n  Cuando se pierden uno o varios dientes, y no son reemplazados a la
     brevedad,\n  se inicia de inmediato un lento pero progresivo proceso de reabsorción
     a nivel\n  del hueso maxilar que va mermando en ancho y alto la cantidad de estructura\n
-    \ ósea disponible, y necesaria, para la colocación de implantes dentales. “Lo\n
+    \ ósea disponible, y necesaria; para la colocación de implantes dentales. “Lo\n
     \ que no se usa se atrofia”, y es precisamente lo que le sucede al REBORDE\n  MAXILAR
     EDÉNTULO, naturalmente, a consecuencia de la falta de estimulación por\n  ausencia
     de cargas funcionales. De modo que\n  <strong>\n    si transcurre mucho tiempo
