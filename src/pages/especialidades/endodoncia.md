@@ -42,7 +42,7 @@ paragraphSection:
     es necesario que el Odontólogo posea amplios conocimientos anatómicos de la MORFOLOGÍA
     RADICULAR y haya desarrollado un sentido de percepción táctil muy especial que
     le permitan <strong>localizar, acceder, instrumentar y rellenar los conductos
-    con suma precisión, sin margen de error posible.</strong> Es de nuestro parecer
+    con suma precisión; sin margen de error posible.</strong> Es de nuestro parecer
     que tales cualidades solo se logran cursando estudios formales de la Especialidad
     y limitando la práctica profesional exclusivamente al área de Endodoncia.</p><p><strong>Nuestra
     Endodoncista cuenta con los últimos avances tecnológicos como los sistemas rotatorios
