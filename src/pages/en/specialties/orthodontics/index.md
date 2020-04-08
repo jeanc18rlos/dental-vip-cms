@@ -179,7 +179,7 @@ faq:
         these results with procedures of dental aesthetics, whitening or periodontal
         plastic surgery; so that the teeth look really spectacular.</span></p>\n"
     - question: Could they move after removing the braces?
-      answer: "<p>Dental alignment is a dynamic and changing entity over time, that
+      answer: "<p>Dental alignment is a dynamic and changing entity over time; that
         is, teeth tend to move throughout life, with or without prior Orthodontics;
         so the retention phase is the longest and most complex of an orthodontic treatment
         and requires excellent collaboration by the patient.</span></p>\n"
