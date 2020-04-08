@@ -35,7 +35,7 @@ paragraphSection:
     altamente predecibles y muchas veces sorprendentes para los pacientes.</p><p><strong>Un
     buen Odontólogo General se encarga de realizar el triaje y diagnóstico primario
     del paciente, </strong> resolver los problemas de higiene y RESTAURACIÓN DE CARIES
-    que pueda presentar y referirle, de ser necesario, al Especialista más indicado.
+    que pueda presentar y referirle; de ser necesario, al Especialista más indicado.
     Es importante aclarar que  <strong>un verdadero Especialista debe haber cursado
     estudios de cuarto nivel o Postgrado </strong> en alguna Universidad nacional
     o extranjera reconocida, con un pensum académico que abarque las horas lectivas
