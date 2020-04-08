@@ -41,7 +41,7 @@ paragraphSection:
     cases we have the so-called PORCELAIN VENEERS, that are thin sheets of ceramic
     material that adhere firmly to the dental structures and that are indicated for
     the correction of aesthetic defects of greater extent and severity.</p> <p><b>Nowadays
-    Aesthetic Dentistry has no limits</b>, except for the creativity, skill and preparation
+    Aesthetic Dentistry has no limits</b>; except the creativity, skill and preparation
     of the professional staff.</p>\n"
   image: "/img/aside-aesthetic-dentistry.jpg"
 quote:
