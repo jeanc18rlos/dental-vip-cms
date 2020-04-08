@@ -187,7 +187,7 @@ faq:
       answer: "<p>Usually a hybrid prosthesis of metal-acrylic or metal-porcelain.</p>\n"
     - question: Are they only used to fix complete dentures; that is, when all teeth
         are missing?
-      answer: "<p>Yes in the past, since it was a procedure designed for this purpose,
+      answer: "<p>Yes in the past, since it was a procedure designed for this purpose;
         with 4 implants in total, 2 on each side of the upper jaw. However, at present
         modifications of the original technique are applied that allow the Zygomatic
         or Pterygoid Implant to be placed in a suitable position and compatible with
