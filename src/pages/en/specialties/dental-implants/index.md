@@ -172,7 +172,7 @@ faq:
         <em>(osseointegration)</em>. During that period a removable provisional prosthesis
         is usually made to temporarily solve the aesthetic problem.</p>\n"
     - question: Is it a definitive treatment, for a lifetime?
-      answer: "<p>It would be irresponsible to offer a general estimate for all cases,
+      answer: "<p>It would be irresponsible to offer a general estimate for all cases;
         however, there are patients who have been implant prostheses for more than
         30 years. Obviously everything depends on the general state of health, prior
         planning of the case, surgical implantation technique, device quality, aseptic
