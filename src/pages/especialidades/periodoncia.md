@@ -157,7 +157,7 @@ faq:
   - questions:
     - question: "¿Es reversible la movilidad dental producida por la periodontitis?"
       answer: "<p>La movilidad suele persistir a pesar del tratamiento periodontal
-        porque, lamentablemente, el nivel general de hueso jamás se recupera. Los
+        porque, lamentablemente; el nivel general de hueso jamás se recupera. Los
         dientes que presenten movilidad al momento del diagnóstico podrían perderse
         a corto o mediano plazo a pesar del tratamiento, y es la razón que justifica
         la necesidad de realizar un diagnóstico y control precoz de la enfermedad.</p>\n"
