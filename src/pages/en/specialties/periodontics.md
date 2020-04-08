@@ -103,7 +103,7 @@ faq:
       answer: "<p>Tobacco, alcohol and stress. Also some medications and systemic
         diseases such as diabetes, osteoporosis or severe immunosuppression states.
         Defective, over-contoured or poorly adjusted restorations, crooked or crowded
-        teeth <em>(malocclusions)</em> and poor oral hygiene are also factors that
+        teeth <em>(malocclusions)</em> and poor oral hygiene; are also factors that
         trigger and stimulate the pathogenic potential of periodontal diseases.</p>\n"
     - question: Is there any relationship between periodontal disease and pregnancy?
       answer: "<p>Pregnancy causes many hormonal changes that exponentially increase
