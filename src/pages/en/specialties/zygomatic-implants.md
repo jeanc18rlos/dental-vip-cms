@@ -42,7 +42,7 @@ paragraphSection:
     they imply the need to generate a large body wound at the level of the pelvis
     or head to collect iliac crest or calotte bone blocks', high chances of rejection
     due to the own cruelty of the surgical technique and a period of tissue healing
-    that could involve to 5 or 6 months of waiting, before being able to continue
+    that could involve to 5 or 6 months of waiting; before being able to continue
     with the treatment.\n</p> <p>Faced with such eventualities, <strong>it is often
     preferable to forget about the maxillary and grafts, and fix the implants to other
     bones of the orofacial region</strong>, being by their compact structure and anatomical
