@@ -186,9 +186,9 @@ faq:
         is incipient or moderate all infected tissue is removed and the cavity is
         sealed with a special material, usually based on Dental Composite Resins.
         In more advanced states caries usually affects the dental pulp or nerve of
-        the tooth and it is then necessary to perform a Root Canal Treatment. In addition,
-        after Endodontics, a Ceramic Inlay or Crown is usually indicated to protect
-        the weakened remaining dental structure and prevent its fracture.</p>\n"
+        the tooth, and it is then necessary to perform a Root Canal Treatment. In
+        addition, after Endodontics; a Ceramic Inlay, Onlay or Crown is usually indicated
+        to protect the weakened remaining dental structure and prevent its fracture.</p>\n"
     - question: Is dental amalgam still used?
       answer: "<p>Although the appearance of new adhesive materials for direct filling
         has been very beneficial from the aesthetic point of view, they do not in
