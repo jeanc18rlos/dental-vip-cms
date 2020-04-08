@@ -179,7 +179,7 @@ faq:
         is a technique that is currently used only in very particular situations.</p>\n"
     - question: How is a periodontal pocket or pathological sac?
       answer: "<p>In health conditions, the gum joins the tooth through an epithelial
-        insertion forming a groove <em>(gingival groove)</em> of between 1 and 3 mm.
+        insertion forming a sulcus <em>(gingival sulcus)</em> of between 1 and 3 mm.
         deep. A periodontal pocket is a degenerative lesion of the periodontium, an
         abnormal space <em>(greater than 4 mm.)</em> that forms between the gum and
         the tooth, at the level of the gingival groove; as a result of the constant
