@@ -323,7 +323,7 @@ asides:
 '
     content: '<p style="font-weight:400">After the osseointegration period, the implants
       are uncovered and the definitive prosthesis previously contemplated is fabricated.
-      Depending on the case, it may be total or partial, fixed or removable and made
+      Depending on the case; it may be total or partial, fixed or removable and made
       of metal-porcelain, metal-acrylic, total ceramic or thermopolymerizable polyacrylic
       resin.</p>
 
