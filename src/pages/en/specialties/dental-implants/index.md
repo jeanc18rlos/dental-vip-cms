@@ -160,7 +160,7 @@ faq:
       answer: "<p>Although it is possible to make removable overdentures, we consider
         that the effort and investment involved in this type of procedure deserves
         a fixed prosthesis that truly improves the quality of life of the person.
-        In our clinic, whenever possible, we try to make them all fixed, with the
+        In our clinic, whenever possible; we try to make them all fixed, with the
         exception of the provisional ones used during the osseointegration period.</p>\n"
     - question: Can the crown or fixed prosthesis be placed immediately, that is,
         on the same day as the surgery?
