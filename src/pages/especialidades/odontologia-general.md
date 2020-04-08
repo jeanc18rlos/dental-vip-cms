@@ -206,8 +206,8 @@ faq:
         manera afectan la pertinencia e indicación de otros materiales tradicionales
         todavía más resistentes, más duraderos y más económicos. Es el caso de la
         amalgama de plata, que indudablemente sigue siendo la mejor opción en situaciones
-        donde los dientes restaurados, por el tipo de mordida; queden expuestos a
-        fuerzas o sobrecargas considerables, tal y como ocurre con muchos dientes
+        donde los dientes restaurados, por el tipo de oclusión o mordida; queden expuestos
+        a fuerzas o sobrecargas considerables, tal y como ocurre con muchos dientes
         posteriores, a nivel de molares.</p>\n"
     - question: "¿Qué son y cómo se colocan las Resinas o Composites?"
       answer: "<p>Son materiales sintéticos mezclados heterogéneamente para formar
