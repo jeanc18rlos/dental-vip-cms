@@ -192,7 +192,7 @@ faq:
         fundamental que el clínico conozca y domine los distintos sistemas adhesivos
         para cada material cerámico y cada tipo de restauración. El cementado adhesivo
         promueve la formación de fuertes uniones químicas y mecánicas entre diente
-        y restauración.</p>\n"
+        y porcelana.</p>\n"
     - question: "¿Son todas las carillas de porcelana?"
       answer: "<p>¡No! Pueden fabricarse también de resinas compuestas mediante técnica
         directa, en una sola sesión y sin intervención del laboratorio dental, sin
