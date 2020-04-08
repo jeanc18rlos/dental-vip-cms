@@ -230,13 +230,13 @@ faq:
         o fracturar los dientes por completo; comprometiendo la estética y la función
         oclusal de la persona.</p>\n"
     - question: "¿Cuándo se indica una férula nocturna?"
-      answer: "<p>La férula dental o férula de descarga, estabilización o desprogramación
+      answer: "<p>La férula oclusal, férula de descarga, estabilización o desprogramación;
         es un dispositivo de resina acrílica transparente, duro, hecho a medida y
         que se coloca en la arcada superior o inferior <em>(según las características
         del caso)</em> del paciente, y que sirve para el tratamiento paliativo del
         Bruxismo y para reducir la hiperactividad muscular asociada con los trastornos
         oclusales, funcionales e inflamatorios de la articulación temporomandibular
-        <em>(ATM)</em>. También, lo indicamos de rutina como aparato protector en
+        <em>(ATM)</em>. También, la indicamos de rutina como aparato protector en
         pacientes con rehabilitaciones fijas extensas o implantoasistidas.</p>\n"
 clinicCases:
   title: Odontología General - Casos Clínicos
