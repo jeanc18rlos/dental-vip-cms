@@ -95,7 +95,7 @@ faq:
         diagnosed before 15 years old, although to do it, is under forms very severe
         and aggressive that seriously threaten teething, and even; the general health
         of the child. They usually appear in adults, starting their first manifestations
-        at an early age, around 25 years old. The younger the individual is at the
+        at an early age; around 25 years old. The younger the individual is at the
         time of appearing, the more severe their evolution will probably be and complex
         their treatment. There is no doubt that the incidence of periodontopathies
         is directly proportional to the age of people.</p>\n"
