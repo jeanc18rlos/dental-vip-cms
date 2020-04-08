@@ -126,7 +126,7 @@ faq:
         dental y enjuague bucal. Un cepillado óptimo toma al menos tres minutos de
         tiempo y para realizarlo adecuadamente debemos colocar las cerdas sobre la
         superficie dental y su encía contigua con una angulación de 45 grados, para
-        luego, aplicar movimientos horizontales cortos y suaves prestando especial
+        luego; aplicar movimientos horizontales cortos y suaves prestando especial
         atención a la interfase diente-encía, a los dientes posteriores de difícil
         acceso y a las zonas donde haya obturaciones, coronas, aparatos de ortodoncia
         o implantes dentales. Jamás olvide cepillar su lengua.</p>\n"
