@@ -84,10 +84,10 @@ faq:
       answer: "<p>Cuando el paciente sea mayor de edad, desee mejorar su apariencia
         física y no escape su percepción estética de la realidad. Es verdaderamente
         aterrador ver a personas con dientes que simulan “teclas de piano”, exageradamente
-        largos, blancos y monocromáticos, sin armonía con sus parámetros y rasgos
+        largos, blancos y monocromáticos; sin armonía con sus parámetros y rasgos
         propios y elaborados sin tomar en consideración que cada ser humano es una
         entidad exclusiva e individual. El diseño de sonrisa es una herramienta invalorable
-        en el campo de la Odontología Cosmética, siempre y cuando se utilice con ética,
+        en el campo de la Odontología Cosmética; siempre y cuando se utilice con ética,
         sensatez y verdadero criterio estético.</p>\n"
     - question: "¿Qué parámetros se emplean para elegir la forma de los nuevos dientes?"
       answer: "<p>Raza, sexo, edad, personalidad, tamaño y forma de la cara, biotipo
