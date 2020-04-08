@@ -219,15 +219,15 @@ faq:
         y se utiliza luz halógena para su colocación.</p>\n"
     - question: "¿En qué momento es necesario reemplazar una obturación antigua?"
       answer: "<p>La respuesta es muy sencilla: cuando exista sensibilidad dental,
-        cuando el material esté deteriorado, roto o fracturado, cuando se observe
+        cuando el material esté deteriorado, roto o fracturado; cuando se observe
         filtración marginal y/o caries de recidiva o cuando tras un estudio radiográfico
         se detecte un área radiolúcida coronal que sugiera una falla de tipo cohesivo.</p>\n"
     - question: "¿Qué es el Bruxismo?"
       answer: "<p>El Bruxismo es el hábito involuntario de apretar o rechinar los
-        dientes sin propósitos funcionales. Afecta a entre un 10% y un 20% de la población,
+        dientes sin propósitos funcionales. Afecta a entre un 10% y un 20% de la población;
         pudiendo generar dolor de cabeza, dolor de los músculos masticatorios, cuello
         y oído. El rechinamiento, si no es tratado a tiempo, puede llegar a desgastar
-        o fracturar los dientes por completo, comprometiendo la estética y la función
+        o fracturar los dientes por completo; comprometiendo la estética y la función
         oclusal de la persona.</p>\n"
     - question: "¿Cuándo se indica una férula nocturna?"
       answer: "<p>La férula dental o férula de descarga, estabilización o desprogramación
