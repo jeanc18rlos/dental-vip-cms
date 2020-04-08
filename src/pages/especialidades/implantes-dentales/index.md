@@ -183,7 +183,7 @@ faq:
         el problema estético.</p>\n"
     - question: "¿Es un tratamiento definitivo, para toda la vida?"
       answer: "<p>Sería irresponsable ofrecer una estimación general para todos los
-        casos, sin embargo, hay pacientes que llevan prótesis sobre implantes desde
+        casos; sin embargo, hay pacientes que llevan prótesis sobre implantes desde
         hace más de 30 años. Obviamente todo depende del estado de salud general,
         planificación previa del caso, técnica quirúrgica de implantación, calidad
         del dispositivo, asepsia en el procedimiento, correcta distribución de cargas
