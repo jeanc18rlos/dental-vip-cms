@@ -136,7 +136,7 @@ faq:
         curable. Sin embargo, las diferentes formas de periodontitis causan daños
         irreversibles en el aparato de inserción dental. Considerando a las variantes
         moderadas y avanzadas de la EP como entidades crónicas y controlables, pero
-        con alto riesgo de recurrencia, es difícil hablar de curación total. Un paciente
+        con alto riesgo de recurrencia; es difícil hablar de curación total. Un paciente
         con periodontitis, aparte de aprender, dominar y aplicar a conciencia las
         diversas técnicas de higiene oral, debe mantener un control periódico de por
         vida con su Periodoncista, para estabilizar su condición en el tiempo y lograr
