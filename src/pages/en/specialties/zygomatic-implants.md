@@ -82,7 +82,7 @@ faq:
       answer: "<p>It is actually very broad and covers many considerations, but one
         of the most relevant is the assessment of the state of the patient's bone
         and dental structure through a 3D volumetric tomography. This test provides
-        the Specialist with valuable information and allows him, a priori, to verify
+        the Specialist with valuable information and allows him; a priori, to verify
         that the person cannot really be treated with conventional dental implants.</p>\n"
     - question: Which patients can undergo this oral implantology technique?
       answer: "<p>In principle, all those who have lost teeth and a lot of bone volume
