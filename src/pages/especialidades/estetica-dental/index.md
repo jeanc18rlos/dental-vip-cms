@@ -201,13 +201,13 @@ faq:
     - question: Si al sonreír muestro gran cantidad de encía, ¿qué se puede hacer?
       answer: "<p>Depende del caso y su etiología. Si la causa de la sonrisa gingival
         es la sobreerupción de los incisivos superiores, la Ortodoncia es el tratamiento
-        de elección, para nivelar la arcada, intruir los dientes y lograr la migración
+        de elección; para nivelar la arcada, intruir los dientes y lograr la migración
         apical de su encía marginal. Si el problema es generado por una alteración
         de la erupción pasiva, por un verdadero exceso de encía sobre las coronas
-        clínicas de los dientes, la gingivectomía o remoción quirúrgica del tejido
+        clínicas de los dientes; la gingivectomía o remoción quirúrgica del tejido
         anómalo será la solución. Ahora bien, si la condición obedece a una alteración
         del desarrollo facial, a un crecimiento vertical excesivo del maxilar superior
-        <em>(EVM)</em>, solo la impacción quirúrgica del mismo mediante una intervención
+        <em>(EVM)</em>; solo la impacción quirúrgica del mismo mediante una intervención
         de Cirugía Ortognática Maxilofacial <em>(osteotomía de Le Fort I)</em> solventará
         el problema.</p>\n"
     - question: "¿En qué consiste una cirugía plástica periodontal o gingivoplastía?"
