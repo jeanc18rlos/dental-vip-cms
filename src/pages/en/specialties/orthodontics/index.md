@@ -53,7 +53,7 @@ quote:
   body: 'It Is Not Enough with to Just Align the Teeth. The sum of the characterizations
     and small details that can be achieved in the finishing phase will define the
     excellence of the result. That is why in some people the teeth will look really
-    beautiful, and in others, just straight.
+    beautiful; and in others, just straight.
 
 '
   author: Dr. José Miguel Gómez Díez
