@@ -185,7 +185,7 @@ faq:
         and the participation of an expert Maxillofacial Surgeon.</p>\n"
     - question: What type of prosthesis can next be made?
       answer: "<p>Usually a hybrid prosthesis of metal-acrylic or metal-porcelain.</p>\n"
-    - question: Are they only used to fix complete dentures, that is, when all teeth
+    - question: Are they only used to fix complete dentures; that is, when all teeth
         are missing?
       answer: "<p>Yes in the past, since it was a procedure designed for this purpose,
         with 4 implants in total, 2 on each side of the upper jaw. However, at present
