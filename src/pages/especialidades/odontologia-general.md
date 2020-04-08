@@ -212,7 +212,7 @@ faq:
     - question: "¿Qué son y cómo se colocan las Resinas o Composites?"
       answer: "<p>Son materiales sintéticos mezclados heterogéneamente para formar
         un solo compuesto de elementos variados. Se utilizan en Odontología para obturar
-        dientes porque son muy estéticos, y además, porque se adhieren micromecánicamente
+        dientes porque son muy estéticos, y además; porque se adhieren micromecánicamente
         a su superficie mediante la técnica de grabado ácido. Las Resinas Compuestas
         constan de un componente orgánico polimérico llamado matriz y un componente
         inorgánico que actúa como mineral de relleno. Generalmente son fotosensibles
