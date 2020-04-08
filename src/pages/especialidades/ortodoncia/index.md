@@ -45,7 +45,7 @@ paragraphSection:
     biológico perdido por las alteraciones del desarrollo.  <strong>En los casos extremos
     de deformidades dentofaciales severas es ya entonces necesario un abordaje combinado
     Ortodóncico-Quirúrgico, </strong> de modo que la ejecución del tratamiento implica
-    la participación conjunta y coordinada con el Cirujano Maxilofacial, quien se
+    la participación conjunta y coordinada con el Cirujano Maxilofacial; quien se
     encargará de reposicionar las estructuras maxilares afectadas a través de los
     diversos procedimientos de CIRUGÍA ORTOGNÁTICA.</p>  \n"
   image: "/img/aside-orthodontics.jpg"
