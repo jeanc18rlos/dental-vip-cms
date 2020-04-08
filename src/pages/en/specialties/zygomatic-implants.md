@@ -202,7 +202,7 @@ faq:
         design of these implants generally provide great primary stability. However,
         it is only after surgery that it will be decided if a fixed or conventional
         prosthesis with relief in the areas where the intraoral platforms emerge is
-        installed. Then, after the osseointegration period, elapsed 4, 5 or 6 months,
+        installed. Then, after the osseointegration period; elapsed 4, 5 or 6 months,
         the final prosthetic rehabilitation is performed.</p>\n"
     - question: After the treatment, what should I do to keep my implants for a lifetime?
       answer: "<p>Basically keep yourself in good general health, practice very good
