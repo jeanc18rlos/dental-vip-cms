@@ -110,7 +110,7 @@ faq:
         most rebellious cases.</p>\n"
     - question: Could it be done only with sedation and local anesthesia?
       answer: "<p>Occasionally, and only in very favorable surgical conditions. However,
-        for your peace of mind and ours, at DENTAL VIP we never belittle the delicacy
+        for your peace of mind and ours; at DENTAL VIP we never belittle the delicacy
         of the procedure and always prefer general anesthesia in surgical block and
         hospital environment for this type of interventions.</p>\n"
     - question: What material are these implants made of?
