@@ -136,7 +136,7 @@ faq:
         or pineapple)</em>, the duration of the result can be considerably compromised.</p>\n"
     - question: Is teeth whitening a painful procedure?
       answer: "<p>At all! It is a conservative treatment that does not even require
-        dental anesthesia, however, in many cases it can generate a temporary increase
+        dental anesthesia; however, in many cases it can generate a temporary increase
         in dental sensitivity. This hypersensitivity is considered normal and is controlled
         with the use of special dentifrices and fluoride-based desensitizing gels.</p>\n"
   - questions:
