@@ -163,9 +163,9 @@ faq:
         la necesidad de realizar un diagnóstico y control precoz de la enfermedad.</p>\n"
     - question: "¿Son útiles los antibióticos en la terapia general?"
       answer: "<p>Los antibióticos son sustancias capaces de eliminar o inactivar
-        bacterias, y la enfermedad periodontal como infección, es susceptible a sus
+        bacterias, y la enfermedad periodontal como infección; es susceptible a sus
         mecanismos de acción. No obstante, y debido a su carácter crónico, no es viable
-        usarlos de forma continua en casos de periodontitis, pues su uso prolongado
+        usarlos de forma continua en casos de periodontitis; pues su uso prolongado
         generaría resistencia bacteriana y efectos secundarios inaceptables sobre
         el organismo. En la actualidad, se recomienda utilizar antibióticos solo contra
         las variantes más agresivas, en fase aguda, por un lapso de tiempo bien definido
