@@ -76,7 +76,7 @@ faq:
         bastaría con saber que de todas las enfermedades periodontales la gingivitis
         es la más común, leve y de mejor pronóstico; ya que su evolución solo afecta
         a la encía marginal y sus daños son totalmente reversibles. Pero si no es
-        tratada a tiempo, avanza y ataca al hueso alveolar, causando infección, reabsorción
+        tratada a tiempo, avanza y ataca al hueso alveolar; causando infección, reabsorción
         y pérdida del mismo <em>(Periodontitis)</em> con formación de bolsas o sacos
         periodontales, pus y recesión de la encía. Al perder su hueso de sostén, los
         dientes se van aflojando progresivamente hasta caerse. A pesar de que la Periodontitis
