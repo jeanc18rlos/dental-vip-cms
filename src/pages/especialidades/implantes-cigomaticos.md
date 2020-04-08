@@ -211,7 +211,7 @@ faq:
         y la participación de un experto Cirujano Maxilofacial.</p>\n"
     - question: "¿Qué tipo de prótesis se puede después confeccionar?"
       answer: "<p>Usualmente una prótesis híbrida de metal-acrílico o metal-porcelana.</p>\n"
-    - question: "¿Solo se utilizan para fijar dentaduras completas, es decir, cuando
+    - question: "¿Solo se utilizan para fijar dentaduras completas; es decir, cuando
         faltan todos los dientes?"
       answer: "<p>Tradicionalmente así era, ya que fue un procedimiento diseñado a
         tal fin, con 4 implantes en total, 2 a cada lado del maxilar. Sin embargo,
