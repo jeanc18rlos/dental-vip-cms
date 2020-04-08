@@ -196,8 +196,8 @@ faq:
         es incipiente o moderada se elimina todo el tejido infectado y se obtura la
         cavidad con un material especial, generalmente a base de Composite o Resina
         Fotocurada. En estados más avanzados la caries suele afectar a la pulpa dental
-        o nervio del diente y es entonces necesario realizar un Tratamiento de Conducto.
-        Además, después de la Endodoncia, suele indicarse una Incrustación o Corona
+        o nervio del diente, y es entonces necesario realizar un Tratamiento de Conducto.
+        Además, después de la Endodoncia; suele indicarse una Incrustación o Corona
         Cerámica para proteger la estructura dental remanente debilitada y evitar
         su fractura.</p>\n"
     - question: "¿Todavía se utiliza la amalgama dental?"
@@ -206,8 +206,8 @@ faq:
         manera afectan la pertinencia e indicación de otros materiales tradicionales
         todavía más resistentes, más duraderos y más económicos. Es el caso de la
         amalgama de plata, que indudablemente sigue siendo la mejor opción en situaciones
-        donde los dientes restaurados, por el tipo de mordida, queden expuestos a
-        fuerzas o sobrecargas considerables; tal y como ocurre con muchos dientes
+        donde los dientes restaurados, por el tipo de mordida; queden expuestos a
+        fuerzas o sobrecargas considerables, tal y como ocurre con muchos dientes
         posteriores, a nivel de molares.</p>\n"
     - question: "¿Qué son y cómo se colocan las Resinas o Composites?"
       answer: "<p>Son materiales sintéticos mezclados heterogéneamente para formar
