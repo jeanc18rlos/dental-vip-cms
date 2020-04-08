@@ -186,8 +186,8 @@ faq:
         the formation of strong chemical and mechanical bonds between tooth and porcelain.</p>\n"
     - question: Are all veneers of porcelain?
       answer: "<p>No! They can also be made of composite resins by direct technique,
-        in a single session and without the intervention of the dental laboratory,
-        however; they are much less aesthetic, less resistant and have a shorter shelf
+        in a single session and without the intervention of the dental laboratory;
+        however, they are much less aesthetic, less resistant and have a shorter shelf
         life than ceramic ones. The latters can remain up to 20 years in the mouth.</p>\n"
     - question: If by smiling I show a large amount of gum, what can be done?
       answer: "<p>It depends on the case and its etiology. If the cause of the gingival
