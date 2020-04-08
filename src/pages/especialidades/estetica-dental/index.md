@@ -127,7 +127,7 @@ faq:
         es metabolizado por ciertas enzimas como la catalasa, peroxidasa e hidroperoxidasa;
         liberándose como producto final moléculas de oxígeno que reblandecen y eliminan
         los pigmentos y desechos interplasmáticos. La luz azul de alta intensidad
-        actúa como catalizador suministrándole energía a la solución blanqueadora
+        actúa como catalizador, suministrándole energía a la solución blanqueadora
         para acelerar su difusión y oxidación dentro de la estructura dentaria.</p>\n"
     - question: "¿Qué tanto se pueden blanquear los dientes y cuánto duran los resultados
         obtenidos?"
