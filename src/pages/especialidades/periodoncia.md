@@ -86,11 +86,11 @@ faq:
         a cuál de las variantes se enfrenta para poder instaurar un tratamiento periodontal
         adecuado, eficaz y que ofrezca las mayores posibilidades de éxito.</p>\n"
     - question: "¿Cuáles son sus causas?"
-      answer: "<p>Son en esencia de etiología bacteriana. Aunque la acumulación de
+      answer: "<p>Son en esencia de etiología infecciosa. Aunque la acumulación de
         placa bacteriana en los dientes es determinante para el inicio y progresión
         de la enfermedad periodontal, su gravedad y respuesta al tratamiento será
         el resultado de la interacción de gran cantidad de factores modificadores,
-        contribuyentes y/o predisponentes. Así, que al final, podemos afirmar que
+        contribuyentes y/o predisponentes. Así, que al final; podemos afirmar que
         es una patología de origen multifactorial.</p>\n"
     - question: "¿A qué edad suelen aparecer?"
       answer: "<p>Con excepción de la gingivitis, las enfermedades periodontales rara
