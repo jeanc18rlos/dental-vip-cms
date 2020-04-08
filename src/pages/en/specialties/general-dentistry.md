@@ -111,7 +111,7 @@ faq:
       answer: "<p>Halitosis, also known as bad breath, is defined as the set of unpleasant
         odors that are emitted through the mouth. It is a problem that affects one
         in three people and is associated with poor oral hygiene or diseases of the
-        oral cavity, although sometimes, it can be a clinical manifestation of some
+        oral cavity; although sometimes, it can be a clinical manifestation of some
         other systemic or gastrointestinal disease.</p>\n"
     - question: Which is the best oral hygiene technique?
       answer: "<p>That which is practiced religiously after each meal and that contemplates
