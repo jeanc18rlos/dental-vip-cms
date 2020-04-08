@@ -59,7 +59,7 @@ paragraphSection:
     con Poco Hueso”.</strong> Y es que\n  en definitiva, la relativa sencillez de
     su implantación\n  <em>(en relación a la colocación de injertos múltiples)</em>,
     la ausencia de\n  morbilidad de una zona donante y un periodo de curación mucho
-    más corto y\n  favorable para el paciente, sugieren a estos IMPLANTES LARGOS como
+    más corto y\n  favorable para el paciente; sugieren a estos IMPLANTES LARGOS como
     una\n  alternativa más simple y segura para casos extremos, en comparación con
     otras\n  técnicas de regeneración ósea e implantología oral.</p>    \n"
   image: "/img/aside-zygomatic-implants.jpg"
