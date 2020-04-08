@@ -97,7 +97,7 @@ faq:
         vez se diagnostican antes de los 15 años de edad, aunque de hacerlo, es bajo
         formas muy severas y agresivas que amenazan seriamente a la dentición, e incluso;
         a la salud general del niño. Normalmente aparecen en adultos, iniciando sus
-        primeras manifestaciones a temprana edad, en torno a los 25 años. Cuanto más
+        primeras manifestaciones a temprana edad; en torno a los 25 años. Cuanto más
         joven sea el individuo al momento de aparecer, más severa será probablemente
         su evolución y complejo su tratamiento. Es indudable que la incidencia de
         periodontopatías guarda una relación directamente proporcional con la edad
