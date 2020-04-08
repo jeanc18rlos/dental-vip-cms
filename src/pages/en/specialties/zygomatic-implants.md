@@ -195,7 +195,7 @@ faq:
         bridges)</em>. In fact, nowadays are multiple possibilities offered by these
         implants, from the placement of a single asymmetric device, to countless combinations
         with conventional implants, logically to solve the vast majority of cases,
-        and in some of them, even to reduce costs.</p>\n"
+        and in some of them; even to reduce costs.</p>\n"
     - question: Is it possible to place a fixed prosthesis the same day of the intervention,
         even if it is a provisional one?
       answer: "<p>Many times yes, since the multicortical anchor and the proven apex
