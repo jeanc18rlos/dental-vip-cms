@@ -192,7 +192,7 @@ faq:
       answer: "<p>Son unos dispositivos que se colocan al momento de retirar los brackets.
         Pueden ser fijos o removibles y tienen por finalidad mantener los dientes
         en su posición final, evitando que se muevan y desalineen nuevamente. Si son
-        removibles, se usan al principio las 24 horas del día, pero luego suele ser
+        removibles, se usan al principio las 24 horas del día; pero luego suele ser
         suficiente colocárselos solo para dormir.</p>\n"
 clinicCases:
   title: Ortodoncia - Casos Clínicos
