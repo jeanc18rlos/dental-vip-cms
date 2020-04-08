@@ -170,7 +170,7 @@ faq:
       answer: "<p>Tanto los dientes naturales como los artificiales sufren desgaste,
         y con el tiempo, adquieren ciertas rugosidades en sus capas externas que es
         recomendable eliminar. Existen diversas técnicas para ello que aportan no
-        solo un beneficio estético, sino también higiénico y funcional, ya que una
+        solo un beneficio estético, sino también higiénico y funcional; ya que una
         superficie lisa y pulida retiene menor cantidad de placa dental y es entonces
         más fácil de abordar y limpiar.</p>\n"
     - question: "¿Cuáles son los beneficios de una aplicación tópica de flúor?"
