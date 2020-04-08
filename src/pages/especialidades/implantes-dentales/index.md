@@ -161,7 +161,7 @@ faq:
     - question: "¿En qué consiste la fase protésica?"
       answer: "<p>Es la segunda fase de una rehabilitación con Implantes Dentales.
         Debe estar siempre a cargo del Especialista en Prostodoncia, quien diseñará,
-        confeccionará e instalará la prótesis implantosoportada definitiva, respetando
+        confeccionará e instalará la prótesis implantosoportada definitiva; respetando
         siempre a cabalidad todos los principios biomecánicos de oclusión y estética
         dental. Coronas individuales, puentes fijos, rehabilitaciones completas, prótesis
         híbridas y sobredentaduras son las alternativas conocidas.</p>\n"
