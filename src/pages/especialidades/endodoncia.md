@@ -110,7 +110,7 @@ faq:
       answer: "<p>Solo la extracción dental.</p>\n"
     - question: "¿Es necesario colocar anestesia?"
       answer: "<p>¡Por supuesto! Por lo general son tejidos infectados, inflamados
-        o necróticos, sumamente sensibles a la manipulación clínica. Afortunadamente,
+        o necróticos; sumamente sensibles a la manipulación clínica. Afortunadamente,
         un buen diagnóstico previo y una adecuada técnica de anestesia local troncular
         o infiltrativa, serán suficientes para llevar a cabo el procedimiento sin
         mayor incomodidad para el paciente.</p>\n"
