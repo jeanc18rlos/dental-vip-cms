@@ -44,7 +44,7 @@ paragraphSection:
     the facial and biological balance lost by developmental disorders.<strong> In
     the extreme cases of severe dentofacial deformities a combined Orthodontic-Surgical
     approach is already necessary</strong>, so that the execution of the treatment
-    implies the joint and coordinated participation with the Maxillofacial Surgeon,
+    implies the joint and coordinated participation with the Maxillofacial Surgeon;
     who will be responsible for repositioning the affected maxillary structures through
     the various procedures of ORTHOGNATHIC SURGERY.</p>\n"
   image: "/img/aside-orthodontics.jpg"
