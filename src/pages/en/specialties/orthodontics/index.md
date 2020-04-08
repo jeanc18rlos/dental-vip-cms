@@ -187,7 +187,7 @@ faq:
       answer: "<p>They are custom-made devices that are placed at the time of removing
         the brackets. They can be fixed or removable and are intended to keep the
         teeth in their final position, preventing them from moving and misaligning
-        again. If they are removable, they are used 24 hours a day at the beginning,
+        again. If they are removable, they are used 24 hours a day at the beginning;
         but then it is usually enough to put them only to sleep.</span></p>\n"
 clinicCases:
   title: Orthodontics - Clinical Cases
