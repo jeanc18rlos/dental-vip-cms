@@ -117,7 +117,7 @@ faq:
         en los casos más rebeldes. </p>\n"
     - question: "¿Podría realizarse solo con sedación y anestesia local?"
       answer: "<p>Ocasionalmente, y solo en condiciones quirúrgicas muy favorables.
-        Sin embargo, para su tranquilidad y la nuestra, en DENTAL VIP jamás desestimamos
+        Sin embargo, para su tranquilidad y la nuestra; en DENTAL VIP jamás desestimamos
         la delicadeza del procedimiento y siempre preferimos la anestesia general
         en block quirúrgico y ambiente hospitalario para este tipo de intervenciones.</p>\n"
     - question: "¿De qué material están fabricados estos implantes?"
