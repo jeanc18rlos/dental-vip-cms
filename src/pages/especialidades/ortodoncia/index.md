@@ -71,7 +71,7 @@ faq:
       answer: "<p>Es la Especialidad de la Odontología que se encarga de la prevención,
         diagnóstico y tratamiento de las maloclusiones y deformidades dentofaciales.
         Se fundamenta en el conocimiento del proceso de crecimiento y desarrollo craneofacial
-        y en el dominio de la biomecánica, ciencia que se ocupa de estudiar y controlar
+        y en el dominio de la biomecánica; ciencia que se ocupa de estudiar y controlar
         los vectores, intensidades, sentidos y efectos físicos de las fuerzas que
         es necesario aplicar sobre los dientes para desplazarlos y corregir su posición.</p>\n"
     - question: "¿Qué es una maloclusión?"
