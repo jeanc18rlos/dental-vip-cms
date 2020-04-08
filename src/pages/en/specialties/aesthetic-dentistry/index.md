@@ -109,7 +109,7 @@ faq:
         of veneers or ceramic crowns would be indicated to achieve the desired color
         change.</p>\n"
     - question: Why should a Dentist do it?
-      answer: "<p>Home bleaching that is sold in stores and pharmacies has a much
+      answer: "<p>Home bleachings that are sold in stores and pharmacies have a much
         lower concentration than those used in consultation. This phenomenon is due
         to the fact that the dental trays for application are universal and not custom-made,
         a condition that makes it impossible to avoid contact of the bleaching peroxide
