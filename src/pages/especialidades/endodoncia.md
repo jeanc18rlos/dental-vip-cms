@@ -134,11 +134,11 @@ faq:
         obturación.</p>\n"
     - question: "¿Con qué se rellenan u obturan los conductos radiculares ya vacíos?"
       answer: "<p>A lo largo de la historia se han utilizado una gran variedad de
-        materiales con tal finalidad, sin embargo, ninguno ha demostrado cumplir con
+        materiales con tal finalidad; sin embargo, ninguno ha demostrado cumplir con
         todos los requisitos deseables del material ideal. En la actualidad la gutapercha
         sigue siendo el más utilizado, un tipo de goma polimérica parecida al caucho
         y que se extrae de un árbol originario de las islas del archipiélago Malayo.
-        Adicionalmente, se coloca un cemento que garantice el sellado apical, generalmente
+        Adicionalmente, se coloca un cemento que garantice el sellado apical; generalmente
         a base de hidróxido de calcio.</p>\n"
     - question: "¿Cómo saber si un Tratamiento de Endodoncia fue correctamente realizado?"
       answer: "<p>Básicamente por la ausencia de sintomatología y por la evidencia
