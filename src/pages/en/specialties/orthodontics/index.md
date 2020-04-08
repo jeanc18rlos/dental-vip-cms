@@ -39,7 +39,7 @@ paragraphSection:
     and Steiner)</em> to plan all orthodontic mechanotherapy and achieve highly predictable,
     aesthetic and functional results.</p> <p>Additionally, we routinely handle <strong>craniofacial
     growth modification techniques</strong> for the treatment of skeletal malocclusions
-    in children and adolescents, through the use of DENTOFACIAL ORTHOPEDICS and functional
+    in children and adolescents; through the use of DENTOFACIAL ORTHOPEDICS and functional
     jaw orthopedics devices <em>(removable appliances)</em> that allow us to recover
     the facial and biological balance lost by developmental disorders.<strong> In
     the extreme cases of severe dentofacial deformities a combined Orthodontic-Surgical
