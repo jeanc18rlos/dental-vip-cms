@@ -139,7 +139,7 @@ faq:
     - question: "¿Cada cuánto tiempo se debe visitar al Odontólogo?"
       answer: "<p>Normalmente se recomienda una vez al año. Afortunadamente, el proceso
         de desarrollo de caries y sarro es relativamente lento si se practica una
-        higiene oral razonable, por lo que un control cada 12 meses será adecuado
+        higiene oral razonable; por lo que un control cada 12 meses será adecuado
         para prevenir enfermedades, detectar y tratar lesiones incipientes y mantener
         sanos boca, dientes y encías. Sin embargo, para algunas personas con patologías
         preexistentes, rehabilitaciones orales extensas, implantes dentales, tratamientos
@@ -162,7 +162,7 @@ faq:
       answer: "<p>Es lo que se conoce popularmente como “limpieza dental”. La tartrectomía
         es un procedimiento operatorio que consiste en la eliminación mecánica de
         todo el cálculo y placa dental acumulada en los dientes, margen gingival y
-        espacios interdentales, mediante el uso de aparatos ultrasónicos e instrumentos
+        espacios interdentales; mediante el uso de aparatos ultrasónicos e instrumentos
         odontológicos especiales. Debe practicarse periódicamente, cada 6 o 12 meses,
         ya que existen zonas en la boca a las que ni siquiera un correcto cepillado
         es capaz de llegar.</p>\n"
