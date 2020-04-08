@@ -203,10 +203,10 @@ faq:
     - question: What is a periodontal plastic surgery or gingivoplasty?
       answer: "<p>Every smile is made up of 3 basic elements: teeth, lips and gums.
         Gingivoplasty is a procedure that allows correcting the shape, size and thickness
-        of the gums, so that they look thin, delineated and in perfect harmony with
+        of the gums; so that they look thin, delineated and in perfect harmony with
         the teeth. Similarly, it is also possible to almost completely modify the
         appearance, size and thickness of the lips through a small cosmetic surgery
-        called Cheiloplasty, usually performed by Doctors Specializing in Orofacial
+        called Cheiloplasty; usually performed by Doctors Specializing in Orofacial
         Plastic Surgery.</p>\n"
 clinicCases:
   title: Aesthetic Dentistry - Clinical Cases
