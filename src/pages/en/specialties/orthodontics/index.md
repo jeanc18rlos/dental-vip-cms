@@ -135,7 +135,7 @@ faq:
     - question: Are there other alternatives that are even more aesthetic?
       answer: '<p>At present there has been an impressive rebound of old techniques
         that were in disuse. Lingual Orthodontics and the so-called "invisible Orthodontics"
-        without brackets, with pure plastic splints, are offered with excessive enthusiasm.
+        without brackets, with pure plastic splints; are offered with excessive enthusiasm.
         We consider that they have great limitations and are only effective in some
         extremely simple cases, so they should be considered only under a very objective
         and professional criterion.</span></p>
