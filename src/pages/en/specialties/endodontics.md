@@ -56,7 +56,7 @@ faq:
     - question: How to know if a Root Canal is needed?
       answer: "<p>Generally by the symptomatology. Spontaneous pain, constant hypersensitivity
         to thermal stimuli, discomfort from sugar intake and the presence of dental
-        abscesses are usually clear hints of pulpitis and/or pulp necrosis.</p>\n"
+        abscesses; are usually clear hints of pulpitis and/or pulp necrosis.</p>\n"
     - question: What is a pulpitis?
       answer: "<p>It is the inflammation of the dental pulp. It can be reversible
         or irreversible. It is considered irreversible when, despite being vital,
