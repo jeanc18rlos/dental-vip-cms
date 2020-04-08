@@ -67,7 +67,7 @@ quote:
   title: ''
   body: 'El tratamiento con Implantes Cigomáticos es un procedimiento que implica
     una intervención de Cirugía Maxilofacial, en block quirúrgico de ambiente hospitalario,
-    anestesia general y todos los recursos de soporte vital que, indiscutiblemente,
+    anestesia general y todos los recursos de soporte vital que; indiscutiblemente,
     amerita el caso.
 
 '
