@@ -145,7 +145,7 @@ faq:
       answer: "<p>The shortest possible time. As long as an endodontic treated tooth
         is not restored, it will be prone to fracture and reinfection. In those cases
         of great destruction, which merit the manufacture of artificial posts and
-        cores, we recommend starting the root preparation two or three days after
+        cores; we recommend starting the root preparation two or three days after
         the Endodontics is finished.</p>\n"
 clinicCases:
   title: Endodontics - Clinical Cases
