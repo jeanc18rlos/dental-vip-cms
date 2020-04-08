@@ -214,7 +214,7 @@ faq:
     - question: "¿Solo se utilizan para fijar dentaduras completas; es decir, cuando
         faltan todos los dientes?"
       answer: "<p>Tradicionalmente así era, ya que fue un procedimiento diseñado a
-        tal fin, con 4 implantes en total, 2 a cada lado del maxilar. Sin embargo,
+        tal fin; con 4 implantes en total, 2 a cada lado del maxilar. Sin embargo,
         en la actualidad se aplican modificaciones de la técnica original que permiten
         ubicar el Implante Cigomático o Pterigoideo en una posición adecuada y compatible
         con una rehabilitación en base a prótesis parcial fija <em>(coronas y puentes
