@@ -70,7 +70,7 @@ faq:
       answer: "<p>It is the Specialty of Dentistry responsible for the prevention,
         diagnosis and treatment of malocclusions and dentofacial deformities. It is
         based on the knowledge of the craniofacial growth and development process
-        and the domain of biomechanics, a science that deals with studying and controlling
+        and the domain of biomechanics; a science that deals with studying and controlling
         the vectors, intensities, senses and physical effects of the forces that need
         to be applied on the teeth to move them and correct their position.</span></p>\n"
     - question: What is a malocclusion?
