@@ -174,13 +174,13 @@ faq:
     - question: "¿Cuál es la diferencia entre una tartrectomía y un raspado radicular?"
       answer: "<p>La profilaxis, limpieza o tartrectomía son la misma cosa, son tres
         términos que se utilizan indistintamente para referirse a la eliminación profesional
-        de la placa y sarro supragingival, aquel que es visible y que se forma sobre
+        de la placa y sarro supragingival; aquel que es visible y que se forma sobre
         la superficie expuesta del diente, por encima de la encía. Sin embargo, en
         los pacientes con pérdida ósea debemos hacer una limpieza mucho más profunda
         que elimine las bolsas o sacos periodontales, el sarro que se encuentre en
         su interior y el cemento radicular infectado. A ese procedimiento se le conoce
         como raspado y alisado radicular. Otra variante es el curetaje periodontal,
-        una técnica quirúrgica que va más allá y que no solo elimina el cemento infectado,
+        una técnica quirúrgica que va más allá y que no solo elimina el cemento infectado;
         sino también parte del tejido blando de la pared de la bolsa periodontal.
         Es una técnica que actualmente se emplea solo en situaciones muy particulares.</p>\n"
     - question: "¿Cómo es una bolsa periodontal o saco patológico?"
