@@ -184,7 +184,7 @@ faq:
         que los dientes luzcan realmente espectaculares.</p>\n"
     - question: "¿Se pudieran mover después de retirar los aparatos?"
       answer: "<p>La alineación dental es una entidad dinámica y cambiante a lo largo
-        del tiempo, es decir, los dientes tienden a moverse durante toda la vida,
+        del tiempo; es decir, los dientes tienden a moverse durante toda la vida,
         con o sin Ortodoncia previa; por eso la fase de retención es la más larga
         y compleja de un tratamiento ortodóncico y requiere de una excelente colaboración
         por parte del paciente.</p>\n"
