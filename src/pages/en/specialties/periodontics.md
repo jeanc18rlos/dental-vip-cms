@@ -130,7 +130,7 @@ faq:
       answer: '<p>It depends on the variant. Gingivitis is completely reversible and
         curable. However, different forms of periodontitis cause irreversible damage
         to the dental insertion apparatus. Considering the moderate and advanced variants
-        of PD as chronic and controllable entities, but with a high risk of recurrence,
+        of PD as chronic and controllable entities, but with a high risk of recurrence;
         it is difficult to speak of total curing. A patient with periodontitis, apart
         from learning, mastering and conscientiously applying the various oral hygiene
         techniques, must maintain a regular lifetime control with his Periodontist,
