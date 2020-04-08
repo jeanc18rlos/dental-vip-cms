@@ -27,12 +27,12 @@ paragraphSection:
     a nivel\n  del hueso maxilar que va mermando en ancho y alto la cantidad de estructura\n
     \ ósea disponible, y necesaria; para la colocación de implantes dentales. “Lo\n
     \ que no se usa se atrofia”, y es precisamente lo que le sucede al REBORDE\n  MAXILAR
-    EDÉNTULO, naturalmente, a consecuencia de la falta de estimulación por\n  ausencia
+    EDÉNTULO, naturalmente; a consecuencia de la falta de estimulación por\n  ausencia
     de cargas funcionales. De modo que\n  <strong>\n    si transcurre mucho tiempo
     entre la ablasión dental y la intención de\n    rehabilitación, es muy probable
     que para entonces ya no exista el suficiente\n    material óseo capaz de garantizar
     un buen anclaje primario y una adecuada\n    oseointegración de los dispositivos
-    convencionales\n  de titanio</strong>, que una vez implantados, deberían funcionar
+    convencionales\n  de titanio</strong>; que una vez implantados, deberían funcionar
     como sustitutos\n  artificiales de las raíces dentarias y sólidos soportes para
     la fijación de\n  estructuras protésicas.\n</p> <p>\n  Afortunadamente en muchos
     casos, cuando el defecto del reborde es leve y bien\n  localizado, es posible
@@ -43,7 +43,7 @@ paragraphSection:
     la necesidad de generar una gran\n  herida corporal a nivel de pelvis o cabeza
     para recolectar tacos de hueso de\n  cresta ilíaca o calota, altas posibilidades
     de rechazo por la crueldad propia\n  de la técnica quirúrgica y un período de
-    cicatrización tisular que podría\n  abarcar hasta 5 o 6 meses de espera, antes
+    cicatrización tisular que podría\n  abarcar hasta 5 o 6 meses de espera; antes
     de poder continuar con el\n  tratamiento.\n</p> <p>\n  Ante tales eventualidades,\n
     \ <strong>es muchas veces preferible olvidarse del maxilar y de los injertos,
     y fijar\n    los implantes a otros huesos de la región orofacial</strong>, siendo
