@@ -282,10 +282,8 @@ asides:
   display: true
   sections:
   - align: right
-    title: '<h3 style="color:#333;font-family:''Bebas Neue Bold''">FOR A WHITER AND
+    title: <h3 style="color:#333;font-family:'Bebas Neue Bold'">FOR A WHITER AND MORE
       BEAUTIFUL TEETH!</h3>
-
-'
     content: '<p style="font-weight:400">We have the best LED <em>(Light Emitting
       Diode)</em> cold light system for teeth whitening. In just a 45-minute session
       it is able to clarify the color of the teeth in up to eight shades, without
