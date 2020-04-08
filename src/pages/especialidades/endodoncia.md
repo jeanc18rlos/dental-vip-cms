@@ -178,7 +178,7 @@ faq:
     - question: "¿Cuánto tiempo se puede permanecer sin la restauración definitiva?"
       answer: "<p>El menor tiempo posible. Mientras un diente endodonciado no se restaure,
         será propenso a la fractura y reinfección. En aquellos casos de gran destrucción,
-        que ameriten la confección de núcleos o pernos artificiales, recomendamos
+        que ameriten la confección de núcleos o pernos artificiales; recomendamos
         iniciar la preparación radicular a los dos o tres días de culminada la Endodoncia.</p>\n"
 clinicCases:
   title: Endodoncia - Casos Clínicos
