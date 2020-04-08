@@ -25,7 +25,7 @@ paragraphSection:
   body: "<p>\n When one or more teeth are lost, and they are not replaced as soon
     as possible, a slow but progressive process of reabsorption at the level of the
     maxillary bone is started immediately which reduces the amount of bone structure
-    available, and necessary, for the placement of dental implants. \"What is not
+    available, and necessary; for the placement of dental implants. \"What is not
     used is atrophied\", and it is precisely what happens to the EDENTULOUS MAXILLARY
     ALVEOLAR PROCESS, naturally, as a result of the lack of stimulation due to the
     absence of functional loads. So \n  <strong>\n    if a lot of time elapses between
