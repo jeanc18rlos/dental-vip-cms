@@ -120,7 +120,7 @@ faq:
         the placement of implants in the posterior sector of the upper jaw.</p>\n"
     - question: Are all implants the same?
       answer: |
-        <p>No, they vary considerably in diameter, length, conicity, type of connection and surface treatment. Previous radiographic studies, conical beam volumetric tomography <em>(Cone Beam)</em> and the Surgeon's clinical experience are key factors for your choice. Likewise, it is important to use trademarks recognized and backed by long-term research studies that guarantee their performance and functional longevity. In our clinic, and according to their level of quality, we offer you medium-high and high-end dental implants.</p>
+        <p>No, they vary considerably in diameter, length, conicity, type of connection and surface treatment. Previous radiographic studies, conical beam volumetric tomography <em>(Cone Beam)</em> and the Surgeon's clinical experience; are key factors for your choice. Likewise, it is important to use trademarks recognized and backed by long-term research studies that guarantee their performance and functional longevity. In our clinic, and according to their level of quality, we offer you medium-high and high-end dental implants.</p>
         <p>We do not work with low cost or clonic implants!</p>
     - question: What are immediate implants?
       answer: "<p>They are those that are placed at the same time of dental extraction
