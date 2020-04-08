@@ -85,7 +85,7 @@ faq:
       answer: "<p>En realidad es muy amplia y abarca muchas consideraciones, pero
         una de las más relevantes es la valoración del estado de la estructura ósea
         y dental del paciente a través de una tomografía volumétrica en 3D. Esta prueba
-        proporciona al Especialista valiosa información y le permiten, a priori, constatar
+        proporciona al Especialista valiosa información y le permiten; a priori, constatar
         que la persona realmente no puede ser tratada con implantes dentales convencionales.</p>\n"
     - question: "¿Qué pacientes pueden someterse a esta técnica de implantología oral?"
       answer: "<p>En principio, todos aquellos que hayan perdido dientes y mucho volumen
