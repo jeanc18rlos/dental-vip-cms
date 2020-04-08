@@ -162,7 +162,7 @@ faq:
         a fixed prosthesis that truly improves the quality of life of the person.
         In our clinic, whenever possible; we try to make them all fixed, with the
         exception of the provisional ones used during the osseointegration period.</p>\n"
-    - question: Can the crown or fixed prosthesis be placed immediately, that is,
+    - question: Can the crown or fixed prosthesis be placed immediately; that is,
         on the same day as the surgery?
       answer: "<p>Yes we can with the so-called immediate loading implants, however,
         for this we must meet a series of ideal conditions sometimes difficult to
