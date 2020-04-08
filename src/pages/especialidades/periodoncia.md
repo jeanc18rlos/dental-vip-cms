@@ -111,10 +111,10 @@ faq:
         de las enfermedades periodontales.</p>\n"
     - question: "¿Existe alguna relación entre enfermedad periodontal y embarazo?"
       answer: "<p>El embarazo causa muchos cambios hormonales que aumentan exponencialmente
-        el riesgo de padecer enfermedad periodontal en la mujer, y esta a su vez,
+        el riesgo de padecer enfermedad periodontal en la mujer, y esta a su vez;
         se asocia con preeclampsia, bajo peso del bebé al nacer y nacimiento prematuro.
         La enfermedad periodontal, al suponer un depósito de microorganismos y sus
-        productos tóxicos, puede desencadenar una respuesta con riesgo sistémico.
+        productos tóxicos; puede desencadenar una respuesta con riesgo sistémico.
         Por tanto, las mujeres expectantes deben siempre procurar el tratamiento inmediato
         para la enfermedad periodontal y así reducir el riesgo de complicaciones pre
         y postnatales.</p>\n"
