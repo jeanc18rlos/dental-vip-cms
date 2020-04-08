@@ -96,7 +96,7 @@ faq:
         aguda y hábitos tabáquicos severos.</p>\n"
     - question: "¿De modo que están contraindicados en fumadores?"
       answer: "<p>El cigarrillo no constituye una contraindicación absoluta para la
-        rehabilitación con implantes, sin embargo, está comprobado científicamente
+        rehabilitación con implantes; sin embargo, está comprobado científicamente
         que el hábito de fumar provoca una vasoconstricción vascular periférica que
         altera significativamente el proceso de cicatrización y regeneración ósea.
         De tal forma que en estos pacientes las posibilidades de éxito se ven reducidas
