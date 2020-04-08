@@ -163,12 +163,12 @@ faq:
         face of the teeth to improve their shape and appearance. Dental veneers are
         used to correct fractured, stained, misaligned, worn, separated or malformed
         teeth.</p>\n"
-    - question: How do inlays, veneers and crowns differ?
-      answer: "<p>Inlays and veneers are partial coating restorations, that is, they
-        only replace a part or portion of the tooth; while crowns restore or replace
-        the entire visible part thereof. Veneers are indicated on the anterior teeth,
-        the inlays and onlays on the posterior ones and the crowns on any tooth of
-        the oral cavity.</p>\n"
+    - question: How do inlays/onlays, veneers and crowns differ?
+      answer: "<p>Inlays, onlays and veneers are partial coating restorations, that
+        is, they only replace a part or portion of the tooth; while crowns restore
+        or replace the entire visible part thereof. Veneers are indicated on the anterior
+        teeth, the inlays and onlays on the posterior ones and the crowns on any tooth
+        of the oral cavity.</p>\n"
     - question: What is then better for a front tooth, a veneer or a crown?
       answer: "<p>It all depends on the clinical conditions and requirements of the
         case. Before making a decision, the Aesthetic Dentist must evaluate factors
