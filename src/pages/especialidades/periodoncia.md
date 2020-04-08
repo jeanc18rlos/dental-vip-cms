@@ -228,11 +228,11 @@ faq:
     - question: "¿En qué consiste la fase de soporte o mantenimiento periodontal?"
       answer: "<p>Es aquella fase de la terapia periodontal durante la cual la enfermedad
         es monitoreada para controlar sus factores etiológicos y de riesgo. Es considerada
-        desde el punto de vista clínico, una terapia activa, que debe tener la misma
+        desde el punto de vista clínico, una terapia activa; que debe tener la misma
         atención e importancia profesional que la terapia inicial o de ataque. Su
         principal objetivo es el de prevenir la progresión y recurrencia de la enfermedad
         periodontal en pacientes que han sido tratados previamente. Usualmente requiere
-        de visitas periódicas, cada 3 meses al principio, para descartar la presencia
+        de visitas periódicas, cada 3 meses al principio; para descartar la presencia
         de irritantes locales, signos clínicos de inflamación y constatar el pleno
         dominio y ejecución de las diferentes técnicas de higiene oral.</p>\n"
     - question: "¿Qué hacer si finalmente pierdo algunos dientes?"
