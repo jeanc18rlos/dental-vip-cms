@@ -29,7 +29,7 @@ paragraphSection:
     Dentistry have become increasingly complex and highly technified, <strong>there
     are numerous cases that require the intervention of professionals with long and
     intensive training called Specialists</strong>. These individuals are particularly
-    trained to execute advanced techniques and procedures providing highly predictable
+    trained to execute techniques and advanced procedures providing highly predictable
     and often surprising results for patients.</p><p><strong>A good General Dentist
     is responsible for performing the triage and primary diagnosis of the patient</strong>,
     solving hygiene problems and CARIES RESTORATION that may be presented and refer,
