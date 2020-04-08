@@ -231,10 +231,10 @@ faq:
       answer: "<p>If you went to treatment late or if your periodontitis could not
         be adequately controlled, you may lose or have lost teeth as a result of it.
         In that case, it is convenient that you replace them immediately to avoid
-        functional overloads of those ones who still remain in the mouth, a fact that
+        functional overloads of those ones who still remain in the mouth; a fact that
         would significantly accelerate the general evolution of the disease. The best
         way to replace your teeth is by means of fixed prosthesis, since removable
-        devices usually damage the gum and the remaining natural teeth, so they should
+        devices usually damage the gum and the remaining natural teeth; so they should
         be placed only if there is no possibility of making a fixed one.</p>\n"
     - question: If I have periodontitis, can I opt for dental implants?
       answer: "<p>Of course yes!, and it is in fact the ideal alternative, but never
