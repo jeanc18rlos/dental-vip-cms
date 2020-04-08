@@ -164,7 +164,7 @@ faq:
         conductos de un diente ya tratado para su nueva limpieza, conformación y obturación.
         En otras palabras, es un nuevo Tratamiento de Conducto en un diente ya endodonciado.</p>\n"
     - question: "¿Cuándo debe realizarse?"
-      answer: "<p>Cuando por alguna razón haya fracasado la terapia endodóntica inicial,
+      answer: "<p>Cuando por alguna razón haya fracasado la terapia endodóntica inicial;
         o bien, cuando los conductos se hayan vuelto a contaminar. Tal circunstancia
         suele ocurrir cuando no se confecciona a la brevedad la restauración definitiva,
         cuando aparezcan nuevas caries, en casos de enfermedad periodontal avanzada

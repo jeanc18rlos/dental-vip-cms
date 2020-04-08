@@ -130,7 +130,7 @@ faq:
         treated for its new cleaning, shaping and filling. In other words, it is a
         new Root Canal Treatment in a previously treated tooth.</p>\n"
     - question: When should it be done?
-      answer: "<p>When for some reason the initial endodontic therapy has failed;
+      answer: "<p>When for some reason the initial endodontic therapy has failed,
         or when the canals have become contaminated again. Such circumstance usually
         occurs when the definitive restoration is not made as soon as possible, when
         new caries appear, in cases of advanced periodontal disease or when the tooth
