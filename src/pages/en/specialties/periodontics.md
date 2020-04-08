@@ -169,12 +169,12 @@ faq:
     - question: What is the difference between a tartrectomy and a root planing?
       answer: "<p>Prophylaxis, cleaning or tartrectomy are the same thing, they are
         three terms that are used interchangeably to refer to the professional removal
-        of plaque and supragingival calculus, that one which is visible and that is
+        of plaque and supragingival calculus; that one which is visible and that is
         formed on the exposed surface of the tooth, above the gum. However, in patients
         with bone loss we must do a much deeper cleaning that eliminates the periodontal
         sacs, the tartar that is inside them and the infected root cement. This procedure
         is known as scaling and root planing. Another variant is periodontal curettage,
-        a surgical technique that goes beyond and not only removes infected cement,
+        a surgical technique that goes beyond and not only removes infected cement;
         but also part of the soft tissue of the periodontal pocket&rsquo;s wall. It
         is a technique that is currently used only in very particular situations.</p>\n"
     - question: How is a periodontal pocket or pathological sac?
