@@ -109,7 +109,7 @@ faq:
     - question: Any prerequisites for the intervention?
       answer: "<p>Almost the same as for any other oral surgery act. Good general
         health, a preoperative profile that assesses the ability of coagulation and
-        tissue scarring and prophylactic premedication with broad-spectrum antibiotics,
+        tissue scarring and prophylactic premedication with broad-spectrum antibiotics;
         usually amoxicillin with clavulanic acid or cephalosporins in allergic patients.</p>\n"
     - question: Other special surgeries may be necessary?
       answer: "<p>Unfortunately in some cases the quantity, quality and density of
