@@ -80,7 +80,7 @@ faq:
       answer: "<p>Cuando sea necesario reponer uno, varios o incluso todos los dientes
         de la boca. Los implantes unitarios evitan la necesidad de tener que tallar,
         desgastar y comprometer los dientes contiguos al que se ha perdido para confeccionar
-        un puente fijo tradicional. Colocamos un implante, una corona y listo, de
+        un puente fijo tradicional. Colocamos un implante, una corona y listo; de
         esta manera se logra una rehabilitación mucho más biológica y conservadora.
         Cuando faltan varios o todos los dientes, se colocan implantes múltiples y
         luego sobre ellos se cementan o atornillan coronas individuales o prótesis
