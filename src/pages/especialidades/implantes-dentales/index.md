@@ -118,7 +118,7 @@ faq:
       answer: "<p>Casi los mismos que para cualquier otro acto de cirugía oral. Buen
         estado de salud general, un perfil preoperatorio que evalúe la capacidad de
         coagulación y cicatrización tisular y premedicación profiláctica con antibióticos
-        de amplio espectro, generalmente amoxicilina con ácido clavulánico o cefalosporinas
+        de amplio espectro; generalmente amoxicilina con ácido clavulánico o cefalosporinas
         en pacientes alérgicos.</p>\n"
     - question: "¿Podrían ser necesarias otras cirugías especiales?"
       answer: "<p>Lamentablemente en algunos casos la cantidad, calidad y densidad
