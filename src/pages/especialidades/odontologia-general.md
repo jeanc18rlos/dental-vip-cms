@@ -87,7 +87,7 @@ faq:
         de la ingesta de azúcares, la alimentación bien equilibrada rica en frutas,
         verduras y fibra, la reducción del consumo de alcohol, el cese del hábito
         tabáquico, los controles profesionales periódicos y las aplicaciones tópicas
-        de flúor impactarán favorablemente en la aparición y prevalencia de caries,
+        de flúor; impactarán favorablemente en la aparición y prevalencia de caries,
         periodontopatías y neoplasias bucales.</p>\n"
     - question: "¿Qué es la placa bacteriana?"
       answer: "<p>La placa dental o bacteriana es una sustancia pegajosa blanco-amarillenta
