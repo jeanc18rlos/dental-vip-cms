@@ -157,11 +157,11 @@ faq:
         <p>Logically, depending on the complexity of the case, number of devices to be implanted, type of approach selected, and of course, the skill of the Surgeon; between 30 to 120 minutes usually ranges from the period of time required to anesthetize, make incisions, dissect tissues, stipulate measures and approximations, select implants, mill, drill, screw, clean and suture the wound.</p>
     - question: Can anyone Specialist perform this type of intervention?
       answer: "<p>This procedure, although not exclusive to our clinic, is not as
-        common in general practice, because very few Dentists are truly trained to
+        common in general practice; because very few Dentists are truly trained to
         provide these treatments. The needed surgical skill for the placement of Zygomatic
         Implants requires a high level of experience, impeccable mastery of the head
         and neck anatomy and a very advanced surgical training. So only a Maxillofacial
-        Surgeon, really experienced, will be the right professional.</p>\n"
+        Surgeon, really experienced; will be the right professional.</p>\n"
     - question: Could I have any mark or scar on my face?
       answer: "<p>Never!, since the procedure is executed entirely by intraoral route.</p>\n"
     - question: Is it then necessary to remain hospitalized?
