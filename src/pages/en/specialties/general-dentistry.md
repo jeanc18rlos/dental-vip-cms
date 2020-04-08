@@ -104,7 +104,7 @@ faq:
       answer: "<p>At all! Although such a phenomenon could be due to a systemic condition,
         the usual cause is due to the chronic accumulation of dental plaque that generates
         a reversible inflammatory pathological entity known as Gingivitis, but that
-        aggravated, leads to the formation of tartar, pathological sacs, resorption
+        aggravated; leads to the formation of tartar, pathological sacs, resorption
         of the alveolar bone and teeth fall <em>(Periodontitis)</em>. Hemorrhage of
         gingival origin is the most obvious sign of the so-called Periodontal Disease.</p>\n"
     - question: Why does bad breath occur?
