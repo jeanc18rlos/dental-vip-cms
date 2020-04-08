@@ -101,7 +101,7 @@ faq:
         reabsorción fisiológica a consecuencia del desinterés o imposibilidad de reemplazar
         en tiempo razonable las piezas dentales perdidas.</p>\n"
     - question: "¿Existe algún límite de edad para optar al procedimiento?"
-      answer: "<p>Ninguna, siempre y cuando las expectativas de vida de la persona
+      answer: "<p>Ninguno, siempre y cuando las expectativas de vida de la persona
         justifiquen la inversión de tiempo y dinero. De hecho, gran parte de nuestros
         pacientes sobrepasan los 65 años de edad.</p>\n"
     - question: "¿Qué porcentaje de éxito tiene en la actualidad?"
