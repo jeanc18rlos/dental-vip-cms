@@ -84,8 +84,8 @@ faq:
     - question: "¿Cómo saber si se necesita una Endodoncia?"
       answer: "<p>Generalmente por la sintomatología. El dolor espontáneo, la hipersensibilidad
         constante a los estímulos térmicos, la molestia por ingesta de azúcares y
-        la presencia de abscesos dentales suelen ser claros indicios de pulpitis y/o
-        necrosis pulpar.</p>\n"
+        la presencia de abscesos dentales; suelen ser claros indicios de pulpitis
+        y/o necrosis pulpar.</p>\n"
     - question: "¿Qué es una pulpitis?"
       answer: "<p>Es la inflamación de la pulpa dental. Puede ser reversible o irreversible.
         Se considera irreversible cuando, a pesar de ser vital, la pulpa haya perdido
