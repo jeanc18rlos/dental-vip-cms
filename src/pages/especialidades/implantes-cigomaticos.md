@@ -164,17 +164,17 @@ faq:
     - question: "¿Cómo es y cuánto tiempo dura la cirugía?"
       answer: "<p>Las 4 técnicas más destacadas son la de Brånemark, la de Stella
         y Warner <em>(Sinus Slot Technique)</em>, la técnica paramaxilar o extrasinusal
-        y la técnica ZAGA <em>(Zygoma Anatomy-Guided Approach)</em> del Dr. Carlos
-        Aparicio. En la técnica clásica o de Brånemark, se colocan los Implantes Cigomáticos
-        maniobrando a través del seno maxilar, hasta alcanzar el arco cigomático.
-        En la de Stella y Warner, se logra una visualización más directa de la base
-        del hueso malar, gracias a la apertura de una amplia ventana en la pared lateral
-        del antro paranasal. En la extrasinusal, los implantes se colocan por fuera
-        del hueso maxilar, sin involucrar al seno; y en la metodología ZAGA, se contempla
-        cualquier combinación posible de las 3 técnicas anteriores, con la finalidad
-        de ejecutar una cirugía más individualizada y adaptada a la anatomía particular
-        de cada persona.</p> <p>Lógicamente, en función de la complejidad del caso,
-        número de dispositivos a implantar, tipo de abordaje seleccionado, y por supuesto,
+        y la técnica ZAGA <em>(Zygoma Anatomy-Guided Approach)</em>. En la técnica
+        clásica o de Brånemark, se colocan los Implantes Cigomáticos maniobrando a
+        través del seno maxilar, hasta alcanzar el arco cigomático. En la de Stella
+        y Warner, se logra una visualización más directa de la base del hueso malar,
+        gracias a la apertura de una amplia ventana en la pared lateral del antro
+        paranasal. En la extrasinusal, los implantes se colocan por fuera del hueso
+        maxilar, sin involucrar al seno; y en la metodología ZAGA, se contempla cualquier
+        combinación posible de las 3 técnicas anteriores, con la finalidad de ejecutar
+        una cirugía más individualizada y adaptada a la anatomía particular de cada
+        persona.</p> <p>Lógicamente, en función de la complejidad del caso, número
+        de dispositivos a implantar, tipo de abordaje seleccionado, y por supuesto,
         la destreza del Cirujano; entre 30 y 120 minutos suele oscilar el período
         de tiempo necesario para anestesiar, hacer incisiones, diseccionar tejidos,
         estipular medidas y aproximaciones, seleccionar los implantes, fresar y perforar,
