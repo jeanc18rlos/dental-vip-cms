@@ -27,11 +27,11 @@ paragraphSection:
     maxillary bone is started immediately which reduces the amount of bone structure
     available, and necessary; for the placement of dental implants. \"What is not
     used is atrophied\", and it is precisely what happens to the EDENTULOUS MAXILLARY
-    ALVEOLAR PROCESS, naturally, as a result of the lack of stimulation due to the
+    ALVEOLAR PROCESS, naturally; as a result of the lack of stimulation due to the
     absence of functional loads. So \n  <strong>\n    if a lot of time elapses between
     tooth mutilation and the intention of rehabilitation, it is very likely that by
     then there is no longer enough bone material capable of guaranteeing good primary
-    anchorage and adequate osseointegration of conventional titanium devices,</strong>\n
+    anchorage and adequate osseointegration of conventional titanium devices;</strong>\n
     \ that a once implanted, they should function as artificial substitutes for dental
     roots and solid supports for the fixation of prosthetic structures.\n</p>\n<p>\n
     \ Fortunately in many cases, when the defect of the alveolar ridge is mild and
