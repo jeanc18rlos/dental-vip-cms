@@ -107,9 +107,9 @@ faq:
         trigger and stimulate the pathogenic potential of periodontal diseases.</p>\n"
     - question: Is there any relationship between periodontal disease and pregnancy?
       answer: "<p>Pregnancy causes many hormonal changes that exponentially increase
-        the risk of periodontal disease in women, and this in turn, is associated
+        the risk of periodontal disease in women, and this in turn; is associated
         with preeclampsia, low birth weight and premature birth. Periodontal disease,
-        by suppose a deposit of microorganisms and their toxic products, can trigger
+        by suppose a deposit of microorganisms and their toxic products; can trigger
         a response with systemic risk. Therefore, expectant women should always seek
         immediate care for periodontal disease and thus reduce the risk of pre and
         postnatal complications.</p>\n"
