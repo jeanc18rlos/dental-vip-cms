@@ -146,7 +146,7 @@ faq:
         placed. However, it is considered a prevalence so low that it further corroborates
         the high success rate achieved with these implants. In relation to contraindications,
         we have that, without taking into account any systemic condition or disease
-        that could prevent a surgical act, they are very few, and generally all associated
+        that could prevent a surgical act; they are very few, and generally all associated
         with pre-existing pathologies or infections within the sinus or maxillary
         antrum. So that in some cases, interconsultation and prior treatment with
         an Otolaryngologist could be essential. </p>\n"
