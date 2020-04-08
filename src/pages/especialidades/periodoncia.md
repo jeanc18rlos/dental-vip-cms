@@ -240,10 +240,10 @@ faq:
         pudo controlar adecuadamente, es posible que pierda o haya perdido dientes
         como consecuencia de la misma. En tal caso, es conveniente que los reponga
         de inmediato para evitar sobrecargas funcionales de los que aún permanecen
-        en boca, hecho que aceleraría considerablemente la evolución general de la
+        en boca; hecho que aceleraría considerablemente la evolución general de la
         enfermedad. La mejor manera de reponer sus dientes es mediante prótesis fija,
         ya que las prótesis removibles habitualmente perjudican a la encía y a los
-        dientes naturales remanentes, por lo que se deben colocar solo si no existe
+        dientes naturales remanentes; por lo que se deben colocar solo si no existe
         la posibilidad de confeccionar una fija.</p>\n"
     - question: "¿Si padezco periodontitis, puedo colocarme implantes dentales?"
       answer: "<p>¡Por supuesto que sí!, y es de hecho la alternativa ideal, pero
