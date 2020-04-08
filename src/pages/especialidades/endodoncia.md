@@ -151,7 +151,7 @@ faq:
       answer: "<p>Si el Especialista no está bien capacitado y atento a su trabajo,
         podría ensanchar en exceso las paredes radiculares y debilitar el diente,
         podría fracturar instrumentos dentro del conducto, podría crear escalones
-        y falsas vías, perforaciones coronarias, camerales o radiculares, podría impulsar
+        y falsas vías, perforaciones coronarias, camerales o radiculares; podría impulsar
         restos necróticos u orgánicos al periápice y generar sub o sobreobturaciones.</p>\n"
     - question: "¿Qué es una sobreobturación?"
       answer: "<p>Consiste en la extravasación de una pequeña cantidad de sellador
