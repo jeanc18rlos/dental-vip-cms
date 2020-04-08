@@ -148,11 +148,11 @@ faq:
         a base de flúor.</p>\n"
   - questions:
     - question: "¿En qué consiste el dental reshaping o recontorneado estético?"
-      answer: "<p>Con el paso de los años los dientes se desgastan y sufren microfracturas
+      answer: "<p>Con el paso de los años, los dientes se desgastan y sufren microfracturas
         que alteran su forma natural y envejecen el aspecto de la dentadura. Con solo
-        realizar pequeños desgastes de los bordes y ángulos dentarios es posible recuperar
-        de inmediato la morfología perdida y la apariencia original de la sonrisa.
-        Es un procedimiento indoloro, rápido, seguro y muy económico.</p>\n"
+        realizar pequeños desgastes de los bordes y ángulos dentarios; es posible
+        recuperar de inmediato la morfología perdida y la apariencia original de la
+        sonrisa. Es un procedimiento indoloro, rápido, seguro y muy económico.</p>\n"
     - question: "¿Cuáles son los materiales restauradores más novedosos en Estética
         Dental?"
       answer: |
