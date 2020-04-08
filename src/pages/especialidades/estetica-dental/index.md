@@ -142,7 +142,7 @@ faq:
         puede verse considerablemente comprometida.</p>\n"
     - question: "¿Es el blanqueamiento dental un procedimiento doloroso?"
       answer: "<p>¡En lo absoluto! Es un tratamiento conservador que ni siquiera requiere
-        anestesia dental, sin embargo, en muchos casos puede generar un aumento pasajero
+        anestesia dental; sin embargo, en muchos casos puede generar un aumento pasajero
         de la sensibilidad dentaria. Esta hipersensibilidad se considera normal y
         es controlada con el uso de dentífricos especiales y geles desensibilizantes
         a base de flúor.</p>\n"
