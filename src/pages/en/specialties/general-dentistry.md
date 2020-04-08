@@ -177,10 +177,10 @@ faq:
         the hard or inorganic tissues of susceptible teeth. Thus, on the surface of
         the enamel, grooves and cracks may be formed that will cause the entry of
         new bacteria and the proliferation of a greater amount of dental plaque. This
-        demineralization process can be reversible in the early stages, however, the
+        demineralization process can be reversible in the early stages; however, the
         continued attack of the acids will lead to further destruction of the tooth
         enamel and the creation of holes on the tooth surfaces that could reach the
-        dentin, and even, to the dental pulp; compromising then its vitality.</p>\n"
+        dentin, and even; to the dental pulp, compromising then its vitality.</p>\n"
     - question: How are they cured or eliminated?
       answer: "<p>It depends on the development, extension and depth of them. If it
         is incipient or moderate all infected tissue is removed and the cavity is
