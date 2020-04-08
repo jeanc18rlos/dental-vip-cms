@@ -156,7 +156,7 @@ faq:
         se considera una prevalencia tan baja que corrobora aún más la alta tasa de
         éxito que se consigue con estos implantes. En relación a las contraindicaciones,
         tenemos que, sin tomar en consideración cualquier condición o enfermedad sistémica
-        que pudiera impedir un acto quirúrgico, son muy pocas, y generalmente todas
+        que pudiera impedir un acto quirúrgico; son muy pocas, y generalmente todas
         asociadas a patologías o infecciones preexistentes dentro del seno o antro
         maxilar. De modo que en algunos casos, la interconsulta y tratamiento previo
         con un Otorrinolaringólogo pudiera ser imprescindible. </p>\n"
