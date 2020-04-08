@@ -27,11 +27,11 @@ paragraphSection:
     the form of a cylinder and that, due to their high degree of biocompatibility,
     are capable of osseointegrate into the maxillary structures to “ideally” replace
     teeth lost</b> due to decay, trauma and periodontal disease; thus avoiding the
-    use of old ones removable prostheses.</p> <p>With the LAST GENERATION IMPLANTS
-    <b>the surgical procedure of placement is quite simple, fast and painless.</b>
-    However, it must always be performed by Specialists in Oral or Maxillofacial Surgery,
-    since the technique to be used is quite sensitive and requires extensive surgical
-    and anatomical knowledge of tissues and oral structures.</p> <p><b>Another essential
+    use of old removable prostheses.</p> <p>With the LAST GENERATION IMPLANTS <b>the
+    surgical procedure of placement is quite simple, fast and painless.</b> However,
+    it must always be performed by Specialists in Oral or Maxillofacial Surgery, since
+    the technique to be used is quite sensitive and requires extensive surgical and
+    anatomical knowledge of tissues and oral structures.</p> <p><b>Another essential
     factor in Advanced Implantology is the restorative aspect.</b> If the prosthesis
     that is then placed on the implant is not well designed, the harmful forces generated
     by chewing will inevitably lead to its failure. Hence the importance and necessity
