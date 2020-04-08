@@ -302,7 +302,7 @@ asides:
 
 '
     content: '<p style="font-weight:400">Always under the responsibility of a Specialist
-      in Anesthesiology, resuscitation and pain therapy, with the ability to title
+      in Anesthesiology, resuscitation and pain therapy; with the ability to title
       the drugs administered and expertise in airway management, monitoring of vital
       signs and application of resuscitation techniques.</p>
 
