@@ -186,10 +186,10 @@ faq:
         los tejidos duros o inorgánicos de los dientes susceptibles. Así, en la superficie
         del esmalte, podrán formarse surcos y grietas que propiciarán la entrada de
         nuevas bacterias y la proliferación de mayor cantidad de placa bacteriana.
-        Este proceso de desmineralización puede ser reversible en las primeras fases,
+        Este proceso de desmineralización puede ser reversible en las primeras fases;
         sin embargo, el ataque continuado de los ácidos conducirá a una mayor destrucción
         del esmalte dental y a la creación de cavidades en la superficie del diente
-        que podrían llegar a la dentina, e incluso, a la pulpa dental; comprometiendo
+        que podrían llegar a la dentina, e incluso; a la pulpa dental, comprometiendo
         entonces su vitalidad.</p>\n"
     - question: "¿Cómo se curan o eliminan?"
       answer: "<p>Depende del desarrollo, extensión y profundidad de las mismas. Si
