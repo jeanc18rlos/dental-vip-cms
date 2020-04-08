@@ -43,7 +43,7 @@ paragraphSection:
     related to the rest of the teeth when the patient comes into function to eat and
     chew.</p> <p>Finally, and in pro of the long-term success of the treatment, it
     is also imperative to highlight the importance of <b>complying with a good consensual
-    periodontal maintenance protocol</b>, which at 12-month intervals, allows us to
+    periodontal maintenance protocol</b>; which at 12-month intervals, allows us to
     keep healthy gums and prosthetic elements in perfect aesthetic and structural
     condition.</p>\n"
   image: "/img/aside-dental-implants.jpg"
