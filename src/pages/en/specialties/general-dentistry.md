@@ -130,7 +130,7 @@ faq:
         that compromising motor skills.</p>\n"
     - question: How often should I visit the Dentist?
       answer: "<p>Normally recommended once a year. Fortunately, the process of caries
-        and tartar development is relatively slow if reasonable oral hygiene is practiced,
+        and tartar development is relatively slow if reasonable oral hygiene is practiced;
         so a check every 12 months will be adequate to prevent diseases, detect and
         treat incipient lesions and maintain healthy mouth, teeth and gums. However,
         for some people with pre-existing pathologies, extensive oral rehabilitations,
@@ -152,7 +152,7 @@ faq:
       answer: '<p>It is what is popularly known as "dental cleaning". Tartrectomy
         is a clinical procedure that consists of the mechanical removal of all calculus
         and dental plaque accumulated in the teeth, gingival margin and interdental
-        spaces, through the use of ultrasonic devices and special dental instruments.
+        spaces; through the use of ultrasonic devices and special dental instruments.
         It should be practiced periodically, every 6 or 12 months, since there are
         areas in the mouth that even a correct brushing cannot reach.</p>
 
