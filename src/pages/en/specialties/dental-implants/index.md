@@ -164,7 +164,7 @@ faq:
         exception of the provisional ones used during the osseointegration period.</p>\n"
     - question: Can the crown or fixed prosthesis be placed immediately; that is,
         on the same day as the surgery?
-      answer: "<p>Yes we can with the so-called immediate loading implants, however,
+      answer: "<p>Yes we can with the so-called immediate loading implants; however,
         for this we must meet a series of ideal conditions sometimes difficult to
         find. The traditional and even more common protocol is that of deferred load,
         which includes a period of 3-4 months of waiting between the surgical and
