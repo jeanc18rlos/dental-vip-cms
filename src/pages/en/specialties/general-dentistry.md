@@ -195,9 +195,9 @@ faq:
         any way affect the relevance and indication of other traditional materials
         that are even yet more resistant, more durable and more economical. This is
         the case of silver amalgam, which undoubtedly remains like the best option
-        in situations where restored teeth, due to the type of bite, are exposed to
-        considerable forces or overloads; as in many posterior teeth, at the level
-        of molars.</p>\n"
+        in situations where restored teeth, by the type of occlusion or bite; are
+        exposed to considerable forces or overloads, as in many posterior teeth, at
+        the level of molars.</p>\n"
     - question: What are and how are Dental Composites placed?
       answer: "<p>They are synthetic materials mixed heterogeneously to form a single
         compound of varied elements. They are used in Dentistry to fill teeth because
