@@ -65,7 +65,7 @@ quote:
   title: ''
   body: 'The treatment with Zygomatic Implants is a procedure that involves a Maxillofacial
     Surgery intervention, in a surgical block of hospital environment, general anesthesia
-    and all the life support resources that, unquestionably, merit the case.
+    and all the life support resources that; unquestionably, merit the case.
 
 '
   author: Dr. Castor José Garabán Povea
