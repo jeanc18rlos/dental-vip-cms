@@ -95,7 +95,7 @@ faq:
         supuesto; las preferencias y gustos particulares del paciente. También es
         muy importante trabajar siempre bajo el precepto de la proporción áurea o
         divina, tratar en lo posible de que las nuevas restauraciones guarden sintonía
-        con uno de los parámetros más utilizados en cirugía plástica y medicina estética,
+        con uno de los parámetros más utilizados en cirugía plástica y medicina estética;
         aquel que sugiere que una relación proporcional de 1/1,618 entre el tamaño
         de elementos próximos y bien definidos, será garantía de éxito en la expresión
         y proyección de armonía, belleza y naturalidad.</p>\n"
