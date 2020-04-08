@@ -213,10 +213,10 @@ faq:
         radiolucent area that suggests a failure of cohesive type.</p>\n"
     - question: What is Bruxism?
       answer: "<p>Bruxism is the involuntary habit of clenching or grinding the teeth
-        without functional purposes. It affects between 10% and 20% of the population,
+        without functional purposes. It affects between 10% and 20% of the population;
         being able to generate headache, pain of the masticatory muscles, neck and
         ears. Grinding habit, if not treated on time, can lead to wear or fracture
-        of the teeth completely, compromising the aesthetics and occlusal function
+        of the teeth completely; compromising the aesthetics and occlusal function
         of the person.</p>\n"
     - question: " When is a night splint indicated?"
       answer: "<p>The dental, discharge, stabilization or deprogramming splint is
