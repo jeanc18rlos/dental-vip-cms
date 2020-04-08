@@ -128,7 +128,7 @@ faq:
         estéticos?"
       answer: "<p>Principalmente el color y el material. Los brackets estéticos están
         fabricados de plástico, porcelana <em>(blancos)</em> o cristales de zafiro
-        <em>(transparentes)</em>, lo que los hace prácticamente imperceptibles a simple
+        <em>(transparentes)</em>; lo que los hace prácticamente imperceptibles a simple
         vista. Otra diferencia importante a considerar es el costo, ya que los brackets
         estéticos de comprobada calidad triplican en valor a los de acero inoxidable.</p>\n"
   - questions:
