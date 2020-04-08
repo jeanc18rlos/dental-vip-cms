@@ -135,7 +135,7 @@ faq:
     - question: "¿Existen otras alternativas que sean aún más estéticas?"
       answer: '<p>En la actualidad ha habido un repunte impresionante de antiguas
         técnicas que estaban en desuso. La Ortodoncia lingual y la llamada "Ortodoncia
-        invisible" sin brackets, con puras férulas plásticas, son ofrecidas con excesivo
+        invisible" sin brackets, con puras férulas plásticas; son ofrecidas con excesivo
         entusiasmo. Consideramos que tienen grandes limitaciones y son únicamente
         efectivas en algunos casos extremadamente simples, por lo que deben ser consideradas
         solo bajo un criterio muy objetivo y profesional.</p>
