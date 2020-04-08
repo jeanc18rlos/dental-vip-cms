@@ -133,7 +133,7 @@ faq:
         obtenidos?"
       answer: "<p>El color de los dientes está determinado genéticamente y se evalúa
         con una guía cromática estandarizada de 15 tonos. Gracias a un blanqueamiento
-        con peróxido de carbamida, podemos aclarar entre 1 y 10 tonos; lo que implica
+        con peróxido de carbamida podemos aclarar entre 1 y 10 tonos, lo que implica
         que una sonrisa muy amarillenta o grisácea pueda volver a lucir su blanco
         original. Los resultados suelen perdurar entre 2 y 7 años, todo depende de
         los hábitos alimenticios, higiénicos y sociales del paciente. En individuos
