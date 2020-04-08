@@ -152,7 +152,7 @@ faq:
   - questions:
     - question: Is the dental mobility produced by periodontitis reversible?
       answer: "<p>Mobility usually persists despite periodontal treatment because,
-        unfortunately, the general level of bone never recovers. The teeth that show
+        unfortunately; the general level of bone never recovers. The teeth that show
         mobility at the time of diagnosis could be lost in the short or medium term
         despite the treatment, and it is the reason that justifies the need for early
         diagnosis and control of the disease.</p>\n"
