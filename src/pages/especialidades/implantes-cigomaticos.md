@@ -221,7 +221,7 @@ faq:
         cerámicos)</em>. De hecho, hoy en día son múltiples las posibilidades que
         ofrecen estos implantes, desde la colocación de un único dispositivo asimétrico,
         hasta innumerables combinaciones con implantes convencionales, lógicamente
-        para dar solución a la gran mayoría de los casos, y en algunos, hasta para
+        para dar solución a la gran mayoría de los casos, y en algunos; hasta para
         reducir costes.</p>\n"
     - question: "¿Es posible colocar una prótesis fija el mismo día de la intervención,
         aunque sea una provisional?"
