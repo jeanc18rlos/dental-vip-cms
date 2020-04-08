@@ -123,9 +123,9 @@ faq:
     - question: "¿De qué material están fabricados estos implantes?"
       answer: "<p>De aleaciones de titanio para alto rendimiento. El grado de pureza
         del titanio viene determinado por el porcentaje máximo de oxígeno en el que
-        se produce, siendo el de grado 1 el de mayor pureza, ya que su contenido en
+        se produce, siendo el de grado 1 el de mayor pureza; ya que su contenido en
         oxígeno y hierro es muy bajo. En total y al día de hoy, existen unos 40 grados
-        para denominar las diferentes aleaciones de titanio, que abarcan desde el
+        para denominar las diferentes aleaciones de titanio; que abarcan desde el
         titanio puro hasta combinaciones con vanadio, paladio, rutenio, aluminio,
         estaño y molibdeno. Sin embargo, la aleación de titanio grado 5 representa
         a la fecha más del 50% del uso total de titanio a nivel mundial y se considera
