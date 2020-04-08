@@ -88,7 +88,7 @@ faq:
         of dental plaque on the teeth is decisive for the onset and progression of
         periodontal disease, its severity and response to treatment will be the result
         of the interaction of a large number of modifying, contributing and/or predisposing
-        factors. So, in the end, we can say that it is a pathology of multifactorial
+        factors. So, in the end; we can say that it is a pathology of multifactorial
         origin.</p>\n"
     - question: At what age do they usually appear?
       answer: "<p>With the exception of gingivitis, periodontal diseases are rarely
