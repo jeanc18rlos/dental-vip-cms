@@ -116,9 +116,9 @@ faq:
     - question: What material are these implants made of?
       answer: "<p>Of titanium alloys for high performance. The degree of purity of
         titanium is determined by the maximum percentage of oxygen in which it is
-        produced, being the grade 1 the highest purity, since its oxygen and iron
+        produced, being the grade 1 the highest purity; since its oxygen and iron
         content is very low. In total and today, there are about 40 degrees to name
-        the different titanium alloys, ranging from pure titanium to combinations
+        the different titanium alloys; ranging from pure titanium to combinations
         with vanadium, palladium, ruthenium, aluminum, tin and molybdenum. However,
         grade 5 titanium alloy currently represents for more than 50% of total titanium
         use worldwide and is considered a highly biocompatible material with biomechanical
