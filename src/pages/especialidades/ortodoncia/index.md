@@ -39,7 +39,7 @@ paragraphSection:
     y Steiner)</i> para planificar toda la mecanoterapia ortodóncica y lograr resultados
     altamente predecibles, estéticos y funcionales.</p><p>Adicionalmente, manejamos
     de rutina  <strong>técnicas de modificación del crecimiento craneofacial  </strong>para
-    el tratamiento de maloclusiones esqueléticas en niños y adolescentes, a través
+    el tratamiento de maloclusiones esqueléticas en niños y adolescentes; a través
     del uso de aparatos de ORTOPEDIA DENTOFACIAL y ortopedia funcional de los maxilares
     <i>(aparatos removibles)</i> que nos permiten recuperar el equilibrio facial y
     biológico perdido por las alteraciones del desarrollo.  <strong>En los casos extremos
