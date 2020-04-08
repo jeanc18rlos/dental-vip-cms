@@ -219,7 +219,7 @@ faq:
         of the teeth completely; compromising the aesthetics and occlusal function
         of the person.</p>\n"
     - question: " When is a night splint indicated?"
-      answer: "<p>The dental, discharge, stabilization or deprogramming splint is
+      answer: "<p>The dental, discharge, stabilization or deprogramming splint; is
         a transparent, hard and custom-made acrylic resin device that is placed on
         the upper or lower arch <em>(depending on the characteristics of the case)</em>
         of the patient, and which is used for palliative treatment of Bruxism and
