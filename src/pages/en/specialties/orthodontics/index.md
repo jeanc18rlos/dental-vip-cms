@@ -264,7 +264,7 @@ asides:
   sections:
   - align: right
     title: <h3 style="color:#333;font-family:'Bebas Neue Bold'">A HAPPY AND TRANSPARENT
-      FINISH!
+      ENDING!
     content: '<p style="font-weight:400">When removing the brackets, it is always
       necessary to use an artificial device that keeps the teeth in their new position.
       For being almost invisible, comfortable and easy to use, a vacuum thermoformed
