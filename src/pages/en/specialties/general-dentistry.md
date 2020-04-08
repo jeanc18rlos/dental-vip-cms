@@ -25,17 +25,17 @@ paragraphSection:
     common problems of the general public</strong>. If you require a ROUTINE CHECK
     or Basic Dentistry such as caries removal, cleaning, prophylaxis or oral prosthesis
     without aesthetic, functional or periodontal compromise; a general practice professional
-    can provide an excellent service. However, because the different areas of Dentistry
-    have become increasingly complex and highly technified, <strong>there are numerous
-    cases that require the intervention of professionals with long and intensive training
-    called Specialists</strong>. These individuals are particularly trained to execute
-    advanced techniques and procedures providing highly predictable and often surprising
-    results for patients.</p><p><strong>A good General Dentist is responsible for
-    performing the triage and primary diagnosis of the patient</strong>, solving hygiene
-    problems and CARIES RESTORATION that may be presented and refer, if necessary,
-    to the most indicated Specialist. It is important to clarify that <strong>a true
-    Specialist must have completed fourth level or Postgraduate studies</strong> at
-    a recognized national or foreign University, with an academic curriculum that
+    can provide you an excellent service. However, because the different areas of
+    Dentistry have become increasingly complex and highly technified, <strong>there
+    are numerous cases that require the intervention of professionals with long and
+    intensive training called Specialists</strong>. These individuals are particularly
+    trained to execute advanced techniques and procedures providing highly predictable
+    and often surprising results for patients.</p><p><strong>A good General Dentist
+    is responsible for performing the triage and primary diagnosis of the patient</strong>,
+    solving hygiene problems and CARIES RESTORATION that may be presented and refer,
+    if necessary, to the most indicated Specialist. It is important to clarify that
+    <strong>a true Specialist must have completed fourth level or Postgraduate studies</strong>
+    at a recognized national or foreign University, with an academic curriculum that
     covers the teaching hours required by the different Scientific Societies of the
     country.</p><p><strong>The Generalist must have solid knowledge of oral pathology,
     radiology, periodontics and gnatology</strong> to be able to detect the presence
