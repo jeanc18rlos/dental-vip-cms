@@ -166,7 +166,7 @@ faq:
         mouthwash. Periodic checks with the General Dentist, and in some cases with
         the Periodontist, are also recommended; so that teeth and gums remain healthy
         at all times.</span></p>\n"
-    - question: What things can not be eaten with dental appliances?
+    - question: What things cannot be eaten with dental appliances?
       answer: "<p>You can practically eat everything, however, it is advisable to
         avoid some excessively hard foods such as ice and bones, and sticky like chewing
         gum; since they can easily detach brackets, bands and other devices.</span></p>\n"
