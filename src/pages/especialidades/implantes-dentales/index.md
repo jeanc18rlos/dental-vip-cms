@@ -154,8 +154,8 @@ faq:
       answer: "<p>Los implantes no son visibles, quedan incrustados en el interior
         del hueso, de modo que la responsabilidad estética recae en la prótesis definitiva.
         Esta debe ser confeccionada para satisfacer todos los requerimientos funcionales
-        pertinentes, y además, para proveer al paciente de dientes que luzcan verdaderamente
-        naturales, de un color, forma y tamaño que proyecte armonía y proporcionalidad,
+        pertinentes; y además, para proveer al paciente de dientes que luzcan verdaderamente
+        naturales; de un color, forma y tamaño que proyecte armonía y proporcionalidad,
         caracterizados individualmente y con capacidad de reflejar y traslucir la
         luz. Todos estos son factores claves para el éxito estético del tratamiento.</p>\n"
     - question: "¿En qué consiste la fase protésica?"
