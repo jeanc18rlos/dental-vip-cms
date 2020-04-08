@@ -152,7 +152,7 @@ faq:
     - question: What is the prosthetic phase?
       answer: "<p>It is the second phase of a rehabilitation with Dental Implants.
         It must always be in charge of the Prosthodontics Specialist, who will design,
-        prepare and install the definitive implant-supported prosthesis, always fully
+        prepare and install the definitive implant-supported prosthesis; always fully
         respecting all biomechanical principles of occlusion and dental aesthetics.
         Individual crowns, fixed bridges, complete rehabilitations, hybrid prostheses
         and overdentures are the known alternatives.</p>\n"
