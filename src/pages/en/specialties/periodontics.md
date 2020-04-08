@@ -199,7 +199,7 @@ faq:
         us to move the gum to different positions to correct lesions by default.</p>\n"
     - question: When is a bone graft placed?
       answer: "<p>The surgical techniques currently available only allow to graft
-        bone in some types of periodontal lesions and, often, only partially. The
+        bone in some types of periodontal lesions and, often; only partially. The
         unique defects in which the scientific literature has demonstrated the effectiveness
         of grafts are vertical type lesions <em>(circumscribed defects of 1, 2 or
         3 walls) </em>and those of furca in lower molars. Unfortunately, regenerative
