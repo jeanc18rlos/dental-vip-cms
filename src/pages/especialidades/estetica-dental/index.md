@@ -67,7 +67,7 @@ faq:
         Estética?"
       answer: "<p>Una fotografía intraoral proporciona una visualización instantánea
         de los dientes en tiempo real. Con ella se pueden observar detalles difíciles
-        de apreciar a simple vista, y además, permite que el paciente opine y participe
+        de apreciar a simple vista; y además, permite que el paciente opine y participe
         activamente en la elaboración de su plan de tratamiento. Otra ventaja de la
         fotografía seriada es el almacenamiento de imágenes para futuras comparaciones
         del antes y después del tratamiento.</p>\n"
