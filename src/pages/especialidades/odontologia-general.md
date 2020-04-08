@@ -118,7 +118,7 @@ faq:
       answer: "<p>La halitosis, también conocida como mal aliento, se define como
         el conjunto de olores desagradables que se emiten por la boca. Es un problema
         que afecta a una de cada tres personas y está asociado con una higiene bucal
-        deficiente o con enfermedades de la cavidad oral, aunque en ocasiones, puede
+        deficiente o con enfermedades de la cavidad oral; aunque en ocasiones, puede
         ser manifestación clínica de alguna otra enfermedad de corte sistémico o gastrointestinal.</p>\n"
     - question: "¿Cuál es la mejor técnica de higiene oral?"
       answer: "<p>Aquella que se practica religiosamente después de cada comida y
