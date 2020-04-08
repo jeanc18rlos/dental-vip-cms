@@ -40,12 +40,12 @@ paragraphSection:
     Implantes Dentales Oseointegrados.  <strong>En nuestra clínica la segunda fase
     del tratamiento o fase protésica está siempre a cargo del Odontólogo Especialista
     en Prostodoncia, </strong> ya que nadie mejor que él es capaz de manejar los complicados
-    principios y fundamentos de fisiología de la oclusión, es decir, de la manera
+    principios y fundamentos de fisiología de la oclusión; es decir, de la manera
     como deben relacionarse ese implante y esa prótesis con el resto de los dientes
     cuando el paciente entra en función para comer y masticar.</p><p>Finalmente, y
     en pro del éxito a largo plazo del tratamiento, es también imperativo destacar
     la importancia del <strong> cumplimiento de un buen protocolo consensuado de mantenimiento
-    periodontal, </strong> que a intervalos de 12 meses, nos permita conservar las
+    periodontal; </strong> que a intervalos de 12 meses, nos permita conservar las
     encías sanas y los elementos protésicos en perfecto estado estético y estructural.
     </p>  \n"
   image: "/img/aside-dental-implants.jpg"
