@@ -171,7 +171,7 @@ faq:
         una prótesis fija que verdaderamente mejore la calidad de vida de la persona.
         En nuestra clínica, siempre y cuando sea posible; intentamos que todas sean
         fijas, a excepción de las provisionales utilizadas durante el período de oseointegración.</p>\n"
-    - question: "¿Se puede colocar la corona o prótesis fija inmediatamente, es decir,
+    - question: "¿Se puede colocar la corona o prótesis fija inmediatamente; es decir,
         el mismo día de la cirugía?"
       answer: "<p>Sí se puede con los llamados implantes de carga inmediata, sin embargo,
         para esto se deben reunir una serie de condiciones ideales algunas veces difíciles
