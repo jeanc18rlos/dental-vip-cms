@@ -213,10 +213,10 @@ faq:
     - question: "¿En qué consiste una cirugía plástica periodontal o gingivoplastía?"
       answer: "<p>Toda sonrisa está conformada por 3 elementos básicos: dientes, labios
         y encías. La gingivoplastía es un procedimiento que permite corregir la forma,
-        tamaño y grosor de las encías, de modo que luzcan finas, delineadas y en perfecta
+        tamaño y grosor de las encías; de modo que luzcan finas, delineadas y en perfecta
         armonía con los dientes. De igual forma, es también posible modificar casi
         por completo el aspecto, tamaño y grosor de los labios a través de una pequeña
-        cirugía estética denominada Queiloplastía, habitualmente practicada por Médicos
+        cirugía estética denominada Queiloplastía; habitualmente practicada por Médicos
         Especialistas en Cirugía Plástica Orofacial.</p>\n"
 clinicCases:
   title: Estética Dental - Casos Clínicos
