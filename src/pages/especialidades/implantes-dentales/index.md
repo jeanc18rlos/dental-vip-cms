@@ -107,7 +107,7 @@ faq:
         se introduce el implante enroscándolo a presión, de modo que su superficie
         quede en íntimo contacto con el tejido óseo subyacente. Haciendo analogía
         simple podemos decir que la fase quirúrgica es bastante parecida a la forma
-        de colocar un ramplug en una pared. En algunos casos ni siquiera es necesario
+        de colocar un ramplug en una pared. En algunos casos, ni siquiera es necesario
         tomar puntos de sutura.</p>\n"
     - question: "¿Es muy doloroso este procedimiento?"
       answer: "<p>En lo absoluto!, siempre y cuando se efectúe bajo una adecuada técnica
