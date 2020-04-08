@@ -230,7 +230,7 @@ faq:
         primaria. No obstante, es solo después de la cirugía que se decidirá si se
         instala una prótesis fija o una convencional con alivios en las zonas donde
         emerjan las plataformas intraorales. Luego, una vez transcurrido el período
-        de oseointegración, al cabo de 4, 5 o 6 meses, es que se realiza la rehabilitación
+        de oseointegración; al cabo de 4, 5 o 6 meses, es que se realiza la rehabilitación
         protésica definitiva.</p>\n"
     - question: Culminado el tratamiento, ¿qué debo hacer para conservar mis implantes
         toda la vida?
