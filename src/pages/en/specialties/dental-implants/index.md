@@ -76,7 +76,7 @@ faq:
       answer: "<p>When it is necessary to replace one, several or even all the teeth
         of the mouth. Unitary implants avoid the need to have to carve, wear and compromise
         the adjacent teeth that ones have been lost to make a traditional fixed bridge.
-        We place an implant, a crown and ready, in this way a much more biological
+        We place an implant, a crown and ready; in this way a much more biological
         and conservative rehabilitation is achieved. When several or all of the teeth
         are missing, multiple implants are placed and then individual crowns or exclusively
         implant supported fixed prostheses are cemented or screwed on them.</p>\n"
