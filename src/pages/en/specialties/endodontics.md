@@ -80,7 +80,7 @@ faq:
     - question: Is there any other alternative to endodontic therapy?
       answer: "<p>Tooth extraction only.</p>\n"
     - question: Is it necessary to place anesthesia?
-      answer: "<p>Of course! They are usually infected, inflamed or necrotic tissues,
+      answer: "<p>Of course! They are usually infected, inflamed or necrotic tissues;
         highly sensitive to clinical manipulation. Fortunately, a good previous diagnosis
         and an adequate technique of truncal or infiltrative local anesthesia, will
         be sufficient to carry out the procedure without major discomfort for the
