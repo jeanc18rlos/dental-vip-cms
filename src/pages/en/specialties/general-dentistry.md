@@ -81,7 +81,7 @@ faq:
         hygiene technique, the reduction of sugar intake, the well-balanced diet rich
         in fruits, vegetables and fiber, the reduction of alcohol consumption, the
         cessation of smoking habit, the periodic professional controls and the topical
-        applications of fluoride will have a favorable impact on the appearance and
+        applications of fluoride; will have a favorable impact on the appearance and
         prevalence of caries, periodontal diseases and oral neoplasms.</p>\n"
     - question: What is bacterial plaque?
       answer: "<p>Dental or bacterial plaque is a white-yellowish sticky substance
