@@ -206,7 +206,7 @@ faq:
         posiciones para corregir lesiones por defecto.</p>\n"
     - question: "¿Cuándo se coloca un injerto óseo?"
       answer: "<p>Las técnicas quirúrgicas disponibles en la actualidad solo permiten
-        injertar hueso en algunos tipos de lesiones periodontales y, muchas veces,
+        injertar hueso en algunos tipos de lesiones periodontales y, muchas veces;
         tan solo de forma parcial. Los únicos defectos en los que la literatura científica
         ha demostrado la efectividad de los injertos son las lesiones de tipo vertical
         <em>(defectos circunscritos de 1, 2 o 3 paredes)</em> y las de furca en molares
