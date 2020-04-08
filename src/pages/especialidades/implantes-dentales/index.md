@@ -169,7 +169,7 @@ faq:
       answer: "<p>Aunque es posible confeccionar sobredentaduras removibles, consideramos
         que el esfuerzo e inversión que implica este tipo de procedimiento merece
         una prótesis fija que verdaderamente mejore la calidad de vida de la persona.
-        En nuestra clínica, siempre y cuando sea posible, intentamos que todas sean
+        En nuestra clínica, siempre y cuando sea posible; intentamos que todas sean
         fijas, a excepción de las provisionales utilizadas durante el período de oseointegración.</p>\n"
     - question: "¿Se puede colocar la corona o prótesis fija inmediatamente, es decir,
         el mismo día de la cirugía?"
