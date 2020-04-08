@@ -74,7 +74,7 @@ faq:
         encías?"
       answer: "<p>Las patologías bucodentales más frecuentes son las caries y las
         afecciones periodontales <em>(gingivitis y periodontitis)</em>. Luego, en
-        menor grado, las enfermedades infecciosas de origen bacteriano, los traumatismos
+        menor grado; las enfermedades infecciosas de origen bacteriano, los traumatismos
         físicos, las lesiones congénitas y el cáncer de boca. Según la Organización
         Mundial de la Salud entre el 60% y el 90% de los niños en edad escolar y cerca
         del 99% de los adultos padecen de caries dental, a menudo acompañada de dolor
