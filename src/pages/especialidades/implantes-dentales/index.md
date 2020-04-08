@@ -335,7 +335,7 @@ asides:
 '
     content: '<p style="font-weight:400">Transcurrido el período de oseointegración,
       se destapan los implantes y se confecciona la prótesis definitiva previamente
-      contemplada. Según el caso, podrá ser total o parcial, fija o removible y de
+      contemplada. Según el caso; podrá ser total o parcial, fija o removible y de
       metal-porcelana, metal-acrílico, totalcerámica o resina poliacrílica termopolimerizable.</p>
 
 '
