@@ -117,7 +117,7 @@ faq:
       answer: "<p>If the Specialist is not well trained and attentive to his work,
         he could widen the root walls excessively and weaken the tooth, he could fracture
         instruments inside the canal, he could create steps and false pathways, coronary,
-        cameral or root perforations, he could boost necrotic or organic remains to
+        cameral or root perforations; he could boost necrotic or organic remains to
         the periapice and generate sub or overobturations.</p>\n"
     - question: What is an overobturation?
       answer: "<p>It consists of extravasation of a small amount of sealant or gutta-percha
