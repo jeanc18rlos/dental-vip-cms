@@ -183,7 +183,7 @@ faq:
         duration of restorations in mouth depends largely on it. It is essential that
         the clinician know and master the different adhesive systems for each ceramic
         material and each type of restoration. The cemented adhesive technique promotes
-        the formation of strong chemical and mechanical bonds between tooth and restoration.</p>\n"
+        the formation of strong chemical and mechanical bonds between tooth and porcelain.</p>\n"
     - question: Are all veneers of porcelain?
       answer: "<p>No! They can also be made of composite resins by direct technique,
         in a single session and without the intervention of the dental laboratory,
