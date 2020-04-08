@@ -274,7 +274,7 @@ asides:
 '
     content: '<p style="font-weight:400">Al retirar los brackets, es siempre necesario
       utilizar un dispositivo artificial que mantenga los dientes en su nueva posición.
-      Por ser casi invisible, cómodo y fácil de usar, un retenedor plástico transparente
+      Por ser casi invisible, cómodo y fácil de usar; un retenedor plástico transparente
       termoformado al vacío es siempre nuestra mejor recomendación.</p>
 
 '
