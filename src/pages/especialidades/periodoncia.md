@@ -151,8 +151,8 @@ faq:
         guiada se aplican de diferentes maneras, bien en forma de material de relleno,
         de membranas reabsorbibles o con sustancias derivadas de las proteínas orgánicas
         que estimulan el crecimiento óseo. Estos procedimientos son complejos y requieren
-        de una alta cualificación profesional, pero reiteramos, no son posibles más
-        que en algunas ocasiones muy puntuales; generalmente en defectos verticales
+        de una alta cualificación profesional, pero reiteramos; no son posibles más
+        que en algunas ocasiones muy puntuales, generalmente en defectos verticales
         bien definidos.</p>\n"
   - questions:
     - question: "¿Es reversible la movilidad dental producida por la periodontitis?"
