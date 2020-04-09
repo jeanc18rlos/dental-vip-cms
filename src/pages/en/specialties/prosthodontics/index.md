@@ -168,11 +168,11 @@ faq:
         result.</p>\n"
     - question: Are fixed prostheses for a lifetime?
       answer: "<p>Influence so many, but so many factors in the longevity of a fixed
-        rehabilitation that no professional is able to predict, for sure, its duration
+        rehabilitation that no professional is able to predict, for sure; its duration
         in years. We consider that in favorable conditions, between 15 and 20 years
         is on average the useful life time for the vast majority of cases. Once the
         cycle has been completed, the rehabilitation may be ideally replaced by dental
-        implants, or failing that, replicated; as long as the pillars offer favorable
+        implants, or failing that; replicated, as long as the pillars offer favorable
         conditions for it.</p>\n"
     - question: What cares should be taken with a fixed prosthesis?
       answer: "<p>Scrupulous oral hygiene, common sense to avoid improperly biting
