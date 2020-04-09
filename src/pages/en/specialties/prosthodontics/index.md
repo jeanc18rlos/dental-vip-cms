@@ -99,7 +99,7 @@ faq:
         areas where the hooks are located. It is also necessary to clean the prosthesis
         after each meal, using a soft bristle brush and toothpaste. We always recommend
         removing the denture to sleep, so that the oral support mucosa has an opportunity
-        for revascularization and regeneration, essential biological phenomena to
+        for revascularization and regeneration; essential biological phenomena to
         prevent the occurrence and recurrence of inflammatory, degenerative or infectious
         lesions.</p>\n"
     - question: When should a "remove and put" denture be replaced?
