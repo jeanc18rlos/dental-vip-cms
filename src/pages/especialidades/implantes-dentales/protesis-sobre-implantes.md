@@ -155,7 +155,7 @@ paragraph:
   - title: "¿Prótesis atornillada o cementada?"
     text: Depende del caso. Cada una tiene sus indicaciones y utilidades específicas.
       Sin embargo, la aparición de nuevos cementos especiales para uso implantológico
-      va dando como resultado que, poco a poco, las prótesis cementadas vayan ganando
+      va dando como resultado que, poco a poco; las prótesis cementadas vayan ganando
       terreno en la selección.
 steps:
   display: false
