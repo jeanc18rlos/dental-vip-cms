@@ -83,7 +83,7 @@ faq:
     - question: What is Conscious Sedation?
       answer: "<p>It is an anesthetic technique in which patients are given the combination
         of two or more medications that cause a mild depression of the central nervous
-        system, without loss of consciousness, but with alteration of it. It has an
+        system, without loss of consciousness; but with alteration of it. It has an
         effect on pain, since by decreasing anxiety the painful threshold is raised,
         it facilitates the administration of the local anesthetic without the person
         knowing and, at the correct dose; it also produces amnesia, so that the patient
