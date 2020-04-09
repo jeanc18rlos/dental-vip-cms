@@ -43,7 +43,7 @@ paragraphSection:
     made with CAD-CAM COMPUTER TECHNOLOGY.</p> <p>Said the above, it is not difficult
     to understand <strong>the importance it has of the participation of a Specialist,
     </strong>of a Prosthodontist who guarantees the aesthetic and functional success
-    of his restorative treatment, who be really capable to design and manufacture
+    of his restorative treatment; who be really capable to design and manufacture
     prosthetic devices that allow you to speak, eat and smile comfortably and without
     any type of limitation.</p>\n"
   image: "/img/aside-prosthodontics-correct.jpg"
