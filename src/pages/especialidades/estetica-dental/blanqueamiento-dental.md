@@ -52,7 +52,7 @@ sidePanel:
       producto blanqueante en su domicilio por un lapso de 10 a 15 días. La segunda
       en clínica,  donde se realizan una o dos sesiones con agentes fotosensibles
       de alta concentración. Y la tercera en casa, donde bajo estricta supervisión
-      profesional, se indican pequeños y esporádicos retoques que garanticen la perdurabilidad
+      profesional; se indican pequeños y esporádicos retoques que garanticen la perdurabilidad
       de los resultados obtenidos.</p></div>
 
 '
