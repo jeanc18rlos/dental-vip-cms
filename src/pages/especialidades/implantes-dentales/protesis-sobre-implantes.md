@@ -114,7 +114,7 @@ implantTypes:
       materiales. Es una sola estructura fija que se atornilla sobre 4, 6 u 8 implantes
       y que por lo general reemplaza a todos los dientes de una arcada. Puede ser
       de metal-porcelana o metal-acrílico, y que en casos de atrofia maxilar o reabsorción
-      ósea severa, incorpora encía artificial de color rosa para reestablecer la dimensión
+      ósea severa; incorpora encía artificial de color rosa para reestablecer la dimensión
       vertical oclusal, soporte labial, estética dental y plenitud facial de la persona.</p>
 
 '
