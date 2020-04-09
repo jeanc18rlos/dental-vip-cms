@@ -138,7 +138,7 @@ paragraph:
     display: true
     title: Occlusal balance
     text: Without fear of being wrong, we can affirm that the occlusion we give to
-      an implant-supported restoration, especially if it is fixed, will represent
+      an implant-supported restoration, especially if it is fixed; will represent
       its life insurance. The implant does not have mechanisms or "fuse" sensors that
       allow it, in the event of an overload, to emit an alarm signal; as is the case
       with a natural tooth through the proprioceptive elements contained in its periodontium.
