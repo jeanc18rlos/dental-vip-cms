@@ -111,15 +111,13 @@ steps:
       - icon: "/img/icons-brush.jpg"
         image: "/img/brackets-care-steps-3.jpg"
         desc:
-          text: '<p class="dv-div-text text-left">You have to brush immediately after
+          text: <p class="dv-div-text text-left">You have to brush immediately after
             each meal <em>(normally, just as you did before having appliances)</em>,
             paying special attention to the area of the teeth between the braces and
-            gums, as it is there where more food is retained. If for some reason you
+            gums; as it is there where more food is retained. If for some reason you
             cannot do it, at least rinse thoroughly with plenty of water or mouthwash.
             Fluoride paste should be used and the brush changed regularly, when you
             notice that the bristles begin to bend and wear out.</p>
-
-'
       - icon: "/img/icons-interdental-brush.jpg"
         image: "/img/brackets-care-steps-4.jpg"
         desc:
@@ -215,7 +213,7 @@ paragraphSection:
     can easily generate gingival inflammation, tooth decay and halitosis. A large
     number of clinical trials have shown that, under these conditions, Waterpik<sup>®</sup>
     oral irrigators eliminate 99.9% of plaque deposited on teeth, gums and hard-to-reach
-    places; thanks to the direct application of a pulsatile jet of common water or
+    places; thanks to the direct application of a pulsatile jet of water or common
     mouthwash.</p> <p class=\"dv-div-text text-left\"> In our opinion, the Irrigation
     Technique will always be indicated as an adjunctive resource in the hygiene of
     patients with Orthodontics, Fixed Prosthesis and Dental Implants.</p><img src=\"https://dentalvip.com.ve/wp-content/uploads/2018/09/cuide-sus-brackets-waterpik.jpg\"
