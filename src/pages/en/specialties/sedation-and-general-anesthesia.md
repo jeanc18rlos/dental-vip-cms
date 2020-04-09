@@ -28,11 +28,11 @@ paragraphSection:
     pain, constituting the circumstance a true psychological barrier that; sometimes,
     impedes receive the necessary care and preserve oral health. And although behavior
     management strategies are useful in the vast majority of cases, they are not always
-    effective, especially when facing <strong>individuals who are excessively nervous,
+    effective; especially when facing <strong>individuals who are excessively nervous,
     apprehensive or who have disabilities that prevent them from cooperating.</strong>.
     And it is precisely in these vicissitudes, in which the interaction between the
     professional and the mourner fails, and in which the usual conditioning techniques
-    seem not to work, when we should consider the possibility of applying alternative
+    seem not to work; when we should consider the possibility of applying alternative
     clinical resources to MANAGE ANXIETY and preoperative stress.</p> <p><strong>Currently,
     local anesthesia by infiltration continues to be without any discussion, the simplest,
     more frequent and more effective method for dispensing and ensuring a pain-free
