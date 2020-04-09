@@ -34,7 +34,7 @@ paragraphSection:
     professional and the mourner fails, and in which the usual conditioning techniques
     seem not to work; when we should consider the possibility of applying alternative
     clinical resources to MANAGE ANXIETY and preoperative stress.</p> <p><strong>Currently,
-    local anesthesia by infiltration continues to be without any discussion, the simplest,
+    local anesthesia by infiltration continues to be without any discussion; the simplest,
     more frequent and more effective method for dispensing and ensuring a pain-free
     dental treatment</strong>; however, it is also unquestionable the fact that it
     is a procedure that per se can cause discomfort and rejection, due to the need
