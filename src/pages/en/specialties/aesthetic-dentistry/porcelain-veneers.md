@@ -78,9 +78,9 @@ blockGallery:
   - img: "/img/gallery-blocks-dds-cut.jpg"
     title: "<h1> Should be teeth preparated? </h1>\n"
     desc: "<p> In 85% of cases it will be indispensable to make a little wear. Otherwise,
-      a restoration with unacceptable over-contour would be generated, or with insufficient
+      a restoration with unacceptable over-contour would be generated; or with insufficient
       ceramic´s thickness, weak, with high risk of fracture and unable to mask the
-      aesthetic background defect.</p>\n"
+      aesthetic background defect.</p>"
   - img: "/img/gallery-blocks-dds-lasting.jpg"
     title: "<h1> How many years will my veneers last? </h1>"
     desc: "<p >Although the longevity of IPS e.max<sup>®</sup> ceramic will always
