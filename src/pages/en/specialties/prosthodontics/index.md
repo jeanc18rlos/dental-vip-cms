@@ -68,7 +68,7 @@ faq:
       answer: "<p>It is an anatomical device that simulates or contains artificial
         teeth that replace the crowns of very destroyed, absents or missing natural
         teeth. Depending on their extension they can be individual, partial or total;
-        and according to its support and retention, fixed or removable.</p>\n"
+        and according to their support and retention, fixed or removable.</p>\n"
     - question: Why are gums health so important for any prosthetic device?
       answer: "<p>The durability of any type of prosthesis will depend on its structural
         integrity and the health of its pillars. Regardless of whether they are supported
