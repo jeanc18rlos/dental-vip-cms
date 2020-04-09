@@ -18,7 +18,7 @@ heading:
   title: Carillas de Porcelana
   content: '<p class="dv-subtitle text-center">Las carillas o facetas de porcelana
     son finas láminas de cerámica de entre 0.8 y 1.5 mm. de espesor que, adheridas
-    a la superficie frontal de los dientes, son capaces de modificar por completo
+    a la superficie frontal de los dientes; son capaces de modificar por completo
     su forma, textura, color y tamaño.</p>
 
 '
