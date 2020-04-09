@@ -111,7 +111,7 @@ listGallery:
     - img: "/img/teeth-whitening-list-04.png"
       number: 4
       title: '<h2>Dosage</h2><p class="dv-div-text list">Preparation of the bleaching
-        gel, generally based on peroxides, according to the concentrations previously
+        gel, generally based on peroxides; according to the concentrations previously
         defined in the evaluation, diagnosis and treatment planning phases.</p>
 
 '
