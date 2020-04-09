@@ -39,7 +39,7 @@ sidePanel:
       class="dv-srv-pl dv-srv-pl-pr">El alto grado de concentración del peróxido utilizado,
       hace pertinente proteger cuidadosamente las encías con una barrera o funda especial.
       A continuación, se aplica el gel blanqueador, cuyas propiedades se potencian
-      gracias a la energía suministrada por una luz LED de alta intensidad, que permite
+      gracias a la energía suministrada por una luz LED de alta intensidad; que permite
       ajustes variables para proporcionar máxima seguridad y confort al paciente.</p></div>
 
 '
