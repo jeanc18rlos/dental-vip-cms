@@ -102,7 +102,7 @@ faq:
         después de cada comida, empleando para ello un cepillo de cerdas suaves y
         pasta de dientes. Recomendamos siempre retirar la dentadura para dormir, de
         modo que la mucosa bucal de soporte tenga oportunidad de revascularización
-        y regeneración, fenómenos biológicos esenciales para prevenir la aparición
+        y regeneración; fenómenos biológicos esenciales para prevenir la aparición
         y recurrencia de lesiones inflamatorias, degenerativas o infecciosas.</p>\n"
     - question: "¿Cuándo se debe reemplazar una dentadura “quita y pon”?"
       answer: "<p>Cuando se fracture alguno de sus componentes estructurales, cuando
