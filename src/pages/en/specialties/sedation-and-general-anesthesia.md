@@ -176,7 +176,7 @@ faq:
         drugs that are administered and expertise in airway management, monitoring
         of vital signs and application of resuscitation techniques. The presence of
         an Anesthesiologist can mean the difference between life and death; so clear!</p>\n"
-    - question: Should he intubate me and put on an artificial respirator?
+    - question: Should I be tubed and put on an artificial respirator?
       answer: "<p>Only in cases of general anesthesia. However, when applying a CS,
         all professional and life support resources that allow to face any eventuality
         and safeguard the patient&acute;s life must always be at hand, and among which;
@@ -199,7 +199,7 @@ faq:
         the patient to his normal state, which makes it possible to discharge him
         without further delay after finishing the procedure. However, it is common
         to experience a certain degree of drowsiness and tiredness, which is why we
-        recommend waiting, at least; one hour before leaving the facilities.</p>\n"
+        recommend waiting; at least, one hour before leaving the facilities.</p>\n"
     - question: What postoperative care should I have?
       answer: "<p>Basically postpone for 24 hours any activity that requires mental
         coordination, balance or equilibrium; such as: driving, operating heavy machinery,
