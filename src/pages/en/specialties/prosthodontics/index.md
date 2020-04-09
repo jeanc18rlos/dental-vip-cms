@@ -138,9 +138,9 @@ faq:
         is that they allow us to keep intact the neighboring teeth to the edentulous
         spaces.</p>\n"
     - question: Is it always necessary to perform a root canal before carving a stump?
-      answer: "<p>Not always, but in the vast majority of cases. The mechanical drilling
-        applied to a vital tooth to wear it and turn it into a stump constitutes a
-        great physical aggression and generates so much friction and heat that usually,
+      answer: "<p>Not always, but yes in the vast majority of cases. The mechanical
+        drilling applied to a vital tooth to wear it and turn it into a stump constitutes
+        a great physical aggression and generates so much friction and heat that usually,
         and in the short or medium term, it causes irreversible inflammation, degeneration
         and death of its pulp tissue; always accompanied by extreme sensitivity and
         pain. Such a condition would put the permanent fixed restorations at risk,
