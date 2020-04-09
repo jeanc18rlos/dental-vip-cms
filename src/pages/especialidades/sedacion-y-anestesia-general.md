@@ -135,7 +135,7 @@ faq:
         otra condición sistémica que contraindique el uso de narcóticos.</p>\n"
     - question: Si soy muy nervioso y solo me voy a arreglar una muela, ¿pueden dormirme
         completo?
-      answer: "<p> Por supuesto que sí, sin embargo, habría que valorar muy bien si
+      answer: "<p> Por supuesto que sí; sin embargo, habría que valorar muy bien si
         el coste y complejidad del tratamiento le compensarían verdaderamente en un
         caso tan sencillo como ese. Lo correcto es que antes de considerar la sedación,
         se hace pertinente agotar todos los medios persuasivos y relativos al condicionamiento
