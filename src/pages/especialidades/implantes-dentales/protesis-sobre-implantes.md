@@ -200,7 +200,7 @@ paragraphSection:
   body: '<p class="dv-div-title text-right">Abutment y dispositivos protésicos</p>
     <p class="dv-div-text text-right">El abutment o pilar protésico es la pieza que
     establece la conexión estructural entre el implante y la prótesis. Se enrosca
-    en el implante, y luego sobre él, se cementa o atornilla la restauración. Puede
+    en el implante, y luego sobre él; se cementa o atornilla la restauración. Puede
     ser prefabricado o hecho a la medida por un proceso de fundición y colado metálico.</p><p
     class="dv-div-text text-right">Un transfer o dispositivo de transferencia y un
     análogo de laboratorio son también generalmente requeridos para poder llevar a
