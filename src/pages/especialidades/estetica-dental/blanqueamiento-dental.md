@@ -28,7 +28,7 @@ sidePanel:
     section: |
       <div class="dv-sp-srv-cd">
           <h2 class="dv-srv-pr dv-srv-pr-45">Blanqueamiento dental en casa</h2>
-          <p class="dv-srv-pr dv-srv-pr-45">Se indica en los casos más sencillos. La técnica suele consistir en utilizar un gel y una férula plástica transparente hecha a medida que se deja sobre los dientes por un lapso de tiempo determinado, generalmente durante las noches al dormir.</p>
+          <p class="dv-srv-pr dv-srv-pr-45">Se indica en los casos más sencillos. La técnica suele consistir en utilizar un gel y una férula plástica transparente hecha a medida que se deja sobre los dientes por un lapso de tiempo determinado; generalmente durante las noches al dormir.</p>
           <p class="dv-srv-pr dv-srv-pr-45">Sin embargo, realizar el acto una sola vez no dará mayores resultados. Debe de ser un proceso constante que puede durar varios días o semanas, dependiendo de la concentración del producto. Su principal inconveniente es que los resultados suelen ser inestables y poco duraderos. </p>
       </div>
   - img: "/img/sections-teeth-whitening-clinic.png"
