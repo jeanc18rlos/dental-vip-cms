@@ -137,7 +137,7 @@ paragraph:
       guide for the time of surgery.
   - title: Guided intervention with surgical splint
     text: The splint or surgical guide is a prototype, a physical device that orients
-      the Surgeon during the implantation act, allowing him to place each element
+      the Surgeon during the implantation act; allowing him to place each element
       according to as planned, with millimetric spatial precision and adequate axial
       inclination.
 plainParallax:
