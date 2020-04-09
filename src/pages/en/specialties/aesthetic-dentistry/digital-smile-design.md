@@ -39,7 +39,7 @@ sidePanel:
       processing</h2>\n  \n  <p class=\"dv-srv-pl dv-srv-pl-pr\">A professional image
       processing software allows us to measure and modify the position, shape and
       dimensions of teeth and gums in order to reproduce the best possible aesthetic
-      result, of course, under the golden ratio criterion <i>(1/1.618)</i> and always
+      result; of course, under the golden ratio criterion <i>(1/1.618)</i> and always
       within the biologically viable limits.</p>\n  \n  <p class=\"dv-srv-pl dv-srv-pl-pr\">In
       DENTAL VIP we never use templates or serial prototypes. Our designs are completely
       personalized, realistic and adjusted to the true clinical condition of the person.
