@@ -30,13 +30,13 @@ sidePanel:
       precisión en la colocación de sus implantes dentales!</h2><p class="dv-srv-pl
       text-right dv-npr">DENTAL VIP incorpora la tecnología de última generación en
       sus procedimientos de Implantología Oral, la Tomografía Volumétrica Digital
-      de Haz Cónico <em>(CBVT-Cone Beam Volumetric Tomography)</em>, una herramienta
+      de Haz Cónico <em>(CBVT-Cone Beam Volumetric Tomography)</em>; una herramienta
       de alto valor clínico que proporciona imágenes tridimensionales, precisas y
       de alta calidad digital.</p><p class="dv-srv-pl text-right dv-npr">La utilización
       de este recurso es esencial para la planificación quirúrgica del caso, particularmente
       cuando se van a colocar implantes en el sector posterior de la mandíbula y/o
       maxilar superior, ya que nos permite delimitar el conducto del nervio dentario
-      inferior y conocer la distancia exacta entre reborde alveolar y seno maxilar,
+      inferior y conocer la distancia exacta entre reborde alveolar y seno maxilar;
       estructuras anatómicas que deben ser siempre respetadas para prevenir riesgos,
       complicaciones y fracasos operatorios.</p></div>
 
