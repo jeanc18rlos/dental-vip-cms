@@ -41,7 +41,7 @@ sidePanel:
       informático</h2><p class="dv-srv-pl dv-srv-pl-pr">Un software profesional de
       tratamiento de imágenes nos permite medir y modificar la posición, la forma
       y las dimensiones de dientes y encías con la finalidad de reproducir el mejor
-      resultado estético posible, claro está, bajo el criterio de la proporción áurea
+      resultado estético posible; claro está, bajo el criterio de la proporción áurea
       <i>(1/1.618)</i> y siempre dentro de los límites biológicamente viables.</p><p
       class="dv-srv-pl dv-srv-pl-pr">En DENTAL VIP nunca utilizamos plantillas ni
       prototipos seriados. Nuestros diseños son completamente personalizados, realistas
