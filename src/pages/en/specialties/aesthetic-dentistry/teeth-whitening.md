@@ -38,7 +38,7 @@ sidePanel:
       high degree of concentration of the peroxide used, makes it important to carefully
       protect the gums with a special barrier or cover. Next, the bleaching gel is
       applied, whose properties are increased thanks to the energy supplied by a high
-      intensity LED light, which allows variable adjustments to provide maximum safety
+      intensity LED light; which allows variable adjustments to provide maximum safety
       and comfort to the patient.</p></div>
 
 '
