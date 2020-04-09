@@ -111,7 +111,7 @@ implantTypes:
     desc: '<p class="dv-srv-pr">A hybrid prosthesis is one that combines several materials.
       It is a single fixed structure that is screwed onto 4, 6 or 8 implants and usually
       replaces all the teeth of an arcade. It can be made of metal-porcelain or metal-acrylic,
-      and that in cases of maxillary atrophy or severe bone resorption, it incorporates
+      and that in cases of maxillary atrophy or severe bone resorption; it incorporates
       artificial pink gum to restore the occlusal vertical dimension, lip support,
       dental aesthetics and facial fullness of the person.</p>
 
