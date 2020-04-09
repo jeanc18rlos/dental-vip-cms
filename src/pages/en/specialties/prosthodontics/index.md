@@ -156,10 +156,10 @@ faq:
         or ceramic skeletons. The aluminous <em>(with a high content of aluminum oxide)
         </em>are very resistant but very opaque and not very aesthetic, which is why
         they are currently reserved only for the preparation of copings and internal
-        structures, being necessary to cover them with porcelains of less alumina
+        structures; being necessary to cover them with porcelains of less alumina
         for achieve a good mimicry with the natural tooth. Zirconia ceramics are the
         most novel and are composed of highly sintered zirconium oxide <em>(ZrO<sub>2</sub>),</em>
-        which makes them highly resistant to flexion and fracture, and therefore,
+        which makes them highly resistant to flexion and fracture; and therefore,
         the ideal materials for making ceramic prostheses in areas of high mechanical
         compromise. However, like high-strength aluminous, these ceramics are very
         opaque <em>(they do not have a vitreous phase),</em> and therefore they are
