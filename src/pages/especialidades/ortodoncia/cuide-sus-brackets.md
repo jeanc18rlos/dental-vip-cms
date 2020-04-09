@@ -51,16 +51,15 @@ steps:
   display: true
   blocks:
   - number: 1
-    description: "<p class=\"dv-div-text text-left dv-numb-txt\">Los primeros 3 o
-      4 días posteriores a la instalación de los brackets son algo incómodos porque
-      es normal experimentar alguna sensación de \"ardor o picor\" en las encías y
-      cierto dolor o molestia a la hora de morder y masticar. También, es posible
-      que aparezcan úlceras, aftas o llaguitas dentro de la boca <em>(recuerde que
-      los aparatos son un cuerpo extraño para su organismo)</em>, principalmente en
-      la lengua, labios y carrillos. En caso de ser necesario, puede tomar algún analgésico
-      como acetaminofén o paracetamol y utilizar la cera para Ortodoncia que le hemos
-      proporcionado, colocando un pequeño trozo de ella sobre el bracket que esté
-      molestando.</p> \n"
+    description: '<p class="dv-div-text text-left dv-numb-txt">Los primeros 3 o 4
+      días posteriores a la instalación de los brackets son algo incómodos porque
+      es normal experimentar alguna sensación de "ardor o picor" en las encías y cierto
+      dolor o molestia a la hora de morder y masticar. También, es posible que aparezcan
+      úlceras, aftas o llaguitas dentro de la boca <em>(recuerde que los aparatos
+      son un cuerpo extraño para su organismo)</em>; principalmente en la lengua,
+      labios y carrillos. En caso de ser necesario, puede tomar algún analgésico como
+      acetaminofén o paracetamol y utilizar la cera para Ortodoncia que le hemos proporcionado;
+      colocando un pequeño trozo de ella sobre el bracket que esté molestando.</p> '
     img:
       display: true
       images:
