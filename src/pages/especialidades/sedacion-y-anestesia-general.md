@@ -192,7 +192,7 @@ faq:
         de recuperación y planta eléctrica de emergencia con autonomía mínima de 3
         horas continuas. Además, en los casos de AG, es imprescindible que la sala
         de operaciones se encuentre integrada a una clínica privada u hospital de
-        envergadura, que cuente con terapia intensiva, un equipo médico multidisciplinar
+        envergadura; que cuente con terapia intensiva, un equipo médico multidisciplinar
         permanente y el personal auxiliar capacitado para atender cualquier posible
         eventualidad.</p>  \n<p>Con sinceridad, no conocemos en nuestra ciudad capital
         ninguna clínica dental que cumpla al 100% con estas demandas y que esté verdaderamente
