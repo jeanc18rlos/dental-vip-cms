@@ -125,7 +125,7 @@ implantTypes:
       removable and that is anchored on 2, 3 or 4 implants. It is also known as "fit
       denture" because it is based on a male and female system for insertion and removal.
       The fact of being able to be removed by the patient considerably facilitates
-      the process of oral hygiene, and although it is removable, the implants provide
+      the process of oral hygiene, and although it is removable; the implants provide
       it great retention and stability compared to a conventional or muco-supported
       prosthesis.</p>
 
