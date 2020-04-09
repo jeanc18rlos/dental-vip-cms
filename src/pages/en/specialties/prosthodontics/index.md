@@ -177,7 +177,7 @@ faq:
     - question: What cares should be taken with a fixed prosthesis?
       answer: "<p>Scrupulous oral hygiene, common sense to avoid improperly biting
         excessively hard objects, permanent use of a protective night splint and periodic
-        professional controls. It is essential, apart from normal brushing, the constant
+        professional controls. It is essential, apart from normal brushing; the constant
         use of the interdental brush, special dental floss, mouthwash and oral irrigator.
         A Waterpik<sup>®</sup> is the best complement for oral hygiene of people with
         dental implants, fixed prosthesis and orthodontics. We always recommend to
