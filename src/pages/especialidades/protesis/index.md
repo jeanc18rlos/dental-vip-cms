@@ -182,7 +182,7 @@ faq:
       answer: "<p>Higiene bucal escrupulosa, sentido común para evitar morder inapropiadamente
         objetos contundentes, uso permanente de una férula nocturna de protección
         y controles profesionales periódicos. Es fundamental, aparte del cepillado
-        normal, el uso constante del cepillo interdental, hilo dental especial, enjuague
+        normal; el uso constante del cepillo interdental, hilo dental especial, enjuague
         e irrigador bucal. Un Waterpik<sup>®</sup> es el mejor complemento para la
         higiene oral de personas portadoras de implantes dentales, prótesis fija y
         ortodoncia. Siempre recomendamos a nuestros pacientes un control de rutina
