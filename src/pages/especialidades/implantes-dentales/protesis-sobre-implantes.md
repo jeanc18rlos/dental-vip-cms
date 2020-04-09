@@ -101,7 +101,7 @@ implantTypes:
       8 a 12)</em>. Las coronas pueden ser individuales, pueden estar fusionadas por
       secciones o formar parte de una sola estructura. Este tipo de prótesis es el
       más parecido a la dentición natural y al morder proporciona una inigualable
-      sensación de seguridad y confort, sin embargo, requiere de una gran inversión
+      sensación de seguridad y confort; sin embargo, requiere de una gran inversión
       económica y de unas bases óseas maxilares casi intactas.</p>
 
 '
