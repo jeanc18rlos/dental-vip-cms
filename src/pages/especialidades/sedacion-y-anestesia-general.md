@@ -114,7 +114,7 @@ faq:
         orales en circunstancias particulares.<p>\n"
     - question: "¿Cuáles fármacos suelen utilizarse para sedar a un paciente?"
       answer: "<p>Oxido Nitroso combinado con Oxígeno <em>(N<sub>2</sub>O:O<sub>2</sub>)</em>
-        por vía inhalatoria, y por la endovenosa las Benzodiazepinas  como el Diazepam
+        por vía inhalatoria; y por la endovenosa las Benzodiazepinas  como el Diazepam
         y el Midazolam, el Propofol, Tiopental Sódico, Fentanilo, Ketamina, Etomidato
         y/o cualquier combinación de ellos. Además, el anestésico local de preferencia,
         usualmente los pertenecientes al grupo amida; como la Lidocaína o Mepivacaína.</p>\n"
