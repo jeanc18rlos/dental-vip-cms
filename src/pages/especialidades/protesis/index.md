@@ -125,7 +125,7 @@ faq:
       answer: "<p>Es un diente natural que ha sido tallado y desgastado para servir
         de pilar a una corona o prótesis fija convencional. Cuando la estructura dental
         remanente sea escasa o se encuentre debilitada, será necesario confeccionar
-        un “muñón artificial” que consta de dos porciones, un perno que va alojado
+        un “muñón artificial” que consta de dos porciones; un perno que va alojado
         en el interior del conducto radicular <em>(previamente endodonciado y desobturado)</em>
         y una porción coronal que reemplaza a la dentina perdida y refuerza a la existente.
         Los muñones artificiales pueden ser elaborados con materiales a base de fibra
