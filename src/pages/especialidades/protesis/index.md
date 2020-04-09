@@ -44,7 +44,7 @@ paragraphSection:
     de Litio  </strong>elaboradas con TECNOLOGÍA COMPUTARIZADA CAD-CAM.</p><p>Dicho
     lo anterior, no es difícil comprender  <strong>la importancia que tiene la participación
     de un Especialista, </strong> de un Prostodoncista que garantice el éxito estético
-    y funcional de su tratamiento restaurador, que verdaderamente esté en capacidad
+    y funcional de su tratamiento restaurador; que verdaderamente esté en capacidad
     de diseñar y fabricar dispositivos protésicos que le permitan hablar, comer y
     sonreír con comodidad y sin ningún tipo de limitación.</p> \n"
   image: "/img/aside-prosthodontics-correct.jpg"
