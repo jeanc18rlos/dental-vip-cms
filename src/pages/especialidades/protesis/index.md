@@ -121,7 +121,7 @@ faq:
         de Zirconio. Generalmente se indican, por su mayor naturalidad y translucidez,
         las estructuras totalcerámicas para los dientes anteriores y; por su mayor
         resistencia, las de núcleo metálico para los posteriores.</p>\n"
-    - question: "¿Qué es un muñón?"
+    - question: "¿Qué es un muñón en Odontología?"
       answer: "<p>Es un diente natural que ha sido tallado y desgastado para servir
         de pilar a una corona o prótesis fija convencional. Cuando la estructura dental
         remanente sea escasa o se encuentre debilitada, será necesario confeccionar
