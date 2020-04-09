@@ -126,7 +126,7 @@ listGallery:
       number: 6
       title: '<h2>Photoactivation</h2><p class="dv-div-text list">Through partial
         periods of 15 minutes and blue spectrum LED light with wavelengths between
-        380 and 515 nanometers, and power equal to or greater than 400 mW/cm2.</p>
+        380 and 515 nanometers; and power equal to or greater than 400 mW/cm2.</p>
 
 '
     - img: "/img/teeth-whitening-list-07.png"
