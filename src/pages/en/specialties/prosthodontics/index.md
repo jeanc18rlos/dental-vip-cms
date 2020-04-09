@@ -130,7 +130,7 @@ faq:
         alloys.</p>\n"
     - question: And stumps carving does not harm teeth?
       answer: "<p>It depends on the case. If the teeth are already very decayed or
-        fractured, on the contrary, the carving and subsequent reconstruction of the
+        fractured, on the contrary; the carving and subsequent reconstruction of the
         stump will reinforce them, allow their aesthetic restoration and guarantee
         their permanence in the mouth. It would be different if we had to carve completely
         healthy teeth with the sole purpose of replacing other absent teeth using
