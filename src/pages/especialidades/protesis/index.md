@@ -82,7 +82,7 @@ faq:
     - question: "¿Cuánto tiempo toma confeccionar una prótesis dental?"
       answer: "<p>Depende mucho del caso y tipo de rehabilitación. Los lapsos pueden
         variar desde 2 o 3 días para las provisionales hasta los 6 o 7 meses para
-        las que se fabrican sobre implantes, claro está, tomando en consideración
+        las que se fabrican sobre implantes; claro está, tomando en consideración
         el período de oseointegración. Por norma general y en condiciones normales,
         3 semanas es el lapso de tiempo promedio necesario para hacer pruebas y culminar
         la gran mayoría de nuestras restauraciones definitivas; sean fijas o removibles.</p>\n"
