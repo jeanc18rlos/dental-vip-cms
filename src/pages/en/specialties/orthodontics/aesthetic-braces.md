@@ -17,7 +17,7 @@ heading:
   classname: section-reasons bebas-title
   title: AESTHETIC BRACES
   content: '<p class="dv-subtitle text-center">The new technologies in Orthodontics
-    have allowed, when the appearance is important, the use of materials more comfortable
+    have allowed, when the appearance is important; the use of materials more comfortable
     and discreet than steel, and that help the patient to smile without problems while
     advancing his treatment.</p>
 
