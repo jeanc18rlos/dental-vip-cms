@@ -100,7 +100,7 @@ faq:
         for the vast majority of oral interventions in particular circumstances.</p>\n"
     - question: What kind of drugs are usually used to sedate a patient?
       answer: "<p>Nitrous Oxide combined with Oxygen <em>(N</em><sub><em>2</em></sub><em>O:O</em><sub><em>2</em></sub><em>)
-        </em>by inhalation, and intravenously Benzodiazepines such as Diazepam and
+        </em>by inhalation; and intravenously Benzodiazepines such as Diazepam and
         Midazolam, Propofol, Sodium Thiopental, Fentanyl, Ketamine, Etomidate and/or
         any combination thereof. In addition, the local anesthetic of preference,
         usually those belonging to the amide group; like Lidocaine or Mepivacaine.</p>\n"
