@@ -80,7 +80,7 @@ faq:
     - question: How long does it take to make a dental prosthesis?
       answer: "<p>It depends a lot on the case and type of rehabilitation. The lapses
         can vary from 2 or 3 days for provisional ones to 6 or 7 months for those
-        that are manufactured over implants, of course, taking into account the osseointegration
+        that are manufactured over implants; of course, taking into account the osseointegration
         period. As a general rule and under normal conditions, 3 weeks is the average
         period of time required to do tests and complete the vast majority of our
         definitive restorations; whether fixed or removable.</p>\n"
