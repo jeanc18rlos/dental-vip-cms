@@ -127,7 +127,7 @@ implantTypes:
       y que se ancla sobre 2, 3 o 4 implantes. Se le conoce como "dentadura de encaje"
       porque se basa en un sistema macho y hembra para su inserción y remoción. El
       hecho de poder ser retirada por el paciente facilita considerablemente el proceso
-      de higiene oral, y aunque es removible, los implantes le proporcionan gran retención
+      de higiene oral, y aunque es removible; los implantes le proporcionan gran retención
       y estabilidad en comparación con una prótesis convencional o mucosoportada.</p>
 
 '
