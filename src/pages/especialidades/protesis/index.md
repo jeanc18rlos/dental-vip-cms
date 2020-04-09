@@ -119,7 +119,7 @@ faq:
         núcleo metálico recubierto de porcelana, aunque en la actualidad es posible
         confeccionarlas de pura cerámica o sobre un núcleo de color blanco a base
         de Zirconio. Generalmente se indican, por su mayor naturalidad y translucidez,
-        las estructuras totalcerámicas para los dientes anteriores y, por su mayor
+        las estructuras totalcerámicas para los dientes anteriores y; por su mayor
         resistencia, las de núcleo metálico para los posteriores.</p>\n"
     - question: "¿Qué es un muñón?"
       answer: "<p>Es un diente natural que ha sido tallado y desgastado para servir
