@@ -73,17 +73,16 @@ steps:
         desc:
           text: "''\n"
   - number: 2
-    description: "<p class=\"dv-div-text text-left dv-numb-txt\">Usted podrá comer
-      prácticamente de todo, pero es fundamental evitar los alimentos y objetos duros
-      que pudiesen despegar los aparatos o doblar los alambres, situación que provocaría
-      retrasos importantes en el tratamiento. Por ello, no hay que tocar los brackets
-      con los dedos, lápices o bolígrafos, ni morderse las uñas o usar palillos de
-      madera. Todos estos hábitos podrían llegar a dañar los aparatos de Ortodoncia.
-      Evite además morder directamente los alimentos, siempre córtelos o trocéelos
-      primero con las manos o cubiertos antes de introducirlos en la boca. Evite también
-      masticar chicle o alimentos pegajosos y morder cosas excesivamente duras como
-      hueso, hielo, semillas y objetos similares. ¡SIMPLEMENTE ES CUESTIÓN DE SENTIDO
-      COMÚN!</p> \n"
+    description: '<p class="dv-div-text text-left dv-numb-txt">Usted podrá comer prácticamente
+      de todo, pero es fundamental evitar los alimentos y objetos duros que pudiesen
+      despegar los aparatos o doblar los alambres; situación que provocaría retrasos
+      importantes en el tratamiento. Por ello, no hay que tocar los brackets con los
+      dedos, lápices o bolígrafos, ni morderse las uñas o usar palillos de madera.
+      Todos estos hábitos podrían llegar a dañar los aparatos de Ortodoncia. Evite
+      además morder directamente los alimentos, siempre córtelos o trocéelos primero
+      con las manos o cubiertos antes de introducirlos en la boca. Evite también masticar
+      chicle o alimentos pegajosos y morder cosas excesivamente duras como hueso,
+      hielo, semillas y objetos similares. ¡SIMPLEMENTE ES CUESTIÓN DE SENTIDO COMÚN!</p> '
     img:
       display: false
       images:
