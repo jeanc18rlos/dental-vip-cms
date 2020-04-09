@@ -133,7 +133,7 @@ faq:
         resistencia.</p>\n"
     - question: "¿Y el tallado de muñones no daña los dientes?"
       answer: "<p>Depende del caso. Si los dientes están ya muy cariados o fracturados,
-        por el contrario, el tallado y posterior reconstrucción del muñón los reforzará,
+        por el contrario; el tallado y posterior reconstrucción del muñón los reforzará,
         permitirá su restauración estética y garantizará su permanencia en boca. Diferente
         sería si tuviéramos que tallar dientes completamente sanos con la única finalidad
         de reponer otros ausentes mediante prótesis fija convencional. Hoy en día
