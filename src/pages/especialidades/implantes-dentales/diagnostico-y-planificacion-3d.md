@@ -148,7 +148,7 @@ paragraph:
       para el momento de la cirugía.
   - title: Intervención guiada con férula quirúrgica
     text: La férula o guía quirúrgica es un prototipo, un dispositivo físico que orienta
-      al Cirujano durante el acto de implantación, permitiéndole colocar cada elemento
+      al Cirujano durante el acto de implantación; permitiéndole colocar cada elemento
       según lo dispuesto, con precisión espacial milimétrica e inclinación axial adecuada.
 plainParallax:
   image: "/img/parallax-3d-diagnosis-and-planning.jpg"
