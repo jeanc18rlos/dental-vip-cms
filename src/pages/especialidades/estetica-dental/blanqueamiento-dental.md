@@ -114,7 +114,7 @@ listGallery:
     - img: "/img/teeth-whitening-list-04.png"
       number: 4
       title: '<h2>Dosificación</h2><p class="dv-div-text list">Preparación del gel
-        blanqueador, generalmente a base de peróxidos, según las concentraciones previamente
+        blanqueador, generalmente a base de peróxidos; según las concentraciones previamente
         definidas en las fases de evaluación, diagnóstico y planificación del tratamiento.</p>
 
 '
