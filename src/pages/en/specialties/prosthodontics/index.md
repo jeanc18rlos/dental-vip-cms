@@ -116,7 +116,7 @@ faq:
         coated metal core, although it is currently possible to make them from pure
         ceramics or upon a white core based on Zirconia. Generally, due to their greater
         naturalness and translucency, the total-ceramic structures are indicated for
-        the anterior teeth and, due to their greater resistance, those the metal core
+        the anterior teeth and; due to their greater resistance, those the metal core
         for the posterior ones.</p>\n"
     - question: What is a stump in Dentistry?
       answer: "<p>It is a natural tooth that has been carved and worn to serve as
