@@ -114,7 +114,7 @@ steps:
           text: <p class="dv-div-text text-left">Hay que cepillarse inmediatamente
             después de cada comida <em>(normalmente, al igual que lo hacía antes de
             tener aparatos)</em>, prestando especial atención a la zona de los dientes
-            que está entre los brackets y las encías, pues es allí donde más comida
+            que está entre los brackets y las encías; pues es allí donde más comida
             se retiene. Si por algún motivo no pudiese hacerlo, al menos enjuáguese
             enérgicamente con abundante agua o enjuague bucal. Se debe usar pasta
             con flúor y cambiar el cepillo regularmente, cuando aprecie que las cerdas
