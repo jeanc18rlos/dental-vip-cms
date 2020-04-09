@@ -184,7 +184,7 @@ paragraphSection:
     dv-pb-15">Siempre confiamos nuestro trabajo a los agentes cementantes de la multinacional
     3M. <strong>RelyX™ Ultimate</strong> es un innovador cemento de resina adhesiva
     y polimerización dual que fue desarrollado pensando exclusivamente en las necesidades
-    propias de la cerámica vítrea, y que en consecuencia, nos garantiza un excelente
+    propias de la cerámica vítrea, y que en consecuencia; nos garantiza un excelente
     desempeño clínico.</p><p class="dv-div-text dv-pb-15">Gracias a este novedoso
     sistema, nuestros pacientes podrán estar siempre tranquilos, seguros y orgullosos
     de su nueva sonrisa.</p> <img src="https://dentalvip.com.ve/wp-content/uploads/2018/09/carp-img13.jpg"
