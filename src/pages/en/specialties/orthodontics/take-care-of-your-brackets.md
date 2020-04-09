@@ -95,12 +95,12 @@ steps:
         desc:
           text: "''\n"
   - number: 3
-    description: "<p class=\"dv-div-text text-left dv-numb-txt\">During the treatment
+    description: '<p class="dv-div-text text-left dv-numb-txt">During the treatment
       it is important to practice a very careful oral hygiene. The appliances cause
       more dental plaque and food debris to be retained in the teeth, therefore it
       is then necessary to devote some more time to their cleaning. If your teeth
-      and gums do not brush well, they will swell, bleed and a bad smell will come
-      out of your mouth.</p> \n"
+      and gums do not brush well; they will swell, bleed and a bad smell will come
+      out of your mouth.</p> '
     img:
       display: false
       images:
