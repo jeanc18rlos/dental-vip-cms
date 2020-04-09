@@ -56,9 +56,9 @@ steps:
       is normal to experience some sensation of "burning or itching" in the gums and
       some pain or discomfort at the time of biting and chewing. Also, it is possible
       that ulcers, aphthas or sores appear inside the mouth <em>(remember that the
-      appliances are a foreign body for your organism)</em>, mainly on the tongue,
+      appliances are a foreign body for your organism)</em>; mainly on the tongue,
       lips and cheeks. If necessary, you can take an analgesic such as acetaminophen
-      or paracetamol and use the Orthodontic wax that we have provided, placing a
+      or paracetamol and use the Orthodontic wax that we have provided; placing a
       small piece of it on the bracket that is bothering you.</p> '
     img:
       display: true
