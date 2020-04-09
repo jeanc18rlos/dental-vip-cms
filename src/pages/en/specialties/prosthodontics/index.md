@@ -122,7 +122,7 @@ faq:
       answer: "<p>It is a natural tooth that has been carved and worn to serve as
         a pillar to a crown or conventional fixed prosthesis. When the remaining dental
         structure is scarce or weakened, it will be necessary to make an &ldquo;artificial
-        stump&rdquo; that consists of two portions, a radicular post that is housed
+        stump&rdquo; that consists of two portions; a radicular post that is housed
         inside the root canal <em>(endodontic treated and desobturated previously)</em>
         and a coronal portion that replaces to the dentin lost and reinforces the
         existing one. Artificial stumps <em>(post and core)</em> can be made with
