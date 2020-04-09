@@ -159,11 +159,11 @@ faq:
         recubrimiento de estructuras metálicas o cerámicas de base. Las aluminosas
         <em>(con alto contenido de óxido de aluminio)</em> son muy resistentes pero
         muy opacas y poco estéticas, por lo que en la actualidad se reservan únicamente
-        para la confección de cofias y estructuras internas, siendo necesario recubrirlas
+        para la confección de cofias y estructuras internas; siendo necesario recubrirlas
         con porcelanas de menor cantidad de alúmina para lograr un buen mimetismo
         con el diente natural. Las zirconiosas son las más novedosas y están compuestas
         por óxido de zirconio <em>(ZrO<sub>2</sub>)</em> altamente sinterizado, lo
-        que las hace sumamente resistentes a la flexión y fractura, y por ende, los
+        que las hace sumamente resistentes a la flexión y fractura; y por ende, los
         materiales idóneos para elaborar prótesis cerámicas en zonas de alto compromiso
         mecánico. Sin embargo, y al igual que las aluminosas de alta resistencia,
         estas cerámicas son muy opacas <em>(no tienen fase vítrea)</em>, y por ello
