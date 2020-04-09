@@ -156,8 +156,8 @@ paragraphSection:
   align: left
   body: '<p class="dv-div-title text-right">Ventajas clínicas de la CONE BEAM en la
     práctica de la implantología oral</p> <p class="dv-div-text text-right">Permite
-    detectar estructuras anatómicas, evaluar la morfología, cantidad y calidad ósea,
-    realizar mediciones exactas del reborde alveolar en ancho, alto y profundidad,
+    detectar estructuras anatómicas, evaluar la morfología, cantidad y calidad ósea;
+    realizar mediciones exactas del reborde alveolar en ancho, alto y profundidad;
     determinar si es necesario un injerto óseo o un levantamiento de seno maxilar,
     confeccionar guías quirúrgicas, seleccionar el tamaño y modelo de los implantes,
     optimizar su localización y reducir al mínimo los riesgos quirúrgicos.<br><br><br><img
