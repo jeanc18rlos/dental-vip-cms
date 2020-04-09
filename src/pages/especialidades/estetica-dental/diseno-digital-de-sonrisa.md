@@ -17,7 +17,7 @@ heading:
   classname: section-reasons bebas-title
   title: Diseño Digital de Sonrisa (DDS)
   content: '<p class="dv-subtitle text-center">Es una herramienta informática que
-    nos permite, mediante un protocolo fotográfico digital, registrar y estudiar sus
+    nos permite, mediante un protocolo fotográfico digital; registrar y estudiar sus
     proporciones y rasgos dentofaciales, planificar su sonrisa ideal y simularla gráficamente.</p>
 
 '
