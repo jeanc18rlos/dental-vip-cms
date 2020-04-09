@@ -241,7 +241,7 @@ faq:
         del paciente a su estado de normalidad, lo que hace posible darlo de alta
         sin mayores demoras luego de terminar el procedimiento. Sin embargo, es común
         experimentar cierto grado de somnolencia y cansancio, razón por la cual recomendamos
-        esperar, al menos; una hora antes de abandonar las instalaciones. </p>\n"
+        esperar; al menos, una hora antes de abandonar las instalaciones. </p>\n"
     - question: "¿Qué cuidados postoperatorios debo tener?"
       answer: "<p>Básicamente posponer por 24 horas cualquier actividad que requiera
         de coordinación mental, balance o equilibrio; tales como: conducir, operar
