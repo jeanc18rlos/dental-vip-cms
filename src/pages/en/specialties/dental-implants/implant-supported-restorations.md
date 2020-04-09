@@ -154,7 +154,7 @@ paragraph:
   - title: Screwed or cemented prosthesis?
     text: It depends on the case. Each one has its specific indications and utilities.
       However, the appearance of new special cements for implantological use has done
-      that, little by little, cemented prostheses gaining ground in the selection.
+      that, little by little; cemented prostheses gaining ground in the selection.
 steps:
   display: false
   blocks:
