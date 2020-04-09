@@ -95,7 +95,7 @@ faq:
     - question: "¿Qué es la Sedación Consciente?"
       answer: "<p>Es una técnica anestésica en la que se administra a los pacientes
         la combinación de uno o varios medicamentos que provocan una leve depresión
-        del sistema nervioso central, sin pérdida de la consciencia, pero con alteración
+        del sistema nervioso central, sin pérdida de la consciencia; pero con alteración
         de la misma. Tiene efecto sobre el dolor, ya que al disminuir la ansiedad
         se eleva el umbral doloroso, facilita la administración del anestésico local
         sin que la persona se entere y, a la dosis correcta; produce también amnesia,
