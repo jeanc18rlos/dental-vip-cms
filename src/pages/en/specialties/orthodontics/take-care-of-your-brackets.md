@@ -73,16 +73,16 @@ steps:
         desc:
           text: "''\n"
   - number: 2
-    description: "<p class=\"dv-div-text text-left dv-numb-txt\">You will be able
-      to eat practically everything, but it is essential to avoid food and hard objects
-      that could detach the devices or bend the wires, a situation that would cause
+    description: '<p class="dv-div-text text-left dv-numb-txt">You will be able to
+      eat practically everything, but it is essential to avoid food and hard objects
+      that could detach the devices or bend the wires; a situation that would cause
       significant delays in treatment. Therefore, do not touch the brackets with your
       fingers, pencils or pens, or bite your nails or use wooden chopsticks. All these
       habits could damage Orthodontic appliances. Also avoid biting foods directly,
       always cut or chop them first with your hands or cutlery before putting them
       in your mouth. Also avoid chewing gum or sticky foods and biting excessively
       hard things such as bone, ice, seeds and similar objects. IT IS JUST A MATTER
-      OF COMMON SENSE!</p> \n"
+      OF COMMON SENSE!</p> '
     img:
       display: false
       images:
