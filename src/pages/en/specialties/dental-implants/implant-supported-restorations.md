@@ -99,7 +99,7 @@ implantTypes:
       8 to 12)</em>. Crowns can be individual, can be merged into sections or be part
       of a single structure. This type of prosthesis is the most similar to natural
       dentition and when biting through it provides an unequaled sense of security
-      and comfort, however, it requires a great economic investment and almost intact
+      and comfort; however, it requires a great economic investment and almost intact
       maxillary bone bases.</p>
 
 '
