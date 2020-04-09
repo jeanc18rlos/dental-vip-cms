@@ -76,10 +76,10 @@ blockGallery:
   display: true
   blocks:
   - img: "/img/gallery-blocks-dds-cut.jpg"
-    title: "<h1> ¿Es necesario tallar los dientes? </h1>\n"
+    title: "<h1> ¿Es necesario tallar los dientes? </h1>"
     desc: "<p> En el 85% de los casos será indispensable hacer un pequeño desgaste.
       De lo contrario, se generaría una restauración con sobrecontorno inaceptable,
-      o bien, con un espesor de cerámica insuficiente, débil, con alto riesgo de fractura
+      o bien; con un espesor de cerámica insuficiente, débil, con alto riesgo de fractura
       e incapaz de enmascarar el defecto estético de fondo. </p>"
   - img: "/img/gallery-blocks-dds-lasting.jpg"
     title: "<h1> ¿Cuántos años durarán mis carillas? </h1>"
