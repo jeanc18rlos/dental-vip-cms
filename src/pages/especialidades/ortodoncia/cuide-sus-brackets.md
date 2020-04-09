@@ -95,12 +95,12 @@ steps:
         desc:
           text: "''\n"
   - number: 3
-    description: "<p class=\"dv-div-text text-left dv-numb-txt\">Durante el tratamiento
+    description: '<p class="dv-div-text text-left dv-numb-txt">Durante el tratamiento
       es importante practicar una higiene bucal muy cuidadosa. Los aparatos hacen
       que se retengan más placa dental y restos de alimentos en los dientes, y es
       entonces necesario dedicar algo más de tiempo a su limpieza. Si no se cepillan
-      bien los dientes y encías, estas se inflamarán, sangrarán y saldrá mal olor
-      de su boca.</p> \n"
+      bien los dientes y encías; estas se inflamarán, sangrarán y saldrá mal olor
+      de su boca.</p> '
     img:
       display: false
       images:
