@@ -17,7 +17,7 @@ heading:
   classname: section-reasons bebas-title
   title: Aparatos Estéticos
   content: '<p class="dv-subtitle text-center">Las nuevas tecnologías en Ortodoncia
-    han permitido, cuando la apariencia es importante, el uso de materiales más cómodos
+    han permitido, cuando la apariencia es importante; el uso de materiales más cómodos
     y discretos que el acero, y que ayudan al paciente a sonreír sin problemas mientras
     avanza su tratamiento.</p>
 
