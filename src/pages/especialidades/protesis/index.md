@@ -172,11 +172,11 @@ faq:
         resultado estético.</p>\n"
     - question: "¿Son las prótesis fijas para toda la vida?"
       answer: "<p>Influyen tantos, pero tantos factores en la longevidad de una rehabilitación
-        fija que ningún profesional está en capacidad de predecir, a ciencia cierta,
+        fija que ningún profesional está en capacidad de predecir, a ciencia cierta;
         su duración en años. Consideramos que en condiciones favorables, entre 15
         y 20 años es en promedio el tiempo de vida útil para la gran mayoría de los
         casos. Una vez cumplido el ciclo, la rehabilitación podrá ser idealmente sustituida
-        por implantes dentales, o en su defecto, replicada; siempre y cuando los pilares
+        por implantes dentales, o en su defecto; replicada, siempre y cuando los pilares
         ofrezcan condiciones favorables para ello.</p>\n"
     - question: "¿Qué cuidados hay que tener con una prótesis fija?"
       answer: "<p>Higiene bucal escrupulosa, sentido común para evitar morder inapropiadamente
