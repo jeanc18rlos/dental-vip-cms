@@ -144,7 +144,7 @@ faq:
     - question: "¿En qué casos es entonces recomendable una sedación o una anestesia
         más profunda?"
       answer: |
-        <p>Verdaderamente no existe un claro consenso sobre las indicaciones para la utilización de estas técnicas en Odontología, sin embargo, dependen del análisis objetivo y subjetivo de múltiples factores asociados con el paciente, el profesional y el tratamiento. Dentro de las indicaciones más comunes encontramos: </p> <ol>
+        <p>Verdaderamente no existe un claro consenso sobre las indicaciones para la utilización de estas técnicas en Odontología; sin embargo, dependen del análisis objetivo y subjetivo de múltiples factores asociados con el paciente, el profesional y el tratamiento. Dentro de las indicaciones más comunes encontramos: </p> <ol>
           <li>Niños o adultos con experiencias previas médico-odontológicas traumatizantes, y en los que no es posible lograr una comunicación positiva ni la cooperación necesaria para el tratamiento.</li>
           <li>Pacientes alérgicos a los anestésicos locales.</li>
           <li>Niños y adultos con discrasias sanguíneas, ya que la anestesia infiltrativa o troncular podría provocar hemorragias en los espacios látero-faríngeos.</li>
