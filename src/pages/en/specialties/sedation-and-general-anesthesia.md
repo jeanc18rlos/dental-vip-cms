@@ -25,7 +25,7 @@ paragraphSection:
     common aspects in patients around the world</strong>. So much so, that through
     recent statistical studies it has been possible to demonstrate that up to 25%
     of adults avoid or postpone attending the Dentist's office for awe of suffering
-    pain, constituting the circumstance a true psychological barrier that, sometimes;
+    pain, constituting the circumstance a true psychological barrier that; sometimes,
     impedes receive the necessary care and preserve oral health. And although behavior
     management strategies are useful in the vast majority of cases, they are not always
     effective, especially when facing <strong>individuals who are excessively nervous,
