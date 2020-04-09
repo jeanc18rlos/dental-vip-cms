@@ -27,7 +27,7 @@ sidePanel:
   - img: "/img/sections-teeth-whitening-homemade.png"
     section: |
       <div class="dv-sp-srv-cd"><h2>Teeth whitening at home</h2>
-          <p class="dv-srv-pr dv-srv-pr-45">It is indicated in the simplest cases. The technique usually consists of using a gel and a transparent plastic splint custom made that is left on the teeth for a certain period of time, usually during the nights to sleep.</p>
+          <p class="dv-srv-pr dv-srv-pr-45">It is indicated in the simplest cases. The technique usually consists of using a gel and a transparent plastic splint custom made that is left on the teeth for a certain period of time; usually during the nights to sleep.</p>
           <p class="dv-srv-pr dv-srv-pr-45">However, performing the act only once will not yield greater results. It must be a constant process that can last several days or weeks, depending on the concentration of the product. Its main drawback is that the results tend to be unstable and not very durable.</p>
       </div>
   - img: "/img/sections-teeth-whitening-clinic.png"
