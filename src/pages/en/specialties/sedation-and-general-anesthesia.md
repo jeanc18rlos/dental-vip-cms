@@ -113,7 +113,7 @@ faq:
         complications rarely occur, and in such a case; the presence of an Anesthesiologist
         will guarantee a quick and safe resolution of them.</p>\n"
     - question: Are there contraindications to this anesthesia technique?
-      answer: "<p>Very few, among which we find: history of hypersensitivity prior
+      answer: "<p>Really few, among which we find: history of hypersensitivity prior
         to the procedure, respiratory failure, severe hepatic insufficiency, pregnancy,
         lactation, alcoholism, drug use, psychotic diseases, intestinal occlusions,
         some cases of glaucoma and/or any other systemic condition that contraindicates
