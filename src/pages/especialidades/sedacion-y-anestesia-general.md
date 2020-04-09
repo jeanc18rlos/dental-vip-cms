@@ -47,7 +47,7 @@ paragraphSection:
     </p>
     <p>
       <strong>Actualmente, la anestesia local por infiltración continúa siendo sin
-        discusión alguna, el método más sencillo, frecuente y efectivo para
+        discusión alguna; el método más sencillo, frecuente y efectivo para
         dispensar y asegurar un tratamiento dental libre de dolor</strong>; sin embargo, es también incuestionable el hecho de que es un procedimiento
       que per se puede causar incomodidad y rechazo, debido a la necesidad de
       aplicar una o varias inyecciones dentro de la boca.
@@ -56,7 +56,7 @@ paragraphSection:
       Y es definitivamente en esas situaciones, en las que ni siquiera es posible
       tolerar una punción, en las que debemos recurrir a otras técnicas anestésicas
       como
-      <strong> la Sedación Consciente, que representa una opción farmacológica válida, pertinente y muy eficaz para el control del miedo, el estrés y el dolor</strong>; viabilizando el tratamiento odontológico y evitando las típicas confrontaciones con el paciente pediátrico o adulto hipersensible. Además, una EXPERIENCIA ATRAUMÁTICA, prácticamente garantizará el retorno voluntario de estas personas a sus controles periódicos de rutina durante la infancia y la edad adulta.
+      <strong> la Sedación Consciente; que representa una opción farmacológica válida, pertinente y muy eficaz para el control del miedo, el estrés y el dolor</strong>; viabilizando el tratamiento odontológico y evitando las típicas confrontaciones con el paciente pediátrico o adulto hipersensible. Además, una EXPERIENCIA ATRAUMÁTICA, prácticamente garantizará el retorno voluntario de estas personas a sus controles periódicos de rutina durante la infancia y la edad adulta.
     </p>
   image: "/img/aside-sedation-and-general-anesthesia.jpg"
 quote:
