@@ -198,7 +198,7 @@ paragraphSection:
   body: '<p class="dv-div-title text-right">Abutment and prosthetic devices</p> <p
     class="dv-div-text text-right">The abutment or prosthetic pillar is the piece
     that establishes the structural connection between the implant and the prosthesis.
-    It is screwed into the implant, and then over it, the restoration is cemented
+    It is screwed into the implant, and then over it; the restoration is cemented
     or screwed too. It can be prefabricated or made to measure by a process of foundry
     and metal casting.</p><p class="dv-div-text text-right">A transfer or impression
     coping device and an analog or implant´s replica are also generally required to
