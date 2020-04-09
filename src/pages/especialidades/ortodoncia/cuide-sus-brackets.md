@@ -77,7 +77,7 @@ steps:
       de todo, pero es fundamental evitar los alimentos y objetos duros que pudiesen
       despegar los aparatos o doblar los alambres; situación que provocaría retrasos
       importantes en el tratamiento. Por ello, no hay que tocar los brackets con los
-      dedos, lápices o bolígrafos, ni morderse las uñas o usar palillos de madera.
+      dedos, lápices o bolígrafos; ni morderse las uñas o usar palillos de madera.
       Todos estos hábitos podrían llegar a dañar los aparatos de Ortodoncia. Evite
       además morder directamente los alimentos, siempre córtelos o trocéelos primero
       con las manos o cubiertos antes de introducirlos en la boca. Evite también masticar
