@@ -9,7 +9,7 @@ hero:
   type: default
   image: "/img/hero-digital-smile-design-en.jpg"
   parallax: false
-  title: "''\n"
+  title: "''"
   indicator: false
   halfSize: true
 heading:
@@ -17,7 +17,7 @@ heading:
   classname: section-reasons bebas-title
   title: DIGITAL SMILE DESIGN (DSD)
   content: '<p class="dv-subtitle text-center">It is a computing tool that allows
-    us, through a digital photographic protocol, to record and study your proportions
+    us, through a digital photographic protocol; to record and study your proportions
     and dentofacial features, plan your ideal smile and simulate it graphically.</p>
 
 '
