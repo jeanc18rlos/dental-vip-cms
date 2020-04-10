@@ -18,7 +18,7 @@ heading:
   title: TECNOLOGÍA CAD-CAM
   content: '<p class="dv-subtitle text-center">Tecnología computarizada que permite
     el escaneo en 3D, digitalización y transferencia de datos a un software que diseña
-    y confecciona el núcleo de cualquier tipo de restauración totalcerámica, a través
+    y confecciona el núcleo de cualquier tipo de restauración totalcerámica; a través
     de la activación y control de un Sistema Robótico de Microfresado.</p>
 
 '
