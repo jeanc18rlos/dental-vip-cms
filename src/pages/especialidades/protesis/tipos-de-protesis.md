@@ -132,7 +132,7 @@ implantTypes:
       mediante un sistema de elementos extracoronales o ganchos que rodean a algunas
       de las piezas dentarias aún presentes. Aunque por sus limitaciones estéticas
       y funcionales dista mucho del prototipo protésico ideal, sigue teniendo vigencia
-      como dentadura provisional, e incluso definitiva; en casos de contraindicación
+      como dentadura provisional; e incluso definitiva, en casos de contraindicación
       quirúrgica o limitación económica.</p>
 
 '
