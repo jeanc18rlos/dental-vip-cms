@@ -402,7 +402,7 @@ sidePanel:
     section: |
       <div class="dv-sp-srv-cd">
       <h2 class="dv-srv-pl4 text-right dv-npr">Full travel assistance and permanent support</h2> <p class="dv-srv-pl text-right dv-npr">Our administrative staff is able to provide you support in everything related to air tickets, airport-hotel-airport transfers and accommodation procedures. </p>
-      <p class="dv-srv-pl text-right dv-npr">Personalized attention 24 hours a day and the permanent accompaniment of a bilingual guide, if you wish, are an integral part of our conception of service, of our effort to make your experience as comfortable, fruitful and pleasant as possible.</p>
+      <p class="dv-srv-pl text-right dv-npr">Personalized attention 24 hours a day and the permanent accompaniment of a bilingual guide, if you wish; are also an integral part of our conception of service, of our effort to make your experience as comfortable, fruitful and pleasant as possible.</p>
       <p class="dv-srv-pl text-right dv-npr">We will try to make you feel at home!</p> </div>
 form:
   title: Consult Us Right Now!
