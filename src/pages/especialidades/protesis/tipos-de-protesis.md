@@ -145,7 +145,7 @@ implantTypes:
       queda ningún diente en la boca. Cuenta con muy poca retención y estabilidad,
       aunque algunas personas se acostumbran y llegan a tolerarla. Actualmente existe
       la posibilidad de anclarla a 2, 3 o 4 implantes para transformarla en una sobredentadura
-      implantoasistida mucho más cómoda y funcional, claro está, siempre y cuando
+      implantoasistida mucho más cómoda y funcional, claro está; siempre y cuando
       las condiciones óseas y sistémicas del paciente lo permitan.</p>
 
 '
