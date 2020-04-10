@@ -158,7 +158,7 @@ faq:
         as inlays, onlays and overlays. They are usually made with feldspathic or
         zirconia-based porcelains providing an extraordinary aesthetic appearance.</p>\n"
     - question: What is a veneer?
-      answer: "<p>Dental veneers are direct restorations made of composite, or fine
+      answer: "<p>Dental veneers are direct restorations made of composite; or fine
         porcelain sheets that adhere exclusively to the anterior surface or vestibular
         face of the teeth to improve their shape and appearance. Dental veneers are
         used to correct fractured, stained, misaligned, worn, separated or malformed
