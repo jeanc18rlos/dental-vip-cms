@@ -154,7 +154,7 @@ faq:
       answer: "<p>They are a type of indirect restorations <em>(manufactured in the
         laboratory)</em> that are used to aesthetically reconstruct endodontically
         treated or heavily destroyed posterior teeth. Represents an excellent alternative
-        to the typical dental crown and according to its extension they are classified
+        to the typical dental crown and according to their extension they are classified
         as inlays, onlays and overlays. They are usually made with feldspathic or
         zirconia-based porcelains providing an extraordinary aesthetic appearance.</p>\n"
     - question: What is a veneer?
