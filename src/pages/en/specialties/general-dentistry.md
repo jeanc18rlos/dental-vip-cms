@@ -208,7 +208,7 @@ faq:
         light is used for their placement.</p>\n"
     - question: When is it necessary to replace an old filling?
       answer: "<p>The answer is very simple: when there is dental sensitivity, when
-        the material is damaged, broken or fractured, when marginal filtration and/or
+        the material is damaged, broken or fractured; when marginal filtration and/or
         recurrence caries is observed or when a radiographic study shows a coronal
         radiolucent area that suggests a failure of cohesive type.</p>\n"
     - question: What is Bruxism?
