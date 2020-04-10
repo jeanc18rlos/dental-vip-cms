@@ -182,7 +182,7 @@ faq:
       answer: "<p>Undoubtedly!, taking into account that they are up to 4 times longer
         than conventional ones and much more titanium is needed for their manufacture,
         they require operating room and general anesthesia, instruments and surgical
-        components of advanced design, a longer and more invasive major surgery intervention
+        components of advanced design, a longer and more invasive surgery intervention
         and the participation of an expert Maxillofacial Surgeon.</p>\n"
     - question: What type of prosthesis can next be made?
       answer: "<p>Usually a hybrid prosthesis of metal-acrylic or metal-porcelain.</p>\n"
