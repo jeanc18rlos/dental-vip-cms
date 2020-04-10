@@ -89,12 +89,13 @@ faq:
         in their maxillary structures, and of course; aspire to a rehabilitation of
         much better quality than any option with removable dentures can offer them.</p>\n"
     - question: What are the causes of bone loss?
-      answer: "<p>They are multiple, but among the most common are age, chronic periodontal
-        disease, odontogenic infections, accidents and facial injuries, traumatic
-        extraction of teeth and broken roots, prolonged use of removable dentures,
-        cysts and respiratory or paranasal sinus infections, resection of tumor processes,
-        and of course; physiological resorption as a result of the lack of interest
-        or inability to replace lost teeth in a reasonable period of time.</p>\n"
+      answer: "<p>They are multiple, but among the most common we find age, chronic
+        periodontal disease, odontogenic infections, accidents and facial injuries,
+        traumatic extraction of teeth and broken roots, prolonged use of removable
+        dentures, cysts and respiratory or paranasal sinus infections, resection of
+        tumor processes, and of course; physiological resorption as a result of the
+        lack of interest or inability to replace lost teeth in a reasonable period
+        of time.</p>\n"
     - question: Is there an age limit to qualify for the procedure?
       answer: "<p>None, as long as the life expectancy of the person justify the investment
         of time and money. In fact, many of our patients are over 65 years old.</p>\n"
