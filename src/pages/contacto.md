@@ -81,7 +81,7 @@ amenities:
       text: |
         <p>
           Estacionamiento Multicentro Empresarial del Este <br class="visible-xs visible-sm visible-md visible-lg">
-          Accesos por : <br class="hidden-xs hidden-sm visible-md visible-lg">
+          Accesos por: <br class="hidden-xs hidden-sm visible-md visible-lg">
           Av. Francisco de Miranda <em>(Sentido Este).</em> <br class="hidden-xs hidden-sm visible-md visible-lg">
           Av. Libertador <em>(Sentido Oeste).</em>
         </p>
