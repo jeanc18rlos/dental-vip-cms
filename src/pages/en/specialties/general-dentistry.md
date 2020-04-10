@@ -73,7 +73,7 @@ faq:
         diseases of bacterial origin, physical trauma, congenital lesions and mouth
         cancer. According to the World Health Organization between 60% to 90% of school-age
         children and about 99% of adults suffer from tooth decay, often accompanied
-        by pain or discomfort.</p>\n"
+        by pain or feeling of discomfort.</p>\n"
     - question: Is it possible to avoid them?
       answer: "<p>Although the genetic component is decisive, the incidence of oral
         diseases can be significantly reduced by controlling the known risk factors.
