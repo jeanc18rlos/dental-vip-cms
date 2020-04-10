@@ -54,9 +54,9 @@ blockGallery:
   - img: "/img/gallery-blocks-aesthetic.jpg"
     title: "<h1> ¡Estética y función! </h1>\n"
     desc: "<p><strong>Dos grandes objetivos.</strong> Lograr restauraciones que luzcan
-      bellas, radiantes y naturales, que armonicen con su rostro, labios y encías,
+      bellas, radiantes y naturales; que armonicen con su rostro, labios y encías;
       que resalten su sonrisa, que sean cómodas para hablar, comer y masticar y que
-      permanezcan incólumes al paso del tiempo. </p>\n"
+      permanezcan incólumes al paso del tiempo. </p>"
   - img: "/img/gallery-blocks-security.jpg"
     title: "<h1>¡Seguridad y confianza!</h1>\n"
     desc: "<p ><strong>Dos grandes beneficios.</strong> Todo ser humano necesita sentirse
