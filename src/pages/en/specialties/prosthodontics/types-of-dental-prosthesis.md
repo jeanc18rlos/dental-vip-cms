@@ -55,9 +55,9 @@ blockGallery:
   - img: "/img/gallery-blocks-aesthetic.jpg"
     title: "<h1> Aesthetics and function! </h1>\n"
     desc: "<p><b>Two big objectives</b>. Achieve restorations that look beautiful,
-      radiant and natural, that harmonize with your face, lips and gums, that highlight
+      radiant and natural; that harmonize with your face, lips and gums; that highlight
       your smile, that are comfortable to talk, eat and chew and that remain untouched
-      over time.</p>\n"
+      over time.</p>"
   - img: "/img/gallery-blocks-security.jpg"
     title: "<h1>Security and trust!</h1>\n"
     desc: "<p ><b>Two great benefits</b>. Every human being needs to feel good and
