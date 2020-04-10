@@ -145,7 +145,7 @@ implantTypes:
       used when there is no tooth left in the mouth. It has very little retention
       and stability, although some people get used to and tolerate it. There is currently
       the possibility of anchoring it to 2, 3 or 4 implants to transform it into a
-      more comfortable and functional implant-assisted overdenture, of course, as
+      more comfortable and functional implant-assisted overdenture, of course; as
       long as the patient''s bone and systemic conditions allow it.</p>
 
 '
