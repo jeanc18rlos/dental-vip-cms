@@ -102,7 +102,7 @@ implantTypes:
 
 '
     desc: '<p class="dv-srv-pr">Is the one that is made on dental implants and it
-      is, in the vast majority of cases, the ideal type of prosthesis. Implants allow
+      is, in the vast majority of cases; the ideal type of prosthesis. Implants allow
       us to elaborate fixed and individualized restorations without having to carve,
       wear and compromise other healthy teeth. In addition, it is the only fixed alternative
       in cases of edentulous gaps without posterior pillars, small amount or total
