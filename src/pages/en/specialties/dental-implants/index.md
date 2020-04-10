@@ -181,7 +181,7 @@ faq:
         out or treat on time incipient infectious processes, mismatches or failures
         of prosthetic components.</p>\n"
     - question: Is there a possibility of rejection of a Dental Implant?
-      answer: "<p>There is no described cases of allergy or toxicity to titanium in
+      answer: "<p>There are no reported cases of allergy or toxicity to titanium in
         the literature, so there can be no rejection itself. It may happen that an
         implant is not properly osseointegrated by an infectious process or localized
         trauma <em>(usually by a premature or poorly developed prosthesis)</em> and
