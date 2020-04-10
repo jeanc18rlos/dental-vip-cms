@@ -200,10 +200,10 @@ paragraphSection:
   body: '<p class="dv-div-title text-right dv-npr dv-npl">Un enfoque verdaderamente
     biológico y conservador</p> <p class="dv-div-text text-right">Creemos que la rutina
     de desgastar o sobrecargar dientes sanos con la única intención de reponer otros
-    ausentes, debería ser ya cosa del pasado. Comprometer la salud, integridad y longevidad
-    de sus pilares, tal y como ocurre con las diversas variantes de la prótesis convencional,
+    ausentes; debería ser ya cosa del pasado. Comprometer la salud, integridad y longevidad
+    de sus pilares; tal y como ocurre con las diversas variantes de la prótesis convencional,
     era el precio obligado a pagar antes del descubrimiento y desarrollo de la oseointegración.</p><p
-    class="dv-div-text text-right">Estamos convencidos de que, en condiciones favorables,
+    class="dv-div-text text-right">Estamos convencidos de que, en condiciones favorables;
     los implantes son la solución ideal y biológica por excelencia en el campo de
     la Rehabilitación Oral. Además de reponer dientes, conservan el hueso maxilar
     y evitan la aparición de nuevas patologías en la dentición natural remanente.<br><br><a
