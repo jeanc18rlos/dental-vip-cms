@@ -117,7 +117,7 @@ implantTypes:
       y va cementada sobre los dientes contiguos al espacio vacío. Indudablemente
       era la mejor opción antes de la aparición de los implantes dentales. Para su
       elaboración, es necesario tallar muñones y desgastar los dientes que le servirán
-      de base <em>(pilares)</em> a cada extremo, aún cuando estén intactos y completamente
+      de base <em>(pilares)</em> a cada extremo; aún cuando estén intactos y completamente
       sanos.</p>
 
 '
