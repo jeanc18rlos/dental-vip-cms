@@ -397,7 +397,7 @@ sidePanel:
     section: |
       <div class="dv-sp-srv-cd">
       <h2 class="dv-srv-pl4 text-right dv-npr">Asistencia de viaje y soporte permanente</h2> <p class="dv-srv-pl text-right dv-npr">Nuestro personal administrativo está en capacidad de brindarle apoyo en todo lo referente a boleteria aérea, traslados aeropuerto-hotel-aeropuerto y trámites de alojamiento. </p>
-      <p class="dv-srv-pl text-right dv-npr">Una atención personalizada las 24 horas del día y el acompañamiento permanente de un guía bilingüe, si así lo desea; son parte integral de nuestra concepción de servicio, de nuestro gran esfuerzo por hacer que su experiencia sea lo más cómoda, fructífera y placentera posible.</p>
+      <p class="dv-srv-pl text-right dv-npr">Una atención personalizada las 24 horas del día y el acompañamiento permanente de un guía bilingüe, si así lo desea; son también parte integral de nuestra concepción de servicio, de nuestro gran esfuerzo por hacer que su experiencia sea lo más cómoda, fructífera y placentera posible.</p>
       <p class="dv-srv-pl text-right dv-npr">¡Intentaremos hacerle sentir como en casa!</p> </div>
 form:
   title: "¡Consúltenos Ahora Mismo!"
