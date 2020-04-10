@@ -200,11 +200,11 @@ paragraphSection:
   body: '<p class="dv-div-title text-right dv-npr dv-npl">A truly biological and conservative
     approach</p> <p class="dv-div-text text-right">We believe that the routine of
     wearing out or overloading healthy teeth with the sole intention of replacing
-    other absent ones, should already be a thing of the past. Compromise the health,
-    integrity and longevity of its pillars, as it happens with the various variants
+    other absent ones; should already be a thing of the past. Compromise the health,
+    integrity and longevity of its pillars; as it happens with the various variants
     of the conventional prosthesis, it was the price forced to pay before the discovery
     and development of osseointegration. </p> <p class="dv-div-text text-right">We
-    are convinced that, under favorable conditions, the implants are the ideal and
+    are convinced that, under favorable conditions; the implants are the ideal and
     biological solution par excellence in the field of Oral Rehabilitation. In addition
     to replacing teeth, they preserve the maxillary bone and prevent the appearance
     of new pathologies in the remaining natural dentition.<br><br><a href="https://dentalvip.com.ve/especialidades/implantes/"
