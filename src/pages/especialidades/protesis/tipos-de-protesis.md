@@ -101,7 +101,7 @@ implantTypes:
 
 '
     desc: '<p class="dv-srv-pr">Es la que se confecciona sobre implantes dentales
-      y es, en la gran mayoría de los casos, el tipo de prótesis ideal. Los implantes
+      y es, en la gran mayoría de los casos; el tipo de prótesis ideal. Los implantes
       nos permiten elaborar restauraciones fijas e individualizadas sin tener que
       tallar, desgastar y comprometer otros dientes sanos. Además, es la única alternativa
       fija en los casos de brechas edéntulas sin pilar posterior, poca cantidad o
