@@ -143,14 +143,14 @@ faq:
         overloads and occasional fatigue failures. </p>\n"
     - question: What risks and contraindications exist?
       answer: "<p>Most studies cite sinusitis and oroantral communication as the most
-        frequent postoperative complications, with an incidence of 4.93 per 100 implants
-        placed. However, it is considered a prevalence so low that it further corroborates
-        the high success rate achieved with these implants. In relation to contraindications,
-        we have that, without taking into account any systemic condition or disease
-        that could prevent a surgical act; they are very few, and generally all associated
-        with pre-existing pathologies or infections within the sinus or maxillary
-        antrum. So that in some cases, interconsultation and prior treatment with
-        an Otolaryngologist could be essential. </p>\n"
+        frequent postoperative complications, with an incidence of 4.93 for every
+        100 implants placed. However, it is considered a prevalence so low that it
+        further corroborates the high success rate achieved with these implants. In
+        relation to contraindications, we have that, without taking into account any
+        systemic condition or disease that could prevent a surgical act; they are
+        very few, and generally all associated with pre-existing pathologies or infections
+        within the sinus or maxillary antrum. So that in some cases, interconsultation
+        and prior treatment with an Otolaryngologist could be essential. </p>\n"
   - questions:
     - question: How is the surgery and how long does it last?
       answer: |
