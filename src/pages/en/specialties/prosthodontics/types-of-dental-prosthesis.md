@@ -118,7 +118,7 @@ implantTypes:
       and is cemented on the teeth adjacent to the empty space. It was undoubtedly
       the best option before the appearance of dental implants. For its elaborate
       it is necessary to carve stumps and wear the teeth that will it serve as a base
-      <em>(pillars)</em> at each end, even when they are intact and completely healthy.</p>
+      <em>(pillars)</em> at each end; even when they are intact and completely healthy.</p>
 
 '
     icon: "/img/icons-types-prosthetic-prosthesis.png"
