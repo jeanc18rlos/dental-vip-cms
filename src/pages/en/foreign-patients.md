@@ -76,7 +76,7 @@ hostSection:
   body: "<p>Our privileged location allows us to also have two excellent hotel infrastructures
     located less than 50 meters from the clinic. CHACAO SUITES and SHELTER SUITES
     have comfortable rooms, parking, restaurants and other services that will facilitate
-    and make pleasant, if necessary, your brief stay in the city of Caracas. If it
+    and make pleasant, if necessary; your brief stay in the city of Caracas. If it
     is your desire, our administrative staff is able to provide support in everything
     related to air ticket office, airport-hotel-airport transfers and accommodation
     procedures.</p>\n"
