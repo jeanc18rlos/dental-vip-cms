@@ -79,7 +79,7 @@ faq:
         diseases can be significantly reduced by controlling the known risk factors.
         The control of dental plaque through the constant practice of a correct oral
         hygiene technique, the reduction of sugar intake, the well-balanced diet rich
-        in fruits, vegetables and fiber, the reduction of alcohol consumption, the
+        in fruits, vegetables and fiber; the reduction of alcohol consumption, the
         cessation of smoking habit, the periodic professional controls and the topical
         applications of fluoride; will have a favorable impact on the appearance and
         prevalence of caries, periodontal diseases and oral neoplasms.</p>\n"
