@@ -25,7 +25,7 @@ heading:
 prices:
   footer:
     image: "/img/icons-OANDA.png"
-    title: "<p>Prices expressed in American dollars<em>(USD)</em>.<br>Convert them
+    title: "<p>Prices expressed in American dollars <em>(USD)</em>.<br>Convert them
       immediately to your currency with:<p>"
     to: https://www1.oanda.com/currency/converter/
   rows:
