@@ -34,7 +34,7 @@ paragraphSection:
     REHABILITATION in totally edentulous patients.</p> <p>Within the prosthetic arsenal
     at our disposal we find the well-known and popular removable dentures, conventional
     fixed prostheses and the <strong>sophisticated implant-supported restorations</strong>.
-    Without any discussion, the latter are currently, in all their types and versions;
+    Without any discussion, the last are currently, in all their types and versions;
     the ones of first choice. Although the function has traditionally been the primary
     objective of the Prosthodontist, nowadays aesthetics have the same relevance and
     trends have led us to make <strong>totally aesthetic and metal-free devices </strong>such
@@ -352,7 +352,7 @@ asides:
 '
     content: '<p  style="font-weight:400">It is the most innovative technology available
       in fixed prosthodontics and represents a great advance in relation to conventional
-      Dentistry. We use it to make porcelain inlays/onlays, crowns and bridges, prosthesis
+      Dentistry. We use it to make porcelain inlays/, crowns and bridges, prosthesis
       over implants and in other indirect restorative treatments.</p>
 
 '
