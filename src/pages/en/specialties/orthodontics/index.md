@@ -101,7 +101,7 @@ faq:
         Orthodontic fellowships are excellent for the General Dentist to learn to
         detect and intercept some malocclusions, but in no way quialify him to carry
         out corrective Orthodontic treatments.</span></p>\n"
-    - question: What is the best age to start an Orthodontic treatment?
+    - question: Which is the best age to start an Orthodontic treatment?
       answer: "<p>There is no specific age, it all depends on the type and severity
         of the problem. </span>It is ideal to attend to consultation during the mixed
         dentition period </span><em>(between 7 and 9 years old)</em></span> to rule
