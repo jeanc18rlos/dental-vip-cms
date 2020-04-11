@@ -49,6 +49,10 @@ const StyledQuote = styled.section`
     @media screen  and (min-width: 769px) {
       max-width: 70vw;
     }
+    @media screen and (max-width: 769px) {
+      margin-right: ${rhythm(0.5)};
+      margin-left: ${rhythm(0.5)};
+    }
   }
 `;
 

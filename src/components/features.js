@@ -9,7 +9,7 @@ import ReactHtmlParser from "react-html-parser";
 const SyledFeatures = styled.section`
   text-align: center;
   padding: ${rhythm(4)} 0 ${rhythm(2)};
-  .title {
+  h1.title {
     font-weight: 300;
     margin-bottom: ${rhythm(2)};
   }

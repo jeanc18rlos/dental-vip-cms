@@ -6,6 +6,8 @@ import "flag-icon-css/css/flag-icon.min.css";
 import logo from "../../css/icons/svg/logo.svg";
 import { rhythm, scale } from "../../utils/typography";
 import ReactHtmlParser from "react-html-parser";
+import Img from "gatsby-image";
+import { Link } from "gatsby";
 
 const Brand = styled.a`
   display: flex;
@@ -20,6 +22,7 @@ const StyledFooter = styled.footer`
   .dv-legal-links {
     text-align: center;
     a {
+      white-space: nowrap;
       ${scale(-0.2)};
       color: #999999;
       text-decoration: none;
@@ -32,6 +35,7 @@ const StyledFooter = styled.footer`
     @media screen and (min-width: 769px) {
       display: none;
     }
+    margin-bottom: ${rhythm(1)};
     max-width: 400px;
     width: 100%;
   }
@@ -65,7 +69,7 @@ const StyledFooter = styled.footer`
       display: flex;
       justify-content: center;
       margin: 0 0.12em;
-      margin-bottom: 1.666rem;
+      margin-bottom: ${rhythm(1)};
       text-decoration: none;
       &:hover {
         background: #91c508;
@@ -123,20 +127,26 @@ const StyledFooter = styled.footer`
   }
 
   .partners {
-    max-width: 160px;
+    max-width: 170px;
+    width: 100%;
     background: #222;
     padding: 0 30px;
+    margin-bottom: ${rhythm(1)};
+
+    img {
+      object-fit: contain !important;
+    }
   }
 `;
 
-const Footer = (props) => {
+const Footer = props => {
   const {
     contact,
     copyright,
     partners,
     slogan,
     address,
-    phones,
+    phones
   } = props.data.footer;
   return (
     <StyledFooter>
@@ -148,14 +158,14 @@ const Footer = (props) => {
           zIndex: 1,
           position: "sticky",
           bottom: 0,
-          flexDirection: "column",
+          flexDirection: "column"
         }}
       >
         <div
           style={{
             padding: `${rhythm(1.5)} 0`,
             width: "100%",
-            textAlign: "center",
+            textAlign: "center"
           }}
         >
           <div
@@ -163,16 +173,17 @@ const Footer = (props) => {
               display: "flex",
               flexDirection: "column",
               justifyContent: "center",
-              alignItems: "center",
+              alignItems: "center"
             }}
           >
-            <img
+            <Img
               className="dds"
               alt="dds"
-              src="https://dental-vip-stagging.netlify.com/static/1631907276ecaa86c964a8c1ee86a8df/497c6/teeth-logo.png"
-            ></img>
+              fluid={props.data.footer.teethLogo.childImageSharp.fluid}
+            ></Img>
+
             <Brand>
-              <img alt="DentalVip" src={logo}></img>
+              <img alt="DentalVip" src={props.data.footer.logo.publicURL}></img>
             </Brand>
             {slogan && ReactHtmlParser(slogan)}
             <div>
@@ -197,16 +208,23 @@ const Footer = (props) => {
           <div className="partners-wrapper">
             {partners &&
               partners.map((i, k) => {
-                return <img alt={i.alt} className="partners" src={logo}></img>;
+                return (
+                  <Img
+                    key={`partner-${k}`}
+                    alt={i.alt}
+                    className="partners"
+                    fluid={i.img.childImageSharp.fluid}
+                  ></Img>
+                );
               })}
           </div>
-          <a
+          <Link
             className="contact"
             to={contact && contact.link}
             style={scale(0.1)}
           >
             <b>{contact && contact.text}</b>
-          </a>
+          </Link>
         </div>
       </Container>
       <Container
@@ -214,7 +232,7 @@ const Footer = (props) => {
         justifyContent="space-between"
         style={{
           padding: `${rhythm(1)} 5vw`,
-          flexDirection: "column",
+          flexDirection: "column"
         }}
       >
         <div className="social">
@@ -223,12 +241,16 @@ const Footer = (props) => {
           })}
         </div>
         {copyright && ReactHtmlParser(copyright)}
-        <div class="dv-legal-links">
+        <div className="dv-legal-links">
           {props.data.footer.legal.map((i, k) => {
             return [
-              <a>{i.title}</a>,
+              <Link key={`link-${k}`} to={i.link}>
+                {i.title}
+              </Link>,
 
-              k !== props.data.footer.legal.length - 1 && <span> - </span>,
+              k !== props.data.footer.legal.length - 1 && (
+                <span key={`separator-${k}`}> - </span>
+              )
             ];
           })}
         </div>

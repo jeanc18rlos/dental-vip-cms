@@ -6,12 +6,12 @@ published: false
 
 contactBar:
   details:
-    - item: > 
+    - item: >
         <span>
           <i class="icon-clock"></i>
           <h6>Lun-Vie 8:00 am-5:00 pm</h6>
         </span>
-    - item: > 
+    - item: >
         <span>
           <i class="icon-phone"></i>
           <h6>
@@ -19,7 +19,7 @@ contactBar:
             <wbr /> 261.5251 /<wbr /> 3732 /<wbr /> 3331
           </h6>
         </span>
-    - item: > 
+    - item: >
         <span class="long">
           <i class="icon-map-marker-alt"></i>
           <h6>
@@ -49,7 +49,7 @@ contactBar:
 
 header:
   brand:
-    logo: /img/logo.png
+    logo: /uploads/logo.svg
     to: /
   navigation:
     - title: INICIO
@@ -124,17 +124,17 @@ header:
     placeHolder: Buscar
 
 footer:
-  logo: /img/logo.png
+  logo: /uploads/logo.svg
   partners:
-    - img: /img/logo.png
-      alt: dds
-    - img: /img/logo.png
-      alt: dds
-    - img: /img/logo.png
-      alt: dds
-  teethLogo: /img/logo.png
+    - img: /uploads/partners-idd-dark.jpg
+      alt: Institute of Digital Dentistry
+    - img: /uploads/partners-qdc-dark.jpg
+      alt: Quality Dental Center
+    - img: /uploads/partners-iti-dark.jpg
+      alt: International Team for Implantology
+  teethLogo: /uploads/teeth-logo.png
   slogan: >
-    <h2 class="bebas">Innovacion y prestigio en odontologi</h2>
+    <h2 class="bebas">INNOVACIÓN Y PRESTIGIO EN ODONTOLOGÍA</h2>
   address: >
     <p>
       Multicentro Empresarial del Este, Torre Miranda, Núcleo A, Piso
@@ -167,12 +167,12 @@ footer:
           <i class="icon-instagram" />
         </a>
   legal:
-    - link: /en/legal-notice/
-      title: LEGAL NOTICE
-    - link: /en/privacy-policy/
-      title: PRIVACY POLICY
-    - link: /en/use-of-cookies/
-      title: USE OF COOKIES
+    - link: /aviso-legal/
+      title: AVISO LEGAL
+    - link: /politica-de-privacidad/
+      title: POLÍTICA DE PRIVACIDAD
+    - link: /uso-de-cookies/
+      title: USO DE COOKIES
   copyright: >
     <p>
       <i class="flag-icon flag-icon-ve"></i> &nbsp; RIF: J-40271686-9 |

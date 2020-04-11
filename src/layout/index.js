@@ -42,6 +42,12 @@ const Layout = ({ children }) => {
                     }
                   }
                   header {
+                    brand {
+                      to
+                      logo {
+                        publicURL
+                      }
+                    }
                     navigation {
                       title
                       to
@@ -55,6 +61,16 @@ const Layout = ({ children }) => {
                     }
                   }
                   footer {
+                    logo {
+                      publicURL
+                    }
+                    teethLogo {
+                      childImageSharp {
+                        fluid(maxWidth: 768, quality: 100) {
+                          ...GatsbyImageSharpFluid
+                        }
+                      }
+                    }
                     slogan
                     address
                     phones {
@@ -62,12 +78,19 @@ const Layout = ({ children }) => {
                     }
                     partners {
                       alt
+                      img {
+                        childImageSharp {
+                          fluid(maxWidth: 160, quality: 100) {
+                            ...GatsbyImageSharpFluid
+                          }
+                        }
+                      }
                     }
                     contact {
                       link
                       text
                     }
-                    legal{
+                    legal {
                       link
                       title
                     }

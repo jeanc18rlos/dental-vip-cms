@@ -49,11 +49,11 @@ contactBar:
 
 header:
   brand:
-    logo: /img/logo.png
+    logo: /uploads/logo.svg
     to: /
   navigation:
     - title: HOME
-      to: /en/
+      to: en/
       menu:
         display: false
         items:
@@ -124,15 +124,15 @@ header:
     placeHolder: Search
 
 footer:
-  logo: /img/logo.png
+  logo: /uploads/logo.svg
   partners:
-    - img: /img/logo.png
-      alt: dds
-    - img: /img/logo.png
-      alt: dds
-    - img: /img/logo.png
-      alt: dds
-  teethLogo: /img/logo.png
+    - img: /uploads/partners-idd-dark.jpg
+      alt: Institute of Digital Dentistry
+    - img: /uploads/partners-qdc-dark.jpg
+      alt: Quality Dental Center
+    - img: /uploads/partners-iti-dark.jpg
+      alt: International Team for Implantology
+  teethLogo: /uploads/teeth-logo.png
   slogan: >
     <h2 class="bebas">INNOVATION AND PRESTIGE IN DENTISTRY</h2>
   address: >
@@ -175,7 +175,7 @@ footer:
   copyright: >
     <p>
       <i class="flag-icon flag-icon-ve"></i> &nbsp; RIF: J-40271686-9 |
-      Copyright © 2020 DENTAL VIP,  Especialidades Odontológicas s.c. All Rights Reserved| Gestionado con GIT &nbsp;
+      Copyright © 2020 DENTAL VIP,  Especialidades Odontológicas s.c. All Rights Reserved.| Managed with GIT &nbsp;
       <i class="flag-icon flag-icon-ve"></i>
     </p>
 ---

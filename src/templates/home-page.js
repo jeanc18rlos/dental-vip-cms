@@ -6,32 +6,25 @@ import Quote from "../components/quote";
 import Features from "../components/features";
 import Brand from "../components/brand";
 import Boxes from "../components/boxes";
-import Parallax from "../components/parallax";
-import Heading from "../components/heading";
-export const DefaultPageTemplate = ({ title, hero, quote, features }) => {
+import Statistics from "../components/statistics";
+import Carousel from "../components/carousel";
+export const DefaultPageTemplate = ({
+  hero,
+  brand,
+  quote,
+  features,
+  testimonials,
+  procedures,
+  statistics,
+}) => {
   return (
     <div>
-      <Brand></Brand>
+      <Brand {...brand}></Brand>
       <Features {...features}></Features>
       <Quote {...quote} />
-      <Heading />
-      <Parallax
-        {...{
-          img: hero.image,
-        }}
-      ></Parallax>
-
-      <Boxes
-        {...{
-          img: hero.image,
-        }}
-      ></Boxes>
-      <Parallax
-        nocontent={true}
-        {...{
-          img: hero.image,
-        }}
-      ></Parallax>
+      <Statistics {...statistics}></Statistics>
+      <Carousel {...testimonials}></Carousel>
+      <Boxes {...procedures}></Boxes>
     </div>
   );
 };
@@ -43,15 +36,31 @@ const DefaultPage = ({ data }) => {
     title,
     redirects,
     hero,
+    brand,
     quote,
+    statistics,
+    testimonials,
     features,
+    procedures,
   } = data.markdownRemark.frontmatter;
 
   return (
     <Layout>
       <SetLang language={language} link={redirects} />
       <DefaultPageTemplate
-        {...{ templateKey, language, title, hero, redirects, quote, features }}
+        {...{
+          templateKey,
+          language,
+          title,
+          redirects,
+          hero,
+          brand,
+          quote,
+          statistics,
+          testimonials,
+          features,
+          procedures,
+        }}
       />
     </Layout>
   );
@@ -78,6 +87,24 @@ export const pageQuery = graphql`
             }
           }
         }
+        brand {
+          logo {
+            publicURL
+          }
+          title
+          main
+          partners {
+            image {
+              childImageSharp {
+                fluid(maxWidth: 160, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            alt
+          }
+          footer
+        }
 
         quote {
           body
@@ -86,7 +113,34 @@ export const pageQuery = graphql`
             details
           }
         }
-
+        statistics {
+          image {
+            childImageSharp {
+              fluid(maxWidth: 1600, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+          items {
+            number
+            title
+          }
+        }
+        testimonials {
+          title
+          items {
+            img {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            name
+            testimonial
+            position
+          }
+        }
         features {
           title
           description
@@ -101,6 +155,21 @@ export const pageQuery = graphql`
             }
             title
             description
+          }
+        }
+
+        procedures {
+          title
+          procedures {
+            title
+            to
+            img {
+              childImageSharp {
+                fluid(maxWidth: 550, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }

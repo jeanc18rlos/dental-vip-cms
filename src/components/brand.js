@@ -1,13 +1,15 @@
 import React from "react";
-import { rhythm, scale } from "../utils/typography";
+import { rhythm } from "../utils/typography";
 import logo from "../css/icons/svg/logo.svg";
 import { colors } from "../styles";
 import styled, { css } from "styled-components";
 import { Container } from "../Elements/Container";
+import ReactHtmlParser from "react-html-parser";
+import Img from "gatsby-image";
 
 const BrandLogo = styled.a`
   display: flex;
-  img {
+  .img {
     max-width: 150px;
     width: 150px;
   }
@@ -70,9 +72,15 @@ const StyledSection = styled.section`
     }
   }
   .partners {
-    max-width: 160px;
+    max-width: 130px;
+    width: 100%;
     background: #fff;
-    padding: 0 30px;
+    margin: 0 30px;
+    margin-bottom: ${rhythm(.5)};
+
+    img {
+      object-fit: contain !important;
+    }
   }
 `;
 
@@ -104,23 +112,16 @@ const Brand = (props) => {
             }}
           >
             <BrandLogo>
-              <img src="https://dental-vip-stagging.netlify.com/static/37783f5afb8f7fa7d19d20dc780d81c6/673cf/logo.png"></img>
+              <img
+                alt="DentalVIP"
+                className="img"
+                src={props.logo.publicURL}
+              ></img>
             </BrandLogo>
-            <h4 className="light">Innovacion y prestigio en odontologi</h4>
+            {ReactHtmlParser(props.title)}
             <div style={{ maxWidth: "80vw" }}>
               <hr></hr>
-              <p>¡Bienvenidos a nuestro espacio en la red!</p>
-              <p>
-                En DENTAL VIP ponemos a su disposición la experiencia del mejor
-                equipo de Odontólogos Especialistas, las más modernas y cómodas
-                instalaciones y la última tecnología a nivel mundial.
-              </p>
-              <p>
-                Somos un grupo humano verdaderamente comprometido con lo que
-                hace, capaz de brindar un servicio de salud integral,
-                personalizado y de alto valor científico; enfocado siempre en la
-                ética, responsabilidad y sentido social de nuestra labor.
-              </p>
+              {ReactHtmlParser(props.main)}
             </div>
           </div>
 
@@ -131,13 +132,20 @@ const Brand = (props) => {
               marginBottom: `${rhythm(1.5)}`,
             }}
           >
-            <img className="partners" src={logo}></img>
-            <img className="partners" src={logo}></img>
-            <img className="partners" src={logo}></img>
+            {props.partners.map((i, k) => {
+              return (
+                <Img
+                  key={`${k}-${i.alt}`}
+                  className="partners"
+                  fluid={i.image.childImageSharp.fluid}
+                  alt={i.alt}
+                ></Img>
+              );
+            })}
           </div>
 
           <div>
-            <h4 style={{ margin: 0, fontWeight: 400 }}>USO DE COOKIES</h4>
+            <h4 style={{ margin: 0, fontWeight: 400 }}>{props.footer}</h4>
           </div>
         </div>
       </Container>

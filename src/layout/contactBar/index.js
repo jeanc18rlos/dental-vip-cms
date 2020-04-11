@@ -1,15 +1,15 @@
-import React, { useState, useEffect } from "react"
-import { Container } from "../../Elements/Container"
-import { colors, sizes } from "../../styles"
-import styled, { css } from "styled-components"
-import "flag-icon-css/css/flag-icon.min.css"
-import { useWindowSize } from "../../utils/hooks"
+import React, { useState, useEffect } from "react";
+import { Container } from "../../Elements/Container";
+import { colors, sizes } from "../../styles";
+import styled, { css } from "styled-components";
+import "flag-icon-css/css/flag-icon.min.css";
+import { useWindowSize } from "../../utils/hooks";
 import ReactHtmlParser, {
   processNodes,
   convertNodeToElement,
-  htmlparser2,
-} from "react-html-parser"
-import { navigate } from "gatsby"
+  htmlparser2
+} from "react-html-parser";
+import { navigate } from "gatsby";
 
 const Accordion = styled.ul`
   position: absolute;
@@ -50,11 +50,13 @@ const Accordion = styled.ul`
     padding-right: 15px;
     padding-bottom: 5px;
   }
-`
+`;
 
-const LangSelector = styled.a`
+const LangSelector = styled.button`
   display: flex;
   cursor: pointer;
+  background: none;
+  border: none;
   a {
     cursor: inherit;
   }
@@ -85,7 +87,7 @@ const LangSelector = styled.a`
       border: none;
     }
   }
-`
+`;
 const List = styled.ul`
   display: flex;
   flex-direction: row;
@@ -155,15 +157,15 @@ const List = styled.ul`
       margin: 0;
     }
   }
-`
+`;
 
 const ContactBar = props => {
-  const [dropDown, setDropDownItems] = useState({})
+  const [dropDown, setDropDownItems] = useState({});
 
   const setDropDownItem = item => {
-    setDropDownItems({ ...dropDown, ...{ [item.id]: item } })
-  }
-  const size = useWindowSize()
+    setDropDownItems({ ...dropDown, ...{ [item.id]: item } });
+  };
+  const size = useWindowSize();
   return (
     <Container
       justifyContent="space-between"
@@ -171,24 +173,24 @@ const ContactBar = props => {
         display: size.width > 1023 ? "flex" : "none",
         boxShadow: "inset 1px 1px 0px 100px white",
         zIndex: 4,
-        position: "relative",
+        position: "relative"
       }}
     >
       <List>
         <span className="separator"></span>
         {props.data.contactBar.details.map((i, k) => {
           return [
-            <li key={k}>{ReactHtmlParser(i.item)}</li>,
-            <span className="separator"></span>,
-          ]
+            <li key={`detail-${k}`}>{ReactHtmlParser(i.item)}</li>,
+            <span key={`separator-${k}`} className="separator"></span>
+          ];
         })}
       </List>
       <LangSelector
         onMouseOver={() => {
-          setDropDownItem({ id: `dropdown-lang`, action: true })
+          setDropDownItem({ id: `dropdown-lang`, action: true });
         }}
         onMouseLeave={() => {
-          setDropDownItem({ id: `dropdown-lang`, action: false })
+          setDropDownItem({ id: `dropdown-lang`, action: false });
         }}
       >
         <span>
@@ -215,13 +217,14 @@ const ContactBar = props => {
         >
           <li>
             <a
-              onClick={() => {
+              onClick={e => {
+                e.preventDefault();
                 navigate(
                   props.langRedir === "/error"
                     ? `${(props.lang === "es" && "/en/error") ||
                         props.langRedir}`
                     : props.langRedir
-                )
+                );
               }}
             >
               <span>
@@ -230,7 +233,7 @@ const ContactBar = props => {
                     props.lang === "en" ? "ve" : "us"
                   }`}
                 ></i>
-                <h6>{props.lang === "en" ? "Espanol" : "English"}</h6>
+                <h6>{props.lang === "en" ? "Español" : "English"}</h6>
               </span>
             </a>
           </li>
@@ -238,11 +241,11 @@ const ContactBar = props => {
       </LangSelector>
       <List className="social">
         {props.data.contactBar.social.map((i, k) => {
-          return [<li key={k}>{ReactHtmlParser(i.item)}</li>]
+          return <li key={`social-${k}`}>{ReactHtmlParser(i.item)}</li>;
         })}
       </List>
     </Container>
-  )
-}
+  );
+};
 
-export default ContactBar
+export default ContactBar;

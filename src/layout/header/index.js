@@ -5,8 +5,7 @@ import { Container } from "../../Elements/Container";
 import { colors } from "../../styles";
 import { useWindowSize } from "../../utils/hooks";
 import SmoothCollapse from "react-smooth-collapse";
-import "../../css/icons/style.css";
-import "../../css/icons/burger/burger.css";
+
 import logo from "../../css/icons/svg/logo.svg";
 
 const StyledHeader = styled.header`
@@ -196,6 +195,14 @@ const StyledHeader = styled.header`
         list-style: none;
         display: ${(props) => (props.isMobile ? "auto" : "flex")};
         a {
+          &.disabled {
+            pointer-events: none;
+          }
+          &.active {
+            color: white;
+          }
+          text-decoration: none;
+          color: ${colors.dustyGray};
           cursor: pointer;
           text-transform: uppercase;
           padding: ${(props) => (props.isMobile ? 0 : "0 15px")};
@@ -335,7 +342,7 @@ const Header = (props) => {
               }
             }}
           >
-            <i class="icon-times"></i>
+            <i className="icon-times"></i>
           </a>
         </div>
         <div className="modal-body">
@@ -351,9 +358,12 @@ const Header = (props) => {
       </div>
       <Container className="container" color={colors.mineShaft}>
         <nav>
-          <a className="brand">
+          <Link
+            to={props.lang === "es" ? "/" : `/${props.lang}/`}
+            className="brand"
+          >
             <img src={logo}></img>
-          </a>
+          </Link>
           {size.width < 1024 && (
             <ul>
               <li>
@@ -367,7 +377,8 @@ const Header = (props) => {
                   className={`${dropDown[`mobileDropDown`] &&
                     dropDown[`mobileDropDown`].action &&
                     "active"}`}
-                  onClick={() => {
+                  onClick={(e) => {
+                    e.preventDefault();
                     setDropDownItem({
                       id: `mobileDropDown`,
                       action: dropDown[`mobileDropDown`]
@@ -410,8 +421,12 @@ const Header = (props) => {
                 >
                   <a style={{ padding: "30px 15px" }}>
                     <h5>
-                      <i className="flag-icon flag-icon-gr"></i>{" "}
-                      &nbsp;&nbsp;spanish
+                      <i
+                        className={`flag-icon flag-icon-${
+                          props.lang === "en" ? "us" : "ve"
+                        }`}
+                      ></i>{" "}
+                      &nbsp;&nbsp;{props.lang}
                     </h5>
 
                     <span
@@ -433,10 +448,25 @@ const Header = (props) => {
                     }
                   >
                     <li className="list-child">
-                      <a>
+                      <a
+                        onClick={(e) => {
+                          e.preventDefault();
+                          navigate(
+                            props.langRedir === "/error"
+                              ? `${(props.lang === "es" && "/en/error") ||
+                                  props.langRedir}`
+                              : props.langRedir
+                          );
+                        }}
+                      >
                         <h6>
-                          <i className="flag-icon flag-icon-gr"></i>{" "}
-                          &nbsp;&nbsp;spanish
+                          <i
+                            className={`flag-icon flag-icon-${
+                              props.lang === "es" ? "us" : "ve"
+                            }`}
+                          ></i>{" "}
+                          &nbsp;&nbsp;
+                          {props.lang === "es" ? "English" : "Español"}
                         </h6>
                       </a>
                     </li>
@@ -468,7 +498,16 @@ const Header = (props) => {
                         });
                     }}
                   >
-                    <a>
+                    <Link
+                      to={i.to}
+                      activeClassName="active"
+                      partiallyActive={i.menu.display || i.to === "/en/"}
+                      className={`${i.menu.display && "disabled"} ${dropDown[
+                        `dropdown${k}`
+                      ] &&
+                        dropDown[`dropdown${k}`].action &&
+                        "active"}`}
+                    >
                       <h5>{i.title}</h5>
 
                       {i.menu.display && (
@@ -483,7 +522,7 @@ const Header = (props) => {
                           <i className="icon-angle-down"></i>
                         </span>
                       )}
-                    </a>
+                    </Link>
                     {i.menu.display && (
                       <AccordionContainer
                         isMobile={size.width < 1024}
@@ -499,9 +538,9 @@ const Header = (props) => {
                               className="list-child"
                               key={`drop-child-${key}`}
                             >
-                              <a>
+                              <Link to={item.to}>
                                 <h6>{item.title}</h6>
-                              </a>
+                              </Link>
                             </li>
                           );
                         })}
@@ -513,7 +552,8 @@ const Header = (props) => {
               <li className="list-father search">
                 <a
                   role="button"
-                  onClick={() => {
+                  onClick={(e) => {
+                    e.preventDefault();
                     setDropDownItem({
                       id: `searchDropDown`,
                       action: dropDown[`searchDropDown`]
@@ -531,10 +571,11 @@ const Header = (props) => {
                     }
                   }}
                 >
-                  <i class="icon-search"></i>
+                  <i className="icon-search"></i>
                   <span>
                     {size.width < 1023 && [
                       <a
+                        key="facebook"
                         target="_blank"
                         rel="noopener noreferrer"
                         href="https://www.facebook.com/dentalvip/"
@@ -542,6 +583,7 @@ const Header = (props) => {
                         <i className="icon-facebook" />
                       </a>,
                       <a
+                        key="instagram"
                         target="_blank"
                         rel="noopener noreferrer"
                         href="https://www.instagram.com/dental_vip/"

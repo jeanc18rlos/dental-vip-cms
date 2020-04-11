@@ -47,6 +47,7 @@ const StyledBoxes = styled.section`
     @media (max-width: 680px) {
       .grid-item {
         flex-basis: 100% !important;
+        max-width: 450px;
       }
     }
     .grid-item {
@@ -113,8 +114,7 @@ const StyledBoxes = styled.section`
           display: flex;
           justify-content: center;
           i {
-            -webkit-transition: background 1s
-              cubic-bezier(0.42, 0, 0.35, 0.93);
+            -webkit-transition: background 1s cubic-bezier(0.42, 0, 0.35, 0.93);
             transition: background 1s cubic-bezier(0.42, 0, 0.35, 0.93);
             background: #222;
             padding: 5px;
@@ -138,20 +138,21 @@ const Boxes = (props) => {
     <StyledBoxes>
       <Container
         style={{
-          padding: `${rhythm(4)} calc(5vw - ${rhythm(1)} ) ${rhythm(3)}`,
+          padding: `${rhythm(4)} calc(5vw - ${rhythm(0.5)} ) ${rhythm(3)}`,
         }}
         justifyConten="center"
         alignItem="center"
         flexDirection="column"
       >
-        <h1 className="title">Procedimientos Destacados</h1>
+        {ReactHtmlParser(props.title)}
+
         <div className="grid-grow">
-          {arr.map((i, k) => {
+          {props.procedures.map((i, k) => {
             const key = `wrapper-${k}`;
             return (
               <div key={k} className="grid-item">
                 <Link
-                  to={"/"}
+                  to={i.to}
                   className={`animated box-wrapper ${
                     toggle === key ? "selected" : "deselected"
                   } ${length <= 3 && "long"}`}
@@ -163,11 +164,11 @@ const Boxes = (props) => {
                   }}
                 >
                   <div>
-                    <h5>Prótesis sobre implantes</h5>
+                    {ReactHtmlParser(i.title)}
                     <span className="indicator">
                       <i className="icon-plus" />
                     </span>
-                    <Img fluid={props.img.childImageSharp.fluid}></Img>
+                    <Img fluid={i.img.childImageSharp.fluid}></Img>
                   </div>
                 </Link>
               </div>
