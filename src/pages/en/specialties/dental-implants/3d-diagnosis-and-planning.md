@@ -28,7 +28,7 @@ sidePanel:
     section: |
       <div class="dv-sp-srv-cd">
       <h2 class="dv-srv-pl4 text-right dv-npr">Maximum precision in the placement of your dental implants!</h2>
-      <p class="dv-srv-pl text-right dv-npr">DENTAL VIP incorporates the latest technology in its Oral Implantology procedures, the Cone Beam Volumetric Tomography <em>(CBVT-3D Digital Scanner)</em>; a tool of high clinical value that provides three-dimensional, accurate and high quality digital images.</p>
+      <p class="dv-srv-pl text-right dv-npr">DENTAL VIP incorporates the latest technology in its Oral Implantology procedures, the Cone Beam Volumetric Tomography <em>(CBVT-3D Digital Scanner)</em>; a tool of high clinical value that provides three-dimensional, accurate and top quality digital images.</p>
       <p class="dv-srv-pl text-right dv-npr">The use of this resource is essential for the surgical planning of the case, particularly when implants are to be placed in the posterior sector of the mandible and/or upper jaw, since it allows us to delimit the canal of the inferior dental nerve and know the exact distance between alveolar ridge and maxillary sinus; anatomical structures that must always be respected to prevent risks, complications and operative failures.</p> </div>
   - img: "/img/sections-3d-study.jpg"
     section: |
