@@ -16,7 +16,7 @@ heading:
   display: true
   classname: section-reasons bebas-title
   title: IMPLANT SUPPORTED RESTORATIONS
-  content: '<p class="dv-subtitle text-center">There is a lot of types. The indication
+  content: '<p class="dv-subtitle text-center">There are a lot of types. The indication
     of one or the other will depend on the number of missing teeth, bone and gum volume,
     facial fullness, number and arrangement of the implants, aesthetic factors, occlusion,
     antagonistic arcade, prosthetic space and economic considerations.</p>
