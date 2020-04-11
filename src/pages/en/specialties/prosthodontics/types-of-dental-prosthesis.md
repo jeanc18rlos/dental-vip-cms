@@ -62,8 +62,8 @@ blockGallery:
     title: "<h1>Security and trust!</h1>\n"
     desc: "<p ><b>Two great benefits</b>. Every human being needs to feel good and
       self-confident. A healthy and attractive teeth will allow you to smile without
-      any complex, increase your self-esteem and will make you enjoy a full life,
-      without limits and full of satisfactions.</p>\n"
+      any complex, will increase your self-esteem and will make you enjoy a full life,
+      without limits and plenty of satisfactions.</p>"
 paragraph:
   display: false
   image: "/img/slogan-teeth.jpg"
