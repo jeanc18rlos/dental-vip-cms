@@ -212,7 +212,7 @@ faq:
       answer: "<p>The first thing, before performing any type of surgical intervention,
         is to eliminate the cause that has caused the gum retraction: aggressive brushing,
         excessive consumption of acidic substances, occlusal trauma, parafunctional
-        habits and/or permanent accumulation of local irritants <em>(plaque bacterial
+        habits and/or permanent accumulation of local irritants <em>(bacterial plaque
         and dental calculus). </em>Then, continuity is given to treatment with mucogingival
         surgeries such as coronal advancement flaps to &ldquo;stretch&rdquo; the gum
         and cover the exposed root and/or with sub-epithelial connective grafts taken
