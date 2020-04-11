@@ -209,7 +209,7 @@ faq:
         hybrids of metal-acrylic or metal-porcelain and removable overdentures. In
         the DENTAL IMPLANTS section you can find a very specific description of each
         of them and their variants.</p>\n"
-    - question: Which is better, work over a restorable tooth root or replace it at
+    - question: What is better, work over a restorable tooth root or replace it at
         once whit a dental implant?
       answer: "<p>Whenever possible we should preserve natural teeth. Although dental
         implants currently represent a high quality restorative alternative, they
