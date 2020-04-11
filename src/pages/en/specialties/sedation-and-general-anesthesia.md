@@ -176,7 +176,7 @@ faq:
         drugs that are administered and expertise in airway management, monitoring
         of vital signs and application of resuscitation techniques. The presence of
         an Anesthesiologist can mean the difference between life and death; so clear!</p>\n"
-    - question: Should I be tubed and put on an artificial respirator?
+    - question: " I must be intubed and put on an artificial respirator?"
       answer: "<p>Only in cases of general anesthesia. However, when applying a CS,
         all professional and life support resources that allow to face any eventuality
         and safeguard the patient&acute;s life must always be at hand, and among which;
