@@ -132,7 +132,7 @@ dds:
     dv-pb-15em">Approval and consent</p>    <p class="dv-div-text">The DSD concept
     involves the patient in the transformation process of his own smile, making him
     a co-designer of the treatment and allowing him to express his expectations to
-    the work team, to finally achieve his absolute compliance and authorization for
+    the work team, to finally; achieve his absolute compliance and authorization for
     the clinical procedure.</p>  </div></div> <div class="col-xs-12 col-sm-6 dv-div-right">  <div
     class="row">    <p class="dv-div-title dv-pb-15em">Intraoral execution</p>    <p
     class="dv-div-text">Periodontal plastic surgery, teeth whitening, cosmetic contouring,
