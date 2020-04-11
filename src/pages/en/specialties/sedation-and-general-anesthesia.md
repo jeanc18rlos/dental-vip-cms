@@ -79,7 +79,7 @@ faq:
         analgesia, loss of sensation, muscle relaxation and suppression of autonomic
         and sensory reflexes. The drugs supplied have hypnotic properties and can
         be applied in different ways, but the inhalation and intravenous routes are
-        usually used.</p>\n"
+        the most frequent.</p>\n"
     - question: What is Conscious Sedation?
       answer: "<p>It is an anesthetic technique in which patients are given the combination
         of two or more medications that cause a mild depression of the central nervous
