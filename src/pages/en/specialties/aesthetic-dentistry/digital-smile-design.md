@@ -128,23 +128,20 @@ steps:
           text: "''\n"
 dds:
   display: true
-  heading: |
-    <div class="col-xs-12 col-sm-6 dv-div-left">
-      <div class="row">
-        <p class="dv-div-title dv-pb-15em">Approval and consent</p>
-        <p class="dv-div-text">The DSD concept involves the patient in the transformation process of his own smile, making him a co-designer of the treatment and allowing him to express his expectations to the work team, to finally achieve his absolute compliance and authorization for the clinical procedure.</p>
-      </div>
-    </div> <div class="col-xs-12 col-sm-6 dv-div-right">
-      <div class="row">
-        <p class="dv-div-title dv-pb-15em">Intraoral execution</p>
-        <p class="dv-div-text">Periodontal plastic surgery, teeth whitening, cosmetic contouring, adhesive restorations, veneers and total-ceramic crowns are the most common clinical interventions in a Smile Design. Usually, the participation of two or more Specialist Dentists is necessary.</p>
-      </div>
-    </div>
+  heading: <div class="col-xs-12 col-sm-6 dv-div-left">  <div class="row">    <p class="dv-div-title
+    dv-pb-15em">Approval and consent</p>    <p class="dv-div-text">The DSD concept
+    involves the patient in the transformation process of his own smile, making him
+    a co-designer of the treatment and allowing him to express his expectations to
+    the work team, to finally achieve his absolute compliance and authorization for
+    the clinical procedure.</p>  </div></div> <div class="col-xs-12 col-sm-6 dv-div-right">  <div
+    class="row">    <p class="dv-div-title dv-pb-15em">Intraoral execution</p>    <p
+    class="dv-div-text">Periodontal plastic surgery, teeth whitening, cosmetic contouring,
+    adhesive restorations, veneers and total-ceramic crowns are the most common clinical
+    interventions in a Smile Design. Usually, the participation of two or more Specialist
+    Dentists is necessary.</p>  </div></div>
   img: "/img/dds-custom-block-smile.jpg"
   title: '<h2 class="dv-slogan-title">Dental Morphology and Visagism: The Art of Customizing
-    a Smile</h2>
-
-'
+    a Smile</h2>'
   description: It is unquestionable that to enhance the beauty of a person we must
     always seek harmony between his visage, his facial features and the shape of his
     teeth. But with the technique of Visagism we go even so further and seek to project
@@ -152,7 +149,7 @@ dds:
     know that our unconscious and emotional understanding tends to associate oval
     shapes with sensitive and melancholic characters, triangular shapes with dynamic
     and extroverted people, rectangular ones with strong and dominant temperaments
-    and square ones with serious and discrete individuals.
+    and square forms with serious and discrete individuals.
   sections:
   - img: "/img/dds-custom-block-oval.png"
     description: '<p class="dv-div-text">DOMINANT CENTRALS</p> <p class="dv-div-text">ROUNDED
