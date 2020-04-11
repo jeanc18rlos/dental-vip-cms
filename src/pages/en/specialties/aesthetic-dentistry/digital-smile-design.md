@@ -136,7 +136,7 @@ dds:
     clinical procedure.</p>  </div></div> <div class="col-xs-12 col-sm-6 dv-div-right">  <div
     class="row">    <p class="dv-div-title dv-pb-15em">Intraoral execution</p>    <p
     class="dv-div-text">Periodontal plastic surgery, teeth whitening, cosmetic contouring,
-    adhesive restorations, veneers and total-ceramic crowns are the most common clinical
+    adhesive restorations, veneers and full-ceramic crowns are the most common clinical
     interventions in a Smile Design. Usually, the participation of two or more Specialist
     Dentists is necessary.</p>  </div></div>
   img: "/img/dds-custom-block-smile.jpg"
