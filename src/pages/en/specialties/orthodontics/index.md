@@ -183,7 +183,7 @@ faq:
         is, teeth tend to move throughout life, with or without prior Orthodontics;
         so the retention phase is the longest and most complex of an orthodontic treatment
         and requires excellent collaboration by the patient.</span></p>\n"
-    - question: What are the retainers and what are they for?
+    - question: What are retainers and what are they for?
       answer: "<p>They are custom-made devices that are placed at the time of removing
         the brackets. They can be fixed or removable and are intended to keep the
         teeth in their final position, preventing them from moving and misaligning
