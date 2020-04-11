@@ -50,8 +50,9 @@ sidePanel:
       in 3 phases. The first ambulatory, where the patient applies the bleaching product
       at home for a period of 10 to 15 days. The second in clinic, where one or two
       sessions are performed with high concentration photosensitive agents. And the
-      third at home, where under strict professional supervision; small and sporadic
-      touch-ups are indicated to guarantee the durability of the results obtained.</p></div>
+      third at home again, where under strict professional supervision; small and
+      sporadic touch-ups are indicated to guarantee the durability of the results
+      obtained.</p></div>
 
 '
   - img: "/img/sections-teeth-whitening-intern.png"
