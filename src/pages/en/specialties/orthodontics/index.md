@@ -79,7 +79,7 @@ faq:
         and skeletal malocclusions, that is why is so important the DIAGNOSIS in Orthodontics.
         The most common dental malocclusion is the crowding and is due to a discrepancy
         between the size of the teeth and the size of the jaws. Skeletal ones derived
-        from alterations of facial growth and development, and are characterized by
+        from alterations of growth and facial development, and are characterized by
         abnormalities of shape, size and position of the maxillary bones.</span></p>\n"
     - question: What is a dentofacial deformity?
       answer: "<p>It is a skeletal and dental malocclusion of such magnitude that
