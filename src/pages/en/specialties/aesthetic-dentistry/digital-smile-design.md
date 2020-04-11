@@ -28,8 +28,8 @@ sidePanel:
     section: "<div class=\"dv-sp-srv-cd\">\n  <h2 class=\"dv-srv-pr dv-srv-pr-45\">Images
       capture</h2>\n\n  <p class=\"dv-srv-pr dv-srv-pr-45\">We are fully convinced
       that clinical photography is for Dental Aesthetics what radiography is for Dentistry
-      in general. \"A picture says more than a thousand words\" and \"a picture shows
-      more than a thousand details”.</p>\n  \n  <p class=\"dv-srv-pr dv-srv-pr-45\">We
+      in general. \"A picture is worth a thousand words\" and \"a picture shows more
+      than a thousand details”.</p>\n  \n  <p class=\"dv-srv-pr dv-srv-pr-45\">We
       use a digital reflex camera to record the patient's mouth and face from various
       angles and profiles. To do a good job it is essential that intra and extraoral
       photographs have high resolution, good lighting, sharpness and depth of field.
