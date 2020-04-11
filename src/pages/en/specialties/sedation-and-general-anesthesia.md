@@ -127,7 +127,7 @@ faq:
         means, which often achieve to minimize anxiety levels and radically modify
         the disposition towards treatment.</p>\n"
     - question: In which cases is a sedation or deeper anesthesia recommendable?
-      answer: "<p>There is really no clear consensus on the indications for the use
+      answer: "<p>There really is no clear consensus on the indications for the use
         of these techniques in Dentistry; however, they depend on the objective and
         subjective analysis of multiple factors associated with the patient, the professional
         and the treatment. Among the most common indications we find:</p> <ol> <li>Children
