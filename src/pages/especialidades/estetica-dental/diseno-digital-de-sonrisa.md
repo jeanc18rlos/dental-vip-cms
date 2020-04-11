@@ -89,25 +89,23 @@ steps:
           text: "''\n"
 dds:
   display: true
-  heading: '<div class="col-xs-12 col-sm-6 dv-div-left"><div class="row"><p class="dv-div-title
+  heading: <div class="col-xs-12 col-sm-6 dv-div-left"><div class="row"><p class="dv-div-title
     dv-pb-15em">Aprobación y consentimiento</p><p class="dv-div-text">El concepto
     DDS involucra al paciente en el proceso de transformación de su propia sonrisa,
     haciéndole partícipe como co-diseñador del tratamiento y permitiéndole expresar
-    sus expectativas al equipo de trabajo, para finalmente, lograr su conformidad
+    sus expectativas al equipo de trabajo, para finalmente; lograr su conformidad
     absoluta y autorización para el procedimiento clínico.</p></div></div> <div class="col-xs-12
     col-sm-6 dv-div-right"><div class="row"><p class="dv-div-title dv-pb-15em">Ejecución
     intraoral</p><p class="dv-div-text">Cirugía plástica periodontal, blanqueamiento
     dental, recontorneado estético, restauraciones adhesivas, carillas y coronas totalcerámicas
     son las intervenciones clínicas más comunes en un Diseño de Sonrisa. Por lo general,
     es necesaria la participación de dos o más Odontólogos Especialistas.</p></div></div>
-
-'
   img: "/img/dds-custom-block-smile.jpg"
   title: '<h2 class="dv-slogan-title">Morfología Dental y Visagismo: El Arte de Personalizar
     una Sonrisa</h2>
 
 '
-  description: 'Es incuestionable que para realzar la belleza de una persona debemos
+  description: Es incuestionable que para realzar la belleza de una persona debemos
     siempre procurar armonía entre su rostro, sus rasgos faciales y la forma de sus
     dientes. Pero con la técnica del Visagismo vamos aún más allá y buscamos proyectar
     la personalidad del paciente a través del patrón geométrico de su sonrisa. Hoy
@@ -115,8 +113,6 @@ dds:
     las formas ovales con caracteres sensibles y melancólicos, las formas triangulares
     con personas dinámicas y extrovertidas, las rectangulares con temperamentos fuertes
     y dominantes y las cuadradas con individuos serios y discretos.
-
-'
   sections:
   - img: "/img/dds-custom-block-oval.png"
     description: '<p class="dv-div-text">Centrales dominantes</p><p class="dv-div-text">Caninos
