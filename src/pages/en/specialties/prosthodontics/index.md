@@ -184,7 +184,7 @@ faq:
         our patients a routine check every 6 or 12 months to verify the splint and
         evaluate their periodontal condition, occlusal function, stability, integrity
         and marginal sealing of the restorations.</p>\n"
-    - question: How is special dental floss for prosthesis?
+    - question: How is special dental floss for prosthodontics?
       answer: "<p>It usually consists of 3 portions. A first rigid section to be inserted
         directly below the prosthesis, a second spongy section to clean around the
         restoration, between pillars and between the interdental spaces; and a third
