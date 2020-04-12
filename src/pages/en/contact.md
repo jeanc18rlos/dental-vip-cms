@@ -78,7 +78,7 @@ amenities:
       image: "/img/icon-parking.png"
       text: |
         <p>
-          Parking Lot of Multicentro Empresarial del Este <br class="visible-xs visible-sm visible-md visible-lg">
+          Parking Lot at Multicentro Empresarial del Este <br class="visible-xs visible-sm visible-md visible-lg">
           Accesses by: <br class="hidden-xs hidden-sm visible-md visible-lg">
           Francisco de Miranda Ave. <em>(East Direction).</em> <br class="hidden-xs hidden-sm visible-md visible-lg">
           Libertador Ave. <em>(West Direction).</em>
