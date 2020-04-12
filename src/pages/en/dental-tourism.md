@@ -434,8 +434,8 @@ blocksDescription:
       title: "<h4>Top Quality</h4>"
       content: "<p>At your disposal the experience of the best local team of Specialist
         Dentists, the most modern and comfortable facilities and the latest technology
-        worldwide. A service widely recognized and in accordance with the requirements
-        of the highest international standards in oral health.</p>\n"
+        worldwide. A widely recognized service and in accordance with the highest
+        international standards in oral health.</p>\n"
 procedures:
   display: true
   title: We Are Just One Step Away!
