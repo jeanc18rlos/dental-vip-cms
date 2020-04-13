@@ -7,13 +7,14 @@ import ProgressBar from "react-customizable-progressbar";
 import AnimatedNumber from "react-animated-number";
 import ReactHtmlParser from "react-html-parser";
 import Fade from "react-reveal/Fade";
+import { useWindowSize } from "../utils/hooks";
 
 const StyledContent = styled(Container)`
   justify-content: space-around;
   color: white;
   padding-top: ${rhythm(4)};
   padding-bottom: ${rhythm(4)};
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 768px) {
     flex-direction: column !important;
   }
   h1 {
@@ -40,24 +41,7 @@ const StyledContent = styled(Container)`
       color: #222;
     }
   }
-  @media screen and (max-width: 1024px) {
-    .statistics {
-      display: flex;
-      flex-direction: column;
-      width: 100%;
-      max-width: 300px;
-      span {
-        font-family: "Bebas Neue Bold";
-        font-size: 62px;
-      }
-      h1 {
-        text-shadow: black 2px 4px 9px;
-        margin: 0px;
-        font-weight: 700;
-        text-transform: uppercase;
-      }
-    }
-  }
+
   .statistics {
     display: flex;
     flex-direction: column;
@@ -74,10 +58,50 @@ const StyledContent = styled(Container)`
       text-transform: uppercase;
       margin-bottom: ${rhythm(1)};
     }
+    @media screen and (max-width: 1023px) {
+      max-width: 200px !important;
+      span {
+        font-size: 48px !important;
+      }
+      h1 {
+        ${scale(0.5)};
+      }
+    }
+    @media screen and (max-width: 768px) {
+      max-width: 100% !important;
+      flex-direction: row !important;
+      &:nth-of-type(odd) {
+        justify-content: flex-end;
+      }
+      .RCP {
+        max-width: 180px;
+      }
+      span {
+        font-size: 38px !important;
+      }
+      h1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        ${scale(0.5)};
+      }
+      @media screen and (max-width: 450px) {
+        .RCP {
+          max-width: 135px;
+        }
+      }
+      @media screen and (max-width: 355px) {
+        h1 {
+          ${scale(-0.125)};
+        }
+      }
+    }
   }
 `;
 const Statistics = props => {
   const [progress, setProgress] = useState(0);
+  const size = useWindowSize();
   return (
     <BackgroundImage
       className="parallax"
@@ -110,7 +134,10 @@ const Statistics = props => {
                             value={i.number}
                             style={{
                               transition: "0.8s ease-out",
-                              fontSize: 70,
+                              fontSize:
+                                (size.width > 1023 && 70) ||
+                                (size.width > 450 && size.width <= 768 && 50) ||
+                                (size.width <= 450 && 40),
                               fontFamily: "Bebas Neue Bold",
                               transitionProperty: "opacity"
                             }}

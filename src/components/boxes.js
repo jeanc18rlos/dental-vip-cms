@@ -18,6 +18,8 @@ const StyledBoxes = styled.section`
     font-weight: 300;
     width: 100%;
     color: #333;
+    padding-left: 5vw;
+    padding-right: 5vw;
     text-align: center;
     margin-bottom: ${rhythm(1)};
   }

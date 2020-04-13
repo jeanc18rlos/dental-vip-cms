@@ -112,6 +112,9 @@ const StyledCarousel = styled.section`
   }
   p {
     ${scale(0.75)}
+    @media screen and (max-width: 480px){
+      ${scale(0.5)}
+    }
   }
 `;
 

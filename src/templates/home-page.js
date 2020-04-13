@@ -1,5 +1,4 @@
 import React from "react";
-import { graphql } from "gatsby";
 import Layout from "../layout";
 import SetLang from "../components/setLang";
 import Quote from "../components/quote";
@@ -8,18 +7,47 @@ import Brand from "../components/brand";
 import Boxes from "../components/boxes";
 import Statistics from "../components/statistics";
 import Carousel from "../components/carousel";
-export const DefaultPageTemplate = ({
+import Gallery from "../components/gallery";
+import Hero from "../components/hero";
+import Img from "gatsby-image";
+import { graphql } from "gatsby";
+
+
+export const HomePageTemplate = ({
   hero,
   brand,
-  quote,
+  gallery,
   features,
-  testimonials,
-  procedures,
+  quote,
   statistics,
+  testimonials,
+  procedures
 }) => {
+  const lazyLightBox = {
+    type: gallery.type,
+    carousel: {
+      display: true
+    },
+    placeholder: gallery.carousel.placeholder,
+    images: gallery.carousel.items.map((i, k) => {
+      return {
+        renderItem: () => {
+          return (
+            <Img
+              alt={`gallery-${k}`}
+              className="lightbox-lazy"
+              fluid={i.childImageSharp.fluid}
+            />
+          );
+        }
+      };
+    })
+  };
   return (
     <div>
+      <Hero {...hero}></Hero>
       <Brand {...brand}></Brand>
+      <Gallery {...lazyLightBox} items={gallery.items} />
       <Features {...features}></Features>
       <Quote {...quote} />
       <Statistics {...statistics}></Statistics>
@@ -29,7 +57,7 @@ export const DefaultPageTemplate = ({
   );
 };
 
-const DefaultPage = ({ data }) => {
+const HomePage = ({ data }) => {
   const {
     templateKey,
     language,
@@ -37,17 +65,18 @@ const DefaultPage = ({ data }) => {
     redirects,
     hero,
     brand,
+    gallery,
     quote,
     statistics,
     testimonials,
     features,
-    procedures,
+    procedures
   } = data.markdownRemark.frontmatter;
 
   return (
     <Layout>
       <SetLang language={language} link={redirects} />
-      <DefaultPageTemplate
+      <HomePageTemplate
         {...{
           templateKey,
           language,
@@ -55,21 +84,22 @@ const DefaultPage = ({ data }) => {
           redirects,
           hero,
           brand,
+          gallery,
           quote,
           statistics,
           testimonials,
           features,
-          procedures,
+          procedures
         }}
       />
     </Layout>
   );
 };
 
-export default DefaultPage;
+export default HomePage;
 
 export const pageQuery = graphql`
-  query DefaultPageTemplate($id: String!) {
+  query HomePage($id: String!) {
     markdownRemark(
       id: { eq: $id }
       frontmatter: { templateKey: { eq: "home-page" } }
@@ -79,12 +109,27 @@ export const pageQuery = graphql`
         title
         redirects
         hero {
-          image {
-            childImageSharp {
-              fluid(maxWidth: 1600, quality: 100) {
-                ...GatsbyImageSharpFluid
+          background {
+            scaleOnReveal
+            img {
+              childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
               }
             }
+            isParallax
+          }
+          anim {
+            display
+            type
+          }
+          height
+          indicator
+          portraitPosition
+          content {
+            position
+            body
           }
         }
         brand {
@@ -96,8 +141,8 @@ export const pageQuery = graphql`
           partners {
             image {
               childImageSharp {
-                fluid(maxWidth: 160, quality: 100) {
-                  ...GatsbyImageSharpFluid
+                fluid(maxWidth: 160, quality: 75) {
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }
@@ -105,7 +150,36 @@ export const pageQuery = graphql`
           }
           footer
         }
-
+        gallery {
+          type
+          carousel {
+            display
+            placeholder
+            items {
+              childImageSharp {
+                fluid(maxWidth: 1200, quality: 80) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
+              }
+            }
+          }
+          items {
+            link {
+              display
+              to
+            }
+            image {
+              childImageSharp {
+                fluid(maxWidth: 450, quality: 75) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
+              }
+            }
+            action
+            placeholder
+            body
+          }
+        }
         quote {
           body
           footer {
@@ -117,7 +191,7 @@ export const pageQuery = graphql`
           image {
             childImageSharp {
               fluid(maxWidth: 1600, quality: 100) {
-                ...GatsbyImageSharpFluid
+                ...GatsbyImageSharpFluid_withWebp
               }
             }
           }
@@ -131,8 +205,8 @@ export const pageQuery = graphql`
           items {
             img {
               childImageSharp {
-                fluid(maxWidth: 1600, quality: 100) {
-                  ...GatsbyImageSharpFluid
+                fluid(maxWidth: 300, quality: 75) {
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }
@@ -148,8 +222,8 @@ export const pageQuery = graphql`
             to
             img {
               childImageSharp {
-                fluid(maxWidth: 224, quality: 100) {
-                  ...GatsbyImageSharpFluid
+                fluid(maxWidth: 224, quality: 75) {
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }
@@ -166,7 +240,7 @@ export const pageQuery = graphql`
             img {
               childImageSharp {
                 fluid(maxWidth: 550, quality: 100) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }
