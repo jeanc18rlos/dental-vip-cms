@@ -289,7 +289,7 @@ form:
   img: "/img/parallax-form-specialties.png"
 procedures:
   display: true
-  title: Top Quality Dental Center!
+  title: We Are Just One Step Away!
   procedures:
   - title: Facilities
     to: "/en/the-clinic/facilities/"
