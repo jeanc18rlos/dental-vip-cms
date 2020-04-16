@@ -13,11 +13,12 @@ const StyledHeader = styled.header`
   top: 0;
   z-index: 3;
   .container {
-    border-bottom: ${props => props.isMobile && "1px solid hsla(0,0%,60%,.2)"};
+    border-bottom: ${(props) =>
+      props.isMobile && "1px solid hsla(0,0%,60%,.2)"};
   }
   .modal {
     position: fixed;
-    height: ${props => (props.isSearchOpen ? "100vh" : "0")};
+    height: ${(props) => (props.isSearchOpen ? "100vh" : "0")};
     width: 100%;
     background: #ffffffad;
     top: 0;
@@ -36,7 +37,7 @@ const StyledHeader = styled.header`
         .input-group {
           display: flex;
           min-width: 70vw;
-          font-size: ${props => (props.isMobile ? "30px" : "55px")};
+          font-size: ${(props) => (props.isMobile ? "30px" : "55px")};
           padding: 0.5em 0.2em 0.2em;
           color: #333;
           border-bottom: 2px solid #333;
@@ -183,16 +184,16 @@ const StyledHeader = styled.header`
       div {
         width: 100%;
         display: inherit;
-        flex-direction: ${props => (props.isMobile ? "column" : "row")};
-        overflow-y: ${props => (props.isMobile ? "scroll" : "visible")};
+        flex-direction: ${(props) => (props.isMobile ? "column" : "row")};
+        overflow-y: ${(props) => (props.isMobile ? "scroll" : "visible")};
 
-        justify-content: ${props =>
+        justify-content: ${(props) =>
           props.isMobile ? "flex-start" : "flex-end"};
       }
       li {
         margin-bottom: 0;
         list-style: none;
-        display: ${props => (props.isMobile ? "auto" : "flex")};
+        display: ${(props) => (props.isMobile ? "auto" : "flex")};
         a {
           &.disabled {
             pointer-events: none;
@@ -204,10 +205,10 @@ const StyledHeader = styled.header`
           color: ${colors.dustyGray};
           cursor: pointer;
           text-transform: uppercase;
-          padding: ${props => (props.isMobile ? 0 : "0 15px")};
+          padding: ${(props) => (props.isMobile ? 0 : "0 15px")};
           h5,
           h6 {
-            font-weight: ${props => (props.isMobile ? "bold" : 400)};
+            font-weight: ${(props) => (props.isMobile ? "bold" : 400)};
             display: inline;
             position: relative;
             margin: 0;
@@ -221,13 +222,13 @@ const StyledHeader = styled.header`
         position: absolute;
         left: 0;
         width: 100%;
-        padding-left: ${props => (props.tinyMobile ? "30%" : "50%")};
+        padding-left: ${(props) => (props.tinyMobile ? "30%" : "50%")};
         align-items: flex-start;
         justify-content: flex-start;
         padding-top: 70px;
         flex-direction: column;
         top: 0;
-        height: ${props => (props.mobileMenu ? "100vh" : 0)};
+        height: ${(props) => (props.mobileMenu ? "100vh" : 0)};
         overflow: hidden;
         background: rgba(0, 0, 0, 0.64);
         z-index: -1;
@@ -236,7 +237,7 @@ const StyledHeader = styled.header`
           content: "";
           position: absolute;
           right: 0;
-          width: ${props => (props.tinyMobile ? "70%" : "50%")};
+          width: ${(props) => (props.tinyMobile ? "70%" : "50%")};
           top: 0;
           height: 100vh;
           background: #222;
@@ -252,12 +253,12 @@ const StyledHeader = styled.header`
 `;
 const Accordion = styled.ul`
   position: absolute;
-  background: ${props => (props.color ? props.color : "#222")};
+  background: ${(props) => (props.color ? props.color : "#222")};
   margin: 0;
   padding: 4px 0;
   padding-bottom: 0;
   list-style: none;
-  margin-top: ${props => (props.top ? props.top : "40px")};
+  margin-top: ${(props) => (props.top ? props.top : "40px")};
   margin-left: -15px;
   z-index: -1;
   -webkit-transition-delay: 0s;
@@ -271,12 +272,12 @@ const Accordion = styled.ul`
   -webkit-transition-timing-function: cubic-bezier(0.42, 0, 0.35, 0.93);
   transition-timing-function: cubic-bezier(0.42, 0, 0.35, 0.93);
 
-  visibility: ${props => (props.visible ? "visible" : "hidden")};
-  opacity: ${props => (props.visible ? "1" : "0")};
+  visibility: ${(props) => (props.visible ? "visible" : "hidden")};
+  opacity: ${(props) => (props.visible ? "1" : "0")};
 
-  -webkit-transform: ${props =>
+  -webkit-transform: ${(props) =>
     props.visible ? "translateZ(0)" : "translate3d(0, -100%, 0)"};
-  transform: ${props =>
+  transform: ${(props) =>
     props.visible ? "translateZ(0)" : "translate3d(0, -100%, 0)"};
 
   -webkit-animation-duration: 1s;
@@ -291,7 +292,7 @@ const Accordion = styled.ul`
   }
 `;
 
-const AccordionContainer = props => {
+const AccordionContainer = (props) => {
   return props.isMobile ? (
     <SmoothCollapse expanded={props.visible}>{props.children}</SmoothCollapse>
   ) : (
@@ -299,10 +300,10 @@ const AccordionContainer = props => {
   );
 };
 
-const Header = props => {
+const Header = (props) => {
   const [dropDown, setDropDownItems] = useState({});
 
-  const setDropDownItem = item => {
+  const setDropDownItem = (item) => {
     setDropDownItems({ ...dropDown, ...{ [item.id]: item } });
   };
 
@@ -328,16 +329,16 @@ const Header = props => {
                 id: `searchDropDown`,
                 action: dropDown[`searchDropDown`]
                   ? !dropDown[`searchDropDown`].action
-                  : true
+                  : true,
               });
               if (
                 dropDown[`searchDropDown`] &&
                 dropDown[`searchDropDown`].action
               ) {
-                document.body.style.overflow = "visible";
+                //document.body.style.overflow = "visible";
               } else {
-                document.body.style.overflow = "hidden";
-                document.body.style.height = "100vh";
+                //document.body.style.overflow = "hidden";
+                //document.body.style.height = "100vh";
               }
             }}
           >
@@ -376,22 +377,22 @@ const Header = props => {
                   className={`${dropDown[`mobileDropDown`] &&
                     dropDown[`mobileDropDown`].action &&
                     "active"}`}
-                  onClick={e => {
+                  onClick={(e) => {
                     e.preventDefault();
                     setDropDownItem({
                       id: `mobileDropDown`,
                       action: dropDown[`mobileDropDown`]
                         ? !dropDown[`mobileDropDown`].action
-                        : true
+                        : true,
                     });
                     if (
                       dropDown[`mobileDropDown`] &&
                       dropDown[`mobileDropDown`].action
                     ) {
-                      document.body.style.overflow = "visible";
+                      //document.body.style.overflow = "visible";
                     } else {
-                      document.body.style.overflow = "hidden";
-                      document.body.style.height = "100vh";
+                      //document.body.style.overflow = "hidden";
+                      //document.body.style.height = "100vh";
                     }
                   }}
                 >
@@ -414,7 +415,7 @@ const Header = props => {
                         dropDown[`dropdown-lang`] &&
                         dropDown[`dropdown-lang`].action
                           ? false
-                          : true
+                          : true,
                     });
                   }}
                 >
@@ -448,7 +449,7 @@ const Header = props => {
                   >
                     <li className="list-child">
                       <a
-                        onClick={e => {
+                        onClick={(e) => {
                           e.preventDefault();
                           navigate(
                             props.langRedir === "/error"
@@ -493,7 +494,7 @@ const Header = props => {
                             dropDown[`dropdown${k}`] &&
                             dropDown[`dropdown${k}`].action
                               ? false
-                              : true
+                              : true,
                         });
                     }}
                   >
@@ -537,7 +538,11 @@ const Header = props => {
                               className="list-child"
                               key={`drop-child-${key}`}
                             >
-                              <Link to={item.to}>
+                              <Link
+                                activeClassName="active"
+                                partiallyActive={true}
+                                to={item.to}
+                              >
                                 <h6>{item.title}</h6>
                               </Link>
                             </li>
@@ -551,22 +556,22 @@ const Header = props => {
               <li className="list-father search">
                 <a
                   role="button"
-                  onClick={e => {
+                  onClick={(e) => {
                     e.preventDefault();
                     setDropDownItem({
                       id: `searchDropDown`,
                       action: dropDown[`searchDropDown`]
                         ? !dropDown[`searchDropDown`].action
-                        : true
+                        : true,
                     });
                     if (
                       dropDown[`searchDropDown`] &&
                       dropDown[`searchDropDown`].action
                     ) {
-                      document.body.style.overflow = "auto";
+                      //document.body.style.overflow = "auto";
                     } else {
-                      document.body.style.overflow = "hidden";
-                      document.body.style.height = "100vh";
+                      //document.body.style.overflow = "hidden";
+                      //document.body.style.height = "100vh";
                     }
                   }}
                 >
@@ -588,7 +593,7 @@ const Header = props => {
                         href="https://www.instagram.com/dental_vip/"
                       >
                         <i className="icon-instagram" />
-                      </a>
+                      </a>,
                     ]}
                   </span>
                 </a>

@@ -2,7 +2,7 @@ import React from "react";
 import styled, { css } from "styled-components";
 import { rhythm, scale } from "../utils/typography";
 import { Container } from "../Elements/Container";
-
+import ReactHtmlParser from "react-html-parser";
 const StyledHeading = styled.section`
   text-align: center;
   padding: ${rhythm(4)} 0 ${rhythm(3)};
@@ -20,7 +20,7 @@ const StyledHeading = styled.section`
     }
   }
 `;
-const Heading = (props) => {
+const Heading = props => {
   return (
     <StyledHeading>
       <Container
@@ -28,20 +28,7 @@ const Heading = (props) => {
         alignItem="center"
         flexDirection="column"
       >
-        <h1 className="title">Estamos para Servirle</h1>
-
-        <p>
-          Si necesita información adicional, desea realizar una consulta, hacer
-          sugerencias o reservar espacio en agenda; podemos atenderle vía
-          telefónica, mediante el uso del formulario contiguo o enviando un
-          mensaje de correo electrónico a&nbsp;
-          <a
-            href="mailto:contacto@dentalvip.com.ve"
-            style={{ color: "#91c508" }}
-          >
-            contacto@dentalvip.com.ve
-          </a>
-        </p>
+        {ReactHtmlParser(props.content)}
       </Container>
     </StyledHeading>
   );

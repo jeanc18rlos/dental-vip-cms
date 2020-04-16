@@ -1,15 +1,18 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { Container } from "../../Elements/Container";
-import { colors, sizes } from "../../styles";
+import { colors } from "../../styles";
 import styled, { css } from "styled-components";
 import "flag-icon-css/css/flag-icon.min.css";
 import { useWindowSize } from "../../utils/hooks";
-import ReactHtmlParser, {
-  processNodes,
-  convertNodeToElement,
-  htmlparser2
-} from "react-html-parser";
+import ReactHtmlParser from "react-html-parser";
 import { navigate } from "gatsby";
+
+const StyledContactBar = styled(Container)`
+  display: flex;
+  &.hidden {
+    display: none !important;
+  }
+`;
 
 const Accordion = styled.ul`
   position: absolute;
@@ -167,10 +170,10 @@ const ContactBar = props => {
   };
   const size = useWindowSize();
   return (
-    <Container
+    <StyledContactBar
+      className={size.width && size.width <= 1024 && "hidden"}
       justifyContent="space-between"
       style={{
-        display: size.width > 1023 ? "flex" : "none",
         boxShadow: "inset 1px 1px 0px 100px white",
         zIndex: 4,
         position: "relative"
@@ -244,7 +247,7 @@ const ContactBar = props => {
           return <li key={`social-${k}`}>{ReactHtmlParser(i.item)}</li>;
         })}
       </List>
-    </Container>
+    </StyledContactBar>
   );
 };
 

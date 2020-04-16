@@ -1,7 +1,6 @@
 import React, { useState } from "react";
-import { Container } from "../Elements/Container";
-import styled, { css } from "styled-components";
-import { rhythm, scale } from "../utils/typography";
+import styled from "styled-components";
+import { scale } from "../utils/typography";
 import ReactHtmlParser from "react-html-parser";
 import BackgroundImage from "gatsby-background-image";
 import Fade from "react-reveal/Fade";
@@ -13,7 +12,41 @@ const StyledHero = styled.section`
     min-height: 250px;
     max-width: 100vw;
     overflow: hidden;
-    @media screen and (max-width: 1023px) {
+    .indicator {
+      position: absolute;
+      bottom: 0;
+      font-size: 50px;
+      color: white;
+      text-shadow: 1px 1px 7px #0a0a0a;
+      animation: MoveUpDown 1.8s ease-in-out infinite;
+
+      @keyframes MoveUpDown {
+        0%,
+        100% {
+          bottom: 0;
+        }
+        50% {
+          bottom: 25px;
+        }
+      }
+    }
+    &.single {
+      .captions {
+        h1 {
+          ${scale(1.25)}
+        }
+        @media screen and (min-width: 1024px),
+          screen and (min-height: 768px) and (min-width: 560px) {
+          h1 {
+            ${scale(1.9)}
+          }
+        }
+      }
+    }
+    &.center {
+      justify-content: center;
+    }
+    @media screen and (max-width: 1024px) {
       height: calc(100vh - (70px)) !important;
     }
     .captions {
@@ -47,6 +80,7 @@ const StyledHero = styled.section`
       &.center {
         align-self: center;
         justify-self: center;
+        text-align: center;
       }
       .bebas {
       }
@@ -66,11 +100,20 @@ const StyledHero = styled.section`
         width: fit-content;
       }
     }
+    &.parallax {
+      &:before {
+        background-attachment: fixed;
+      }
+    }
 
     &:before {
       transform: ${props => (props.scale ? "scale(1.2)" : "none")} !important;
       transition: transform 5s linear !important;
-      ${props => props.isParallax && "background-attachment: fixed"}
+    }
+    @media screen and (orientation: portrait){
+      &:before{
+        background-position: ${props => props.portraitPosition && props.portraitPosition} !important
+      }
     }
   }
 `;
@@ -82,26 +125,38 @@ const Hero = props => {
       height={props.height}
       indicator={props.indicator}
       portraitPosition={props.portraitPosition}
-      isParallax={props.background.isParallax}
       scale={props.background.scaleOnReveal && scale}
     >
       <BackgroundImage
-        className="bg"
+        className={`bg ${props.className} ${props.background.isParallax && "parallax"}`}
         Tag="div"
         fluid={props.background.img.childImageSharp.fluid}
       >
-        <Fade
-          right
-          onReveal={() => {
-            props.background.scaleOnReveal && setScale(true);
-          }}
-        >
+        {props.anim.display ? (
+          <Fade
+            {...{
+              [props.anim.type]: true
+            }}
+            onReveal={() => {
+              props.background.scaleOnReveal && setScale(true);
+            }}
+          >
+            <div className={`captions ${props.content.position}`}>
+              {ReactHtmlParser(props.content.body)}
+            </div>
+          </Fade>
+        ) : (
           <div className={`captions ${props.content.position}`}>
-            <h2 className="wrapped">Salud, Belleza y Función</h2>
-            <h3 className="no-mob">¡Una Especialidad para Cada Tratamiento!</h3>
-            <h1>INNOVACIÓN Y PRESTIGIO EN ODONTOLOGÍA</h1>
+            {ReactHtmlParser(props.content.body)}
           </div>
-        </Fade>
+        )}
+        {props.indicator && (
+          <div className="indicator">
+            <span>
+              <i className="icon-angle-down"></i>
+            </span>
+          </div>
+        )}
       </BackgroundImage>
     </StyledHero>
   );

@@ -47,7 +47,7 @@ export const HomePageTemplate = ({
     <div>
       <Hero {...hero}></Hero>
       <Brand {...brand}></Brand>
-      <Gallery {...lazyLightBox} items={gallery.items} />
+      <Gallery isMasory={true} {...lazyLightBox} items={gallery.items} />
       <Features {...features}></Features>
       <Quote {...quote} />
       <Statistics {...statistics}></Statistics>
@@ -190,7 +190,7 @@ export const pageQuery = graphql`
         statistics {
           image {
             childImageSharp {
-              fluid(maxWidth: 1600, quality: 100) {
+              fluid(maxWidth: 1500, quality: 75) {
                 ...GatsbyImageSharpFluid_withWebp
               }
             }

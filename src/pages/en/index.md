@@ -23,9 +23,9 @@ hero:
   content:
     position: bottom
     body: >
-      <h2>Salud, Belleza y Función</h2>
-      <h3>¡Una Especialidad para Cada Tratamiento!</h3>
-      <h1>INNOVACIÓN Y PRESTIGIO EN ODONTOLOGÍA</h1>
+      <h2 class="wrapped">Health, Beauty & Function</h2>
+      <h3 class="no-mob">One Specialty for Each Treatment!</h3>
+      <h1>INNOVATION AND PRESTIGE IN DENTISTRY</h1>
 
 # Brand Section
 brand:
@@ -134,7 +134,7 @@ gallery:
       placeholder: >
           <span> View more </span>
       body: >
-          <h3>WHY CHOOSE US<h3>
+          <h3>WHY CHOOSE US</h3>
           <p class="dv-text-feat">Our trajectory is your best guarantee</p> <p class="dv-text-feat-100">
             Know the 10 reasons that distinguish us from the competition and
             make up our value proposition.
@@ -147,7 +147,7 @@ gallery:
       placeholder: >
           <span> View more </span>
       body: >
-          <h3>THE CLINIC IN IMAGES<h3>
+          <h3>THE CLINIC IN IMAGES</h3>
           <p class="dv-text-feat">
             A relaxed, calm and maximum comfort environment ...
           </p>
@@ -159,7 +159,7 @@ gallery:
       placeholder: >
           <span> View more </span>
       body: >
-          <h3>Dotation and Technology<h3>
+          <h3>Dotation and Technology</h3>
           <p class="dv-text-feat">
             On the forefront of equipments and digital processes!
           </p>
@@ -171,7 +171,7 @@ gallery:
       placeholder: >
           <span> View more </span>
       body: >
-          <h3>Professional Staff<h3>
+          <h3>Professional Staff</h3>
           <p class="dv-text-feat">Your mouth in the hands of experts!</p>
     - link: 
         display: false
@@ -181,7 +181,7 @@ gallery:
       placeholder: >
           <span> View gallery </span>
       body: >
-          <h3>SMILES GALLERY<h3>
+          <h3>SMILES GALLERY</h3>
           <p class="d-none d-lg-block dv-text-feat">
             Passion for beauty... Devotion to naturalness!
           </p> 
@@ -199,7 +199,7 @@ gallery:
       placeholder: >
           <span> View more </span>
       body: >
-          <h3>FOREIGN PATIENTS<h3>
+          <h3>FOREIGN PATIENTS</h3>
           <p class="dv-text-feat">A special attention protocol</p> <p class="dv-text-feat-100">
             We are consequent with all patients who visit us from anywhere in
             Venezuela and the world.

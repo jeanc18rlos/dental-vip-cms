@@ -8,7 +8,7 @@ published: true
 tags:
   - default tag
 
-# Hero Section 
+# Hero Section
 hero:
   background:
     scaleOnReveal: true
@@ -23,10 +23,10 @@ hero:
   content:
     position: bottom
     body: >
-      <h2>Salud, Belleza y Función</h2>
-      <h3>¡Una Especialidad para Cada Tratamiento!</h3>
+      <h2 class="wrapped">Salud, Belleza y Función</h2>
+      <h3 class="no-mob">¡Una Especialidad para Cada Tratamiento!</h3>
       <h1>INNOVACIÓN Y PRESTIGIO EN ODONTOLOGÍA</h1>
-        
+
 # Brand Section
 brand:
   logo: /uploads/logo.svg
@@ -62,111 +62,110 @@ gallery:
   type: singleGallery
   carousel:
     display: true
-    placeholder: ROTATE THE DEVICE TO ENLARGE THE IMAGES
+    placeholder: GIRE EL DISPOSITIVO PARA AMPLIAR LAS IMÁGENES
     items:
-      - /uploads/lightbox-smiles-01-en.jpg
-      - /uploads/lightbox-smiles-02-en.jpg
-      - /uploads/lightbox-smiles-03-en.jpg
-      - /uploads/lightbox-smiles-04-en.jpg
-      - /uploads/lightbox-smiles-05-en.jpg
-      - /uploads/lightbox-smiles-06-en.jpg
-      - /uploads/lightbox-smiles-07-en.jpg
-      - /uploads/lightbox-smiles-08-en.jpg
-      - /uploads/lightbox-smiles-09-en.jpg
-      - /uploads/lightbox-smiles-10-en.jpg
-      - /uploads/lightbox-smiles-11-en.jpg
-      - /uploads/lightbox-smiles-12-en.jpg
-      - /uploads/lightbox-smiles-13-en.jpg
-      - /uploads/lightbox-smiles-14-en.jpg
-      - /uploads/lightbox-smiles-15-en.jpg
-      - /uploads/lightbox-smiles-16-en.jpg
-      - /uploads/lightbox-smiles-17-en.jpg
-      - /uploads/lightbox-smiles-18-en.jpg
-      - /uploads/lightbox-smiles-19-en.jpg
-      - /uploads/lightbox-smiles-20-en.jpg
-      - /uploads/lightbox-smiles-21-en.jpg
-      - /uploads/lightbox-smiles-22-en.jpg
-      - /uploads/lightbox-smiles-23-en.jpg
-      - /uploads/lightbox-smiles-24-en.jpg
+      - /uploads/lightbox-smiles-01.jpg
+      - /uploads/lightbox-smiles-02.jpg
+      - /uploads/lightbox-smiles-03.jpg
+      - /uploads/lightbox-smiles-04.jpg
+      - /uploads/lightbox-smiles-05.jpg
+      - /uploads/lightbox-smiles-06.jpg
+      - /uploads/lightbox-smiles-07.jpg
+      - /uploads/lightbox-smiles-08.jpg
+      - /uploads/lightbox-smiles-09.jpg
+      - /uploads/lightbox-smiles-10.jpg
+      - /uploads/lightbox-smiles-11.jpg
+      - /uploads/lightbox-smiles-12.jpg
+      - /uploads/lightbox-smiles-13.jpg
+      - /uploads/lightbox-smiles-14.jpg
+      - /uploads/lightbox-smiles-15.jpg
+      - /uploads/lightbox-smiles-16.jpg
+      - /uploads/lightbox-smiles-17.jpg
+      - /uploads/lightbox-smiles-18.jpg
+      - /uploads/lightbox-smiles-19.jpg
+      - /uploads/lightbox-smiles-20.jpg
+      - /uploads/lightbox-smiles-21.jpg
+      - /uploads/lightbox-smiles-22.jpg
+      - /uploads/lightbox-smiles-23.jpg
+      - /uploads/lightbox-smiles-24.jpg
   items:
-    - link: 
+    - link:
         display: true
-        to: /en/the-clinic/why-choose-us/
+        to: /la-clinica/por-que-elegirnos/
       image: /img/gallery-why.png
       action: false
       placeholder: >
-          <span> View more </span>
+        <span> Ver más </span>
       body: >
-          <h3>WHY CHOOSE US</h3>
-          <p class="dv-text-feat">Our trajectory is your best guarantee</p> <p class="dv-text-feat-100">
-            Know the 10 reasons that distinguish us from the competition and
-            make up our value proposition.
-          </p>
-    - link: 
+        <h3>Por Qué Elegirnos</h3>
+        <p class="dv-text-feat"> Nuestra trayectoria es su mejor garantía</p> 
+        <p class="dv-text-feat-100">
+          Conozca las 10 razones que nos distinguen de la competencia y
+          conforman nuestra propuesta de valor.
+        </p>
+    - link:
         display: true
-        to: /en/the-clinic/facilities/
+        to: /la-clinica/instalaciones/
       image: /img/gallery-facilities.png
       action: false
       placeholder: >
-          <span> View more </span>
+        <span> Ver más </span>
       body: >
-          <h3>THE CLINIC IN IMAGES</h3>
-          <p class="dv-text-feat">
-            A relaxed, calm and maximum comfort environment ...
-          </p>
-    - link: 
+        <h3>La Clínica en Imágenes</h3>
+        <p class="dv-text-feat">
+          Un ambiente relajado, tranquilo y de máximo confort...
+        </p>
+    - link:
         display: true
-        to: /en/the-clinic/technology/
+        to: /la-clinica/tecnologia/
       image: /img/gallery-technology.png
       action: false
       placeholder: >
-          <span> View more </span>
+        <span> Ver más </span>
       body: >
-          <h3>Dotation and Technology</h3>
-          <p class="dv-text-feat">
-            On the forefront of equipments and digital processes!
-          </p>
-    - link: 
+        <h3>Dotación y Tecnología</h3>
+        <p class="dv-text-feat">
+          ¡A la vanguardia en equipos y procesos digitales!
+        </p>
+    - link:
         display: true
-        to: /en/professional-staff/
+        to: /profesionales/
       image: /img/gallery-professionals.png
       action: false
       placeholder: >
-          <span> View more </span>
+        <span> Ver más </span>
       body: >
-          <h3>Professional Staff</h3>
-          <p class="dv-text-feat">Your mouth in the hands of experts!</p>
-    - link: 
+        <h3>Staff profesional</h3>
+        <p class="dv-text-feat">¡Su boca en manos de expertos!</p>
+    - link:
         display: false
         to: /
       image: /img/gallery-smiles.png
       action: true
       placeholder: >
-          <span> View gallery </span>
+        <span> Ver galeria </span>
       body: >
-          <h3>SMILES GALLERY</h3>
-          <p class="d-none d-lg-block dv-text-feat">
-            Passion for beauty... Devotion to naturalness!
-          </p> 
-          <p class="d-none d-lg-block dv-text-feat-100">
-            A small sample of what we can do for you: modern, integral and specialized Dentistry.
-          </p>
-          <p class="d-lg-none  dv-text-feat">
-            A small sample of what we can do for you: modern, integral and specialized Dentistry.
-          </p>
-    - link: 
+        <h3>Galería de Sonrisas</h3>
+         <p class="d-none d-lg-block dv-text-feat">
+          ¡Pasión por la belleza... Devoción por la naturalidad!
+        </p> <p class="dv-text-feat-100">
+          Una pequeña muestra de lo que podemos hacer por Usted: Odontología
+          moderna, integral y especializada.
+        </p>
+    - link:
         display: true
-        to: /en/foreign-patients/
+        to: /pacientes-del-exterior/
       image: /img/gallery-foreigns.png
       action: false
       placeholder: >
-          <span> View more </span>
+        <span> Ver más </span>
       body: >
-          <h3>FOREIGN PATIENTS</h3>
-          <p class="dv-text-feat">A special attention protocol</p> <p class="dv-text-feat-100">
-            We are consequent with all patients who visit us from anywhere in
-            Venezuela and the world.
-          </p>
+        <h3>Pacientes del exterior</h3>
+        <p class="dv-text-feat">Un protocolo especial de atención</p> 
+        <p class="dv-text-feat-100">
+          Somos consecuentes con todos los pacientes que nos visitan desde
+          cualquier parte de Venezuela y el mundo.
+        </p>
 # Quote component structure
 quote:
   body: >
@@ -196,7 +195,7 @@ quote:
 # Statistics Section
 statistics:
   image: /uploads/parallax-stadistics.jpg
-  items: 
+  items:
     - number: 20
       title: >
         <h1>Años de<br> experiencia</h1>

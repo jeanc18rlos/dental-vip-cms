@@ -8,6 +8,8 @@ import ReactHtmlParser from "react-html-parser";
 import { useWindowSize } from "../utils/hooks";
 import classnames from "classnames";
 import { navigate } from "gatsby";
+import { rhythm, scale } from "../utils/typography";
+import BackgroundImage from "gatsby-background-image";
 const ModalCarousel = styled.div`
   max-width: 1200px;
   margin: auto;
@@ -92,6 +94,8 @@ const ModalCarousel = styled.div`
       }
     }
     &.footer {
+      text-align: center;
+      justify-content: center;
       display: none;
       bottom: 10%;
       left: 14%;
@@ -111,15 +115,49 @@ const ModalCarousel = styled.div`
 const StyledGallery = styled.section`
   display: flex;
   padding: 0 5vw;
+  .static-wrapper-img {
+    p {
+      line-height: 1.5;
+    }
+    /**
+    &:before {
+      background-color: #ececec;
+      background-size: contain !important;
+    }
+    &:after {
+      background-color: #ececec;
+      background-size: contain !important;
+    } */
+  }
+  &.mb {
+    padding-bottom: ${rhythm(4)} !important;
+    @media screen and (max-width: 680px) {
+      padding-bottom: ${rhythm(3)} !important;
+    }
+  }
+  &.not-masonry {
+    padding: 0 calc(5vw - 10px);
+    @media screen and (max-width: 680px) {
+      padding: 0 5vw;
+    }
+  }
   .grid-row {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
     width: 100%;
     margin: auto;
+    .grid-item.not-masonry {
+      flex-basis: calc(33.33% - 10px);
+      margin: 5px;
+    }
     @media (max-width: 1025px) {
       .grid-item {
         flex-basis: 50% !important;
+        &.not-masonry {
+          flex-basis: calc(50% - 10px) !important;
+          margin: 5px;
+        }
       }
     }
     @media (max-width: 1200px) {
@@ -132,6 +170,11 @@ const StyledGallery = styled.section`
         flex-basis: 100% !important;
         max-width: 480px;
         margin-bottom: 5vw;
+        &.not-masonry {
+          flex-basis: calc(100%) !important;
+          margin: 0 !important;
+          margin-bottom: 5vw !important;
+        }
         &:last-of-type {
           margin-bottom: 0;
         }
@@ -166,6 +209,20 @@ const StyledGallery = styled.section`
           animation-duration: 0.5s;
           -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
+          &.staticGallery {
+            p {
+              line-height: 1.6;
+              padding: 0 10px;
+            }
+          }
+          &.gridGallery {
+            display: flex;
+            flex-direction: column-reverse;
+            i {
+              font-size: 2em;
+              margin-bottom: 10px;
+            }
+          }
         }
         .zoomIn {
           -webkit-animation-name: zoomIn;
@@ -293,12 +350,19 @@ const StyledGallery = styled.section`
           @media screen and (max-width: 769px) {
             background: rgba(255, 255, 255, 0.8);
             color: #333;
+            .details.gridGallery {
+              color: #333;
+            }
           }
           .details {
             border: none;
             background: #222;
             color: white;
+            font-weight: 700;
             padding: 3px 15px;
+            &.gridGallery {
+              background: none;
+            }
           }
           h3 {
             text-transform: uppercase;
@@ -307,6 +371,11 @@ const StyledGallery = styled.section`
           p {
             margin-bottom: 0.5em;
             font-size: 15px;
+            font-weight: 700;
+            line-height: 1.2;
+            &.dv-text-feat-100 {
+              font-weight: 400;
+            }
           }
         }
       }
@@ -316,11 +385,11 @@ const StyledGallery = styled.section`
 
 const StyledCard = styled.div``;
 
-const Gallery = props => {
+const Gallery = (props) => {
   const size = useWindowSize();
   const { images, items, isMasonry, type, placeholder, carousel } = props;
   const [activeCard, setActiveCard] = useState(false);
-  const openPopupbox = indexImg => {
+  const openPopupbox = (indexImg) => {
     const content = (
       <ModalCarousel>
         <button type="button" onClick={PopupboxManager.close} className="close">
@@ -340,7 +409,10 @@ const Gallery = props => {
   };
   return [
     <PopupboxContainer />,
-    <StyledGallery class isMasonry={isMasonry}>
+    <StyledGallery
+      className={`${isMasonry === false && "not-masonry"} ${props.mb && "mb"}`}
+      isMasonry={isMasonry}
+    >
       <div className="grid-row">
         {items.map((i, k) => {
           const index = k;
@@ -356,7 +428,7 @@ const Gallery = props => {
                 setActiveCard(false);
               }}
               isMasonry={isMasonry}
-              setActiveCard={title => {
+              setActiveCard={(title) => {
                 return title === activeCard && size.isMobile
                   ? setActiveCard(false)
                   : setActiveCard(title);
@@ -367,11 +439,11 @@ const Gallery = props => {
           );
         })}
       </div>
-    </StyledGallery>
+    </StyledGallery>,
   ];
 };
 
-const Card = props => {
+const Card = (props) => {
   const {
     isMobile,
     link,
@@ -385,7 +457,7 @@ const Card = props => {
     placeholder,
     type,
     openPopupbox,
-    index
+    index,
   } = props;
   return (
     <div
@@ -406,7 +478,7 @@ const Card = props => {
       role="button"
       tabIndex={0}
       className={classnames(
-        isMasonry && "masonry-gallery",
+        isMasonry === false && "not-masonry",
         "gallery-card grid-item"
       )}
     >
@@ -431,71 +503,99 @@ const Card = props => {
           </div>
         </div>
         <a
-          onClick={e => {
+          onClick={(e) => {
             e.preventDefault();
-            if (!link.display) {
+            if (!link.display && action) {
               if (type === "singleGallery") {
                 return !isMobile && openPopupbox(0);
               } else if (type === "gridGallery") {
                 return !isMobile && openPopupbox(index);
               }
             } else {
-              return !isMobile && navigate(link.to);
+              return !isMobile && link.display && navigate(link.to);
             }
           }}
         >
           <div
             className={classnames(
               "animated",
-              type === "gridGallery" && "gridGallery",
+              type,
               activeCard === index && "zoomIn"
             )}
           >
             {ReactHtmlParser(body)}
-            {isMobile && (
+            {isMobile && type !== "staticGallery" && (
               <button
-                className="details"
-                onClick={e => {
+                className={`details ${type === "gridGallery" && "gridGallery"}`}
+                onClick={(e) => {
                   e.preventDefault();
-                  if (!link.display) {
+                  if (!link.display && action) {
                     if (type === "singleGallery") {
                       return openPopupbox(0);
                     } else if (type === "gridGallery") {
                       return openPopupbox(index);
                     }
                   } else {
-                    return navigate(link.to);
+                    return link.display && navigate(link.to);
                   }
                 }}
               >
-                {ReactHtmlParser(placeholder)}
+                {type === "singleGallery" && ReactHtmlParser(placeholder)}
+                {action && type === "gridGallery" && (
+                  <span>
+                    <i className="icon-search" />
+                  </span>
+                )}
               </button>
             )}
-            {action && type === "gridGallery" && (
-              <button type="button" className="gallery-btn">
+            {action && type === "gridGallery" && !isMobile && (
+              <span>
                 <i className="icon-search" />
-              </button>
+              </span>
             )}
           </div>
         </a>
       </div>
-      <Img
-        alt="dentalvip"
-        className={classnames(isMasonry && "masonry-gallery")}
-        fluid={image.childImageSharp.fluid}
-      />
+      {type === "staticGallery" ? (
+        <BackgroundImage
+          alt="dentalvip"
+          style={{
+            paddingBottom: "20%",
+            paddingTop: "20%",
+            height: " 100%",
+          }}
+          className={classnames(
+            isMasonry && "masonry-gallery",
+            "static-wrapper-img"
+          )}
+          fluid={image.childImageSharp.fluid}
+        >
+          <div
+            style={{
+              opacity: 0,
+            }}
+          >
+            {ReactHtmlParser(body)}
+          </div>
+        </BackgroundImage>
+      ) : (
+        <Img
+          alt="dentalvip"
+          className={classnames(isMasonry && "masonry-gallery")}
+          fluid={image.childImageSharp.fluid}
+        />
+      )}
     </div>
   );
 };
 
-const LightBoxCarousel = props => {
+const LightBoxCarousel = (props) => {
   const { index, images } = props;
   return (
     <ImageGallery
       startIndex={index}
       showFullscreenButton={false}
       showIndex
-      lazyLoad
       showThumbnails={false}
       showPlayButton={false}
       items={images}
