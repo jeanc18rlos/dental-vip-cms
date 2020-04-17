@@ -18,6 +18,9 @@ const StyledHeading = styled.section`
     @media (min-width: 1355px) {
       width: 80%;
     }
+    &.small{
+      ${scale(- .15)}
+    }
   }
 `;
 const Heading = props => {

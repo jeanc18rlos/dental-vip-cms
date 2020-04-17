@@ -577,7 +577,7 @@ const Header = (props) => {
                 >
                   <i className="icon-search"></i>
                   <span>
-                    {size.width < 1023 && [
+                    {size.width < 1024 && [
                       <a
                         key="facebook"
                         target="_blank"

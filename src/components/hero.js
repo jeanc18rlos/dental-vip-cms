@@ -12,6 +12,9 @@ const StyledHero = styled.section`
     min-height: 250px;
     max-width: 100vw;
     overflow: hidden;
+    @media screen and (max-width: 1024px) {
+      height: calc(100vh - 70px) !important;
+    }
     .indicator {
       position: absolute;
       bottom: 0;
@@ -46,9 +49,7 @@ const StyledHero = styled.section`
     &.center {
       justify-content: center;
     }
-    @media screen and (max-width: 1024px) {
-      height: calc(100vh - (70px)) !important;
-    }
+
     .captions {
       @media screen and (min-width: 1024px),
         screen and (min-height: 768px) and (min-width: 560px) {
@@ -101,24 +102,25 @@ const StyledHero = styled.section`
       }
     }
     &.parallax {
-      &:before {
+      &:before,:after {
         background-attachment: fixed;
       }
     }
 
     &:before {
-      transform: ${props => (props.scale ? "scale(1.2)" : "none")} !important;
+      transform: ${(props) => (props.scale ? "scale(1.2)" : "none")} !important;
       transition: transform 5s linear !important;
     }
-    @media screen and (orientation: portrait){
-      &:before{
-        background-position: ${props => props.portraitPosition && props.portraitPosition} !important
+    @media screen and (orientation: portrait) {
+      &:before {
+        background-position: ${(props) =>
+          props.portraitPosition && props.portraitPosition} !important;
       }
     }
   }
 `;
 
-const Hero = props => {
+const Hero = (props) => {
   const [scale, setScale] = useState(false);
   return (
     <StyledHero
@@ -128,14 +130,15 @@ const Hero = props => {
       scale={props.background.scaleOnReveal && scale}
     >
       <BackgroundImage
-        className={`bg ${props.className} ${props.background.isParallax && "parallax"}`}
+        className={`bg ${props.className} ${props.background.isParallax &&
+          "parallax"}`}
         Tag="div"
         fluid={props.background.img.childImageSharp.fluid}
       >
         {props.anim.display ? (
           <Fade
             {...{
-              [props.anim.type]: true
+              [props.anim.type]: true,
             }}
             onReveal={() => {
               props.background.scaleOnReveal && setScale(true);

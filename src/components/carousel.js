@@ -29,7 +29,7 @@ const StyledCarousel = styled.section`
 
     &::before {
       color: #999;
-      content: "\\E901";
+      content: "\\\E90c";
       font-family: "icomoon" !important;
       font-size: 75px !important;
       -webkit-font-smoothing: antialiased;
@@ -45,7 +45,7 @@ const StyledCarousel = styled.section`
 
     &::before {
       color: #999;
-      content: "\\E902";
+      content: "\\\E90d";
       float: right;
       font-family: "icomoon" !important;
       font-size: 75px !important;

@@ -24,6 +24,41 @@ const StyledContent = styled(Container)`
     &.big {
       font-size: ${rhythm(1.8)};
     }
+    &.mt-1 {
+      margin-top: ${rhythm(1)};
+    }
+  }
+  ul {
+    margin-left: 0;
+    display: flex;
+    flex-direction: column;
+    &.cols-2 {
+      @media screen and (min-width: 768px) {
+        flex-direction: row;
+        flex-flow: row wrap;
+        li {
+          display: flex;
+          flex-basis: 50%;
+          span {
+            word-break: break-word;
+          }
+        }
+      }
+    }
+    list-style: none;
+    li {
+      position: relative;
+      padding-left: 20px;
+      padding-right: 20px;
+      
+
+      .circle {
+        position: absolute;
+        left: -3px;
+        top: 3px;
+        color: #90c508;
+      }
+    }
   }
   h1,
   h2,

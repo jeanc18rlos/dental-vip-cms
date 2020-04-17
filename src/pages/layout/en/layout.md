@@ -174,8 +174,8 @@ footer:
       title: USE OF COOKIES
   copyright: >
     <p>
-      <i class="flag-icon flag-icon-ve"></i> &nbsp; RIF: J-40271686-9 |
+      <span><i class="flag-icon flag-icon-ve"></i></span> &nbsp; RIF: J-40271686-9 |
       Copyright © 2020 DENTAL VIP,  Especialidades Odontológicas s.c. All Rights Reserved.| Managed with GIT &nbsp;
-      <i class="flag-icon flag-icon-ve"></i>
+      <span><i class="icon-git"></i></span>
     </p>
 ---

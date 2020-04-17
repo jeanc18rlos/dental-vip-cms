@@ -11,12 +11,14 @@ import List from "../components/list";
 import Parallax from "../components/parallax";
 import Paragraph from "../components/asideParagrah";
 import Testimonial from "../components/testimonial";
+import Financing from "../components/financing";
 export const ClinicPageTemplate = ({
   hero,
   gallery,
   procedures,
   paragraph,
   parallax,
+  financing,
   quote,
   heading,
   list,
@@ -60,7 +62,7 @@ export const ClinicPageTemplate = ({
         />
       )}
       {quote.display && <Testimonial {...quote}></Testimonial>}
-
+      {financing.display && <Financing {...financing} />}
       {parallax.display && <Parallax {...parallax} />}
 
       <Boxes {...procedures}></Boxes>
@@ -79,6 +81,7 @@ const ClinicPage = ({ data }) => {
     heading,
     paragraph,
     gallery,
+    financing,
     list,
     quote,
     procedures,
@@ -100,6 +103,7 @@ const ClinicPage = ({ data }) => {
           list,
           paragraph,
           procedures,
+          financing,
           quote,
         }}
       />
@@ -147,6 +151,7 @@ export const pageQuery = graphql`
             body
           }
         }
+
         list {
           display
           items {
@@ -164,6 +169,35 @@ export const pageQuery = graphql`
               }
             }
             content
+          }
+        }
+        financing {
+          display
+          banner {
+            childImageSharp {
+              fluid(maxWidth: 800, quality: 80) {
+                ...GatsbyImageSharpFluid_withWebp
+              }
+            }
+          }
+          content
+          modal {
+            content
+            display
+            interval
+            placeholder
+          }
+          calculator {
+            warning
+            placeholders {
+              amount
+              time
+              rate
+              calculate
+              currency
+              result
+            }
+            advise
           }
         }
         parallax {

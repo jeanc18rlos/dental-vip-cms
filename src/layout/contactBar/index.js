@@ -9,19 +9,19 @@ import { navigate } from "gatsby";
 
 const StyledContactBar = styled(Container)`
   display: flex;
-  &.hidden {
+  @media screen and (max-width: 1023px) {
     display: none !important;
   }
 `;
 
 const Accordion = styled.ul`
   position: absolute;
-  background: ${props => (props.color ? props.color : "#222")};
+  background: ${(props) => (props.color ? props.color : "#222")};
   margin: 0;
   padding: 4px 0;
   padding-bottom: 0;
   list-style: none;
-  margin-top: ${props => (props.top ? props.top : "40px")};
+  margin-top: ${(props) => (props.top ? props.top : "40px")};
   margin-left: -15px;
   z-index: -1;
   -webkit-transition-delay: 0s;
@@ -35,12 +35,12 @@ const Accordion = styled.ul`
   -webkit-transition-timing-function: cubic-bezier(0.42, 0, 0.35, 0.93);
   transition-timing-function: cubic-bezier(0.42, 0, 0.35, 0.93);
 
-  visibility: ${props => (props.visible ? "visible" : "hidden")};
-  opacity: ${props => (props.visible ? "1" : "0")};
+  visibility: ${(props) => (props.visible ? "visible" : "hidden")};
+  opacity: ${(props) => (props.visible ? "1" : "0")};
 
-  -webkit-transform: ${props =>
+  -webkit-transform: ${(props) =>
     props.visible ? "translateZ(0)" : "translate3d(0, -100%, 0)"};
-  transform: ${props =>
+  transform: ${(props) =>
     props.visible ? "translateZ(0)" : "translate3d(0, -100%, 0)"};
 
   -webkit-animation-duration: 1s;
@@ -162,21 +162,19 @@ const List = styled.ul`
   }
 `;
 
-const ContactBar = props => {
+const ContactBar = (props) => {
   const [dropDown, setDropDownItems] = useState({});
 
-  const setDropDownItem = item => {
+  const setDropDownItem = (item) => {
     setDropDownItems({ ...dropDown, ...{ [item.id]: item } });
   };
-  const size = useWindowSize();
   return (
     <StyledContactBar
-      className={size.width && size.width <= 1024 && "hidden"}
       justifyContent="space-between"
       style={{
         boxShadow: "inset 1px 1px 0px 100px white",
         zIndex: 4,
-        position: "relative"
+        position: "relative",
       }}
     >
       <List>
@@ -184,7 +182,7 @@ const ContactBar = props => {
         {props.data.contactBar.details.map((i, k) => {
           return [
             <li key={`detail-${k}`}>{ReactHtmlParser(i.item)}</li>,
-            <span key={`separator-${k}`} className="separator"></span>
+            <span key={`separator-${k}`} className="separator"></span>,
           ];
         })}
       </List>
@@ -220,7 +218,7 @@ const ContactBar = props => {
         >
           <li>
             <a
-              onClick={e => {
+              onClick={(e) => {
                 e.preventDefault();
                 navigate(
                   props.langRedir === "/error"

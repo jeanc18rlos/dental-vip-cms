@@ -41,10 +41,9 @@ const SyledList = styled.section`
       }
     }
     .number-icon {
-      background: black;
+      background: none;
       display: flex;
-      color: white;
-      border-radius: 50%;
+      color: black;
       min-width: 50px;
       height: fit-content;
       overflow: hidden;
@@ -66,7 +65,7 @@ const List = props => {
         return (
           <div className="grid-item">
             <span className="number-icon">
-              <i className="icon-instagram"></i>
+              <i className={`icon-${k+1}`}></i>
             </span>
             <div className="content">{ReactHtmlParser(i.content)}</div>
           </div>

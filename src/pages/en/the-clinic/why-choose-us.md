@@ -150,6 +150,37 @@ gallery:
       body: >
         <h3>Pacientes del exterior</h3>
 
+# financing section
+financing:
+  display: false
+  banner: /uploads/banner-financing.png
+  content: >
+    <p></P>
+  modal:
+    display: false
+    interval: 10
+    content: >
+      <hr>
+    placeholder: OK
+
+  calculator:
+    warning: <p></p>
+    placeholders:
+      amount: >
+        <p></p>
+      time: >
+        <p></p>
+      rate: >
+        <p></p>
+      calculate: >
+        <p></p>
+      currency: >
+        <p></p>
+      result: >
+        <p></p>
+    advise: >
+      <p></p>
+
 # Procedures Section
 procedures:
   title: >

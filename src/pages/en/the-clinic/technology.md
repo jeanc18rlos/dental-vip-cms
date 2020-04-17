@@ -1,8 +1,8 @@
 ---
 templateKey: clinic-page
 language: en
-redirects: /la-clinica/instalaciones/
-title: Facilities
+redirects: /la-clinica/tecnologia/
+title: Technology
 description: seo description
 published: true
 tags:
@@ -12,18 +12,18 @@ tags:
 hero:
   background:
     scaleOnReveal: false
-    img: /uploads/hero-facilities.jpg
+    img: /uploads/hero-technology.jpg
     isParallax: true
   anim:
     display: true
     type: bottom
   height: full
   indicator: true
-  portraitPosition: 70% 50%
+  portraitPosition: center
   content:
     position: center
     body: >
-      <h1>Facilities</h1>
+      <h1>Technology</h1>
 
 # Paragraph
 paragraph:
@@ -100,224 +100,220 @@ parallax:
 
 # Gallery Section
 gallery:
-  display: true
-  type: gridGallery
-  carousel:
     display: true
-    placeholder: ROTATE THE DEVICE TO ENLARGE THE IMAGES
+    type: staticGallery
+    carousel:
+      display: false
+      placeholder: GIRE EL DISPOSITIVO PARA AMPLIAR LAS IMÁGENES
+      items:
+        - /uploads/lightbox-facilities-01.png
     items:
-      - /uploads/lightbox-facilities-01-en.png
-      - /uploads/lightbox-facilities-02-en.png
-      - /uploads/lightbox-facilities-03-en.png
-      - /uploads/lightbox-facilities-04-en.png
-      - /uploads/lightbox-facilities-05-en.png
-      - /uploads/lightbox-facilities-06-en.png
-      - /uploads/lightbox-facilities-07-en.png
-      - /uploads/lightbox-facilities-08-en.png
-      - /uploads/lightbox-facilities-09-en.png
-      - /uploads/lightbox-facilities-10-en.png
-      - /uploads/lightbox-facilities-11-en.png
-      - /uploads/lightbox-facilities-12-en.png
-      - /uploads/lightbox-facilities-13-en.png
-      - /uploads/lightbox-facilities-14-en.png
-      - /uploads/lightbox-facilities-15-en.png
-      - /uploads/lightbox-facilities-16-en.png
-      - /uploads/lightbox-facilities-17-en.png
-      - /uploads/lightbox-facilities-18-en.png
-      - /uploads/lightbox-facilities-19-en.png
-      - /uploads/lightbox-facilities-20-en.png
-      - /uploads/lightbox-facilities-21-en.png
-  items:
     - link:
         display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-01.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
+        to: /
+      image: /uploads/gallery-technology-01.jpg
+      placeholder: none
       body: >
-        <h3> MULTICENTRO EMPRESARIAL DEL ESTE</h3>
+        <h3>DENTAL LASER</h3>
+        <p>The EPIC™ diode laser is a state-of-the-art surgical and therapeutic
+        device, designed to perform a wide variety of soft tissue procedures, teeth whitening
+        and temporary pain relief.</p>
+      action: false
     - link:
         display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-02.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
+        to: /
+      image: /uploads/gallery-technology-02.jpg
+      placeholder: none
       body: >
-        <h3> MAIN ACCESS</h3>
+        <h3>HIGH INTENSITY LED LAMP</h3>
+        <p class="dv-text-feat">The ZOOM Advanced Power is a cold light lamp
+        for teeth whitening that emits UV light at wavelengths close to blue <i>(between
+        365-500 nm)</i> and that provides energy to accelerate the diffusion and oxidation
+        of bleaching solutions within the dental structure.</p>  
+      action: false
     - link:
         display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-03.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
+        to: /
+      image: /uploads/gallery-technology-03.jpg
+      placeholder: none
       body: >
-        <h3> RECEPTION AREA</h3>        
+        <h3>CAD-CAM SYSTEM</h3>
+        <p>Computerized technology that allows 3D scanning, digitalization and
+        data transfer to software that designs and manufactures any type of fixed ceramic
+        restoration through the activation and control of a robotic milling system.</p>
+        
+      action: false
     - link:
         display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-04.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
+        to: /
+      image: /uploads/gallery-technology-04.jpg
+      placeholder: none
       body: >
-        <h3> WAITING ROOM</h3>
+        <h3>KODAK RVG 5100 RADIOVISIOGRAPHY</h3>
+        <p>Computerized digital radiology that minimizes the generation of X-rays
+        and provides high-definition instantaneous images with more than 20 pairs of visible
+        lines per millimeter, thus expanding the technical capabilities of diagnosis and
+        clinical evaluation.</p>
+        
+      action: false
     - link:
         display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-05.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
+        to: /
+      image: /uploads/gallery-technology-05.jpg
+      placeholder: none
       body: >
-        <h3> WAITING ROOM</h3>
+        <h3> INTRAORAL CAMERA</h3>
+        <p>Captures and stores high-resolution digital images that allow us to
+        appreciate in detail the initial oral condition of the patient, design the smile,
+        compare and evaluate the final results of the esthetic dental treatment.</p>
+        
+      action: false
     - link:
         display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-06.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
+        to: /
+      image: /uploads/gallery-technology-06.jpg
+      placeholder: none
       body: >
-        <h3> WAITING ROOM</h3>
+        <h3>ERGONOMIC AND BIARTICULATED ARMCHAIRS</h3>
+        <p>Last generation dental units with wide and enveloping anatomical endorsements
+        that provide great comfort to the patient, reduce the level of stress and avoid
+        tensions or postural discomfort during treatment.</p>
+      action: false
     - link:
         display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-07.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
+        to: /
+      image: /uploads/gallery-technology-07.jpg
+      placeholder: none
       body: >
-        <h3> TOILETS</h3>
+        <h3>UV CURING LAMP</h3>
+        <p>Wireless halogen light device used to polymerize photosensitive plastic
+        materials in dental restoration processes and operative dentistry.</p>
+      action: false
     - link:
         display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-08.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
+        to: /
+      image: /uploads/gallery-technology-08.jpg
+      placeholder: none
       body: >
-        <h3> CENTRAL CORRIDOR</h3>
+        <h3>NSK CLEAN HEAD SYSTEM®</h3>
+        <p>High speed rotary equipment specially manufactured to prevent the entry
+        and accumulation of oral fluids and other contaminants, guaranteeing asepsis in
+        all types of dental procedures.</p>
+      action: false
     - link:
         display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-09.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
+        to: /
+      image: /uploads/gallery-technology-09.jpg
+      placeholder: none
       body: >
-        <h3> DENTAL ROOM 1</h3>
+        <h3>APEX LOCATOR</h3>
+        <p>Electronic instrument that basing on the frequency, resistance and electrical
+        impedance is able to locate the greatest apical constriction of the root and determine
+        the length of work within the root canal.</p>
+      action: false
     - link:
         display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-10.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
+        to: /
+      image: /uploads/gallery-technology-10.jpg
+      placeholder: none
       body: >
-        <h3> INTERVIEW AREA</h3>
+        <h3>BIOSONIC® S1 ULTRASONIC SCALER</h3>
+        <p class="dv-text-feat"> Powerful piezoelectric ultrasonic scaler that
+        facilitates the elimination of dental calculus, fillings, defective crowns and
+        the irrigation and mechanical instrumentation of root canals in endodontic therapy.</p>
+      action: false
     - link:
         display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-11.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
+        to: /
+      image: /uploads/gallery-technology-11.jpg
+      placeholder: none
       body: >
-        <h3> DENTAL ROOM 1</h3>
+        <h3>VACUUM SYSTEM</h3>
+        <p class="dv-text-feat">Vacuum machine for the thermoforming of myo-relaxing
+        plates, whitening splints, occlusal splints for bruxism, mouth guards, base plates,
+        individual trays, orthodontic retainers, surgical guides and provisional crowns.</p>
+        
+      action: false
     - link:
         display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-12.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
+        to: /
+      image: /uploads/gallery-technology-12.jpg
+      placeholder: none
       body: >
-        <h3> CLINICAL UNIT </h3
+        <h3>DIGITAL DENTISTRY</h3>
+        <p class="dv-text-feat">Extraoral digital camera, smile design software
+        and LED monitors to optimize communication with the patient and teamwork.</p>
+        
+      action: false
     - link:
         display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-13.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
+        to: /
+      image: /uploads/gallery-technology-13.jpg
+      placeholder: none
       body: >
-        <h3> DENTAL ROOM 2</h3>
+        <h3>SURGICAL IMPLANT UNIT</h3>
+        <p class="dv-text-feat">Electric motor for surgery and oral implantology
+        designed under an intuitive handling concept, with mechanized function and automatic
+        torque control that facilitate the correct conformation of the surgical bed, insertion
+        and screwing of dental implants.</p>
+        
+      action: false
     - link:
         display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-14.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
+        to: /
+      image: /uploads/gallery-technology-14.jpg
+      placeholder: none
       body: >
-        <h3> STERILIZATION</h3>
+        <h3>SANDBLASTER</h3>
+        <p class="dv-text-feat">Sandblasting and microabrasion technology for
+        the internal preparation of metals and ceramic restorations, adjustment and settlement
+        of crowns, optimization of proximal contacts and removal of oxides and residual
+        cements.</p>
+      action: false
     - link:
         display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-15.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
+        to: /
+      image: /uploads/gallery-technology-15.jpg
+      placeholder: none
       body: >
-        <h3> DENTAL ROOM 2</h3>
-    - link:
-        display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-16.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
-      body: >
-        <h3> RADIOLOGY</h3>
-    - link:
-        display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-17.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
-      body: >
-        <h3> DENTAL ROOM 3</h3>
-    - link:
-        display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-18.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
-      body: >
-        <h3> HIGH SUCTION</h3>
-    - link:
-        display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-19.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
-      body: >
-        <h3> DENTAL ROOM 3</h3>
-    - link:
-        display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-20.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
-      body: >
-        <h3> LED LIGHTING</h3>
-    - link:
-        display: false
-        to: /pacientes-del-exterior/
-      image: /uploads/lightbox-facilities-thumb-21.jpg
-      action: true
-      placeholder: >
-        <span> Ver más </span>
-      body: >
-        <h3> LABORATORY</h3>
+        <h3>PROGRAMAT® P310</h3>
+        <p class="dv-text-feat">Modern dental porcelain furnace equipped with
+        varied programs of sintered and QTK2 muffle technology that guarantee a homogeneous
+        distribution of heat, optimal atomic coalescence and the life cycle extension
+        of the various ceramic elements.</p>
+      action: false
     
+# financing section
+financing:
+  display: false
+  banner: /uploads/banner-financing.png
+  content: >
+    <p></P>
+  modal:
+    display: false
+    interval: 10
+    content: >
+      <hr>
+    placeholder: OK
+
+  calculator:
+    warning: <p></p>
+    placeholders:
+      amount: >
+        <p></p>
+      time: >
+        <p></p>
+      rate: >
+        <p></p>
+      calculate: >
+        <p></p>
+      currency: >
+        <p></p>
+      result: >
+        <p></p>
+    advise: >
+      <p></p>
+
 # Procedures Section
 procedures:
   title: >

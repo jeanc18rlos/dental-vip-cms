@@ -139,14 +139,24 @@ const Boxes = (props) => {
   return (
     <StyledBoxes>
       <Container
-        style={{
-          padding: `${rhythm(4)} calc(5vw - ${rhythm(0.5)} ) ${rhythm(3)}`,
-        }}
+        style={
+          props.internal
+            ? {
+                padding: `0 calc(5vw - ${rhythm(0.5)} ) ${rhythm(
+                  3
+                )}`,
+              }
+            : {
+                padding: `${rhythm(4)} calc(5vw - ${rhythm(0.5)} ) ${rhythm(
+                  3
+                )}`,
+              }
+        }
         justifyConten="center"
         alignItem="center"
         flexDirection="column"
       >
-        {ReactHtmlParser(props.title)}
+        {!props.internal && ReactHtmlParser(props.title)}
 
         <div className="grid-grow">
           {props.procedures.map((i, k) => {

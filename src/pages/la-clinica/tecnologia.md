@@ -19,7 +19,7 @@ hero:
     type: bottom
   height: full
   indicator: true
-  portraitPosition: 70% 50%
+  portraitPosition: center
   content:
     position: center
     body: >
@@ -108,26 +108,6 @@ gallery:
     placeholder: GIRE EL DISPOSITIVO PARA AMPLIAR LAS IMÁGENES
     items:
       - /uploads/lightbox-facilities-01.png
-      - /uploads/lightbox-facilities-02.png
-      - /uploads/lightbox-facilities-03.png
-      - /uploads/lightbox-facilities-04.png
-      - /uploads/lightbox-facilities-05.png
-      - /uploads/lightbox-facilities-06.png
-      - /uploads/lightbox-facilities-07.png
-      - /uploads/lightbox-facilities-08.png
-      - /uploads/lightbox-facilities-09.png
-      - /uploads/lightbox-facilities-10.png
-      - /uploads/lightbox-facilities-11.png
-      - /uploads/lightbox-facilities-12.png
-      - /uploads/lightbox-facilities-13.png
-      - /uploads/lightbox-facilities-14.png
-      - /uploads/lightbox-facilities-15.png
-      - /uploads/lightbox-facilities-16.png
-      - /uploads/lightbox-facilities-17.png
-      - /uploads/lightbox-facilities-18.png
-      - /uploads/lightbox-facilities-19.png
-      - /uploads/lightbox-facilities-20.png
-      - /uploads/lightbox-facilities-21.png
   items:
   - link:
       display: false
@@ -147,7 +127,7 @@ gallery:
     placeholder: none
     body: >
         <h3> Lámpara LED de Alta Intensidad</h3>
-        <p className="dv-text-feat">  La ZOOM Advanced Power es una lámpara de luz
+        <p class="dv-text-feat">  La ZOOM Advanced Power es una lámpara de luz
         fría para blanqueamiento dental que emite luz UV en longitudes de onda cercanas
         al azul <em>(entre 365-500 nm)</em> y que aporta energía para acelerar la difusión
         y oxidación de las soluciones blanqueadoras dentro de la estructura dental.</p>
@@ -238,7 +218,7 @@ gallery:
     placeholder: none
     body: >
         <h3> ULTRASONIDO BIOSONIC® S1</h3>
-        <p className="dv-text-feat">  Potente scaler ultrasónico piezoeléctrico que
+        <p class="dv-text-feat">  Potente scaler ultrasónico piezoeléctrico que
         facilita la eliminación de cálculo dental, obturaciones, coronas defectuosas y
         la irrigación e instrumentación mecánica de los conductos radiculares en la terapia
         endodóntica.</p>
@@ -250,7 +230,7 @@ gallery:
     placeholder: none
     body: >
         <h3> VACUUM DENTAL</h3>
-        <p className="dv-text-feat">  Máquina de vacío para el termoformado de placas
+        <p class="dv-text-feat">  Máquina de vacío para el termoformado de placas
         miorelajantes, férulas de blanqueamiento, férulas para el bruxismo, protectores
         bucales, placas base, cubetas individuales, retenedores de ortodoncia, guías quirúrgicas
         y coronas provisionales.</p>
@@ -262,7 +242,7 @@ gallery:
     placeholder: none
     body: >
         <h3> ODONTOLOGÍA DIGITAL</h3>
-        <p className="dv-text-feat">  Cámara digital extraoral, software de diseño
+        <p class="dv-text-feat">  Cámara digital extraoral, software de diseño
         de sonrisa y monitores LED para optimizar la comunicación con el paciente y el
         trabajo en equipo.</p>
     action: false
@@ -273,7 +253,7 @@ gallery:
     placeholder: none
     body: >
         <h3> UNIDAD QUIRÚRGICA</h3>
-        <p className="dv-text-feat">  Motor eléctrico para cirugía e implantología
+        <p class="dv-text-feat">  Motor eléctrico para cirugía e implantología
         oral diseñado bajo un concepto de manejo intuitivo, con función de mecanizado
         y control automático del torque que facilitan la correcta conformación del lecho
         quirúrgico, inserción y atornillado de los implantes dentales.</p>
@@ -285,7 +265,7 @@ gallery:
     placeholder: none
     body: >
         <h3> SANDBLASTER</h3>
-        <p className="dv-text-feat">  Tecnología de arenado y microabrasión para la
+        <p class="dv-text-feat">  Tecnología de arenado y microabrasión para la
         preparación interna de metales y restauraciones cerámicas, ajuste y asentamiento
         de coronas, optimización de contactos proximales y remoción de óxidos y cementos
         residuales.</p>
@@ -297,11 +277,42 @@ gallery:
     placeholder: none
     body: >
         <h3> PROGRAMAT® P310</h3>
-        <p className="dv-text-feat">  Moderno horno de cocción para cerámica dental
+        <p class="dv-text-feat">  Moderno horno de cocción para cerámica dental
         equipado con variados programas de sinterizado y tecnología de mufla QTK2 que
         garantizan una distribución homogénea del calor, óptima coalescencia atómica y
         prolongación del ciclo de vida de los diversos elementos cerámicos.</p>
     action: false
+
+# financing section
+financing:
+  display: false
+  banner: /uploads/banner-financing.png
+  content: >
+    <p></P>
+  modal:
+    display: false
+    interval: 10
+    content: >
+      <hr>
+    placeholder: OK
+
+  calculator:
+    warning: <p></p>
+    placeholders:
+      amount: >
+        <p></p>
+      time: >
+        <p></p>
+      rate: >
+        <p></p>
+      calculate: >
+        <p></p>
+      currency: >
+        <p></p>
+      result: >
+        <p></p>
+    advise: >
+      <p></p>
 
 # Procedures Section
 procedures:

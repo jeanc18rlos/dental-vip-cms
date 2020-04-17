@@ -2,8 +2,6 @@ import React from "react";
 import { Container } from "../../Elements/Container";
 import { colors } from "../../styles";
 import styled from "styled-components";
-import "flag-icon-css/css/flag-icon.min.css";
-import logo from "../../css/icons/svg/logo.svg";
 import { rhythm, scale } from "../../utils/typography";
 import ReactHtmlParser from "react-html-parser";
 import Img from "gatsby-image";

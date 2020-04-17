@@ -178,6 +178,6 @@ footer:
       <i class="flag-icon flag-icon-ve"></i> &nbsp; RIF: J-40271686-9 |
       Copyright © 2020 DENTAL VIP, Especialidades Odontológicas s.c. Todos
       los Derechos Reservados.| Gestionado con GIT &nbsp;
-      <i class="flag-icon flag-icon-ve"></i>
+      <i class="icon-git"></i>
     </p>
 ---

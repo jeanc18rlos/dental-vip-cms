@@ -19,7 +19,7 @@ hero:
     type: bottom
   height: full
   indicator: true
-  portraitPosition: 70% 50%
+  portraitPosition: center
   content:
     position: center
     body: >
@@ -36,8 +36,7 @@ paragraph:
 # Heading Section
 heading:
   display: true
-  content:
-    <h1 class="title">A Space Designed for Your Tranquility</h1>
+  content: <h1 class="title">A Space Designed for Your Tranquility</h1>
     <p>A unique facilities, an exceptional technological equipment and an ideal environment for our patients to enjoy a different Dentistry with the highest level of comfort, hygiene and safety; always looking for the best possible result.</p>
 
 # List Section
@@ -51,7 +50,7 @@ list:
 # Quote Section
 quote:
   display: false
-  color: '#ededed'
+  color: "#ededed"
   content: >
     <p class="content">THE RESPECT FOR THE LIFE AND INTEGRITY OF THE HUMAN PERSON, THE PROMOTION AND PRESERVATION OF HEALTH, AS A COMPONENT OF DEVELOPMENT AND SOCIAL WELFARE, AND ITS EFFECTIVE PROJECTION TO THE COMMUNITY; CONSTITUTE IN ALL CIRCUMSTANCES THE PRINCIPAL DUTY OF THE DENTIST".
     </p>
@@ -154,7 +153,7 @@ gallery:
       placeholder: >
         <span> Ver más </span>
       body: >
-        <h3> RECEPTION AREA</h3>        
+        <h3> RECEPTION AREA</h3>
     - link:
         display: false
         to: /pacientes-del-exterior/
@@ -317,7 +316,37 @@ gallery:
         <span> Ver más </span>
       body: >
         <h3> LABORATORY</h3>
-    
+
+# financing section
+financing:
+  display: false
+  banner: /uploads/banner-financing.png
+  content: >
+    <p></P>
+  modal:
+    display: false
+    interval: 10
+    content: >
+      <hr>
+    placeholder: OK
+
+  calculator:
+    warning: <p></p>
+    placeholders:
+      amount: >
+        <p></p>
+      time: >
+        <p></p>
+      rate: >
+        <p></p>
+      calculate: >
+        <p></p>
+      currency: >
+        <p></p>
+      result: >
+        <p></p>
+    advise: >
+      <p></p>
 # Procedures Section
 procedures:
   title: >
