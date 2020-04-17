@@ -88,7 +88,6 @@ module.exports = {
         showSpinner: true,
       },
     },
-    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-plugin-typography`,
       options: {
