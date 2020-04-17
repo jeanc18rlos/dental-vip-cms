@@ -102,7 +102,8 @@ const StyledHero = styled.section`
       }
     }
     &.parallax {
-      &:before,:after {
+      &:before,
+      :after {
         background-attachment: fixed;
       }
     }
@@ -127,7 +128,7 @@ const Hero = (props) => {
       height={props.height}
       indicator={props.indicator}
       portraitPosition={props.portraitPosition}
-      scale={props.background.scaleOnReveal && scale}
+      scale={props.background.scaleOnReveal ? scale : false}
     >
       <BackgroundImage
         className={`bg ${props.className} ${props.background.isParallax &&

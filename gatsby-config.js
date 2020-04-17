@@ -88,6 +88,7 @@ module.exports = {
         showSpinner: true,
       },
     },
+    "gatsby-plugin-remove-serviceworker",
     {
       resolve: `gatsby-plugin-typography`,
       options: {

@@ -24,10 +24,10 @@ const StyledModal = styled.div`
     text-align: center !important;
     max-width: 480px;
   }
-  button{
+  button {
     background: none !important;
     border: none;
-    h1{
+    h1 {
       ${scale(1.25)}
       margin-bottom: 0 !important
     }
@@ -128,15 +128,16 @@ const Financing = (props) => {
     PopupboxManager.open({ content });
   };
   useEffect(() => {
-    // Update the document title using the browser API
-    props.modal.display &&
-      setInterval(() => {
-        if (!modal) {
-          setModal(true);
-          openPopupbox();
-        }
-      }, props.modal.interval);
-  });
+    const interval = setInterval(() => {
+      if (props.modal.display && !modal) {
+        setModal(true);
+        openPopupbox();
+      }
+    }, props.modal.interval);
+
+    return () => clearInterval(interval);
+  }, []);
+
   return (
     <StyledSection>
       <PopupboxContainer />
