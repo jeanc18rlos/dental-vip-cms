@@ -11,7 +11,7 @@ const StyledPage = styled.section`
   * {
     color: #555;
   }
-  padding: ${rhythm(2)} 0 ${rhythm(3)};
+  padding: ${rhythm(1)} 0 ${rhythm(2)};
   h1 {
     font-family: "Bebas Neue Bold";
   }
@@ -23,6 +23,7 @@ const StyledPage = styled.section`
     margin-bottom: ${rhythm(2)};
   }
   a {
+    word-break: break-all;
     color: #91c508;
   }
 `;

@@ -4,11 +4,28 @@ import { rhythm, scale } from "../utils/typography";
 import { Container } from "../Elements/Container";
 import ReactHtmlParser from "react-html-parser";
 const StyledHeading = styled.section`
+  &.dark {
+    background-color: #222;
+    p,
+    .title {
+      color: white;
+    }
+  }
+  .thin {
+    font-weight: 300;
+    ${scale(0.2)};
+  }
   text-align: center;
   padding: ${rhythm(4)} 0 ${rhythm(3)};
   .title {
     font-weight: 300;
     margin-bottom: ${rhythm(2)};
+    .icon {
+      font-size: 52px;
+      background: black;
+      border-radius: 50%;
+      padding: 10px;
+    }
     @media (min-width: 1355px) {
       width: 80%;
     }
@@ -18,15 +35,16 @@ const StyledHeading = styled.section`
     @media (min-width: 1355px) {
       width: 80%;
     }
-    &.small{
-      ${scale(- .15)}
+    &.small {
+      ${scale(-0.15)}
     }
   }
 `;
-const Heading = props => {
+const Heading = (props) => {
   return (
-    <StyledHeading>
+    <StyledHeading className={props.className}>
       <Container
+        color={props.color}
         justifyConten="center"
         alignItem="center"
         flexDirection="column"

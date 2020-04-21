@@ -5,7 +5,7 @@ import { Container } from "../../Elements/Container";
 import { colors } from "../../styles";
 import { useWindowSize } from "../../utils/hooks";
 import SmoothCollapse from "react-smooth-collapse";
-
+import { scale } from "../../utils/typography";
 import logo from "../../css/icons/svg/logo.svg";
 
 const StyledHeader = styled.header`
@@ -104,17 +104,13 @@ const StyledHeader = styled.header`
           justify-content: center;
           align-items: center;
           a {
-            font-size: 16px;
-            padding-right: 15px;
-            color: #999999;
-            background: black;
-            border-radius: 50%;
+            font-size: 18px;
+            color: #222;
+            background: #999999;
+            -webkit-text-decoration: none;
+            padding: 0.5em 0.5em;
             text-decoration: none;
             margin: 0px 10px;
-            &:hover {
-              color: black;
-              background: white;
-            }
           }
         }
       }
@@ -126,17 +122,21 @@ const StyledHeader = styled.header`
       display: flex;
     }
     @media screen and (min-width: 1024px) {
+      h5 {
+        ${scale(-0.2)}
+      }
       h6 {
+        ${scale(-0.4)}
         padding: 10px 0px;
       }
     }
     @media screen and (max-width: 1023px) {
       border-bottom: 1px solid hsla(0, 0%, 60%, 0.2);
       a {
-        padding-bottom: 15px;
+        padding-bottom: 20px;
         padding-left: 15px;
         justify-content: space-between;
-        padding-top: 15px;
+        padding-top: 20px;
         padding-right: 15px;
 
         h5,
@@ -367,16 +367,18 @@ const Header = (props) => {
           {size.width < 1024 && (
             <ul>
               <li>
-                <a style={{ paddingRight: "25px", display: "flex" }}>
+                <a style={{ paddingRight: "50px", display: "flex" }}>
                   <i style={{ fontSize: "20px" }} className="icon-phone"></i>
                 </a>
               </li>
               <li>
                 <a
                   style={{ display: "flex" }}
-                  className={`${dropDown[`mobileDropDown`] &&
+                  className={`${
+                    dropDown[`mobileDropDown`] &&
                     dropDown[`mobileDropDown`].action &&
-                    "active"}`}
+                    "active"
+                  }`}
                   onClick={(e) => {
                     e.preventDefault();
                     setDropDownItem({
@@ -423,17 +425,19 @@ const Header = (props) => {
                     <h5>
                       <i
                         className={`flag-icon flag-icon-${
-                          props.lang === "en" ? "us" : "ve"
+                          props.lang === "en" ? "us" : "es"
                         }`}
                       ></i>{" "}
                       &nbsp;&nbsp;{props.lang}
                     </h5>
 
                     <span
-                      className={`icon-wrapper ${(dropDown[`dropdown-lang`] &&
-                        dropDown[`dropdown-lang`].action &&
-                        "rotate") ||
-                        ""}`}
+                      className={`icon-wrapper ${
+                        (dropDown[`dropdown-lang`] &&
+                          dropDown[`dropdown-lang`].action &&
+                          "rotate") ||
+                        ""
+                      }`}
                     >
                       <i className="icon-angle-down"></i>
                     </span>
@@ -453,8 +457,10 @@ const Header = (props) => {
                           e.preventDefault();
                           navigate(
                             props.langRedir === "/error"
-                              ? `${(props.lang === "es" && "/en/error") ||
-                                  props.langRedir}`
+                              ? `${
+                                  (props.lang === "es" && "/en/error") ||
+                                  props.langRedir
+                                }`
                               : props.langRedir
                           );
                         }}
@@ -462,7 +468,7 @@ const Header = (props) => {
                         <h6>
                           <i
                             className={`flag-icon flag-icon-${
-                              props.lang === "es" ? "us" : "ve"
+                              props.lang === "es" ? "us" : "es"
                             }`}
                           ></i>{" "}
                           &nbsp;&nbsp;
@@ -502,22 +508,22 @@ const Header = (props) => {
                       to={i.to}
                       activeClassName="active"
                       partiallyActive={i.menu.display || i.to === "/en/"}
-                      className={`${i.menu.display && "disabled"} ${dropDown[
-                        `dropdown${k}`
-                      ] &&
+                      className={`${i.menu.display && "disabled"} ${
+                        dropDown[`dropdown${k}`] &&
                         dropDown[`dropdown${k}`].action &&
-                        "active"}`}
+                        "active"
+                      }`}
                     >
                       <h5>{i.title}</h5>
 
                       {i.menu.display && (
                         <span
-                          className={`icon-wrapper ${(dropDown[
-                            `dropdown${k}`
-                          ] &&
-                            dropDown[`dropdown${k}`].action &&
-                            "rotate") ||
-                            ""}`}
+                          className={`icon-wrapper ${
+                            (dropDown[`dropdown${k}`] &&
+                              dropDown[`dropdown${k}`].action &&
+                              "rotate") ||
+                            ""
+                          }`}
                         >
                           <i className="icon-angle-down"></i>
                         </span>

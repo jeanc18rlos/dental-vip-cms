@@ -65,7 +65,7 @@ list:
         <p></p>
 
 # Quote Section
-quote:
+testimonial:
   display: true
   color: '#ededed'
   content: >

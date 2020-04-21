@@ -21,9 +21,10 @@ hero:
   indicator: false
   portraitPosition: center
   content:
-    position: bottom
+    position: center left-aligned
     body: >
       <h2 class="wrapped">Salud, Belleza y Función</h2>
+      <br><br>
       <h3 class="no-mob">¡Una Especialidad para Cada Tratamiento!</h3>
       <h1>INNOVACIÓN Y PRESTIGIO EN ODONTOLOGÍA</h1>
 
@@ -199,7 +200,7 @@ statistics:
     - number: 20
       title: >
         <h1>Años de<br> experiencia</h1>
-    - number: 17000
+    - number: 580000
       title: >
         <h1>Intervenciones<br> electivas</h1>
     - number: 9500

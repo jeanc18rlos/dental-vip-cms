@@ -14,7 +14,7 @@ delete elkGlenTheme.googleFonts
 const typography = new Typography(
   {
     baseFontSize: "16px",
-    baseLineHeight: 1.666,
+    baseLineHeight: 1.6,
     headerFontFamily: [
       "Roboto"
     ],

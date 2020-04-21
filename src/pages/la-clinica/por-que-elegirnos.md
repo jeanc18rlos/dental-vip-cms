@@ -78,7 +78,7 @@ list:
 
 
 # Quote Section
-quote:
+testimonial:
   display: false
   color: red
   content: >

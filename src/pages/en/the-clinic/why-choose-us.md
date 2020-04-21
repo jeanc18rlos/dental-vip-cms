@@ -88,7 +88,7 @@ list:
         Plans and Commercial Point of Sale for payment with Debit and Credit Cards.</p>
 
 # Quote Section
-quote:
+testimonial:
   display: false
   color: red
   content: >

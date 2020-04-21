@@ -21,7 +21,7 @@ const StyledBoxes = styled.section`
     padding-left: 5vw;
     padding-right: 5vw;
     text-align: center;
-    margin-bottom: ${rhythm(1)};
+    margin-bottom: ${rhythm(2)};
   }
   .animated {
     -webkit-transition: -webkit-transform 1s cubic-bezier(0.42, 0, 0.35, 0.93);
@@ -96,12 +96,10 @@ const StyledBoxes = styled.section`
             }
           }
         }
-        &:hover {
-          box-shadow: 0 0 19px 0 hsla(0, 0%, 68.6%, 0.8);
-        }
+
         h5 {
-          margin-bottom: ${rhythm(0.5)};
-          margin-top: ${rhythm(0.5)};
+          margin-bottom: ${rhythm(1)};
+          margin-top: ${rhythm(1)};
           text-transform: uppercase;
           font-weight: 400;
           color: #333;
@@ -112,7 +110,7 @@ const StyledBoxes = styled.section`
           text-transform: uppercase;
         }
         .indicator {
-          margin-bottom: ${rhythm(0.5)};
+          margin-bottom: ${rhythm(1)};
           display: flex;
           justify-content: center;
           i {

@@ -102,17 +102,12 @@ const List = styled.ul`
   &.social {
     li {
       padding-right: 0;
-      padding-left: 10px;
+      padding-left: 15px;
       a {
-        transition: background 0.5s linear;
-        color: white;
-        background: #222;
-        padding: 1em;
+        color: black;
+        padding: 1em 0;
         text-decoration: none;
-        &:hover {
-          color: #222;
-          background: white;
-        }
+       
       }
     }
   }
@@ -197,7 +192,7 @@ const ContactBar = (props) => {
         <span>
           <i
             className={`flag-icon flag-icon-${
-              props.lang === "es" ? "ve" : "us"
+              props.lang === "es" ? "es" : "us"
             }`}
           ></i>
           <h6>{props.lang}</h6>
@@ -231,7 +226,7 @@ const ContactBar = (props) => {
               <span>
                 <i
                   className={`flag-icon flag-icon-${
-                    props.lang === "en" ? "ve" : "us"
+                    props.lang === "en" ? "es" : "us"
                   }`}
                 ></i>
                 <h6>{props.lang === "en" ? "Español" : "English"}</h6>

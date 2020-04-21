@@ -11,7 +11,7 @@ import { navigate } from "gatsby";
 import { rhythm, scale } from "../utils/typography";
 import BackgroundImage from "gatsby-background-image";
 const ModalCarousel = styled.div`
-  max-width: 1200px;
+  max-width: 900px;
   margin: auto;
   display: flex;
   justify-content: center;
@@ -23,7 +23,7 @@ const ModalCarousel = styled.div`
     font-size: x-large;
     padding: 6px 20px;
     position: absolute;
-    left: 20px;
+    right: 20px;
     top: 20px;
     line-height: 0;
     border: none;
@@ -365,6 +365,9 @@ const StyledGallery = styled.section`
             }
           }
           h3 {
+            @media screen and (min-width: 1024px) {
+             ${scale(0.2)} 
+            }
             text-transform: uppercase;
             margin-bottom: 0.6em;
           }

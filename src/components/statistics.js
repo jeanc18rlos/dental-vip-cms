@@ -49,7 +49,7 @@ const StyledContent = styled(Container)`
     max-width: 300px;
     span {
       font-family: "Bebas Neue Bold";
-      font-size: 62px;
+      font-size: 58px;
     }
     h1 {
       text-shadow: black 2px 4px 9px;
@@ -61,7 +61,7 @@ const StyledContent = styled(Container)`
     @media screen and (max-width: 1023px) {
       max-width: 200px !important;
       span {
-        font-size: 48px !important;
+        font-size: 42px !important;
       }
       h1 {
         ${scale(0.5)};
@@ -77,7 +77,7 @@ const StyledContent = styled(Container)`
         max-width: 180px;
       }
       span {
-        font-size: 38px !important;
+        font-size: 32px !important;
       }
       h1 {
         display: flex;
@@ -116,11 +116,19 @@ const Statistics = props => {
               <Fade key={`item-${k}`} onReveal={() => setProgress(100)}>
                 <div className="statistics">
                   <ProgressBar
+                 
+                  strokeWidth={2}
+                
+                  trackStrokeWidth={2}
+                  pointerRadius={12}
+                  pointerStrokeWidth={2}
+                  pointerStrokeColor="#91c508"
+
                     radius={100}
                     progress={progress}
-                    strokeWidth={18}
+                   
                     strokeColor="#91c508"
-                    strokeLinecap="square"
+               
                     trackStrokeWidth={18}
                     transition="3s ease 0.5s"
                     trackTransition="0s ease"
@@ -135,9 +143,9 @@ const Statistics = props => {
                             style={{
                               transition: "0.8s ease-out",
                               fontSize:
-                                (size.width > 1023 && 70) ||
-                                (size.width > 450 && size.width <= 768 && 50) ||
-                                (size.width <= 450 && 40),
+                                (size.width > 1023 && 65) ||
+                                (size.width > 450 && size.width <= 768 && 45) ||
+                                (size.width <= 450 && 35),
                               fontFamily: "Bebas Neue Bold",
                               transitionProperty: "opacity"
                             }}

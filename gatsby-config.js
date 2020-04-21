@@ -13,7 +13,6 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-react-helmet",
-    `gatsby-plugin-styled-components`,
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: "gatsby-source-filesystem",
@@ -36,7 +35,13 @@ module.exports = {
         name: "images",
       },
     },
-    "gatsby-plugin-sharp",
+
+    {
+      resolve: "gatsby-plugin-sharp",
+      options: {
+        useMozJpeg: true,
+      },
+    },
     "gatsby-transformer-sharp",
     {
       resolve: "gatsby-transformer-remark",
@@ -54,7 +59,7 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 2048,
+              maxWidth: 1600,
             },
           },
           {
@@ -89,19 +94,12 @@ module.exports = {
       },
     },
     "gatsby-plugin-remove-serviceworker",
+    `gatsby-plugin-styled-components`,
     {
       resolve: `gatsby-plugin-typography`,
       options: {
         pathToConfigModule: `src/utils/typography`,
       },
     },
-    /*{
-      resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
-      options: {
-        develop: true, // Activates purging in npm run develop
-        purgeOnly: ['/all.sass'], // applies purging only on the bulma css file
-      },
-    }, // must be after other CSS plugins*/
-    "gatsby-plugin-netlify", // make sure to keep it last in the array
   ],
 };

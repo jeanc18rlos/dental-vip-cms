@@ -19,7 +19,7 @@ export const ClinicPageTemplate = ({
   paragraph,
   parallax,
   financing,
-  quote,
+  testimonial,
   heading,
   list,
 }) => {
@@ -61,7 +61,7 @@ export const ClinicPageTemplate = ({
           items={gallery.items}
         />
       )}
-      {quote.display && <Testimonial {...quote}></Testimonial>}
+      {testimonial.display && <Testimonial {...testimonial}></Testimonial>}
       {financing.display && <Financing {...financing} />}
       {parallax.display && <Parallax {...parallax} />}
 
@@ -83,7 +83,7 @@ const ClinicPage = ({ data }) => {
     gallery,
     financing,
     list,
-    quote,
+    testimonial,
     procedures,
   } = data.markdownRemark.frontmatter;
 
@@ -104,7 +104,7 @@ const ClinicPage = ({ data }) => {
           paragraph,
           procedures,
           financing,
-          quote,
+          testimonial,
         }}
       />
     </Layout>
@@ -132,7 +132,7 @@ export const pageQuery = graphql`
             scaleOnReveal
             img {
               childImageSharp {
-                fluid(maxWidth: 1600, quality: 100) {
+                fluid(quality: 50, srcSetBreakpoints: [  1500 ]) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
@@ -163,7 +163,7 @@ export const pageQuery = graphql`
           items {
             img {
               childImageSharp {
-                fluid(maxWidth: 800, quality: 80) {
+                fluid(srcSetBreakpoints: [ 800 ], quality: 50) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
@@ -175,7 +175,7 @@ export const pageQuery = graphql`
           display
           banner {
             childImageSharp {
-              fluid(maxWidth: 800, quality: 80) {
+              fluid(srcSetBreakpoints: [ 800 ], quality: 50) {
                 ...GatsbyImageSharpFluid_withWebp
               }
             }
@@ -205,28 +205,28 @@ export const pageQuery = graphql`
           portraitPosition
           img {
             childImageSharp {
-              fluid(maxWidth: 1500, quality: 80) {
+              fluid(srcSetBreakpoints: [ 1500 ], quality: 50) {
                 ...GatsbyImageSharpFluid_withWebp
               }
             }
           }
           content
         }
-        quote {
+        testimonial {
           display
           color
           content
           images {
             portrait {
               childImageSharp {
-                fluid(maxWidth: 700, quality: 80) {
+                fluid(srcSetBreakpoints: [ 480 ], quality: 50) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }
             landscape {
               childImageSharp {
-                fluid(maxWidth: 700, quality: 80) {
+                fluid(srcSetBreakpoints: [ 700 ], quality: 50) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
@@ -241,7 +241,7 @@ export const pageQuery = graphql`
             placeholder
             items {
               childImageSharp {
-                fluid(maxWidth: 1200, quality: 80) {
+                fluid(srcSetBreakpoints: [ 1200 ], quality: 50) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
@@ -254,7 +254,7 @@ export const pageQuery = graphql`
             }
             image {
               childImageSharp {
-                fluid(maxWidth: 450, quality: 75) {
+                fluid(srcSetBreakpoints: [ 450 ], quality: 50) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
@@ -271,7 +271,7 @@ export const pageQuery = graphql`
             to
             img {
               childImageSharp {
-                fluid(maxWidth: 550, quality: 100) {
+                fluid(srcSetBreakpoints: [ 550 ], quality: 50) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }

@@ -63,13 +63,7 @@ const StyledSection = styled.section`
     width: 100%;
     display: flex;
     justify-content: center;
-    @media screen and (max-width: 600px) {
-      flex-direction: column;
-      align-items: center;
-      &:before {
-        display: none;
-      }
-    }
+   
   }
   .partners {
     max-width: 130px;

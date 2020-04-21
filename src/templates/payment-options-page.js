@@ -78,7 +78,7 @@ const StyledPage = styled.section`
   .message {
     font-weight: 300;
     color: #333;
-    ${scale(1)};
+    ${scale(.8)};
     margin: auto;
     padding: ${rhythm(1)};
     margin-top: ${rhythm(3)} !important;

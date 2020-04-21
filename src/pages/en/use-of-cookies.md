@@ -42,8 +42,7 @@ Safari: [https://support.apple.com/en-us/HT201265](https://support.apple.com/en-
 
 ## Modifications
 
-The website [https://www.dentalvip.com.ve/en owned by DENTAL VIP, Especialidades Odontológicas s.c. can modify this Cookies Policy according to the legal requirements, as well as, in order to adapt it to the demands dictated by any of the different public institutions of the state.](/en)
+The website [https://www.dentalvip.com.ve/en](https://www.dentalvip.com.ve/en) owned by DENTAL VIP, Especialidades Odontológicas s.c. can modify this Cookies Policy according to the legal requirements, as well as, in order to adapt it to the demands dictated by any of the different public institutions of the state.
 
 For this reason, we advise users to visit it periodically. When significant changes occur in this Cookies Policy, they will be communicated immediately, either through the web or through registered emails.
 
-Text composed with [the best online HTML editor](https://html-online.com/editor/). Please subscribe for a HTML G membership to remove similar messages from the edited documents.

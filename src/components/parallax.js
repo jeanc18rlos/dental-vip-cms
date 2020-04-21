@@ -13,6 +13,8 @@ const StyledContent = styled(Container)`
   color: white;
   padding-top: ${rhythm(4)};
   padding-bottom: ${rhythm(4)};
+  max-width: 1250px;
+  margin: auto;
   .nmb {
     margin-bottom: 0 !important;
   }
@@ -50,7 +52,6 @@ const StyledContent = styled(Container)`
       position: relative;
       padding-left: 20px;
       padding-right: 20px;
-      
 
       .circle {
         position: absolute;
@@ -67,6 +68,7 @@ const StyledContent = styled(Container)`
     font-weight: 300;
   }
   p {
+    ${scale(0.2)}
     &.text-left {
       align-self: flex-start;
     }
@@ -77,13 +79,12 @@ const StyledContent = styled(Container)`
   .social-links {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-evenly;
+    width: 100%;
     align-items: center;
     margin-top: ${rhythm(3)};
     margin-bottom: ${rhythm(3)};
-    @media screen and (max-width: 425px) {
-      flex-direction: column !important;
-    }
+
     @media screen and (max-width: 600px) {
       margin-top: ${rhythm(2)} !important;
       margin-bottom: ${rhythm(2)} !important;
@@ -95,6 +96,17 @@ const StyledContent = styled(Container)`
           height: 90px !important;
           width: 94px !important;
           font-size: 2em !important;
+        }
+      }
+      @media screen and (max-width: 425px) {
+        .social-item {
+          a {
+            height: 60px !important;
+            width: 59px !important;
+          }
+          h3 {
+            font-size: 13px;
+          }
         }
       }
     }

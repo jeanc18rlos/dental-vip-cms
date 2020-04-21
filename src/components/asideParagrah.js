@@ -3,13 +3,42 @@ import BackgroundImage from "gatsby-background-image";
 import styled, { css } from "styled-components";
 import { rhythm, scale } from "../utils/typography";
 import { Container } from "../Elements/Container";
-
+import { Link } from "gatsby";
 import ReactHtmlParser from "react-html-parser";
 
 import { useWindowSize } from "../utils/hooks";
 
 const StyledContent = styled(Container)`
   padding: 0;
+  .link {
+    width: fit-content;
+    cursor: pointer;
+    font-weight: 700;
+    padding: 10px 20px;
+    color: #222 !important;
+    border: 1px solid #222;
+    text-transform: uppercase;
+    background-color: #fff;
+    text-decoration: none !important;
+    margin-bottom: ${rhythm(1)} !important;
+    &:hover {
+      background-color: #222 !important;
+      color: #fff !important;
+    }
+  }
+  .icon {
+    width: 100%;
+    padding-bottom: 50px;
+    margin-bottom: ${rhythm(1)} !important;
+    &:before,
+    :after {
+      background-size: contain !important;
+      background-position: left !important;
+    }
+  }
+  .bebas {
+    font-family: "Bebas Neue Bold";
+  }
   hr {
     display: none;
   }
@@ -56,7 +85,7 @@ const StyledContent = styled(Container)`
     }
     @media screen and (max-width: 768px) {
       &:nth-last-of-type(1n) {
-        padding-bottom: ${rhythm(2)} !important;
+        padding-bottom: ${rhythm(3)} !important;
       }
       padding: 0 5vw !important;
       flex-direction: column !important;
@@ -64,7 +93,8 @@ const StyledContent = styled(Container)`
       .content-wrapper {
         padding: 0 !important;
         max-width: 100% !important;
-        h2 {
+        h2,
+        h1 {
           margin-top: ${rhythm(2)};
           span {
             height: 35px !important;
@@ -87,6 +117,12 @@ const StyledContent = styled(Container)`
       @media screen and (min-width: 1024px) {
         min-height: 70vh;
       }
+      @media screen and (min-width: 1024px) {
+        .content-wrapper {
+          margin-top: ${rhythm(3)} !important;
+          margin-bottom: ${rhythm(2)} !important;
+        }
+      }
       .content-wrapper {
         margin-top: ${rhythm(2)};
         margin-bottom: ${rhythm(1)};
@@ -105,9 +141,11 @@ const StyledContent = styled(Container)`
       flex-direction: column;
       padding: 0 5vw;
       max-width: 50%;
-      h2 {
+      h2,
+      h1 {
         display: flex;
         align-items: center;
+        margin-top: ${rhythm(1)};
         span {
           color: #91c508;
           height: 70px;
@@ -141,6 +179,17 @@ const Paragraph = (props) => {
             <div className="content-wrapper">
               {props.top && <hr className="top"></hr>}
               {ReactHtmlParser(i.content)}
+              {i.footer && i.footer.icon.display && (
+                <BackgroundImage
+                  fluid={i.footer.icon.img.childImageSharp.fluid}
+                  className="icon"
+                />
+              )}
+              {i.footer && i.footer.link.display && (
+                <Link to={i.footer.link.to} className="link">
+                  {ReactHtmlParser(i.footer.link.placeholder)}
+                </Link>
+              )}
               {props.bottom && <hr className="bottom"></hr>}
             </div>
           </div>

@@ -49,7 +49,7 @@ list:
         <p></p>
 
 # Quote Section
-quote:
+testimonial:
   display: false
   color: "#ededed"
   content: >

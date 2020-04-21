@@ -17,11 +17,20 @@ const Brand = styled.a`
 
 const StyledFooter = styled.footer`
   color: #999999;
+  .copyright {
+    .flag-icon {
+      font-size: 12px;
+    }
+    p {
+      ${scale(-0.4)}
+      margin-bottom: 0
+    }
+  }
   .dv-legal-links {
     text-align: center;
     a {
       white-space: nowrap;
-      ${scale(-0.2)};
+      ${scale(-0.4)}
       color: #999999;
       text-decoration: none;
       &:hover {
@@ -35,10 +44,12 @@ const StyledFooter = styled.footer`
     }
     margin-bottom: ${rhythm(1)};
     max-width: 400px;
-    width: 100%;
+    width: 70%;
   }
   .bebas {
     letter-spacing: 2px;
+
+    ${scale(0.2)}
   }
   hr {
     max-width: 800px;
@@ -80,13 +91,7 @@ const StyledFooter = styled.footer`
     width: 100%;
     display: flex;
     justify-content: center;
-    @media screen and (max-width: 600px) {
-      flex-direction: column;
-      align-items: center;
-      &:before {
-        display: none;
-      }
-    }
+
     &:before {
       content: "";
       position: absolute;
@@ -137,14 +142,14 @@ const StyledFooter = styled.footer`
   }
 `;
 
-const Footer = props => {
+const Footer = (props) => {
   const {
     contact,
     copyright,
     partners,
     slogan,
     address,
-    phones
+    phones,
   } = props.data.footer;
   return (
     <StyledFooter>
@@ -156,14 +161,14 @@ const Footer = props => {
           zIndex: 1,
           position: "sticky",
           bottom: 0,
-          flexDirection: "column"
+          flexDirection: "column",
         }}
       >
         <div
           style={{
             padding: `${rhythm(1.5)} 0`,
             width: "100%",
-            textAlign: "center"
+            textAlign: "center",
           }}
         >
           <div
@@ -171,7 +176,7 @@ const Footer = props => {
               display: "flex",
               flexDirection: "column",
               justifyContent: "center",
-              alignItems: "center"
+              alignItems: "center",
             }}
           >
             <Img
@@ -219,18 +224,19 @@ const Footer = props => {
           <Link
             className="contact"
             to={contact && contact.link}
-            style={scale(0.1)}
+            style={scale(-0.4)}
           >
             <b>{contact && contact.text}</b>
           </Link>
         </div>
       </Container>
       <Container
+        className="copyright"
         color={colors.codGrayLight}
         justifyContent="space-between"
         style={{
           padding: `${rhythm(1)} 5vw`,
-          flexDirection: "column"
+          flexDirection: "column",
         }}
       >
         <div className="social">
@@ -248,7 +254,7 @@ const Footer = props => {
 
               k !== props.data.footer.legal.length - 1 && (
                 <span key={`separator-${k}`}> - </span>
-              )
+              ),
             ];
           })}
         </div>

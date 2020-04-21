@@ -8,7 +8,7 @@ import Fade from "react-reveal/Fade";
 const StyledHero = styled.section`
   .bg {
     display: flex;
-    height: calc(100vh - (58px + 70px));
+    height: calc(100vh - 128px);
     min-height: 250px;
     max-width: 100vw;
     overflow: hidden;
@@ -36,7 +36,7 @@ const StyledHero = styled.section`
     &.single {
       .captions {
         h1 {
-          ${scale(1.25)}
+          ${scale(1.5)}
         }
         @media screen and (min-width: 1024px),
           screen and (min-height: 768px) and (min-width: 560px) {
@@ -51,6 +51,13 @@ const StyledHero = styled.section`
     }
 
     .captions {
+      &.left-aligned {
+        h1,
+        h2,
+        h3 {
+          text-align: left !important;
+        }
+      }
       @media screen and (min-width: 1024px),
         screen and (min-height: 768px) and (min-width: 560px) {
         h1 {
@@ -131,8 +138,9 @@ const Hero = (props) => {
       scale={props.background.scaleOnReveal ? scale : false}
     >
       <BackgroundImage
-        className={`bg ${props.className} ${props.background.isParallax &&
-          "parallax"}`}
+        className={`bg ${props.className} ${
+          props.background.isParallax && "parallax"
+        }`}
         Tag="div"
         fluid={props.background.img.childImageSharp.fluid}
       >

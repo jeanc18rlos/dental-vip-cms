@@ -8,7 +8,7 @@ import ReactHtmlParser from "react-html-parser";
 
 const SyledFeatures = styled.section`
   text-align: center;
-  padding: ${rhythm(4)} 0 ${rhythm(2)};
+  padding: ${rhythm(4)} 0 ${rhythm(3)};
   h1.title {
     font-weight: 300;
     margin-bottom: ${rhythm(2)};
@@ -22,9 +22,7 @@ const SyledFeatures = styled.section`
     justify-content: center;
     width: 100%;
     margin: auto;
-    @media (min-width: 1355px) {
-      width: 80%;
-    }
+
     @media (max-width: 1024px) {
       .grid-item {
         flex-basis: 50% !important;

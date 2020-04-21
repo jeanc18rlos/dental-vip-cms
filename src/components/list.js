@@ -17,7 +17,7 @@ const SyledList = styled.section`
   width: 100%;
   margin: auto;
   padding: 0 5vw;
-  padding-bottom: ${rhythm(3)};
+  padding-bottom: ${rhythm(1)};
   @media (max-width: 768px) {
     .grid-item {
       flex-basis: 100% !important;
@@ -30,6 +30,7 @@ const SyledList = styled.section`
     position: relative;
     box-sizing: border-box;
     z-index: 1;
+    margin-bottom: ${rhythm(2)};
     &:nth-of-type(odd) {
       @media (min-width: 769px) {
         padding-right: ${rhythm(1)};
