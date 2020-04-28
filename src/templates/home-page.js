@@ -113,7 +113,7 @@ export const pageQuery = graphql`
             scaleOnReveal
             img {
               childImageSharp {
-                fluid(srcSetBreakpoints: [ 1500 ], quality: 50) {
+                fluid(srcSetBreakpoints: [ 1500 ], quality: 75) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
@@ -190,7 +190,7 @@ export const pageQuery = graphql`
         statistics {
           image {
             childImageSharp {
-              fluid(srcSetBreakpoints: [ 1500 ], quality: 50) {
+              fluid(srcSetBreakpoints: [ 1500 ], quality: 75) {
                 ...GatsbyImageSharpFluid_withWebp
               }
             }

@@ -5,9 +5,28 @@ import { rhythm, scale } from "../utils/typography";
 import ReactHtmlParser from "react-html-parser";
 import { Link } from "gatsby";
 import Img from "gatsby-image";
-
+import BackgroundImage from "gatsby-background-image";
 const StyledBoxes = styled.section`
   color: #555;
+  .content {
+    p {
+      margin: 0;
+      transition: 1s cubic-bezier(0.42, 0, 0.35, 0.93);
+      background: #0000008f;
+      color: white;
+      padding: 1.6em 10px;
+      visibility: hidden;
+      opacity: 0;
+      span {
+        font-size: 50px;
+        margin-bottom: 1.6em;
+      }
+      @media screen and (max-width: 768px) {
+        background: #ffffff8f;
+        color: black;
+      }
+    }
+  }
   .gatsby-image-wrapper {
     -webkit-transition: -webkit-filter 1s;
     transition: -webkit-filter 1s;
@@ -83,6 +102,11 @@ const StyledBoxes = styled.section`
             transform: translateZ(0);
           }
           &.selected {
+            p {
+              opacity: 1 !important;
+              visibility: visible !important;
+            }
+
             -webkit-transform: translate3d(0, ${rhythm(-1)}, 0);
             transform: translate3d(0, ${rhythm(-1)}, 0);
             .gatsby-image-wrapper {
@@ -140,9 +164,7 @@ const Boxes = (props) => {
         style={
           props.internal
             ? {
-                padding: `0 calc(5vw - ${rhythm(0.5)} ) ${rhythm(
-                  3
-                )}`,
+                padding: `0 calc(5vw - ${rhythm(0.5)} ) ${rhythm(3)}`,
               }
             : {
                 padding: `${rhythm(4)} calc(5vw - ${rhythm(0.5)} ) ${rhythm(
@@ -163,6 +185,9 @@ const Boxes = (props) => {
               <div key={k} className="grid-item">
                 <Link
                   to={i.to}
+                  onClick={(e) => {
+                    props.content && e.preventDefault();
+                  }}
                   className={`animated box-wrapper ${
                     toggle === key ? "selected" : "deselected"
                   } ${length <= 3 && "long"}`}
@@ -178,7 +203,18 @@ const Boxes = (props) => {
                     <span className="indicator">
                       <i className="icon-plus" />
                     </span>
-                    <Img fluid={i.img.childImageSharp.fluid}></Img>
+                    {props.content ? (
+                      <BackgroundImage
+                        className={`content ${
+                          toggle === key ? "selected" : "deselected"
+                        }`}
+                        fluid={i.img.childImageSharp.fluid}
+                      >
+                        {ReactHtmlParser(i.content)}
+                      </BackgroundImage>
+                    ) : (
+                      <Img fluid={i.img.childImageSharp.fluid}></Img>
+                    )}
                   </div>
                 </Link>
               </div>

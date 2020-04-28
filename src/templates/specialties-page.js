@@ -5,6 +5,7 @@ import Boxes from "../components/boxes";
 import Hero from "../components/hero";
 import Heading from "../components/heading";
 import Img from "gatsby-image";
+import BackgroundImage from "gatsby-background-image";
 import { graphql } from "gatsby";
 import Parallax from "../components/parallax";
 import Paragraph from "../components/asideParagrah";
@@ -12,7 +13,71 @@ import Testimonial from "../components/testimonial";
 import Quote from "../components/quote";
 import styled from "styled-components";
 import { scale, rhythm } from "../utils/typography";
+import Form from "../components/form";
 import ReactHtmlParser from "react-html-parser";
+import Accordion from "../components/accordion";
+import ClinicCases from "../components/clinicCases";
+const Exterior = styled.section`
+  padding: ${rhythm(4)} 5vw 0;
+  display: flex;
+  main,
+  aside {
+    display: flex;
+    width: 100%;
+    .image {
+      display: flex;
+      width: 100%;
+      height: 100%;
+      &:before,
+      :after {
+        background-size: contain;
+      }
+    }
+  }
+  aside {
+    justify-content: center;
+    text-align: center;
+    padding-left: 5vw;
+    padding: ${rhythm(4)} ${rhythm(1)};
+    border: 25px solid #ededed;
+    border-left-color: transparent !important;
+    margin-left: 5vw !important;
+    a {
+      width: -webkit-fit-content;
+      width: -moz-fit-content;
+      width: fit-content;
+      cursor: pointer;
+      font-weight: 700;
+      padding: 10px 20px;
+      color: #222 !important;
+      border: 1px solid #222;
+      text-transform: uppercase;
+      background-color: #fff;
+      -webkit-text-decoration: none !important;
+      text-decoration: none !important;
+      &:hover {
+        color: #fff !important;
+        background-color: #222;
+      }
+    }
+  }
+  @media screen and (max-width: 1024px) {
+    flex-direction: column;
+
+    aside {
+      padding: ${rhythm(2)} ${rhythm(1)};
+      margin-left: 0 !important;
+      border-top-color: transparent !important;
+      border-left-color: #ededed !important;
+    }
+    main {
+      .image {
+        padding-bottom: 50%;
+      }
+      margin-bottom: 5vw;
+    }
+  }
+`;
 const Article = styled.div`
   display: flex;
   flex-direction: row;
@@ -47,13 +112,36 @@ export const SpecialtiesPageTemplate = ({
   redirects,
   hero,
   heading,
+  cases,
   article,
   quote,
   plainparallax,
   testimonial,
   procedures,
-  anexes
+  anexes,
+  accordionList,
+  form, exterior
 }) => {
+  const lazyLightBox = {
+    placeholder: cases.lightbox.placeholder,
+    images:
+      cases.display &&
+      cases.lightbox.items.map((i, k) => {
+        return {
+          renderItem: () => {
+            return (
+              cases.display && (
+                <Img
+                  alt={`gallery-${k}`}
+                  className="lightbox-lazy"
+                  fluid={i.childImageSharp.fluid}
+                />
+              )
+            );
+          },
+        };
+      }),
+  };
   return (
     <div>
       <Hero className="center single half" {...hero}></Hero>
@@ -64,9 +152,34 @@ export const SpecialtiesPageTemplate = ({
       </Article>
       <Quote {...quote} />
       <Parallax nocontent={true} img={plainparallax}></Parallax>
+      <Accordion {...accordionList} />
+      {cases.display && (
+        <ClinicCases
+          {...lazyLightBox}
+          title={cases.title}
+          items={cases.items}
+        />
+      )}
       {anexes.display && <Paragraph {...anexes} />}
-      <Testimonial {...testimonial}></Testimonial>
 
+      <Form img={form.background}></Form>
+      <Testimonial {...testimonial}></Testimonial>
+      <Exterior>
+        <main>
+          <BackgroundImage
+            className="image"
+            fluid={exterior.image.childImageSharp.fluid}
+          ></BackgroundImage>
+        </main>
+        <aside>
+          <div>
+            {
+              ReactHtmlParser(exterior.content)
+            }
+            <a class="dv-white-btn">Foreign Patients</a>
+          </div>
+        </aside>
+      </Exterior>
       <Boxes {...procedures}></Boxes>
     </div>
   );
@@ -79,13 +192,16 @@ const SpecialtiesPage = ({ data }) => {
     title,
     redirects,
     hero,
+    accordionList,
     heading,
     article,
+    cases,
     quote,
     plainparallax,
     testimonial,
     procedures,
-    anexes
+    anexes,
+    form, exterior
   } = data.markdownRemark.frontmatter;
 
   return (
@@ -97,6 +213,7 @@ const SpecialtiesPage = ({ data }) => {
           language,
           title,
           redirects,
+          cases,
           hero,
           heading,
           article,
@@ -105,6 +222,8 @@ const SpecialtiesPage = ({ data }) => {
           anexes,
           testimonial,
           procedures,
+          accordionList,
+          form, exterior
         }}
       />
     </Layout>
@@ -132,7 +251,7 @@ export const pageQuery = graphql`
             scaleOnReveal
             img {
               childImageSharp {
-                fluid(quality: 50, srcSetBreakpoints: [1500]) {
+                fluid(quality: 100, srcSetBreakpoints: [1500]) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
@@ -151,12 +270,25 @@ export const pageQuery = graphql`
             body
           }
         }
+        staff {
+          title
+          cards {
+            img {
+              childImageSharp {
+                fluid(srcSetBreakpoints: [200], quality: 100) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
+              }
+            }
+            content
+          }
+        }
         anexes {
           display
           items {
             img {
               childImageSharp {
-                fluid(srcSetBreakpoints: [800], quality: 50) {
+                fluid(srcSetBreakpoints: [800], quality: 100) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
@@ -167,7 +299,7 @@ export const pageQuery = graphql`
                 display
                 img {
                   childImageSharp {
-                    fluid(srcSetBreakpoints: [400], quality: 50) {
+                    fluid(srcSetBreakpoints: [400], quality: 100) {
                       ...GatsbyImageSharpFluid_withWebp
                     }
                   }
@@ -181,11 +313,65 @@ export const pageQuery = graphql`
             }
           }
         }
+        cases {
+          title
+          display
+          lightbox {
+            placeholder
+            items {
+              childImageSharp {
+                fluid(srcSetBreakpoints: [900], quality: 100) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
+              }
+            }
+          }
+          items {
+            link {
+              display
+              to
+            }
+            image {
+              childImageSharp {
+                fluid(srcSetBreakpoints: [450], quality: 100) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
+              }
+            }
+            action
+            placeholder
+            body
+          }
+        }
+        form {
+          title
+          background {
+            childImageSharp {
+              fluid(srcSetBreakpoints: [1500], quality: 100) {
+                ...GatsbyImageSharpFluid_withWebp
+              }
+            }
+          }
+        }
+        exterior {
+          image {
+            childImageSharp {
+              fluid(srcSetBreakpoints: [450], quality: 100) {
+                ...GatsbyImageSharpFluid_withWebp
+              }
+            }
+          }
+          content
+          link {
+            to
+            title
+          }
+        }
         article {
           content
           img {
             childImageSharp {
-              fluid(srcSetBreakpoints: [1500], quality: 50) {
+              fluid(srcSetBreakpoints: [1500], quality: 100) {
                 ...GatsbyImageSharpFluid_withWebp
               }
             }
@@ -193,7 +379,7 @@ export const pageQuery = graphql`
         }
         plainparallax {
           childImageSharp {
-            fluid(srcSetBreakpoints: [1500], quality: 50) {
+            fluid(srcSetBreakpoints: [1500], quality: 100) {
               ...GatsbyImageSharpFluid_withWebp
             }
           }
@@ -212,21 +398,28 @@ export const pageQuery = graphql`
           images {
             portrait {
               childImageSharp {
-                fluid(srcSetBreakpoints: [480], quality: 50) {
+                fluid(srcSetBreakpoints: [480], quality: 100) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }
             landscape {
               childImageSharp {
-                fluid(srcSetBreakpoints: [700], quality: 50) {
+                fluid(srcSetBreakpoints: [700], quality: 100) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }
           }
         }
-
+        accordionList {
+          display
+          title
+          items {
+            content
+            title
+          }
+        }
         procedures {
           title
           procedures {
@@ -234,7 +427,7 @@ export const pageQuery = graphql`
             to
             img {
               childImageSharp {
-                fluid(srcSetBreakpoints: [550], quality: 50) {
+                fluid(srcSetBreakpoints: [550], quality: 100) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }

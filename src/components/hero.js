@@ -12,8 +12,14 @@ const StyledHero = styled.section`
     min-height: 250px;
     max-width: 100vw;
     overflow: hidden;
+    &.half {
+      height: 60vh;
+    }
     @media screen and (max-width: 1024px) {
       height: calc(100vh - 70px) !important;
+      &.half {
+        height: 60vh !important;
+      }
     }
     .indicator {
       position: absolute;
@@ -91,6 +97,10 @@ const StyledHero = styled.section`
         text-align: center;
       }
       .bebas {
+      }
+      .dark {
+        color: #333;
+        text-shadow: 1px 1px 7px #ffffff;
       }
       .no-mob {
         @media screen and (max-width: 768px) {

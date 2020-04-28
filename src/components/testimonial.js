@@ -6,7 +6,7 @@ import ReactHtmlParser from "react-html-parser";
 import Img from "gatsby-image";
 const StyledQuote = styled.section`
   padding: ${rhythm(4)} 0 ${rhythm(3)};
-  background: #ededed;
+  background: ${(props) => props.color};
   .icon-quotes-open {
     color: #c2c2c2 !important;
     align-self: center;
@@ -29,7 +29,7 @@ const StyledQuote = styled.section`
   }
   @media screen and (orientation: portrait) and (max-width: 550px) {
     .ld {
-      display: none !important; 
+      display: none !important;
     }
     .pt {
       display: block !important;
@@ -58,7 +58,7 @@ const StyledQuote = styled.section`
 
 const Testimonial = (props) => {
   return (
-    <StyledQuote>
+    <StyledQuote color={props.color}>
       <Container color={props.color}>
         <blockquote>
           <span>

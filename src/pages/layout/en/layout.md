@@ -74,6 +74,8 @@ header:
           to: /en/the-clinic/technology/
         - title: PAYMENT OPTIONS
           to: /en/the-clinic/payment-options/
+        - title: GUARANTEES
+          to: /en/the-clinic/guarantees/
     - title: SPECIALTIES
       to: /en/specialties/
       menu:

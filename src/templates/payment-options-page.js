@@ -40,8 +40,8 @@ const StyledBanner = styled.div`
   .banner {
     @media screen and (max-width: 768px) {
       flex-direction: column-reverse;
-      aside{
-        padding: 0
+      aside {
+        padding: 0;
       }
       span {
         margin-bottom: ${rhythm(2)};
@@ -55,6 +55,57 @@ const StyledBanner = styled.div`
 `;
 
 const StyledPage = styled.section`
+  .row {
+    display: flex;
+    @media screen and (max-width: 768px) {
+      flex-direction: column-reverse;
+      align-items: center;
+      .icon {
+        display: flex;
+        font-size: 150px;
+        padding-left: 0 !important;
+        margin-bottom: ${rhythm(2)};
+      }
+    }
+    .icon {
+      font-size: 150px;
+      padding-left: 5vw;
+    }
+  }
+  .percentaje {
+    margin-bottom: ${rhythm(2)};
+    width: 100%;
+    height: 50px;
+    color: #333;
+    .title {
+      float: left;
+      padding-left: 15px;
+      padding-top: 10px;
+      font-weight: 500;
+      color: #333;
+      text-transform: capitalize;
+    }
+    .time {
+      padding-top: 10px;
+      float: right;
+      color: #555;
+    }
+    .progress-bar {
+      width: 100%;
+      background-color: #e0e0e0;
+      padding: 3px;
+      border-radius: 3px;
+      box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
+      .progress-bar-fill {
+        display: block;
+        height: 7px;
+        background-color: #91c508;
+        border-radius: 3px;
+        -webkit-transition: width 0.5s ease-in-out;
+        transition: width 0.5s ease-in-out;
+      }
+    }
+  }
   .full {
     width: 100%;
   }
@@ -75,18 +126,43 @@ const StyledPage = styled.section`
     text-align: center;
     color: #333;
   }
-  .message {
+  p.message {
     font-weight: 300;
     color: #333;
-    ${scale(.8)};
+    ${scale(0.8)};
     margin: auto;
     padding: ${rhythm(1)};
-    margin-top: ${rhythm(3)} !important;
+    margin-top: ${rhythm(2)} !important;
     margin-bottom: ${rhythm(3)} !important;
     background: #ededed;
     border: solid 1px #91c508;
     text-align: center;
     max-width: 800px;
+  }
+  .message {
+    margin: auto;
+    padding: ${rhythm(1)};
+    margin-top: ${rhythm(3)} !important;
+    margin-bottom: ${rhythm(3)} !important;
+    border: solid 1px #91c508;
+    text-align: center;
+    max-width: 800px;
+    h1 {
+      margin-bottom: ${rhythm(2)} !important;
+      margin-top: ${rhythm(1)} !important;
+    }
+    ul {
+      text-align: left;
+    }
+    .big {
+      font-weight: 300;
+      color: #333;
+      ${scale(0.8)};
+      margin-bottom: 0;
+    }
+    &.red {
+      border: solid 1px red;
+    }
   }
   .left {
     text-align: left;
@@ -176,7 +252,7 @@ export const PaymentOptionsPageTemplate = ({
           <PostContent className="full" content={content} />
         </Container>
       </StyledPage>
-      <Boxes internal={true} procedures={boxes} />
+      {boxes.display && <Boxes internal={true} procedures={boxes.boxes} />}
       <StyledBanner>{ReactHtmlParser(banner)}</StyledBanner>
     </div>
   );
@@ -230,12 +306,15 @@ export const pageQuery = graphql`
         language
         banner
         boxes {
-          title
-          to
-          img {
-            childImageSharp {
-              fluid(maxWidth: 550, quality: 100) {
-                ...GatsbyImageSharpFluid_withWebp
+          display
+          boxes {
+            title
+            to
+            img {
+              childImageSharp {
+                fluid(maxWidth: 550, quality: 50) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
               }
             }
           }
@@ -245,7 +324,7 @@ export const pageQuery = graphql`
             scaleOnReveal
             img {
               childImageSharp {
-                fluid(maxWidth: 1600, quality: 100) {
+                fluid(maxWidth: 1600, quality: 75) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }

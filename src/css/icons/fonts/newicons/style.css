@@ -186,3 +186,10 @@
 .slick-dots li {
   margin: -3px !important;
 }
+
+
+.slick-track{
+  display: flex;
+  align-items: flex-start;
+}
+

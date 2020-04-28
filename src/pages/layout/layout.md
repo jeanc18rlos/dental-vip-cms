@@ -74,6 +74,8 @@ header:
             to: /la-clinica/tecnologia/
           - title: financiamiento
             to: /la-clinica/financiamiento/
+          - title: Garantías
+            to: /la-clinica/garantias/
     - title: Especialidades
       to: /especialidades/
       menu:

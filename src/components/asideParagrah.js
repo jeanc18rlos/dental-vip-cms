@@ -28,13 +28,27 @@ const StyledContent = styled(Container)`
   }
   .icon {
     width: 100%;
-    padding-bottom: 50px;
+    padding-bottom: 40px;
     margin-bottom: ${rhythm(1)} !important;
     &:before,
     :after {
       background-size: contain !important;
       background-position: left !important;
     }
+  }
+  ul {
+    list-style: none;
+    margin-left: 0;
+  }
+  .boxed {
+    width: fit-content;
+    padding: 5px 5px 0px 5px;
+    letter-spacing: 2px;
+    background: #333;
+    color: #fff;
+  }
+  .light {
+    font-weight: 300;
   }
   .bebas {
     font-family: "Bebas Neue Bold";
@@ -114,8 +128,9 @@ const StyledContent = styled(Container)`
     .image {
       width: 100%;
       min-height: 50vh;
+      display: flex;
       @media screen and (min-width: 1024px) {
-        min-height: 70vh;
+        min-height: ${(props) => (!props.small ? "70vh" : "40vh")};
       }
       @media screen and (min-width: 1024px) {
         .content-wrapper {
@@ -164,7 +179,7 @@ const StyledContent = styled(Container)`
 `;
 const Paragraph = (props) => {
   return (
-    <StyledContent flexDirection="column" color="none">
+    <StyledContent small={props.small} flexDirection="column" color="none">
       {props.items.map((i, k) => {
         return (
           <div className="paragraph-item">

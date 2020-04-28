@@ -2,7 +2,7 @@
 templateKey: payment-options-page
 language: en
 redirects: /la-clinica/financiamiento/
-title: Payment Options
+title: Payment Options and Financing
 description: seo description
 published: true
 tags:
@@ -23,7 +23,7 @@ hero:
   content:
     position: center
     body: >
-      <h1>Payment Options</h1>
+      <h1>Payment Options and Financing</h1>
 
 banner: >
   <div class="banner">
@@ -41,15 +41,17 @@ banner: >
   </div>
 
 boxes:
-  - title: <h5>Implantes</h5>
+  display: true
+  boxes:
+  - title: <h5>UNITED MEDICAL CREDIT</h5>
     to: /la-clinica/implantes-dentales/
-    img: /uploads/procedures-implants.png
-  - title: <h5>Ortodoncia</h5>
+    img: /uploads/procedures-united-medical-credit.png
+  - title: <h5>DENEFITS</h5>
     to: /especialidades/ortodoncia/
-    img: /uploads/procedures-orthodontics.png
-  - title: <h5>Estética dental</h5>
+    img: /uploads/procedures-denefits.png
+  - title: <h5>MY MEDICAL FUNDING</h5>
     to: /especialidades/estetica-dental/
-    img: /uploads/procedures-aesthetic-dentistry.png
+    img: /uploads/procedures-my-medical-founding.png
 ---
 
 <h1>We Accept:</h1>
@@ -60,100 +62,81 @@ boxes:
       <i class="icon-instagram"></i>
     </span>
     <h2>
-      alguna vaina
+      Bank Transfer
     </h2>
-    <h3>alguna vaina</h3>
+    <h3>Ask for Bank Account</h3>
   </li>
   <li>
     <span>
       <i class="icon-instagram"></i>
     </span>
     <h2>
-      alguna vaina
+      Debit and Credit Card
     </h2>
-    <h3>alguna vaina</h3>
+    <h3>Visa, Master Card and American Express</h3>
   </li>
   <li>
     <span>
       <i class="icon-instagram"></i>
     </span>
     <h2>
-      alguna vaina
+      Cash
     </h2>
-    <h3>alguna vaina</h3>
+    <h3>American Dollars <em>(USD)</em></h3>
   </li>
 </ul>
 <p>
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam deleniti harum
-  corrupti nesciunt autem saepe delectus optio cum. Quis sequi quas tempora iure
-  molestias, velit ea adipisci sint libero reprehenderit.
+  International electronic bank transfers <em>(WIRE transfers) </em>that use the SWIFT code allow operations without additional charges to the rates established by your bank. This is one of the most popular payment methods, since it avoids the inconvenience of transferring cash and the limitations that many times impose the use of cards. If you choose this option, keep in mind that this type of transaction usually takes between 2 and 5 business days, so we recommend doing it with some anticipation upon arrival.
 </p>
 <p>
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam deleniti harum
-  corrupti nesciunt autem saepe delectus optio cum. Quis sequi quas tempora iure
-  molestias, velit ea adipisci sint libero reprehenderit.
+  If you have a bank account in the United States of America and are registered in the <b>Zelle app</b>, you can use this service to transfer money almost immediately, conveniently and securely with just the names and email addresses associated with our accounts.
 </p>
 <p>
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam deleniti harum
-  corrupti nesciunt autem saepe delectus optio cum. Quis sequi quas tempora iure
-  molestias, velit ea adipisci sint libero reprehenderit.
+  In case of error, overdraft or suspension of the treatment for personal reasons and/or beyond our control, DENTAL VIP undertakes to immediately reimburse all the funds provided, without any type of penalty or administrative charge.
 </p>
 <p class="message">
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam deleniti harum
-  corrupti nesciunt autem
+  Unless agreed differently during the initial interview, the work days contemplated in the treatment plan will always be full business days during which the patient must be available between 9 a.m. and 5 p.m.
 </p>
-<h1 class="heading">corrupti nesciunt autem</h1>
-<p class="heading small">corrupti nesciunt autem</p>
+<h1 class="heading">Finance Your Dental Care in Venezuela</h1>
+<p class="heading small">* Option available only for citizens or residents of the United States of America.</p>
 <p class="heading">
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque id soluta
-  repellat odio magnam voluptas beatae corporis quisquam est. Beatae repudiandae
-  rem harum, iste consequatur veniam libero est perferendis et!
+  DENTAL VIP offers dental financing programs for patients with good credit and patients with "not so good" credit. Our financing partners work diligently to provide people the most affordable options to finance their dental care in Venezuela. Financing programs provide affordable monthly payments with flexible terms and limited interest free financing.
 </p>
 <h2 class="left section-title">
-  <b>repudiandae</b>
+  <b>Additional benefits:</b>
 </h2>
 <ul class="checklist">
   <li>
     <i class="icon-check circle"></i
     ><span
-      >Presupuesto en original emitido por DENTAL VIP, Especialidades
-      Odontológicas s.c.</span
+      >Simple online application process with quick decisions.</span
     >
   </li>
   <li>
     <i class="icon-check circle"></i
     ><span
-      >Planilla de solicitud de crédito debidamente cumplimentada en todos sus
-      campos y firmada por el solicitante y su cónyuge&nbsp;<em
-        >(en caso de estar casado).</em
-      ></span
+      >Co-signers may be utilized on your application if needed to improve your chances for approval.</span
     >
   </li>
   <li>
     <i class="icon-check circle"></i
     ><span
-      >Fotocopia de la cédula de identidad vigente del solicitante y su
-      cónyuge.</span
+      >You can schedule your dental procedure with us as soon as you are approved.</span
     >
   </li>
   <li>
     <i class="icon-check circle"></i
     ><span
-      >Fotocopia del registro único de información fiscal&nbsp;<em>(RIF)</em>
-      vigente del solicitante y su cónyuge.</span
+      >Approved applicants may receive 6 or 12 months interest free financing and competitive interest rates.</span
     >
   </li>
   <li>
     <i class="icon-check circle"></i
     ><span
-      >Constancia de trabajo en original o certificación de ingresos del
-      solicitante y su cónyuge, con fecha de emisión no mayor a
-      tres&nbsp;<em>(3)</em>&nbsp;meses.</span
+      >No prepayment penalties and no punitive late fees.</span
     >
   </li>
 </ul>
 <p>
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque id soluta
-  repellat odio magnam voluptas beatae corporis quisquam est. Beatae repudiandae
-  rem harum, iste consequatur veniam libero est perferendis et!
+  Apply today at any of the following health financial providers and get immediate credit for your new smile:
 </p>

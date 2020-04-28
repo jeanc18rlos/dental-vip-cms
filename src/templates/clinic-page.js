@@ -132,7 +132,7 @@ export const pageQuery = graphql`
             scaleOnReveal
             img {
               childImageSharp {
-                fluid(quality: 50, srcSetBreakpoints: [  1500 ]) {
+                fluid(quality: 75, srcSetBreakpoints: [  1500 ]) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
@@ -205,7 +205,7 @@ export const pageQuery = graphql`
           portraitPosition
           img {
             childImageSharp {
-              fluid(srcSetBreakpoints: [ 1500 ], quality: 50) {
+              fluid(srcSetBreakpoints: [ 1500 ], quality: 75) {
                 ...GatsbyImageSharpFluid_withWebp
               }
             }

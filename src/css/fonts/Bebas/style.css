@@ -15,7 +15,7 @@
 }
 
 .bebas {
-  font-family: "Bebas Neue Regular";
+  font-family: "Bebas Neue Bold";
 }
 .bebas.bold {
   font-family: "Bebas Neue Bold";
@@ -122,6 +122,7 @@ section.parallax::after {
 }
 
 .image-gallery-index {
+  width: fit-content;
   position: fixed !important;
   left: 20px !important;
   top: 20px !important;
