@@ -9,9 +9,7 @@ import Footer from "./footer";
 const Layout = ({ children }) => {
   const [langRedir, setLangRedir] = useState("/");
   const [lang, setlang] = useState("es");
-  const childrenWprops = React.Children.map(children, (child) =>
-    React.cloneElement(child, { key: child, setLangRedir, setlang })
-  );
+
   return (
     <StaticQuery
       query={graphql`
@@ -56,6 +54,53 @@ const Layout = ({ children }) => {
                         items {
                           title
                           to
+                        }
+                      }
+                    }
+                  }
+                  forms {
+                    specialties {
+                      warning
+                      fields {
+                        name
+                        placeholder
+                        type
+                        value
+                        options {
+                          display
+                          items {
+                            value
+                          }
+                        }
+                      }
+                    }
+                    subscription {
+                      warning
+                      fields {
+                        name
+                        placeholder
+                        type
+                        value
+                        options {
+                          display
+                          items {
+                            value
+                          }
+                        }
+                      }
+                    }
+                    contact {
+                      warning
+                      fields {
+                        name
+                        placeholder
+                        type
+                        value
+                        options {
+                          display
+                          items {
+                            value
+                          }
                         }
                       }
                     }
@@ -115,6 +160,14 @@ const Layout = ({ children }) => {
           ...layoutLang[0],
           ...layoutLang[1],
         };
+        const childrenWprops = React.Children.map(children, (child) =>
+          React.cloneElement(child, {
+            key: child,
+            setLangRedir,
+            setlang,
+            forms: layoutLang[lang].forms,
+          })
+        );
         return (
           <Wrapper>
             <ScrollUpButton

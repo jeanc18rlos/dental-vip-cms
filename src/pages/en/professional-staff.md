@@ -25,8 +25,14 @@ hero:
     body: >
       <h1 class="dark">Professional Staff</h1>
 
+
 # Parallax
-plainparallax: /uploads/parallax-form-professionals.jpg
+form:
+  title: >
+    <h1>¡Consúltenos Ahora Mismo!</h1>
+  background: /uploads//uploads/parallax-form-professionals.jpg
+
+
 # Heading Section
 heading:
   display: true

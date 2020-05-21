@@ -87,6 +87,10 @@ const StyledHeader = styled.header`
     }
   }
   .list-father {
+    a {
+      justify-content: center;
+      align-items: center;
+    }
     &.search {
       border: none;
       @media screen and (max-width: 1023px) {

@@ -26,6 +26,8 @@ const StyledPage = styled.section`
     word-break: break-all;
     color: #91c508;
   }
+
+
 `;
 
 export const LegalPageTemplate = ({ content, contentComponent }) => {

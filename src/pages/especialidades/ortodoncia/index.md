@@ -528,8 +528,8 @@ anexes:
           img: /uploads/sections-orthodontics-icon-invisalign.png
         link:
           display: true
-          to: /en/specialties/orthodontics/aesthetic-braces/
-          placeholder: <span>More Information</span>
+          to: /especialidades/ortodoncia/aparatos-esteticos/
+          placeholder: <span>Más Información</span>
     - img: /uploads/sections-orthodontics-brackets-care.jpg
       content: >
         <h1 class="bebas">¡Cuide sus Brackets!</h1>
@@ -544,7 +544,7 @@ anexes:
           img: /uploads/sections-orthodontics-icon-invisalign.png
         link:
           display: true
-          to: /especialidades/ortodoncia/cuide-sus-brackets/take-care-of-your-brackets/
+          to: /especialidades/ortodoncia/cuide-sus-brackets/
           placeholder: <span>Más Información</span>
 # Procedures Section
 procedures:

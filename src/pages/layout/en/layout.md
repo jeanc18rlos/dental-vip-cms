@@ -180,4 +180,202 @@ footer:
       Copyright © 2020 DENTAL VIP,  Especialidades Odontológicas s.c. All Rights Reserved.| Managed with GIT &nbsp;
       <span><i class="icon-git"></i></span>
     </p>
+forms:
+  specialties:
+    warning: >
+      In order to send a message, you have to fill all data fields.
+    fields:
+      - name: subject
+        placeholder: Subject
+        type: text
+        value: ''
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: name
+        placeholder: First Name
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: lastName
+        placeholder: Last Name
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: email
+        placeholder: Email
+        type: email
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: city
+        placeholder: City
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: country
+        placeholder: Country
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: phone
+        placeholder: Phone Number
+        type: tel
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: referredBy
+        placeholder: How did you know us?
+        type: select
+        value: "How did you know us?"
+        options:
+          display: true
+          items:
+            - value: By a dentist
+            - value: By a friend
+            - value: on Instagram
+            - value: on Facebook
+            - value: on Google
+      - name: gender
+        placeholder: Gender
+        type: select
+        value: Gender
+        options:
+          display: true
+          items:
+            - value: Female
+            - value: Male
+      - name: specialty
+        placeholder: Specialty of interest
+        type: select
+        value: Specialty of interest
+        options:
+          display: false
+          items:
+          - value: Oral Surgery
+          - value: Endodontics
+          - value: Aesthetic Dentistry
+          - value: Dental Implants
+          - value: Zygomatic Implants
+          - value: General Dentistry
+          - value: Orthodontics
+          - value: Periodontics
+          - value: Prosthodontics
+          - value: Sedation and General Anesthesia
+      - name: message
+        placeholder: Write your message.
+        type: textarea
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+  subscription:
+    warning: >
+      Para enviar un mensaje, es obligatorio rellenar todos los campos del formulario.
+    fields:
+      - name: name
+        placeholder: Nombre
+        type: text
+        value: ''
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: email
+        placeholder: Email
+        type: email
+        value: ''
+        options:
+          display: false
+          items:
+            - value: Nombre
+  contact:
+    warning: >
+      In order to send a message, you have to fill all data fields.
+    fields:
+      - name: name
+        placeholder: First Name
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: lastName
+        placeholder: Last Name
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: email
+        placeholder: Email
+        type: email
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: city
+        placeholder: City
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: country
+        placeholder: Country
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: phone
+        placeholder: Phone Number
+        type: tel
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: subject
+        placeholder: Subject
+        type: text
+        value: ''
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: message
+        placeholder: Write your message.
+        type: textarea
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+
+
+
 ---

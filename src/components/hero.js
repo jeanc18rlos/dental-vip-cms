@@ -14,6 +14,11 @@ const StyledHero = styled.section`
     overflow: hidden;
     &.half {
       height: 60vh;
+      max-height: 400px;
+      &:before,
+      :after {
+        background-attachment: unset !important;
+      }
     }
     @media screen and (max-width: 1024px) {
       height: calc(100vh - 70px) !important;
@@ -43,11 +48,17 @@ const StyledHero = styled.section`
       .captions {
         h1 {
           ${scale(1.5)}
+          &.bebas {
+            ${scale(2)}
+          }
         }
         @media screen and (min-width: 1024px),
           screen and (min-height: 768px) and (min-width: 560px) {
           h1 {
-            ${scale(1.9)}
+            ${scale(1.9)};
+            &.bebas {
+              ${scale(2.25)}
+            }
           }
         }
       }
@@ -96,8 +107,7 @@ const StyledHero = styled.section`
         justify-self: center;
         text-align: center;
       }
-      .bebas {
-      }
+
       .dark {
         color: #333;
         text-shadow: 1px 1px 7px #ffffff;

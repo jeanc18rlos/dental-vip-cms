@@ -9,7 +9,9 @@ import Parallax from "../components/parallax";
 import styled from "styled-components";
 import { rhythm, scale } from "../utils/typography";
 import contactImg from "../img/qdc-contacto.jpg";
-const Form = styled.section`
+
+import Form from "../components/form";
+const StyledForm = styled.section`
   display: flex;
   @media screen and (max-width: 768px) {
     flex-direction: column-reverse;
@@ -17,75 +19,11 @@ const Form = styled.section`
       max-width: 100% !important;
     }
   }
-  .dv-contact-form {
-    display: flex;
-    width: 100%;
-    justify-content: center;
-    padding: 0 calc(5vw - 10px);
-    padding-bottom: ${rhythm(3)} !important;
-    flex-direction: column;
-    align-self: flex-start;
-    p {
-      margin-top: ${rhythm(3)};
-      text-align: center;
-    }
-    button {
-      padding: 10px 50px !important;
-      font-size: 24px;
-      font-family: Bebas Neue Bold;
-      background: #91c508;
-      width: fit-content;
-      color: white;
-      outline: none !important;
-      margin-top: 10px !important;
-      margin: 0 auto;
-      margin-right: 10px !important;
-      border: none !important;
-      &:hover {
-        background: #222;
-      }
-    }
-    hr {
-      display: flex;
-      width: 100%;
-    }
-    form {
-      display: flex;
-      flex-direction: column;
-      flex-flow: row wrap;
-      .half {
-        @media screen and (min-width: 1025px) {
-          flex-basis: 50%;
-        }
-      }
-      span {
-        padding: 10px;
-        flex-basis: 100%;
-        display: flex;
-        button,
-        input,
-        optgroup,
-        select,
-        textarea {
-          width: 100%;
-          background: #fff;
-          color: #555;
-          width: 100%;
-          font-weight: 400;
-          padding: 10px;
-          border: 1px solid #555;
-          outline: none;
-          &:focus {
-            outline: 2px solid #91c508;
-          }
-        }
-      }
-    }
-  }
+
   .dv-contact-info {
     width: 100%;
     align-items: center;
-    background: #222;
+    background: #202020;
     color: white;
     padding: ${rhythm(4)} calc(5vw) ${rhythm(3)};
     display: flex;
@@ -119,12 +57,19 @@ const Map = styled.section`
   }
 `;
 
-export const ContactPageTemplate = ({ hero, amenities, parallax, heading }) => {
+export const ContactPageTemplate = ({
+  hero,
+  language,
+  amenities,
+  parallax,
+  forms,
+  heading,
+}) => {
   return (
     <div>
       <Hero className="center single half" {...hero}></Hero>
       <Heading {...heading} />
-      <Form>
+      <StyledForm>
         <div className="dv-contact-info">
           <div className="dv-main-menu-left">
             <h2 className="dv-company">
@@ -133,7 +78,7 @@ export const ContactPageTemplate = ({ hero, amenities, parallax, heading }) => {
             <br></br>
             <h2>
               <i className="icon-phone phone" />
-              <span>Teléfonos </span>
+              <span>{language === "es" ? "Teléfonos" : "Phones"} </span>
             </h2>
             <p>
               +58 <em>(212)</em> 261.5251 <br />
@@ -143,115 +88,42 @@ export const ContactPageTemplate = ({ hero, amenities, parallax, heading }) => {
             <br></br>
             <h2>
               <i className="icon-map-marker-alt" />
-              <span>Dirección</span>
+              <span>{language === "es" ? "Dirección" : "ADDRESS"}</span>
             </h2>
             <p>
               Multicentro Empresarial del Este, Torre Miranda,{" "}
               <br className="hidden-xs hidden-sm visible-md visible-lg" />
-              Núcleo A, Piso 14, Oficina 143-A, Chacao, Caracas,
+              {language === "es"
+                ? "Núcleo A, Piso 14, Oficina 143-A, Chacao, Caracas,"
+                : "Tower, Nucleus A, 14th Floor, Office 143-A, Chacao, Caracas,"}
               <br className="hidden-xs hidden-sm visible-md visible-lg" />
+              {language === "es"
+                ? "Venezuela. C.P. 1060"
+                : "Venezuela. P.C. 1060"}
             </p>
             <br></br>
             <h3>
               <i className="icon-clock" />
-              <span>Horario de atención </span>
+              <span>
+                {language === "es"
+                  ? "Horario de atención"
+                  : "CUSTOMER SERVICE HOURS"}
+              </span>
             </h3>
             <p>
-              Lunes a Viernes<br></br>
+              {language === "es" ? "Lunes a Viernes" : "Monday to Friday"}
+              <br></br>
               8:00 am - 5:00 pm<br></br>
-              <span class="dv-underline">PREVIA CITA</span>
+              <span class="dv-underline">
+                {language === "es" ? "PREVIA CITA" : "BY APPOINTMENT"}
+              </span>
             </p>
             <br></br>
             <img src={contactImg} />
           </div>
         </div>
-        <div className="dv-contact-form">
-          <hr className="border-form" />
-          <p>
-            <i className="icon-exclamation-circle" />
-            Para enviar un mensaje, es obligatorio rellenar todos los campos del
-            formulario.
-          </p>
-          <form method="post" name="Contact Form">
-            <span className="half">
-              <input
-                type="text"
-                name="your-name"
-                size={40}
-                aria-required="true"
-                aria-invalid="false"
-                placeholder="Nombre"
-              />
-            </span>
-            <span className="half">
-              <input
-                type="text"
-                name="your-lastname"
-                size={40}
-                aria-required="true"
-                aria-invalid="false"
-                placeholder="Apellido"
-              />
-            </span>
-            <span className="half">
-              <input
-                type="email"
-                name="your-email"
-                size={40}
-                aria-required="true"
-                aria-invalid="false"
-                placeholder="Correo electrónico"
-              />
-            </span>
-            <span className="half">
-              <input
-                type="tel"
-                name="tel-617"
-                size={40}
-                aria-invalid="false"
-                placeholder="Número de teléfono"
-              />
-            </span>
-            <span className="half">
-              <input
-                type="text"
-                name="city"
-                size={40}
-                aria-invalid="false"
-                placeholder="Ciudad"
-              />
-            </span>
-            <span className="half">
-              <input
-                type="text"
-                name="country"
-                size={40}
-                aria-invalid="false"
-                placeholder="País"
-              />
-            </span>
-            <span>
-              <input
-                type="text"
-                name="asunto"
-                size={40}
-                aria-invalid="false"
-                placeholder="Asunto"
-              />
-            </span>
-            <span>
-              <textarea
-                name="your-message"
-                cols={40}
-                rows={6}
-                aria-invalid="false"
-                placeholder="Escriba su mensaje"
-              />
-            </span>
-            <button type="submit">Send</button>
-          </form>
-        </div>
-      </Form>
+        <Form language={language} data={forms.contact}></Form>
+      </StyledForm>
 
       <Map>
         <iframe src="https://snazzymaps.com/embed/72109" />
@@ -314,8 +186,8 @@ export const pageQuery = graphql`
             scaleOnReveal
             img {
               childImageSharp {
-                fluid(quality: 100, srcSetBreakpoints: [1500]) {
-                  ...GatsbyImageSharpFluid_withWebp
+                fluid(srcSetBreakpoints: [1500], quality: 90) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -339,8 +211,8 @@ export const pageQuery = graphql`
           portraitPosition
           img {
             childImageSharp {
-              fluid(srcSetBreakpoints: [1500], quality: 75) {
-                ...GatsbyImageSharpFluid_withWebp
+              fluid(srcSetBreakpoints: [1900], quality: 100) {
+                ...GatsbyImageSharpFluid
               }
             }
           }
@@ -355,8 +227,8 @@ export const pageQuery = graphql`
             content
             img {
               childImageSharp {
-                fluid(srcSetBreakpoints: [550], quality: 50) {
-                  ...GatsbyImageSharpFluid_withWebp
+                fluid(srcSetBreakpoints: [550], quality: 100) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }

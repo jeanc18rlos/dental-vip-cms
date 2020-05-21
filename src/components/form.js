@@ -1,10 +1,129 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import BackgroundImage from "gatsby-background-image";
 import styled, { css } from "styled-components";
 import { rhythm, scale } from "../utils/typography";
 import { Container } from "../Elements/Container";
 import ReactHtmlParser from "react-html-parser";
-import { useWindowSize } from "../utils/hooks";
+import * as yup from "yup";
+import { navigate } from "gatsby";
+import { useForm } from "react-hook-form";
+import ReCAPTCHA from "react-google-recaptcha";
+
+import Axios from "axios";
+const config = {
+  apiKey: "AIzaSyBLHMSEmoK66J9LCHGrFJTvCJp6nIGUvrY",
+  databaseURL: "https://us-central1-dentalvip.cloudfunctions.net/submit",
+};
+const StyledForm2 = styled.div`
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding: 0 calc(5vw - 10px);
+  padding-bottom: ${rhythm(2)} !important;
+  flex-direction: column;
+  align-self: flex-start;
+  label {
+    padding: 0;
+    display: flex;
+    color: red;
+    text-transform: capitalize;
+    font-weight: bold;
+  }
+  .submit-group {
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    margin: 8px;
+    display: block;
+    margin: auto;
+    margin-right: 6px;
+    @media screen and (max-width: 1024px) {
+      align-self: center !important;
+      margin-right: auto !important;
+    }
+  }
+  p {
+    margin-top: ${rhythm(3)};
+    text-align: center;
+  }
+  .button {
+    padding: 10px 50px !important;
+    font-size: 24px;
+    font-family: Bebas Neue Bold;
+    background: #91c508;
+
+    color: white;
+    width: 100%;
+    outline: none !important;
+    margin-top: 10px !important;
+    margin: 0 auto;
+    margin-right: 10px !important;
+    border: none !important;
+    &:hover {
+      background: #222;
+    }
+  }
+  hr {
+    display: flex;
+    width: 100%;
+  }
+  form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-flow: row wrap;
+    .main {
+      width: 100%;
+    }
+    .half {
+      @media screen and (min-width: 1025px) {
+        flex-basis: 50%;
+      }
+    }
+    .captcha {
+      margin-top: ${rhythm(0.5)};
+    }
+    button {
+      padding: 10px 50px !important;
+      font-size: 24px;
+      font-family: Bebas Neue Bold;
+      background: #91c508;
+      width: 100%;
+      color: white;
+      outline: none !important;
+      margin-top: 10px !important;
+      margin: 0 auto;
+      border: none !important;
+      &:hover {
+        background: #222;
+      }
+    }
+    span {
+      padding: 10px;
+      flex-basis: 100%;
+      display: flex;
+      flex-direction: column;
+      .button,
+      input,
+      optgroup,
+      select,
+      textarea {
+        width: 100%;
+        background: #fff;
+        color: #555;
+        width: 100%;
+        font-weight: 400;
+        padding: 10px;
+        border: 1px solid #555;
+        outline: none;
+        &:focus {
+          outline: 2px solid #91c508;
+        }
+      }
+    }
+  }
+`;
 
 const StyledContent = styled(Container)`
   padding-left: calc(5vw - 15px);
@@ -48,12 +167,32 @@ const StyledContent = styled(Container)`
       align-self: flex-start;
     }
   }
+  .submit-group{
+    width: fit-content;
 
+    display: block;
+    margin: 0 0 0 auto;
+    @media screen and (max-width: 1024px) {
+      display: block;
+    margin: 0 auto;
+    }
+  }
+ 
   form {
     display: flex;
+
+   
     width: 100%;
     @media screen and (max-width: 1024px) {
       flex-direction: column;
+    }
+    aside{
+      flex-direction: column !important;
+    }
+    main{
+      flex-direction: row !important;
+
+        flex-flow: row wrap;
     }
     main,
     aside {
@@ -75,8 +214,31 @@ const StyledContent = styled(Container)`
           background: #222;
         }
       }
-      span {
+      label{
+        padding: 0;
+        display: flex;
+        color: red;
+       text-transform: capitalize;
+       font-weight: bold;
+      }
+      span{
+        flex-direction:column;
+        height: fit-content;
+        max-height: fit-content;
+        flex-basis: 100%;
+        &.half {
+      @media screen and (min-width: 1025px) {
+        flex-basis: 50%;
+      }
+    }
+      }
+      button{
+        margin: 17px;
+    width: calc(100% - 35px);
+      }
+      span, .captcha {
         padding: 10px 15px !important;
+        margin-top: ${rhythm(0.5)};
         display: flex;
 
         input,
@@ -108,96 +270,270 @@ const StyledContent = styled(Container)`
 `;
 
 const Form = (props) => {
-  return (
+  const messages = {
+    isRequired: () => {
+      return props.language === "es"
+        ? "* Este campo es requerido"
+        : "* This field is required";
+    },
+    notDefault: () => {
+      return props.language === "es"
+        ? "* El valor de este campo no puede ser el valor por defecto"
+        : "* The value of this field cannot be the default one";
+    },
+    validEmail: () => {
+      return props.language === "es" ? "* Email no valido" : "* Invalid Email";
+    },
+    validPhone: () => {
+      return props.language === "es"
+        ? "* Telefono no valido, EJ: 00584121234567"
+        : "* Invalid Phone, EX: 00584121234567";
+    },
+  };
+  const schema = yup.object().shape({
+    subject: yup.string().required(messages.isRequired()),
+    name: yup.string().required(messages.isRequired()),
+    lastName: yup.string().required(messages.isRequired()),
+    email: yup
+      .string()
+      .email(messages.validEmail())
+      .required(messages.isRequired()),
+    phone: yup
+      .string()
+      .notOneOf(["default"], messages.notDefault())
+      .matches(
+        /^((\\+[1-9]{1,4}[ \\-]*)|(\\([0-9]{2,3}\\)[ \\-]*)|([0-9]{2,4})[ \\-]*)*?[0-9]{3,4}?[ \\-]*[0-9]{3,4}?$/,
+        messages.validPhone()
+      )
+      .required(messages.isRequired()),
+    city: yup.string().required(messages.isRequired()),
+    country: yup.string().required(messages.isRequired()),
+    message: yup.string().required(messages.isRequired()),
+  });
+  const schema2 = yup.object().shape({
+    referredBy: yup
+      .string()
+      .notOneOf(["default"], messages.notDefault())
+      .required(messages.isRequired()),
+    specialty: yup
+      .string()
+      .notOneOf(["default"], messages.notDefault())
+      .required(messages.isRequired()),
+
+    gender: yup
+      .string()
+      .notOneOf(["default"], messages.notDefault())
+      .required(messages.isRequired()),
+    subject: yup.string().required(messages.isRequired()),
+    name: yup.string().required(messages.isRequired()),
+    lastName: yup.string().required(messages.isRequired()),
+    email: yup
+      .string()
+      .email(messages.validEmail())
+      .required(messages.isRequired()),
+    phone: yup
+      .string()
+      .notOneOf(["default"], messages.notDefault())
+      .matches(
+        /^((\\+[1-9]{1,4}[ \\-]*)|(\\([0-9]{2,3}\\)[ \\-]*)|([0-9]{2,4})[ \\-]*)*?[0-9]{3,4}?[ \\-]*[0-9]{3,4}?$/,
+        messages.validPhone()
+      )
+      .required(messages.isRequired()),
+    city: yup.string().required(messages.isRequired()),
+    country: yup.string().required(messages.isRequired()),
+    message: yup.string().required(messages.isRequired()),
+  });
+  const { register, handleSubmit, watch, errors } = useForm({
+    validationSchema: props.type === "extended" ? schema2 : schema,
+  });
+  const [recaptcha, setRecaptcha] = useState(false);
+  const [error, setError] = useState(false);
+  const onSubmit = (data) => {
+    if (!recaptcha) {
+      setError(true);
+      return null;
+    }
+    const body = { ...data, time: Date.now() };
+
+    Axios.post("https://us-central1-dentalvip.cloudfunctions.net/submit", body)
+      .then((data) => {
+        navigate(
+          `${
+            props.language === "es"
+              ? "/gracias-por-contactarnos/"
+              : "/en/thank-you/"
+          }`
+        );
+      })
+      .catch((error) => {
+        console.log(error);
+      });
+  };
+
+  return props.type === "extended" ? (
     <BackgroundImage
       className="parallax"
       Tag="section"
       fluid={props.img.childImageSharp.fluid}
     >
       <StyledContent flexDirection="column" color="none">
-        <h1>Consult Us Right Now!</h1>
+        {ReactHtmlParser(props.title)}
         <p>
-          <i class="fas fa-exclamation-circle"></i>To send a message it is
-          mandatory to fill in all the fields of the form.
+          <i class="fas fa-exclamation-circle"></i>{" "}
+          {ReactHtmlParser(props.data.warning)}
         </p>
         <br></br>
         <form
-          name="contact"
-          method="post"
-          data-netlify="true"
-          data-netlify-honeypot="bot-field"
+          name="Specialties Form"
+          onSubmit={handleSubmit(onSubmit)}
           class="row"
         >
           <main>
-            <span>
-              <input type="text" name="firstName" placeholder="First name" />
-            </span>
-            <span>
-              <input placeholder="Last name" name="lastName" type="text" />
-            </span>
-            <span>
-              <input type="email" name="email" placeholder="Email" />
-            </span>
-            <span>
-              <input type="text" name="city" placeholder="City" />
-            </span>
-            <span>
-              <input type="text" name="country" placeholder="Country" />
-            </span>
-            <span>
-              <select  name="refered">
-                <option value="">How did you know us?</option>
-                <option value="By a Dentist">By a Dentist</option>
-                <option value="By a Friend">By a Friend</option>
-                <option value="On Instagram">On Instagram</option>
-                <option value="On Facebook">On Facebook</option>
-                <option value="On Google">On Google</option>
-              </select>
-            </span>
-            <span>
-              <select className="half" name="gender">
-                <option value="">Gender</option>
-                <option value="Female">Female</option>
-                <option value="Male">Male</option>
-              </select>
+            {props.data.fields.map((i, k) => {
+              return (
+                <>
+                  {i.type === "select" && (
+                    <span>
+                      <select name={i.name} ref={register}>
+                        <option selected={true} value={"default"}>
+                          {i.placeholder}
+                        </option>
+                        ;
+                        {i.options.items.map((opt, key) => {
+                          return <option value={opt.value}>{opt.value}</option>;
+                        })}
+                      </select>
+                      {errors[i.name] && (
+                        <label>{errors[i.name].message}</label>
+                      )}
+                    </span>
+                  )}
 
-              <input type="tel" name="phone" placeholder="Phone Number" />
-            </span>
-            <span>
-              <select
-                name="specialty"
-                aria-required="true"
-                aria-invalid="false"
-              >
-                <option value="">Specialty of interest</option>
-                <option value="Oral Surgery">Oral Surgery</option>
-                <option value="Endodontics">Endodontics</option>
-                <option value="Oral Surgery">Oral Surgery</option>
-                <option value="Implants">Implants</option>
-                <option value="General Dentistry">General Dentistry</option>
-                <option value="Orthodontics">Orthodontics</option>
-                <option value="Periodontics">Periodontics</option>
-                <option value="Prosthesis">Prosthesis</option>
-              </select>
-            </span>
+                  {i.type !== "textarea" && i.type !== "select" && (
+                    <span className={i.name !== "subject" && "half"}>
+                      {" "}
+                      <input
+                        type={i.type}
+                        name={i.name}
+                        placeholder={i.placeholder}
+                        ref={register}
+                      />{" "}
+                      {errors[i.name] && (
+                        <label>{errors[i.name].message}</label>
+                      )}
+                    </span>
+                  )}
+                </>
+              );
+            })}
           </main>
           <aside>
-            <span>
-              <textarea
-                placeholder="Describe your case. Please, include all relevant details, and as soon as possible, you will receive our reply."
-                aria-invalid="false"
-                aria-required="true"
-                rows="6"
-                cols="40"
-                name="message"
-              ></textarea>
-            </span>
+            {props.data.fields.map((i, k) => {
+              return (
+                i.type === "textarea" && (
+                  <span>
+                    <textarea
+                      placeholder={i.placeholder}
+                      rows="6"
+                      cols="40"
+                      name={i.name}
+                      ref={register}
+                    ></textarea>
+                    {errors[i.name] && <label>{errors[i.name].message}</label>}
+                  </span>
+                )
+              );
+            })}
+            <div className="submit-group">
+              <ReCAPTCHA
+                class="captcha"
+                theme={"Dark"}
+                Badge="inline"
+                /*size="compact"*/
+                sitekey="6Le5iPUUAAAAAPY6oRw8OjOI5CKKDRJlZGF8OXb3"
+                onChange={() => {
+                  setRecaptcha(true);
+                }}
+              />
+              {error && !recaptcha && (
+                <label style={{ padding: "0 15px" }}>
+                  {props.language === "es"
+                    ? "Debe confirmar que no es un robot"
+                    : "You need to confirm that you are not a robot"}
+                </label>
+              )}
 
-            <button type="submit">Send</button>
+              <button type="submit">
+                {props.language === "es" ? "ENVIAR" : "SEND"}
+              </button>
+            </div>
           </aside>
         </form>
       </StyledContent>
     </BackgroundImage>
+  ) : (
+    <StyledForm2>
+      <hr className="border-form" />
+      <p>
+        <i className="icon-exclamation-circle" />
+        {ReactHtmlParser(props.data.warning)}
+      </p>
+      <form
+        name="Specialties Form"
+        onSubmit={handleSubmit(onSubmit)}
+        class="row"
+      >
+        {props.data.fields.map((i, k) => {
+          return (
+            <>
+              {i.type !== "textarea" && i.type !== "select" ? (
+                <span className={i.name === "subject" ? " " : "half"}>
+                  {" "}
+                  <input
+                    type={i.type}
+                    name={i.name}
+                    placeholder={i.placeholder}
+                    ref={register}
+                  />{" "}
+                  {errors[i.name] && <label>{errors[i.name].message}</label>}
+                </span>
+              ) : (
+                <span>
+                  <textarea
+                    placeholder={i.placeholder}
+                    rows="6"
+                    cols="40"
+                    name={i.name}
+                    ref={register}
+                  ></textarea>
+                  {errors[i.name] && <label>{errors[i.name].message}</label>}
+                </span>
+              )}
+            </>
+          );
+        })}
+        <div className="submit-group">
+          <ReCAPTCHA
+            class="captcha"
+            sitekey="6Le5iPUUAAAAAPY6oRw8OjOI5CKKDRJlZGF8OXb3"
+            onChange={() => {
+              setRecaptcha(true);
+            }}
+          />
+          {error && !recaptcha && (
+            <label style={{ padding: "0 15px" }}>
+              {props.language === "es"
+                ? "Debe confirmar que no es un robot"
+                : "You need to confirm that you are not a robot"}
+            </label>
+          )}
+
+          <button type="submit">
+            {props.language === "es" ? "ENVIAR" : "SEND"}
+          </button>
+        </div>
+      </form>
+    </StyledForm2>
   );
 };
 

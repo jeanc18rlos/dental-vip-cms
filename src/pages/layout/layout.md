@@ -182,4 +182,201 @@ footer:
       los Derechos Reservados.| Gestionado con GIT &nbsp;
       <i class="icon-git"></i>
     </p>
+
+forms:
+  specialties:
+    warning: >
+      Para enviar un mensaje, es obligatorio rellenar todos los campos del formulario.
+    fields:
+      - name: subject
+        placeholder: Asunto
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: name
+        placeholder: Nombre
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: lastName
+        placeholder: Apellido
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: email
+        placeholder: Correo electrónico
+        type: email
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: city
+        placeholder: Ciudad
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: country
+        placeholder: País
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: phone
+        placeholder: Número de teléfono
+        type: tel
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: referredBy
+        placeholder: ¿Cómo nos ha conocido?
+        type: select
+        value: ""
+        options:
+          display: true
+          items:
+            - value: Por un odontólogo
+            - value: Por un amigo
+            - value: Por Instagram
+            - value: Por Facebook
+            - value: Por Google
+      - name: gender
+        placeholder: Género
+        type: select
+        value: Género
+        options:
+          display: true
+          items:
+            - value: Femenino
+            - value: Masculino
+
+      - name: specialty
+        placeholder: Especialidad de interés
+        type: select
+        value: Especialidad de interés
+        options:
+          display: false
+          items:
+            - value: Cirugía Bucal
+            - value: Endodoncia
+            - value: Estética Dental
+            - value: Implantes Dentales
+            - value: Implantes Cigomáticos
+            - value: Odontología General
+            - value: Ortodoncia
+            - value: Periodoncia
+            - value: Prótesis
+            - value: Sedación Y Anestesia General
+      - name: message
+        placeholder: Escriba su mensaje
+        type: textarea
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+  subscription:
+    warning: >
+      Para enviar un mensaje, es obligatorio rellenar todos los campos del formulario.
+    fields:
+      - name: name
+        placeholder: Nombre
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: email
+        placeholder: Email
+        type: email
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+  contact:
+    warning: >
+      Para enviar un mensaje, es obligatorio rellenar todos los campos del formulario.
+    fields:
+      - name: name
+        placeholder: Nombre
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: lastName
+        placeholder: Apellido
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: email
+        placeholder: Email
+        type: email
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: city
+        placeholder: Ciudad
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: country
+        placeholder: Pais
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: phone
+        placeholder: Telefono
+        type: tel
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: subject
+        placeholder: Asunto
+        type: text
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
+      - name: message
+        placeholder: Escriba su mensaje.
+        type: textarea
+        value: ""
+        options:
+          display: false
+          items:
+            - value: Nombre
 ---

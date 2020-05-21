@@ -596,8 +596,8 @@ anexes:
           img: /uploads/sections-prosthodontics-icon-ceramic.jpg
         link:
           display: true
-          to: /en/specialties/prosthodontics/cad-cam-technology/
-          placeholder: <span>More Information</span>
+          to: /especialidades/protesis/tecnologia-cad-cam/
+          placeholder: <span>Más Información</span>
 
 # Procedures Section
 procedures:

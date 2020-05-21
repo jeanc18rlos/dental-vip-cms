@@ -15,7 +15,7 @@ import ReactHtmlParser from "react-html-parser";
 
 const Personal = styled.section`
   .title {
-    padding:  ${rhythm(3)} 5vw ${rhythm(2)} !important;
+    padding: ${rhythm(3)} 5vw ${rhythm(2)} !important;
     text-align: center;
     background: #ededed;
     h1 {
@@ -28,7 +28,7 @@ const Personal = styled.section`
     justify-content: center;
     width: 100%;
     margin: auto;
-    padding: ${rhythm(3)} calc(5vw - ${rhythm(1)} ) ${rhythm(3)};
+    padding: ${rhythm(3)} calc(5vw - ${rhythm(1)}) ${rhythm(3)};
 
     @media (max-width: 1024px) {
       .card {
@@ -95,6 +95,8 @@ export const ProffesionalsPageTemplate = ({
   plainparallax,
   procedures,
   professionals,
+  form,
+  forms,
 }) => {
   return (
     <div>
@@ -117,7 +119,12 @@ export const ProffesionalsPageTemplate = ({
           })}
         </div>
       </Personal>
-      <Form img={plainparallax}></Form>
+      <Form
+        type="extended"
+        data={forms.specialties}
+        title={form.title}
+        img={form.background}
+      ></Form>
       <Boxes {...procedures}></Boxes>
     </div>
   );
@@ -131,6 +138,7 @@ const ProffesionalsPage = ({ data }) => {
     redirects,
     hero,
     staff,
+    form,
     heading,
     plainparallax,
     procedures,
@@ -151,6 +159,7 @@ const ProffesionalsPage = ({ data }) => {
           heading,
           plainparallax,
           procedures,
+          form,
           professionals,
         }}
       />
@@ -174,10 +183,13 @@ export const pageQuery = graphql`
           display
           content
         }
-        plainparallax {
-          childImageSharp {
-            fluid(srcSetBreakpoints: [1500], quality: 100) {
-              ...GatsbyImageSharpFluid_withWebp
+        form {
+          title
+          background {
+            childImageSharp {
+              fluid(srcSetBreakpoints: [1500], quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
             }
           }
         }
@@ -187,7 +199,7 @@ export const pageQuery = graphql`
             img {
               childImageSharp {
                 fluid(quality: 100, srcSetBreakpoints: [1500]) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -211,7 +223,7 @@ export const pageQuery = graphql`
             img {
               childImageSharp {
                 fluid(srcSetBreakpoints: [200], quality: 100) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -224,7 +236,7 @@ export const pageQuery = graphql`
             img {
               childImageSharp {
                 fluid(srcSetBreakpoints: [800], quality: 100) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -235,7 +247,7 @@ export const pageQuery = graphql`
                 img {
                   childImageSharp {
                     fluid(srcSetBreakpoints: [400], quality: 100) {
-                      ...GatsbyImageSharpFluid_withWebp
+                      ...GatsbyImageSharpFluid
                     }
                   }
                 }
@@ -257,7 +269,7 @@ export const pageQuery = graphql`
             img {
               childImageSharp {
                 fluid(srcSetBreakpoints: [550], quality: 100) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }

@@ -6,7 +6,7 @@ import Hero from "../components/hero";
 import Heading from "../components/heading";
 import Img from "gatsby-image";
 import BackgroundImage from "gatsby-background-image";
-import { graphql } from "gatsby";
+import { graphql, Link } from "gatsby";
 import Parallax from "../components/parallax";
 import Paragraph from "../components/asideParagrah";
 import Testimonial from "../components/testimonial";
@@ -120,7 +120,9 @@ export const SpecialtiesPageTemplate = ({
   procedures,
   anexes,
   accordionList,
-  form, exterior
+  form,
+  forms,
+  exterior,
 }) => {
   const lazyLightBox = {
     placeholder: cases.lightbox.placeholder,
@@ -162,7 +164,13 @@ export const SpecialtiesPageTemplate = ({
       )}
       {anexes.display && <Paragraph {...anexes} />}
 
-      <Form img={form.background}></Form>
+      <Form
+        type="extended"
+        data={forms.specialties}
+        title={form.title}
+        language={language}
+        img={form.background}
+      ></Form>
       <Testimonial {...testimonial}></Testimonial>
       <Exterior>
         <main>
@@ -173,10 +181,18 @@ export const SpecialtiesPageTemplate = ({
         </main>
         <aside>
           <div>
-            {
-              ReactHtmlParser(exterior.content)
-            }
-            <a class="dv-white-btn">Foreign Patients</a>
+            {ReactHtmlParser(exterior.content)}
+            <Link
+              to={
+                language === "es"
+                  ? "/pacientes-del-exterior/"
+                  : "/en/foreign-patients/"
+              }
+            >
+              {language === "es"
+                ? "Pacientes del Exterior"
+                : "Foreign Patients"}
+            </Link>
           </div>
         </aside>
       </Exterior>
@@ -201,7 +217,8 @@ const SpecialtiesPage = ({ data }) => {
     testimonial,
     procedures,
     anexes,
-    form, exterior
+    form,
+    exterior,
   } = data.markdownRemark.frontmatter;
 
   return (
@@ -223,7 +240,8 @@ const SpecialtiesPage = ({ data }) => {
           testimonial,
           procedures,
           accordionList,
-          form, exterior
+          form,
+          exterior,
         }}
       />
     </Layout>
@@ -252,7 +270,7 @@ export const pageQuery = graphql`
             img {
               childImageSharp {
                 fluid(quality: 100, srcSetBreakpoints: [1500]) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -276,7 +294,7 @@ export const pageQuery = graphql`
             img {
               childImageSharp {
                 fluid(srcSetBreakpoints: [200], quality: 100) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -289,7 +307,7 @@ export const pageQuery = graphql`
             img {
               childImageSharp {
                 fluid(srcSetBreakpoints: [800], quality: 100) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -300,7 +318,7 @@ export const pageQuery = graphql`
                 img {
                   childImageSharp {
                     fluid(srcSetBreakpoints: [400], quality: 100) {
-                      ...GatsbyImageSharpFluid_withWebp
+                      ...GatsbyImageSharpFluid
                     }
                   }
                 }
@@ -321,7 +339,7 @@ export const pageQuery = graphql`
             items {
               childImageSharp {
                 fluid(srcSetBreakpoints: [900], quality: 100) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -334,7 +352,7 @@ export const pageQuery = graphql`
             image {
               childImageSharp {
                 fluid(srcSetBreakpoints: [450], quality: 100) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -348,7 +366,7 @@ export const pageQuery = graphql`
           background {
             childImageSharp {
               fluid(srcSetBreakpoints: [1500], quality: 100) {
-                ...GatsbyImageSharpFluid_withWebp
+                ...GatsbyImageSharpFluid
               }
             }
           }
@@ -357,7 +375,7 @@ export const pageQuery = graphql`
           image {
             childImageSharp {
               fluid(srcSetBreakpoints: [450], quality: 100) {
-                ...GatsbyImageSharpFluid_withWebp
+                ...GatsbyImageSharpFluid
               }
             }
           }
@@ -372,7 +390,7 @@ export const pageQuery = graphql`
           img {
             childImageSharp {
               fluid(srcSetBreakpoints: [1500], quality: 100) {
-                ...GatsbyImageSharpFluid_withWebp
+                ...GatsbyImageSharpFluid
               }
             }
           }
@@ -380,7 +398,7 @@ export const pageQuery = graphql`
         plainparallax {
           childImageSharp {
             fluid(srcSetBreakpoints: [1500], quality: 100) {
-              ...GatsbyImageSharpFluid_withWebp
+              ...GatsbyImageSharpFluid
             }
           }
         }
@@ -399,14 +417,14 @@ export const pageQuery = graphql`
             portrait {
               childImageSharp {
                 fluid(srcSetBreakpoints: [480], quality: 100) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
             landscape {
               childImageSharp {
                 fluid(srcSetBreakpoints: [700], quality: 100) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -428,7 +446,7 @@ export const pageQuery = graphql`
             img {
               childImageSharp {
                 fluid(srcSetBreakpoints: [550], quality: 100) {
-                  ...GatsbyImageSharpFluid_withWebp
+                  ...GatsbyImageSharpFluid
                 }
               }
             }

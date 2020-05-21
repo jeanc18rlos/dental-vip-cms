@@ -21,7 +21,12 @@ const StyledContent = styled(Container)`
   @media screen and (max-width: 768px) {
     flex-direction: column !important;
   }
+  .bold{
+    font-weight: bold;
+    text-shadow: 0px 0px 17px black;
+  }
   h1 {
+    
     margin-bottom: ${rhythm(2)};
     &.big {
       font-size: ${rhythm(1.8)};

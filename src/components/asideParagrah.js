@@ -5,12 +5,78 @@ import { rhythm, scale } from "../utils/typography";
 import { Container } from "../Elements/Container";
 import { Link } from "gatsby";
 import ReactHtmlParser from "react-html-parser";
-
 import { useWindowSize } from "../utils/hooks";
 
 const StyledContent = styled(Container)`
+  ${(props) =>
+    props.contained &&
+    `
+    padding-top: ${rhythm(4)}!important;  
+    padding-bottom: ${rhythm(0)}!important;
+   
+    @media screen and (min-width: 768px) {
+      .paragraph-item{
+        &.odd {
+        padding-left: 5vw;
+      }
+      &.even {
+        padding-right: 5vw;
+      }
+      }
+      
+    
+      padding-top: ${rhythm(2)}!important;
+      padding-bottom: ${rhythm(2)}!important;
+      .small {
+        min-height: 50vh !important;
+        &:before {
+          background-size: 170% !important;
+          background-position: center !important;
+        }
+        &:after {
+          background-size: 170% !important;
+          background-position: center !important;
+        }
+      }
+    }
+    @media screen and (min-width: 1200px) {
+      .small {
+        &:before {
+          background-size: contain !important;
+        }
+        &:after {
+          background-size: contain !important;
+        }
+      }
+    }
+  `}
+  ${(props) =>
+    props.enforce &&
+    ` ${
+      props.contained &&
+      props.enforce &&
+      `
+      
+      .small {
+        .content-wrapper {
+          opacity: 0;
+        }
+        &:before {
+          background-size: contain !important;
+        }
+        &:after {
+          background-size: contain !important;
+        }
+      }`
+    }`}
   padding: 0;
+  .link-box {
+    display: flex;
+    flex-flow: wrap;
+  }
   .link {
+    white-space: nowrap;
+    text-align: center;
     width: fit-content;
     cursor: pointer;
     font-weight: 700;
@@ -37,8 +103,21 @@ const StyledContent = styled(Container)`
     }
   }
   ul {
-    list-style: none;
     margin-left: 0;
+    li {
+      padding-left: ${rhythm(2)};
+      position: relative;
+      list-style: none;
+      i {
+        position: absolute;
+        left: 0;
+        top: 0.1em;
+        color: white;
+        background: #91c508;
+        padding: 4px;
+        border-radius: 50%;
+      }
+    }
   }
   .boxed {
     width: fit-content;
@@ -97,6 +176,7 @@ const StyledContent = styled(Container)`
         flex-direction: column !important;
       }
     }
+
     @media screen and (max-width: 768px) {
       &:nth-last-of-type(1n) {
         padding-bottom: ${rhythm(3)} !important;
@@ -125,10 +205,12 @@ const StyledContent = styled(Container)`
         }
       }
     }
+
     .image {
       width: 100%;
       min-height: 50vh;
       display: flex;
+
       @media screen and (min-width: 1024px) {
         min-height: ${(props) => (!props.small ? "70vh" : "40vh")};
       }
@@ -138,6 +220,7 @@ const StyledContent = styled(Container)`
           margin-bottom: ${rhythm(2)} !important;
         }
       }
+
       .content-wrapper {
         margin-top: ${rhythm(2)};
         margin-bottom: ${rhythm(1)};
@@ -178,13 +261,24 @@ const StyledContent = styled(Container)`
   }
 `;
 const Paragraph = (props) => {
+  const size = useWindowSize();
   return (
-    <StyledContent small={props.small} flexDirection="column" color="none">
+    <StyledContent
+      small={props.small}
+      contained={props.contained}
+      flexDirection="column"
+      color="none"
+      enforce={props.enforce}
+    >
       {props.items.map((i, k) => {
         return (
-          <div className="paragraph-item">
+          <div
+            className={`${
+              props.contained && (k + 1) % 2 === 0 ? "odd" : "even"
+            } paragraph-item`}
+          >
             <BackgroundImage
-              className="image"
+              className={`image ${props.contained && "small"} `}
               fluid={i.img.childImageSharp.fluid}
             >
               <div className="content-wrapper">

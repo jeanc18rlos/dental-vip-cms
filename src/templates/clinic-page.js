@@ -132,8 +132,8 @@ export const pageQuery = graphql`
             scaleOnReveal
             img {
               childImageSharp {
-                fluid(quality: 75, srcSetBreakpoints: [  1500 ]) {
-                  ...GatsbyImageSharpFluid_withWebp
+                fluid(quality: 100, srcSetBreakpoints: [  1500 ]) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -163,8 +163,8 @@ export const pageQuery = graphql`
           items {
             img {
               childImageSharp {
-                fluid(srcSetBreakpoints: [ 800 ], quality: 50) {
-                  ...GatsbyImageSharpFluid_withWebp
+                fluid(srcSetBreakpoints: [ 800 ], quality: 100) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -175,8 +175,8 @@ export const pageQuery = graphql`
           display
           banner {
             childImageSharp {
-              fluid(srcSetBreakpoints: [ 800 ], quality: 50) {
-                ...GatsbyImageSharpFluid_withWebp
+              fluid(srcSetBreakpoints: [ 800 ], quality: 100) {
+                ...GatsbyImageSharpFluid
               }
             }
           }
@@ -205,8 +205,8 @@ export const pageQuery = graphql`
           portraitPosition
           img {
             childImageSharp {
-              fluid(srcSetBreakpoints: [ 1500 ], quality: 75) {
-                ...GatsbyImageSharpFluid_withWebp
+              fluid(srcSetBreakpoints: [ 1500 ], quality: 100) {
+                ...GatsbyImageSharpFluid
               }
             }
           }
@@ -219,15 +219,15 @@ export const pageQuery = graphql`
           images {
             portrait {
               childImageSharp {
-                fluid(srcSetBreakpoints: [ 480 ], quality: 50) {
-                  ...GatsbyImageSharpFluid_withWebp
+                fluid(srcSetBreakpoints: [ 480 ], quality: 100) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
             landscape {
               childImageSharp {
-                fluid(srcSetBreakpoints: [ 700 ], quality: 50) {
-                  ...GatsbyImageSharpFluid_withWebp
+                fluid(srcSetBreakpoints: [ 700 ], quality: 100) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -241,8 +241,8 @@ export const pageQuery = graphql`
             placeholder
             items {
               childImageSharp {
-                fluid(srcSetBreakpoints: [ 1200 ], quality: 50) {
-                  ...GatsbyImageSharpFluid_withWebp
+                fluid(srcSetBreakpoints: [ 1200 ], quality: 100) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -254,8 +254,8 @@ export const pageQuery = graphql`
             }
             image {
               childImageSharp {
-                fluid(srcSetBreakpoints: [ 450 ], quality: 50) {
-                  ...GatsbyImageSharpFluid_withWebp
+                fluid(srcSetBreakpoints: [ 450 ], quality: 100) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -271,8 +271,8 @@ export const pageQuery = graphql`
             to
             img {
               childImageSharp {
-                fluid(srcSetBreakpoints: [ 550 ], quality: 50) {
-                  ...GatsbyImageSharpFluid_withWebp
+                fluid(srcSetBreakpoints: [ 550 ], quality: 100) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }

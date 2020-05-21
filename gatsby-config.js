@@ -4,15 +4,23 @@ module.exports = {
     title: "Dental VIP",
     author: "jean rojas",
     social: {
-      twitter: `kylemathews`,
-      instagram: ``,
-      facebook: ``,
+      twitter: `DentalVIP`,
+      instagram: `DentalVIP`,
+      facebook: `DentalVIP`,
     },
     description:
       "Dental VIP is a business ready website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
+    "gatsby-plugin-sass",
+    `gatsby-plugin-styled-components`,
+    {
+      resolve: `gatsby-plugin-typography`,
+      options: {
+        pathToConfigModule: `src/utils/typography`,
+      },
+    },
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: "gatsby-source-filesystem",
@@ -94,12 +102,5 @@ module.exports = {
       },
     },
     "gatsby-plugin-remove-serviceworker",
-    `gatsby-plugin-styled-components`,
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
   ],
 };
