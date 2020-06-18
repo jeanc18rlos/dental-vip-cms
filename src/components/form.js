@@ -447,7 +447,7 @@ const Form = (props) => {
                 theme={"Dark"}
                 Badge="inline"
                 /*size="compact"*/
-                sitekey="6Le5iPUUAAAAAPY6oRw8OjOI5CKKDRJlZGF8OXb3"
+                sitekey="6LfMI6YZAAAAAO1akvBG2ILmPfl8mEmZoHl4KWNS"
                 onChange={() => {
                   setRecaptcha(true);
                 }}
@@ -512,7 +512,7 @@ const Form = (props) => {
         <div className="submit-group">
           <ReCAPTCHA
             className="captcha"
-            sitekey="6Le5iPUUAAAAAPY6oRw8OjOI5CKKDRJlZGF8OXb3"
+            sitekey="6LfMI6YZAAAAAO1akvBG2ILmPfl8mEmZoHl4KWNS"
             onChange={() => {
               setRecaptcha(true);
             }}
