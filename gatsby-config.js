@@ -1,5 +1,6 @@
 module.exports = {
   siteMetadata: {
+    siteUrl: "dentalvip.com.ve",
     en: {
       url: "dentalvip.com.ve/en",
       description:
