@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://dentalvip.com.ve",
+    siteUrl: "http://dentalvip-prod.web.app",
     en: {
-      url: "dentalvip.com.ve/en",
+      url: "http://dentalvip-prod.web.app//en",
       description:
         "Dental VIP is a business ready website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
     },
     es: {
-      url: "dentalvip.com.ve",
+      url: "http://dentalvip-prod.web.app/",
       description:
         "Dental VIP is a business ready website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
     },
