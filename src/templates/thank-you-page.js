@@ -277,7 +277,7 @@ export const pageQuery = graphql`
             img {
               childImageSharp {
                 fluid(srcSetBreakpoints: [1500], quality: 90) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }
@@ -348,7 +348,7 @@ export const pageQuery = graphql`
             featuredimage {
               childImageSharp {
                 fluid(maxWidth: 800, quality: 100) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }
@@ -372,7 +372,7 @@ export const pageQuery = graphql`
           img {
             childImageSharp {
               fluid(srcSetBreakpoints: [1500], quality: 75) {
-                ...GatsbyImageSharpFluid
+                ...GatsbyImageSharpFluid_withWebp
               }
             }
           }
@@ -388,7 +388,7 @@ export const pageQuery = graphql`
             image {
               childImageSharp {
                 fluid(srcSetBreakpoints: [160], quality: 90) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }
@@ -404,7 +404,7 @@ export const pageQuery = graphql`
             items {
               childImageSharp {
                 fluid(srcSetBreakpoints: [1200], quality: 90) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }
@@ -417,7 +417,7 @@ export const pageQuery = graphql`
             image {
               childImageSharp {
                 fluid(srcSetBreakpoints: [450], quality: 90) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }

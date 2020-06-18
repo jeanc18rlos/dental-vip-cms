@@ -112,7 +112,7 @@ const Layout = ({ children }) => {
                     teethLogo {
                       childImageSharp {
                         fluid(maxWidth: 768, quality: 100) {
-                          ...GatsbyImageSharpFluid
+                          ...GatsbyImageSharpFluid_withWebp
                         }
                       }
                     }
@@ -126,7 +126,7 @@ const Layout = ({ children }) => {
                       img {
                         childImageSharp {
                           fluid(maxWidth: 160, quality: 100) {
-                            ...GatsbyImageSharpFluid
+                            ...GatsbyImageSharpFluid_withWebp
                           }
                         }
                       }
