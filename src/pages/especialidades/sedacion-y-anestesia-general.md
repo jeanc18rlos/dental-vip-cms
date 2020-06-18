@@ -104,7 +104,8 @@ plainparallax: /uploads/parallax-sedation-and-general-anesthesia.jpg
 accordionList:
   display: true
   title: >
-    <h1>Frequently Asked Questions</h1>
+    <h1>Preguntas Frecuentes
+</h1>
   items:
     - title: '<h4>Entre la anestesia local y general, ¿cuál es preferible?</h4>'
       content: >-

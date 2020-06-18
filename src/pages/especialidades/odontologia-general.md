@@ -96,7 +96,8 @@ plainparallax: /uploads/parallax-general-dentistry.jpg
 accordionList:
   display: true
   title: >
-    <h1>Frequently Asked Questions</h1>
+    <h1>Preguntas Frecuentes
+</h1>
   items:
     - title: >-
         <h4>¿Cuáles son las enfermedades más comunes que afectan a dientes y

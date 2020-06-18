@@ -92,7 +92,8 @@ plainparallax: /uploads/parallax-prosthodontics.jpg
 accordionList:
   display: true
   title: >
-    <h1>Frequently Asked Questions</h1>
+    <h1>Preguntas Frecuentes
+</h1>
   items:
     - title: <h4>¿Qué es una prótesis dental?</h4>
       content: >-

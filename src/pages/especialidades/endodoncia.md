@@ -96,7 +96,8 @@ plainparallax: /uploads/parallax-endodontics.jpg
 accordionList:
   display: true
   title: >
-    <h1>Frequently Asked Questions</h1>
+    <h1>Preguntas Frecuentes
+</h1>
   items:
     - title: <h4>¿Cómo es un diente por dentro?</h4>
       content: >-

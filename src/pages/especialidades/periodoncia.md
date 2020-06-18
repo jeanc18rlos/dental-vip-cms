@@ -91,7 +91,8 @@ plainparallax: /uploads/parallax-periodontics.jpg
 accordionList:
   display: true
   title: >
-    <h1>Frequently Asked Questions</h1>
+    <h1>Preguntas Frecuentes
+</h1>
   items:
     - title: <h4>¿Cómo es una encía sana?</h4>
       content: >-
