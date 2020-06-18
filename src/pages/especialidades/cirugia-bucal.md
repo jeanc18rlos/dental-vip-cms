@@ -91,7 +91,7 @@ accordionList:
   display: true
   title: >
     <h1>Preguntas Frecuentes
-</h1>
+    </h1>
   items:
     - title: <h4>¿Por qué elegir a un Especialista en Cirugía Bucal?</h4>
       content: >-
