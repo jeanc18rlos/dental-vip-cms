@@ -149,8 +149,8 @@ footer:
     - number: +582122613732
     - number: +582122613331
   contact:
-    link: /contact
-    text: contact
+    link: /contacto
+    text: contacto
   social:
     - item: >
         <a
