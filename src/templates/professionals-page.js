@@ -5,11 +5,11 @@ import Boxes from "../components/boxes";
 import Hero from "../components/hero";
 import Heading from "../components/heading";
 import Img from "gatsby-image";
-import BackgroundImage from "gatsby-background-image";
 import { graphql } from "gatsby";
+import SEO from "../components/seo";
 import Paragraph from "../components/asideParagrah";
 import styled from "styled-components";
-import { scale, rhythm } from "../utils/typography";
+import {  rhythm } from "../utils/typography";
 import Form from "../components/form";
 import ReactHtmlParser from "react-html-parser";
 
@@ -85,14 +85,10 @@ const Personal = styled.section`
   }
 `;
 export const ProffesionalsPageTemplate = ({
-  templateKey,
   language,
-  title,
   staff,
-  redirects,
   hero,
   heading,
-  plainparallax,
   procedures,
   professionals,
   form,
@@ -123,6 +119,7 @@ export const ProffesionalsPageTemplate = ({
         type="extended"
         data={forms.specialties}
         title={form.title}
+        language={language}
         img={form.background}
       ></Form>
       <Boxes {...procedures}></Boxes>
@@ -135,6 +132,8 @@ const ProffesionalsPage = ({ data }) => {
     templateKey,
     language,
     title,
+    description,
+    keywords,
     redirects,
     hero,
     staff,
@@ -148,6 +147,12 @@ const ProffesionalsPage = ({ data }) => {
   return (
     <Layout>
       <SetLang language={language} link={redirects} />
+      <SEO
+        title={title}
+        lang={language}
+        description={description}
+        keywords={keywords}
+      />
       <ProffesionalsPageTemplate
         {...{
           templateKey,
@@ -178,6 +183,8 @@ export const pageQuery = graphql`
       frontmatter {
         language
         title
+        description
+        keywords
         redirects
         heading {
           display

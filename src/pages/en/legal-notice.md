@@ -6,6 +6,8 @@ description: >
   Seo description
 redirects: /aviso-legal/
 published: true
+keywords:
+ - default
 ---
 
 # LEGAL NOTICE

@@ -4,6 +4,8 @@ language: es
 redirects: /en/specialties/oral-surgery/
 title: Cirugía Bucal
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

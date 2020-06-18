@@ -5,6 +5,8 @@ redirects: >
     /en/specialties/prosthodontics/prosthesis-types
 title: Tipos de prótesis dental
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
     - default tag

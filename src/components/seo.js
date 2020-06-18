@@ -16,16 +16,29 @@ function SEO({ description, lang, meta, keywords, title }) {
       query {
         site {
           siteMetadata {
+            en {
+              url
+              description
+            }
+            es {
+              url
+              description
+            }
+
             title
-            description
             author
+            social {
+              twitter
+              instagram
+              facebook
+            }
           }
         }
       }
     `
   );
 
-  const metaDescription = description || site.siteMetadata.description;
+  const metaDescription = description || site.siteMetadata[lang].description;
 
   return (
     <Helmet

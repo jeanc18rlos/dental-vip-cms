@@ -1,7 +1,7 @@
 import React from "react";
 import { Container } from "../Elements/Container";
-import styled, { css } from "styled-components";
-import { rhythm, scale } from "../utils/typography";
+import styled from "styled-components";
+import { rhythm } from "../utils/typography";
 import ReactHtmlParser from "react-html-parser";
 import Img from "gatsby-image";
 const StyledQuote = styled.section`

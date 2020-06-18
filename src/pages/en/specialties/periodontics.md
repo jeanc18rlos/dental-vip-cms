@@ -4,6 +4,8 @@ language: en
 redirects: /especialidades/periodoncia/
 title: Periodontics
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

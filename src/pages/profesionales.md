@@ -4,6 +4,8 @@ language: es
 redirects: /en/professional-staff/
 title: Profesionales
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag
@@ -87,16 +89,16 @@ professionals:
         <h2 class="light">Dr. Castor José Garabán Povea</h2>
         <h3 class="bebas boxed">CIRUGÍA BUCAL - IMPLANTES DENTALES</h3>
         <ul>
-        <li><strong>Odontólogo</strong>&nbsp;<em>(Universidad Central de Venezuela, 1994)</em>.</li>
-        <li><strong>Título de Especialista en Cirugía Bucal</strong>&nbsp;<em>(Universidad Central de Venezuela, 2006)</em>.</li>
-        <li>Curso de Postgrado en Implantología Oral y Prótesis sobre Implantes.</li>
-        <li>Diplomado en Oseointegración y Regeneración Ósea Periimplantaria.</li>
-        <li>Capacitación permanente en Técnicas Quirúrgicas Conservadoras y Microinvasivas.</li>
-        <li>Experto Clínico en el manejo de múltiples sistemas de Implantología Oral Avanzada.</li>
-        <li>Profesor Asistente de la Facultad de Odontología, U.C.V.</li>
-        <li>Miembro del Colegio de Odontólogos de Venezuela.</li>
-        <li>Miembro del Colegio de Odontólogos Metropolitano.</li>
-        <li>Miembro de la Sociedad Venezolana de Cirugía Buco-Maxilofacial&nbsp;<em>(S.V.C.B.M.F.)</em>.</li>
+        <li class="nl"><strong>Odontólogo</strong>&nbsp;<em>(Universidad Central de Venezuela, 1994)</em>.</li>
+        <li class="nl"><strong>Título de Especialista en Cirugía Bucal</strong>&nbsp;<em>(Universidad Central de Venezuela, 2006)</em>.</li>
+        <li class="nl">Curso de Postgrado en Implantología Oral y Prótesis sobre Implantes.</li>
+        <li class="nl">Diplomado en Oseointegración y Regeneración Ósea Periimplantaria.</li>
+        <li class="nl">Capacitación permanente en Técnicas Quirúrgicas Conservadoras y Microinvasivas.</li>
+        <li class="nl">Experto Clínico en el manejo de múltiples sistemas de Implantología Oral Avanzada.</li>
+        <li class="nl">Profesor Asistente de la Facultad de Odontología, U.C.V.</li>
+        <li class="nl">Miembro del Colegio de Odontólogos de Venezuela.</li>
+        <li class="nl">Miembro del Colegio de Odontólogos Metropolitano.</li>
+        <li class="nl">Miembro de la Sociedad Venezolana de Cirugía Buco-Maxilofacial&nbsp;<em>(S.V.C.B.M.F.)</em>.</li>
         </ul>
       footer:
         icon:
@@ -112,16 +114,16 @@ professionals:
         <h3 class="bebas boxed">PRÓTESIS
         - ESTÉTICA DENTAL</h3>
         <ul>
-        <li><strong>Odontólogo</strong>&nbsp;<em>(Universidad Santa María, 2001)</em>.</li>
-        <li><strong>Especialista en Prostodoncia</strong>&nbsp;<em>(Collegio dei Docenti di Odontoiatria, Italia, 2003).</em></li>
-        <li>Curso avanzado de Odontología Estética y Restauradora&nbsp;<em>(U.S.M., 2004).</em></li>
-        <li>Master en diseño y confección de Prótesis sobre Implantes.</li>
-        <li>Residencia en Prostodoncia clínica aplicada e Implantología.</li>
-        <li>Múltiples seminarios de capacitación en Tecnologías CAD-CAM y Diseño de Sonrisa.</li>
-        <li>Diplomado en Cerámica Dental, Oclusión y Odontología Operatoria.</li>
-        <li>Práctica privada limitada al área de Estética Dental, Prótesis y Rehabilitación Oral.</li>
-        <li>Miembro del Colegio de Odontólogos de Venezuela.</li>
-        <li>Miembro del Colegio de Odontólogos Metropolitano.</li>
+        <li class="nl"><strong>Odontólogo</strong>&nbsp;<em>(Universidad Santa María, 2001)</em>.</li>
+        <li class="nl"><strong>Especialista en Prostodoncia</strong>&nbsp;<em>(Collegio dei Docenti di Odontoiatria, Italia, 2003).</em></li>
+        <li class="nl">Curso avanzado de Odontología Estética y Restauradora&nbsp;<em>(U.S.M., 2004).</em></li>
+        <li class="nl">Master en diseño y confección de Prótesis sobre Implantes.</li>
+        <li class="nl">Residencia en Prostodoncia clínica aplicada e Implantología.</li>
+        <li class="nl">Múltiples seminarios de capacitación en Tecnologías CAD-CAM y Diseño de Sonrisa.</li>
+        <li class="nl">Diplomado en Cerámica Dental, Oclusión y Odontología Operatoria.</li>
+        <li class="nl">Práctica privada limitada al área de Estética Dental, Prótesis y Rehabilitación Oral.</li>
+        <li class="nl">Miembro del Colegio de Odontólogos de Venezuela.</li>
+        <li class="nl">Miembro del Colegio de Odontólogos Metropolitano.</li>
         </ul>
       footer:
         icon:
@@ -137,16 +139,16 @@ professionals:
         <h3 class="bebas boxed">ODONTOLOGÍA
         GENERAL - PERIODONCIA</h3>
         <ul>
-        <li><strong>Odontólogo</strong>&nbsp;<em>(Universidad Central de Venezuela, 2000).</em></li>
-        <li><strong>Postgrado en Estomatología Integral del Adulto</strong>&nbsp;<em>(Universidad Santa María, 2004).</em></li>
-        <li><strong>Título de Especialista en Periodoncia</strong>&nbsp;<em>(Universidad Central de Venezuela, 2014).</em></li>
-        <li>Aspirante al grado de DOCTOR EN ODONTOLOGÍA.</li>
-        <li>Diplomado en Técnicas Avanzadas de Regeneración Tisular Guiada.</li>
-        <li>Autor de diversos artículos en revistas nacionales e internacionales.</li>
-        <li>Práctica enfocada a la prevención y tratamiento de la Patología Periodontal.</li>
-        <li>Miembro del Colegio de Odontólogos de Venezuela.</li>
-        <li>Miembro del Colegio de Odontólogos Metropolitano.</li>
-        <li>Miembro de la Sociedad Venezolana de Periodontología.</li>
+        <li class="nl"><strong>Odontólogo</strong>&nbsp;<em>(Universidad Central de Venezuela, 2000).</em></li>
+        <li class="nl"><strong>Postgrado en Estomatología Integral del Adulto</strong>&nbsp;<em>(Universidad Santa María, 2004).</em></li>
+        <li class="nl"><strong>Título de Especialista en Periodoncia</strong>&nbsp;<em>(Universidad Central de Venezuela, 2014).</em></li>
+        <li class="nl">Aspirante al grado de DOCTOR EN ODONTOLOGÍA.</li>
+        <li class="nl">Diplomado en Técnicas Avanzadas de Regeneración Tisular Guiada.</li>
+        <li class="nl">Autor de diversos artículos en revistas nacionales e internacionales.</li>
+        <li class="nl">Práctica enfocada a la prevención y tratamiento de la Patología Periodontal.</li>
+        <li class="nl">Miembro del Colegio de Odontólogos de Venezuela.</li>
+        <li class="nl">Miembro del Colegio de Odontólogos Metropolitano.</li>
+        <li class="nl">Miembro de la Sociedad Venezolana de Periodontología.</li>
         </ul>
       footer:
         icon:
@@ -162,16 +164,16 @@ professionals:
         <h3 class="bebas boxed">ORTODONCIA
         - ORTOPEDIA DENTOFACIAL</h3>
         <ul>
-        <li><strong>Odontólogo</strong>&nbsp;<em>(Universidad Central de Venezuela, 1996).</em></li>
-        <li><strong>Maestría en Ortodoncia</strong>&nbsp;<em>(Universidad Autónoma de Tamaulipas, México, 2003).</em></li>
-        <li>Fellowship Program in Clinical Orthodontics.</li>
-        <li>Especialización en Técnica de Arco Recto&nbsp;<em>(Straight Wire System).</em></li>
-        <li>Entrenamiento avanzado en Oclusión y Disfunción Craneomandibular.</li>
-        <li>Numerosas estancias de formación académica en España, México y USA.</li>
-        <li>Dedicación exclusiva a la Especialidad de Ortodoncia y Ortopedia Dentofacial.</li>
-        <li>Miembro del Colegio de Odontólogos de Venezuela.</li>
-        <li>Miembro del Colegio de Odontólogos Metropolitano.</li>
-        <li>Miembro del Colegio de Odontólogos del Estado Miranda.</li>
+        <li class="nl"><strong>Odontólogo</strong>&nbsp;<em>(Universidad Central de Venezuela, 1996).</em></li>
+        <li class="nl"><strong>Maestría en Ortodoncia</strong>&nbsp;<em>(Universidad Autónoma de Tamaulipas, México, 2003).</em></li>
+        <li class="nl">Fellowship Program in Clinical Orthodontics.</li>
+        <li class="nl">Especialización en Técnica de Arco Recto&nbsp;<em>(Straight Wire System).</em></li>
+        <li class="nl">Entrenamiento avanzado en Oclusión y Disfunción Craneomandibular.</li>
+        <li class="nl">Numerosas estancias de formación académica en España, México y USA.</li>
+        <li class="nl">Dedicación exclusiva a la Especialidad de Ortodoncia y Ortopedia Dentofacial.</li>
+        <li class="nl">Miembro del Colegio de Odontólogos de Venezuela.</li>
+        <li class="nl">Miembro del Colegio de Odontólogos Metropolitano.</li>
+        <li class="nl">Miembro del Colegio de Odontólogos del Estado Miranda.</li>
         </ul>
       footer:
         icon:
@@ -187,16 +189,16 @@ professionals:
         <h3 class="bebas boxed">ODONTOLOGÍA
         GENERAL - ENDODONCIA</h3>
         <ul>
-        <li><strong>Odontólogo</strong>&nbsp;<em>(Universidad Central de Venezuela, 2000).</em></li>
-        <li><strong>Postgrado en Endodoncia</strong>&nbsp;<em>(Universidad Autónoma de Tamaulipas, México, 2003)</em>.</li>
-        <li>Diplomado en Farmacoterapia e Inmunofarmacología.</li>
-        <li>Experto Clínico en el manejo de Lesiones Endoperiodontales y Endoprotésicas.</li>
-        <li>Entrenamiento avanzado en el uso práctico de Sistemas Rotatorios de Níquel-Titanio.</li>
-        <li>Adiestramiento certificado en Técnicas de Condensación y Obturación Termoplástica.</li>
-        <li>Asistencia a más de 50 cursos teóricos y prácticos de la Especialidad.</li>
-        <li>Miembro del Colegio de Odontólogos de Venezuela.</li>
-        <li>Miembro del Colegio de Odontólogos Metropolitano.</li>
-        <li>Miembro del Colegio de Odontólogos del Estado Miranda.</li>
+        <li class="nl"><strong>Odontólogo</strong>&nbsp;<em>(Universidad Central de Venezuela, 2000).</em></li>
+        <li class="nl"><strong>Postgrado en Endodoncia</strong>&nbsp;<em>(Universidad Autónoma de Tamaulipas, México, 2003)</em>.</li>
+        <li class="nl">Diplomado en Farmacoterapia e Inmunofarmacología.</li>
+        <li class="nl">Experto Clínico en el manejo de Lesiones Endoperiodontales y Endoprotésicas.</li>
+        <li class="nl">Entrenamiento avanzado en el uso práctico de Sistemas Rotatorios de Níquel-Titanio.</li>
+        <li class="nl">Adiestramiento certificado en Técnicas de Condensación y Obturación Termoplástica.</li>
+        <li class="nl">Asistencia a más de 50 cursos teóricos y prácticos de la Especialidad.</li>
+        <li class="nl">Miembro del Colegio de Odontólogos de Venezuela.</li>
+        <li class="nl">Miembro del Colegio de Odontólogos Metropolitano.</li>
+        <li class="nl">Miembro del Colegio de Odontólogos del Estado Miranda.</li>
         </ul>
       footer:
         icon:

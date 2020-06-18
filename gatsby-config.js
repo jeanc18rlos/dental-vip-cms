@@ -1,20 +1,49 @@
 module.exports = {
   siteMetadata: {
-    url: "dentalvip.com.ve",
-    title: "Dental VIP",
-    author: "jean rojas",
+    en: {
+      url: "dentalvip.com.ve/en",
+      description:
+        "Dental VIP is a business ready website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+    },
+    es: {
+      url: "dentalvip.com.ve",
+      description:
+        "Dental VIP is a business ready website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+    },
+
+    title: "DentalVIP",
+    author: "Jeanc16rlos@gmail.com",
     social: {
       twitter: `DentalVIP`,
       instagram: `DentalVIP`,
       facebook: `DentalVIP`,
     },
-    description:
-      "Dental VIP is a business ready website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sass",
     `gatsby-plugin-styled-components`,
+    {
+      resolve: "gatsby-plugin-robots-txt",
+      options: {
+        resolveEnv: () => "production",
+        env: {
+          production: {
+            policy: [{ userAgent: "*" }],
+          },
+          "branch-deploy": {
+            policy: [{ userAgent: "*", disallow: ["/"] }],
+            sitemap: null,
+            host: null,
+          },
+          "deploy-preview": {
+            policy: [{ userAgent: "*", disallow: ["/"] }],
+            sitemap: null,
+            host: null,
+          },
+        },
+      },
+    },
     {
       resolve: `gatsby-plugin-typography`,
       options: {

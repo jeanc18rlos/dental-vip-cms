@@ -5,6 +5,8 @@ redirects: >
   /en/specialties/aesthetic-dentistry/porcelain-veneers/
 title: Carillas de porcelana
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

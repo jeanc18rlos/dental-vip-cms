@@ -4,6 +4,8 @@ language: es
 redirects: /en/
 title: Inicio
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag
@@ -339,7 +341,7 @@ procedures:
       img: /uploads/procedures-cad-cam.jpg
     - title: >
         <h5>Diseño digital de sonrisa</h5>
-      to: /especialidades/estetica-dental/
+      to: /especialidades/estetica-dental/diseno-digital-de-sonrisa
       img: /uploads/procedures-design.jpg
     - title: >
         <h5>Brackets Estéticos</h5>

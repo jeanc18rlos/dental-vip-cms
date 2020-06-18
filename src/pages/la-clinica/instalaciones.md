@@ -4,6 +4,8 @@ language: es
 redirects: /en/the-clinic/facilities/
 title: Instalaciones
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

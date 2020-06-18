@@ -1,11 +1,10 @@
-import React, { useState } from "react";
+import React from "react";
 import BackgroundImage from "gatsby-background-image";
-import styled, { css } from "styled-components";
-import { rhythm, scale } from "../utils/typography";
+import styled from "styled-components";
+import { rhythm } from "../utils/typography";
 import { Container } from "../Elements/Container";
 import { Link } from "gatsby";
 import ReactHtmlParser from "react-html-parser";
-import { useWindowSize } from "../utils/hooks";
 
 const StyledContent = styled(Container)`
   ${(props) =>
@@ -105,6 +104,9 @@ const StyledContent = styled(Container)`
   ul {
     margin-left: 0;
     li {
+      &.nl {
+        padding-left: 0;
+      }
       padding-left: ${rhythm(2)};
       position: relative;
       list-style: none;
@@ -261,7 +263,6 @@ const StyledContent = styled(Container)`
   }
 `;
 const Paragraph = (props) => {
-  const size = useWindowSize();
   return (
     <StyledContent
       small={props.small}
@@ -273,6 +274,7 @@ const Paragraph = (props) => {
       {props.items.map((i, k) => {
         return (
           <div
+            key={k}
             className={`${
               props.contained && (k + 1) % 2 === 0 ? "odd" : "even"
             } paragraph-item`}

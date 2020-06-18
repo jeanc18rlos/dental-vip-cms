@@ -5,6 +5,7 @@ import Boxes from "../components/boxes";
 import Hero from "../components/hero";
 import Heading from "../components/heading";
 import Img from "gatsby-image";
+import SEO from "../components/seo";
 import BackgroundImage from "gatsby-background-image";
 import { graphql, Link } from "gatsby";
 import Parallax from "../components/parallax";
@@ -14,6 +15,7 @@ import { scale, rhythm } from "../utils/typography";
 import Form from "../components/form";
 import ReactHtmlParser from "react-html-parser";
 import Content, { HTMLContent } from "../components/content";
+
 const Article = styled.div`
   display: flex;
   flex-direction: ${(props) =>
@@ -636,7 +638,7 @@ const ListContainer = (props) => {
       <div className="wrapper">
         {blocks.map((i, k) => {
           return (
-            <div className={`item ${type}`}>
+            <div key={k} className={`item ${type}`}>
               <Img
                 className={`image ${type}`}
                 fluid={i.img.childImageSharp.fluid}
@@ -656,12 +658,9 @@ const ListContainer = (props) => {
 };
 
 export const AnnexPageTemplate = ({
-  templateKey,
   language,
-  title,
   content,
   contentComponent,
-  redirects,
   articleBlock,
   hero,
   heading,
@@ -691,7 +690,7 @@ export const AnnexPageTemplate = ({
           <div className={customBlocks.type}>
             {customBlocks.blocks.map((i, k) => {
               return (
-                <div className="block">
+                <div key={k} className="block">
                   {i.header.display && (
                     <div className="block-header">
                       {ReactHtmlParser(i.header.content)}
@@ -700,11 +699,11 @@ export const AnnexPageTemplate = ({
 
                   {i.body.display && (
                     <div className="block-body">
-                      {i.body.images.map((i, k) => {
+                      {i.body.images.map((item, key) => {
                         return (
-                          <Img
+                          <Img key={key}
                             className="image"
-                            fluid={i.src.childImageSharp.fluid}
+                            fluid={item.src.childImageSharp.fluid}
                           ></Img>
                         );
                       })}
@@ -782,12 +781,20 @@ const AnnexPage = ({ data }) => {
     anexes,
     slogan,
     articleBlock,
+    description,
+    keywords,
     form,
   } = data.markdownRemark.frontmatter;
 
   return (
     <Layout>
       <SetLang language={language} link={redirects} />
+      <SEO
+        title={title}
+        lang={language}
+        description={description}
+        keywords={keywords}
+      />
       <AnnexPageTemplate
         content={data.markdownRemark.html}
         contentComponent={HTMLContent}
@@ -825,6 +832,8 @@ export const pageQuery = graphql`
       frontmatter {
         language
         title
+        description
+        keywords
         redirects
         heading {
           display

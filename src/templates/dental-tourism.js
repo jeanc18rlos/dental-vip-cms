@@ -11,6 +11,7 @@ import Paragraph from "../components/asideParagrah";
 import styled from "styled-components";
 import { scale, rhythm } from "../utils/typography";
 import Form from "../components/form";
+import SEO from "../components/seo";
 import ReactHtmlParser from "react-html-parser";
 
 const Block = styled.section`
@@ -46,8 +47,7 @@ const Block = styled.section`
   .paragraph {
     background: #ededed;
     .map {
-      max-width: 400px
-      
+      max-width: 400px;
     }
     .title.big {
       h1 {
@@ -320,12 +320,9 @@ const Prices = styled.section`
 `;
 
 export const DentalTourismPageTemplate = ({
-  templateKey,
   language,
-  title,
   blocksDescription,
   routes,
-  redirects,
   gallerySteps,
   hero,
   heading,
@@ -343,18 +340,18 @@ export const DentalTourismPageTemplate = ({
       <Prices>
         {prices.rows.map((i, k) => {
           return (
-            <div className="price">
+            <div key={k} className="price">
               <div className="title">{i.title}</div>
-              <span class="icon-header">
-                <i class="icon-instagram"></i>
+              <span className="icon-header">
+                <i className="icon-instagram"></i>
               </span>
               {i.rows.map((i, k) => {
                 return (
-                  <div class="price-row">
-                    <span class="procedure">
+                  <div key={k} className="price-row">
+                    <span className="procedure">
                       <p>{ReactHtmlParser(i.procedure)}</p>
                     </span>
-                    <span class="price">
+                    <span className="price">
                       {i.price}
                       <br></br>
                       <span> {i.currency}</span>
@@ -363,7 +360,7 @@ export const DentalTourismPageTemplate = ({
                 );
               })}
 
-              <div class="link-row">
+              <div className="link-row">
                 <Link to={i.link.to} className="price-link">
                   {i.link.title}
                 </Link>
@@ -371,12 +368,12 @@ export const DentalTourismPageTemplate = ({
             </div>
           );
         })}
-        <div class="converter">
-          <div class="title">{ReactHtmlParser(prices.footer.title)}</div>
+        <div className="converter">
+          <div className="title">{ReactHtmlParser(prices.footer.title)}</div>
           <a href={`${prices.footer.to}`}>
             <Img
               fluid={prices.footer.image.childImageSharp.fluid}
-              class="converter-img"
+              className="converter-img"
             ></Img>
           </a>
         </div>
@@ -386,14 +383,14 @@ export const DentalTourismPageTemplate = ({
         {ReactHtmlParser(routes.title)}
 
         <span className="icon-travel-wrapper">
-          <i class="icon-instagram"></i>
+          <i className="icon-instagram"></i>
         </span>
 
         <div className="departures">
           {routes.departures.map((i, k) => {
             return (
-              <div className="  departure">
-                <div className=" departures-logo">
+              <div key={k} className="  departure">
+                <div key={k} className=" departures-logo">
                   <span className={`flag-icon flag-icon-${i.flag}`}></span>
                 </div>
                 <div className="content">
@@ -422,14 +419,14 @@ export const DentalTourismPageTemplate = ({
           })}
         </div>
 
-        <div class="message">{routes.footer}</div>
+        <div className="message">{routes.footer}</div>
       </Routes>
 
       <Gallery>
         {ReactHtmlParser(gallerySteps.title)}
         {gallerySteps.steps.map((i, k) => {
           return (
-            <div class="step">
+            <div key={k} className="step">
               {ReactHtmlParser(i.title)}
               <span>
                 <i className="counter">{k + 1}</i>
@@ -451,15 +448,17 @@ export const DentalTourismPageTemplate = ({
       <Block>
         <div className=" paragraph">
           {ReactHtmlParser(blocksDescription.sections.left.content)}
-          <span class="map">
+          <span className="map">
             <Img
-              fluid={blocksDescription.sections.left.image.childImageSharp.fluid}
+              fluid={
+                blocksDescription.sections.left.image.childImageSharp.fluid
+              }
             ></Img>
           </span>
         </div>
         <div className=" list">
           {blocksDescription.sections.right.map((i, k) => {
-            return <div className="item">{ReactHtmlParser(i.content)}</div>;
+            return <div key={k} className="item">{ReactHtmlParser(i.content)}</div>;
           })}
         </div>
       </Block>
@@ -474,6 +473,8 @@ const DentalTourismPage = ({ data }) => {
     templateKey,
     language,
     title,
+    description,
+    keywords,
     redirects,
     hero,
     gallerySteps,
@@ -490,6 +491,12 @@ const DentalTourismPage = ({ data }) => {
   return (
     <Layout>
       <SetLang language={language} link={redirects} />
+      <SEO
+        title={title}
+        lang={language}
+        description={description}
+        keywords={keywords}
+      />
       <DentalTourismPageTemplate
         {...{
           templateKey,
@@ -523,6 +530,8 @@ export const pageQuery = graphql`
       frontmatter {
         language
         title
+        description
+        keywords
         redirects
         heading {
           display

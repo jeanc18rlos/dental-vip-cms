@@ -1,10 +1,10 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import Layout from "../layout";
 import SEO from "../components/seo";
-import { navigate } from "gatsby";
 import SetLang from "../components/setLang";
-import styled, { css } from "styled-components";
-import { rhythm, scale } from "../utils/typography";
+import styled from "styled-components";
+import { rhythm } from "../utils/typography";
+import queryString from "query-string";
 
 const StlyledNotF = styled.section`
   padding: ${rhythm(4)} 5vw ${rhythm(3)};
@@ -23,7 +23,7 @@ const StlyledNotF = styled.section`
     margin: auto;
     color: #333;
     font-weight: 300;
-    margin-bottom: ${rhythm(3)} ;
+    margin-bottom: ${rhythm(3)};
   }
   .form {
     margin-top: ${rhythm(3)} !important;
@@ -50,7 +50,16 @@ const StlyledNotF = styled.section`
 `;
 
 const NotFoundPage = () => {
-  const [searchText, setSearchText] = useState("");
+  const setSearchTerm = (e) => {
+    e.preventDefault();
+    const term = e.target.search.value || "";
+
+    if (typeof window !== "undefined") {
+      window.location.href = `/blog/busqueda?${queryString.stringify({
+        term,
+      })}`;
+    }
+  };
   return (
     <Layout>
       <SetLang language="es" link="/en/404" />
@@ -67,23 +76,12 @@ const NotFoundPage = () => {
           búsqueda mediante el siguiente formulario.
         </p>
 
-        <div className="form" id="form4">
-          <input
-            value={searchText}
-            onChange={(e) => {
-              setSearchText(e.target.value);
-            }}
-            type="text"
-            placeholder="Search"
-          />
-          <button
-            onClick={() => {
-              navigate(`/blog/busqueda?text=${searchText}`);
-            }}
-          >
+        <form onSubmit={(e) => setSearchTerm(e)} className="form" id="form4">
+          <input name="search" type="text" placeholder="Buscar" />
+          <button>
             <i className="icon-search" />
           </button>
-        </div>
+        </form>
       </StlyledNotF>
     </Layout>
   );

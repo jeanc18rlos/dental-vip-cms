@@ -6,6 +6,8 @@ description: >
   una breve descripcion de seo
 redirects: /en/legal-notice/
 published: true
+keywords:
+ - default
 ---
 
 # Aviso legal

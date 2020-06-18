@@ -5,8 +5,8 @@ import Content, { HTMLContent } from "../components/content";
 import SEO from "../components/seo";
 import SetLang from "../components/setLang";
 import { Container } from "../Elements/Container";
-import styled, { css } from "styled-components";
-import { rhythm, scale } from "../utils/typography";
+import styled from "styled-components";
+import { rhythm } from "../utils/typography";
 const StyledPage = styled.section`
   * {
     color: #555;
@@ -26,8 +26,6 @@ const StyledPage = styled.section`
     word-break: break-all;
     color: #91c508;
   }
-
-
 `;
 
 export const LegalPageTemplate = ({ content, contentComponent }) => {
@@ -43,11 +41,22 @@ export const LegalPageTemplate = ({ content, contentComponent }) => {
 };
 
 const LegalPage = ({ data }) => {
-  const { language, title, redirects } = data.markdownRemark.frontmatter;
+  const {
+    language,
+    title,
+    redirects,
+    keywords,
+    description,
+  } = data.markdownRemark.frontmatter;
 
   return (
     <Layout>
-      <SEO title={title} />
+      <SEO
+        title={title}
+        lang={language}
+        description={description}
+        keywords={keywords}
+      />
       <SetLang language={language} link={redirects} />
       <LegalPageTemplate
         content={data.markdownRemark.html}
@@ -70,6 +79,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         description
+        keywords
         tags
         redirects
         language

@@ -4,6 +4,8 @@ language: en
 redirects: /especialidades/implantes-dentales/
 title: Dental Implants
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

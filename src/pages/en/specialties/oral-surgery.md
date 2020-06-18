@@ -4,6 +4,8 @@ language: en
 redirects: /especialidades/cirugia-bucal/
 title: Oral Surgery
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag
@@ -482,7 +484,7 @@ testimonial:
     A CERAMIC CROWN I STILL KEEP MY TEETHING IN FULL".</p>
   images:
     portrait: /uploads/quotes-oral-surgery-portrait-en.jpg
-    landscape: /uploads/quotes-oral-surgery.jpg
+    landscape: /uploads/quotes-oral-surgery-landscape-en.jpg
 form:
   title: >
     <h1>Consult Us Right Now!</h1>

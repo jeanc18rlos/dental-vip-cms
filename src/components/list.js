@@ -1,7 +1,6 @@
 import React from "react";
-import styled, { css } from "styled-components";
-import { rhythm, scale } from "../utils/typography";
-import { Container } from "../Elements/Container";
+import styled from "styled-components";
+import { rhythm } from "../utils/typography";
 import ReactHtmlParser from "react-html-parser";
 
 const SyledList = styled.section`
@@ -64,7 +63,7 @@ const List = props => {
     <SyledList>
       {props.items.map((i, k) => {
         return (
-          <div className="grid-item">
+          <div key={k} className="grid-item">
             <span className="number-icon">
               <i className={`icon-${k+1}`}></i>
             </span>

@@ -4,6 +4,8 @@ language: es
 redirects: /en/specialties/general-dentistry/
 title: Odontología General
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

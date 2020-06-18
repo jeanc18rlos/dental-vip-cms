@@ -5,6 +5,8 @@ redirects: >
   /en/specialties/aesthetic-dentistry/digital-smile-design/
 title: Diseño digital de sonrisa
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

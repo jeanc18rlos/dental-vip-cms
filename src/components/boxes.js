@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Container } from "../Elements/Container";
-import styled, { css } from "styled-components";
-import { rhythm, scale } from "../utils/typography";
+import styled from "styled-components";
+import { rhythm } from "../utils/typography";
 import ReactHtmlParser from "react-html-parser";
 import { Link } from "gatsby";
 import Img from "gatsby-image";
@@ -151,7 +151,6 @@ const StyledBoxes = styled.section`
   }
 `;
 
-const StyledBox = styled.div``;
 
 const arr = ["", "", ""];
 

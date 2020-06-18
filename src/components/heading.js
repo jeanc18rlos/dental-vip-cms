@@ -1,5 +1,5 @@
 import React from "react";
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 import { rhythm, scale } from "../utils/typography";
 import { Container } from "../Elements/Container";
 import ReactHtmlParser from "react-html-parser";

@@ -4,6 +4,8 @@ language: en
 redirects: /pacientes-del-exterior/
 title: Foreign Patients
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

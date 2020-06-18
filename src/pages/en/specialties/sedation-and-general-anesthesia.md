@@ -4,6 +4,8 @@ language: en
 redirects: /especialidades/sedacion-y-anestesia-general/
 title: Sedation and General Anesthesia
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

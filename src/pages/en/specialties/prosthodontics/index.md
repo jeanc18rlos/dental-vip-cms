@@ -4,6 +4,8 @@ language: en
 redirects: /especialidades/protesis/
 title: Prosthodontics
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

@@ -1,9 +1,11 @@
 ---
 templateKey: thank-you-page
 language: en
-redirects: /
+redirects: /gracias-por-contactarnos
 title: Thank you
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag
@@ -49,20 +51,10 @@ parallax:
 brand:
   logo: /uploads/logo.svg
   title: >
-    <h4 class="light">CENTER FOR AESTHETICS AND ORAL REHABILITATION</h4>
+    <h4><b style="color:#333">YOUR MESSAGE HAS BEEN SENT SUCCESSFULLY!.<b></h4>
   main: >
-    <p>Welcome to our online space!</p> 
-    <p>
-      In DENTAL VIP we offer you the experience of the best Dentists
-      Specialist team, the most modern and comfortable facilities and the
-      latest technology worldwide.
-    </p> 
-    <p>
-      We are a human group truly committed to what it does, capable of
-      providing an integral, personalized and high scientific value health
-      service; always focused on the ethics, responsibility and social sense
-      of our work.
-    </p>
+    <p>We will respond as soon as our next work day begins.</p>
+    <p>thank you so much for your trust!</p>
   partners:
     - image: /uploads/partners-idd.jpg
       alt: Institute of Digital Dentistry
@@ -71,7 +63,7 @@ brand:
     - image: /uploads/partners-iti.jpg
       alt: International Team for Implantology
   footer: >
-    CARACAS - VENEZUELA
+    <h1>Latest Posts</h1>
 
 # Gallery Section
 gallery:

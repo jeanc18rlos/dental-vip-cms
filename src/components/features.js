@@ -1,6 +1,6 @@
 import React from "react";
-import styled, { css } from "styled-components";
-import { rhythm, scale } from "../utils/typography";
+import styled from "styled-components";
+import { rhythm } from "../utils/typography";
 import { Container } from "../Elements/Container";
 import Img from "gatsby-image";
 import { Link } from "gatsby";

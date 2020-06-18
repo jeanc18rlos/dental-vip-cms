@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 import { rhythm, scale } from "../utils/typography";
 import { Container } from "../Elements/Container";
 import ReactHtmlParser from "react-html-parser";
@@ -152,7 +152,7 @@ const Financing = (props) => {
         ></Img>
         {ReactHtmlParser(props.content)}
 
-        <div class="calculator">
+        <div className="calculator">
           {ReactHtmlParser(props.calculator.warning)}
 
           <form
@@ -203,14 +203,14 @@ const Financing = (props) => {
                 <tr>
                   <td>{ReactHtmlParser(props.calculator.placeholders.rate)}</td>
                   <td>
-                    <input type="number" id="rate" value="24" readonly />
+                    <input type="number" id="rate" value="24" readOnly={true} />
                     <span>%</span>
                   </td>
                 </tr>
                 <tr>
                   <td
                     style={{ textAlign: "center" }}
-                    colspan="2"
+                    colSpan={2}
                     align="center"
                   >
                     <button name="btn" type="submit">
@@ -221,7 +221,7 @@ const Financing = (props) => {
               </tbody>
             </table>
             {calc && (
-              <div class="result">
+              <div className="result">
                 <h1>
                   {ReactHtmlParser(props.calculator.placeholders.result)} {calc}{" "}
                   {ReactHtmlParser(props.calculator.placeholders.currency)}

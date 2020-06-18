@@ -386,11 +386,10 @@ const StyledGallery = styled.section`
   }
 `;
 
-const StyledCard = styled.div``;
 
 const Gallery = (props) => {
   const size = useWindowSize();
-  const { images, items, isMasonry, type, placeholder, carousel } = props;
+  const { images, items, isMasonry, type, placeholder } = props;
   const [activeCard, setActiveCard] = useState(false);
   const openPopupbox = (indexImg) => {
     const content = (
@@ -411,8 +410,8 @@ const Gallery = (props) => {
     PopupboxManager.open({ content });
   };
   return [
-    <PopupboxContainer />,
-    <StyledGallery
+    <PopupboxContainer key={1} />,
+    <StyledGallery key={2}
       className={`${isMasonry === false && "not-masonry"} ${props.mb && "mb"}`}
       isMasonry={isMasonry}
     >

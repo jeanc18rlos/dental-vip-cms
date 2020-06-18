@@ -109,7 +109,8 @@ header:
           - title: inicio2
             to: /index
     - title: blog
-      to: /en/blog/
+      to: >
+        /en/blog/
       menu:
         display: false
         items:

@@ -1,12 +1,11 @@
-import React, { useState } from "react";
+import React from "react";
 import BackgroundImage from "gatsby-background-image";
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 import { rhythm, scale } from "../utils/typography";
 import { Container } from "../Elements/Container";
 
 import ReactHtmlParser from "react-html-parser";
 
-import { useWindowSize } from "../utils/hooks";
 
 const StyledContent = styled(Container)`
   justify-content: space-around;

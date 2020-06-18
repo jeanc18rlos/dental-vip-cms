@@ -4,6 +4,8 @@ language: es
 redirects: /en/specialties/prosthodontics/
 title: Prótesis
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

@@ -4,6 +4,8 @@ language: en
 redirects: /turismo-dental/
 title: Dental Tourism
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag
@@ -33,7 +35,7 @@ prices:
     to: https://www1.oanda.com/currency/converter/
   rows:
     - title: Dental Implants
-      icon: /img/icon-dental-implants.jpg
+      icon: icon-dental-implants
       rows:
         - procedure: >
             <p>3D Cone Beam Scanner</p>
@@ -64,7 +66,7 @@ prices:
         title: MORE INFO
         to: /en/specialties/dental-implants
     - title: Zygomatic Implants
-      icon: /img/ZIGOMATICOS.jpg
+      icon: ZIGOMATICOS
       rows:
         - procedure: >
             <p>General Anesthesia</p>
@@ -95,7 +97,7 @@ prices:
         title: MORE INFO
         to: /en/specialties/zygomatic-implants/
     - title: Implant Supported Restorations
-      icon: /img/ICON-IMPLANT SUPPORT.jpg
+      icon: ICON-IMPLANT SUPPORT
       rows:
         - procedure: >
             <p>Porcelain Fused to Metal Crown</p>
@@ -126,7 +128,7 @@ prices:
         title: MORE INFO
         to: /en/specialties/dental-implants/implant-supported-restorations/
     - title: Aesthetic Dentistry
-      icon: /img/icon-aestetic-dentistry.jpg
+      icon: icon-aestetic-dentistry
       rows:
         - procedure: >
             <p>Digital Smile Design</p>
@@ -157,7 +159,7 @@ prices:
         title: MORE INFO
         to: /en/specialties/aesthetic-dentistry/
     - title: Endodontics
-      icon: /img/icon-endodontics.jpg
+      icon: icon-endodontics
       rows:
         - procedure: >
             <p>Root Canal Therapy</p>
@@ -188,7 +190,7 @@ prices:
         title: MORE INFO
         to: /en/specialties/endodontics/
     - title: Oral Surgery
-      icon: /img/icon-oral-surgery.jpg
+      icon: icon-oral-surgery
       rows:
         - procedure: >
             <p>Simple Extraction</p>
@@ -219,7 +221,7 @@ prices:
         title: MORE INFO
         to: /en/specialties/oral-surgery/
     - title: Conventional Prosthesis
-      icon: /img/icon-prosthodontics.jpg
+      icon: icon-prosthodontics
       rows:
         - procedure: >
             <p>Metal-Porcelain Crowns and Bridges</p>
@@ -250,7 +252,7 @@ prices:
         title: MORE INFO
         to: /en/specialties/prosthodontics/
     - title: General Dentistry
-      icon: /img/icon-general-dentistry.jpg
+      icon: icon-general-dentistry
       rows:
         - procedure: >
             <p>General Cleaning</p>
@@ -281,7 +283,7 @@ prices:
         title: MORE INFO
         to: /en/specialties/general-dentistry/
     - title: Periodontics
-      icon: /img/icon-periodontics.jpg
+      icon: icon-periodontics
       rows:
         - procedure: >
             <p>Scaling and Root Planing</p>
@@ -312,7 +314,7 @@ prices:
         title: MORE INFO
         to: /en/specialties/periodontics/
     - title: Orthodontics
-      icon: /img/icon-orthodontics.jpg
+      icon: icon-orthodontics
       rows:
         - procedure: >
             <p>Metal Braces</p>
@@ -344,10 +346,10 @@ prices:
         to: /en/specialties/orthodontics/
 routes:
   title: <h1> Most Frequent Routes</h1>
-  image: /uploads/icon-travel.png
+  image: travel
   icons:
-    clock: /uploads/icon- clock.png
-    currency: /uploads/icon-currency.png
+    clock: clock
+    currency: currency
   footer: >-
     When planning your trip, we will need to check the availability of non-stop
     flights and current rates.

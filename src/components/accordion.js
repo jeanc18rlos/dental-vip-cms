@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import styled, { css } from "styled-components";
-import { rhythm, scale } from "../utils/typography";
+import styled from "styled-components";
+import { rhythm } from "../utils/typography";
 import ReactHtmlParser from "react-html-parser";
 import SmoothCollapse from "react-smooth-collapse";
 const StyledAccordion = styled.section`
@@ -18,7 +18,9 @@ const StyledAccordion = styled.section`
       }
     }
   }
-  p,ul,ol {
+  p,
+  ul,
+  ol {
     color: #555;
 
     margin-left: calc(20px + ${rhythm(1)});
@@ -113,7 +115,7 @@ const Accordion = (props) => {
       <h1>Frequently Asked Questions</h1>
       {props.items.map((i, k) => {
         return (
-          <div className="grid-item">
+          <div key={k} className="grid-item">
             <div className="content">
               <a
                 onClick={(e) => {

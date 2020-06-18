@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import BackgroundImage from "gatsby-background-image";
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 import { rhythm, scale } from "../utils/typography";
 import { Container } from "../Elements/Container";
 import ProgressBar from "react-customizable-progressbar";
@@ -99,7 +99,7 @@ const StyledContent = styled(Container)`
     }
   }
 `;
-const Statistics = props => {
+const Statistics = (props) => {
   const [progress, setProgress] = useState(0);
   const size = useWindowSize();
   return (
@@ -116,19 +116,13 @@ const Statistics = props => {
               <Fade key={`item-${k}`} onReveal={() => setProgress(100)}>
                 <div className="statistics">
                   <ProgressBar
-                 
-                  strokeWidth={2}
-                
-                  trackStrokeWidth={2}
-                  pointerRadius={12}
-                  pointerStrokeWidth={2}
-                  pointerStrokeColor="#91c508"
-
+                    strokeWidth={2}
+                    pointerRadius={12}
+                    pointerStrokeWidth={2}
+                    pointerStrokeColor="#91c508"
                     radius={100}
                     progress={progress}
-                   
                     strokeColor="#91c508"
-               
                     trackStrokeWidth={18}
                     transition="3s ease 0.5s"
                     trackTransition="0s ease"
@@ -147,10 +141,10 @@ const Statistics = props => {
                                 (size.width > 450 && size.width <= 768 && 45) ||
                                 (size.width <= 450 && 35),
                               fontFamily: "Bebas Neue Bold",
-                              transitionProperty: "opacity"
+                              transitionProperty: "opacity",
                             }}
-                            frameStyle={perc => (perc === 100 ? {} : {})}
-                            formatValue={n => Math.trunc(n)}
+                            frameStyle={(perc) => (perc === 100 ? {} : {})}
+                            formatValue={(n) => Math.trunc(n)}
                             duration={3000}
                           />
                         )}

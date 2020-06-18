@@ -5,7 +5,7 @@ import Content, { HTMLContent } from "../components/content";
 import SEO from "../components/seo";
 import SetLang from "../components/setLang";
 import { Container } from "../Elements/Container";
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 import { rhythm, scale } from "../utils/typography";
 import Boxes from "../components/boxes";
 import Hero from "../components/hero";
@@ -263,6 +263,8 @@ const PaymentOptionsPage = ({ data }) => {
     templateKey,
     language,
     title,
+    description,
+    keywords,
     redirects,
     banner,
     boxes,
@@ -271,6 +273,12 @@ const PaymentOptionsPage = ({ data }) => {
   return (
     <Layout>
       <SetLang language={language} link={redirects} />
+      <SEO
+        title={title}
+        lang={language}
+        description={description}
+        keywords={keywords}
+      />
       <PaymentOptionsPageTemplate
         content={data.markdownRemark.html}
         contentComponent={HTMLContent}
@@ -301,6 +309,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         description
+        keywords
         tags
         redirects
         language

@@ -4,6 +4,8 @@ language: en
 redirects: /especialidades/implantes-cigomaticos/
 title: Zygomatic Implants
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

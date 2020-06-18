@@ -4,6 +4,8 @@ language: en
 redirects: /contacto/
 title: Contact
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

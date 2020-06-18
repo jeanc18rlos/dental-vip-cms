@@ -5,6 +5,7 @@ import Boxes from "../components/boxes";
 import Gallery from "../components/gallery";
 import Hero from "../components/hero";
 import Heading from "../components/heading";
+import SEO from "../components/seo";
 import Img from "gatsby-image";
 import { graphql } from "gatsby";
 import List from "../components/list";
@@ -83,6 +84,8 @@ const ClinicPage = ({ data }) => {
     gallery,
     financing,
     list,
+    description,
+    keywords,
     testimonial,
     procedures,
   } = data.markdownRemark.frontmatter;
@@ -90,6 +93,12 @@ const ClinicPage = ({ data }) => {
   return (
     <Layout>
       <SetLang language={language} link={redirects} />
+      <SEO
+        title={title}
+        lang={language}
+        description={description}
+        keywords={keywords}
+      />
       <ClinicPageTemplate
         {...{
           templateKey,
@@ -122,6 +131,8 @@ export const pageQuery = graphql`
       frontmatter {
         language
         title
+        description
+        keywords
         redirects
         heading {
           display

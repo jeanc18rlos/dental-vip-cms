@@ -5,6 +5,8 @@ redirects: >
     /en/specialties/aesthetic-dentistry/teeth-whitening/
 title: Blanqueamiento Dental
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag
@@ -20,7 +22,7 @@ hero:
     type: bottom
   height: half
   indicator: false
-  portraitPosition: 83%
+  portraitPosition:  35%
   content:
     position: center
     body: >
@@ -170,11 +172,32 @@ anexes:
           display: false
           to: /especialidades/estetica-dental/diseno-digital-de-sonrisa/
           placeholder: <span>Más Información</span>
+    - img: /uploads/sections-teeth-whitening-mixed.png
+      content: >
+        <h2>Blanqueamiento
+        dental combinado</h2>
+        <p>Es con seguridad el más
+        efectivo de todos, ya que combina las bondades de las técnicas de fotoactivación
+        y blanqueamiento en casa.</p> <p class="dv-srv-pr dv-srv-pr-45">Normalmente
+        se ejecuta en 3 fases. La primera ambulatoria, donde el paciente se aplica el
+        producto blanqueante en su domicilio por un lapso de 10 a 15 días. La segunda
+        en clínica,  donde se realizan una o dos sesiones con agentes fotosensibles
+        de alta concentración. Y la tercera en casa, donde bajo estricta supervisión
+        profesional, se indican pequeños y esporádicos retoques que garanticen la perdurabilidad
+        de los resultados obtenidos. </p>
+      footer:
+        icon:
+          display: false
+          img: /uploads/sections-facilities.jpg
+        link:
+          display: false
+          to: /especialidades/estetica-dental/carillas-de-porcelana/
+          placeholder: <span>Más Información</span>
     - img: /uploads/sections-teeth-whitening-intern.png
       content: >
         <h2>Blanqueamiento
         interno</h2>
-        <p>Our administrative staff is able to provide you support in everything related to air tickets, airport-hotel-airport transfers and accommodation procedures. </p>
+       
         <p class="dv-srv-pr dv-srv-pr-45">Es una excelente alternativa para
         tratar las discromías en piezas no vitales <em>(con tratamiento de conducto)</em>,
         ya que representa una intervención conservadora y muy económica frente a otros
@@ -188,7 +211,7 @@ anexes:
           display: false
           img: /uploads/sections-facilities.jpg
         link:
-          display: true
+          display: false
           to: /especialidades/estetica-dental/carillas-de-porcelana/
           placeholder: <span>Más Información</span>
 

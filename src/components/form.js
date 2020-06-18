@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import BackgroundImage from "gatsby-background-image";
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 import { rhythm, scale } from "../utils/typography";
 import { Container } from "../Elements/Container";
 import ReactHtmlParser from "react-html-parser";
@@ -10,10 +10,7 @@ import { useForm } from "react-hook-form";
 import ReCAPTCHA from "react-google-recaptcha";
 
 import Axios from "axios";
-const config = {
-  apiKey: "AIzaSyBLHMSEmoK66J9LCHGrFJTvCJp6nIGUvrY",
-  databaseURL: "https://us-central1-dentalvip.cloudfunctions.net/submit",
-};
+
 const StyledForm2 = styled.div`
   display: flex;
   width: 100%;
@@ -356,7 +353,7 @@ const Form = (props) => {
     const body = { ...data, time: Date.now() };
 
     Axios.post("https://us-central1-dentalvip.cloudfunctions.net/submit", body)
-      .then((data) => {
+      .then(() => {
         navigate(
           `${
             props.language === "es"
@@ -366,7 +363,7 @@ const Form = (props) => {
         );
       })
       .catch((error) => {
-        console.log(error);
+       return error;
       });
   };
 
@@ -379,28 +376,28 @@ const Form = (props) => {
       <StyledContent flexDirection="column" color="none">
         {ReactHtmlParser(props.title)}
         <p>
-          <i class="fas fa-exclamation-circle"></i>{" "}
+          <i className="fas fa-exclamation-circle"></i>{" "}
           {ReactHtmlParser(props.data.warning)}
         </p>
         <br></br>
         <form
           name="Specialties Form"
           onSubmit={handleSubmit(onSubmit)}
-          class="row"
+          className="row"
         >
           <main>
             {props.data.fields.map((i, k) => {
               return (
                 <>
                   {i.type === "select" && (
-                    <span>
+                    <span key={k}>
                       <select name={i.name} ref={register}>
                         <option selected={true} value={"default"}>
                           {i.placeholder}
                         </option>
                         ;
                         {i.options.items.map((opt, key) => {
-                          return <option value={opt.value}>{opt.value}</option>;
+                          return <option key={key} value={opt.value}>{opt.value}</option>;
                         })}
                       </select>
                       {errors[i.name] && (
@@ -431,7 +428,7 @@ const Form = (props) => {
             {props.data.fields.map((i, k) => {
               return (
                 i.type === "textarea" && (
-                  <span>
+                  <span key={k}>
                     <textarea
                       placeholder={i.placeholder}
                       rows="6"
@@ -446,7 +443,7 @@ const Form = (props) => {
             })}
             <div className="submit-group">
               <ReCAPTCHA
-                class="captcha"
+                className="captcha"
                 theme={"Dark"}
                 Badge="inline"
                 /*size="compact"*/
@@ -481,13 +478,13 @@ const Form = (props) => {
       <form
         name="Specialties Form"
         onSubmit={handleSubmit(onSubmit)}
-        class="row"
+        className="row"
       >
         {props.data.fields.map((i, k) => {
           return (
             <>
               {i.type !== "textarea" && i.type !== "select" ? (
-                <span className={i.name === "subject" ? " " : "half"}>
+                <span key={k} className={i.name === "subject" ? " " : "half"}>
                   {" "}
                   <input
                     type={i.type}
@@ -514,7 +511,7 @@ const Form = (props) => {
         })}
         <div className="submit-group">
           <ReCAPTCHA
-            class="captcha"
+            className="captcha"
             sitekey="6Le5iPUUAAAAAPY6oRw8OjOI5CKKDRJlZGF8OXb3"
             onChange={() => {
               setRecaptcha(true);

@@ -4,6 +4,8 @@ language: en
 redirects: /
 title: Homepage
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

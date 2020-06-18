@@ -6,6 +6,8 @@ redirects: >
 title: Diagnóstico y Planificación 3D
 
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

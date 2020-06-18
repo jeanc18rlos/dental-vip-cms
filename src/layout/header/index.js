@@ -7,7 +7,8 @@ import { useWindowSize } from "../../utils/hooks";
 import SmoothCollapse from "react-smooth-collapse";
 import { scale } from "../../utils/typography";
 import logo from "../../css/icons/svg/logo.svg";
-
+import queryString from "query-string";
+import { throttle } from "lodash";
 const StyledHeader = styled.header`
   position: sticky;
   top: 0;
@@ -311,6 +312,18 @@ const Header = (props) => {
     setDropDownItems({ ...dropDown, ...{ [item.id]: item } });
   };
 
+  const setSearchTerm = (e, lang) => {
+    e.preventDefault();
+    const term = e.target.search.value || "";
+
+    if (typeof window !== "undefined") {
+      window.location.href = `${
+        lang === "es" ? "/blog/busqueda" : "/en/blog/search"
+      }?${queryString.stringify({
+        term,
+      })}`;
+    }
+  };
   const size = useWindowSize();
   return (
     <StyledHeader
@@ -350,14 +363,18 @@ const Header = (props) => {
           </a>
         </div>
         <div className="modal-body">
-          <div className="form">
+          <form className="form" onSubmit={(e) => setSearchTerm(e, props.lang)}>
             <div className="input-group">
-              <input type="text" placeholder="Buscar" />
+              <input
+                type="text"
+                name="search"
+                placeholder={props.lang === "es" ? "Buscar" : "Search"}
+              />
               <button>
                 <i className="icon-search"></i>
               </button>
             </div>
-          </div>
+          </form>
         </div>
       </div>
       <Container className="container" color={colors.mineShaft}>
@@ -492,10 +509,10 @@ const Header = (props) => {
                       size.width >= 1024 &&
                         setDropDownItem({ id: `dropdown${k}`, action: true });
                     }}
-                    onMouseLeave={() => {
+                    onMouseLeave={throttle(() => {
                       size.width >= 1024 &&
                         setDropDownItem({ id: `dropdown${k}`, action: false });
-                    }}
+                    }, 1000)}
                     onClick={() => {
                       size.width < 1024 &&
                         setDropDownItem({

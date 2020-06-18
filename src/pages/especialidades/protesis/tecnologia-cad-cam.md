@@ -6,6 +6,8 @@ redirects: >
 title: Tecnología CAD-CAM
 
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

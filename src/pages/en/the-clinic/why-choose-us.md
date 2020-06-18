@@ -8,7 +8,8 @@ description: >
 published: true
 tags:
   - default tag
-
+keywords:
+  - default keyword
 # Hero Section
 hero:
   background:

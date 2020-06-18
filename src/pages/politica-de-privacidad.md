@@ -6,6 +6,8 @@ description: >
 title: Política de Privacidad
 redirects: /en/privacy-policy/
 published: true
+keywords:
+ - default
 ---
 
 # Política de Privacidad

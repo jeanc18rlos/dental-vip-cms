@@ -4,6 +4,8 @@ language: es
 redirects: /en/specialties/aesthetic-dentistry/
 title: Estética Dental
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

@@ -5,6 +5,8 @@ redirects: >
   /en/specialties/orthodontics/aesthetic-braces/
 title: Aparatos Estéticos
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

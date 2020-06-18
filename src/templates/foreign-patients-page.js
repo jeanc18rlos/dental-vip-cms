@@ -4,6 +4,7 @@ import SetLang from "../components/setLang";
 import Heading from "../components/heading";
 import Boxes from "../components/boxes";
 import Hero from "../components/hero";
+import SEO from "../components/seo";
 import Img from "gatsby-image";
 import BackgroundImage from "gatsby-background-image";
 import Form from "../components/form";
@@ -221,7 +222,7 @@ export const ForeignPatientsPageTemplate = ({
         <div className="columns">
           {altHeading.columns.map((i, k) => {
             return (
-              <div className="phase">
+              <div key={k} className="phase">
                 {ReactHtmlParser(i.head)}
                 {ReactHtmlParser(i.body)}
               </div>
@@ -241,7 +242,7 @@ export const ForeignPatientsPageTemplate = ({
         <div className="columns">
           {hostSection.columns.map((i, k) => {
             return (
-              <a href={i.link} target="_blank" rel="noopener noreferrer">
+              <a  key={k}  href={i.link} target="_blank" rel="noopener noreferrer">
                 {ReactHtmlParser(i.title)}
                 <Img fluid={i.img.childImageSharp.fluid}></Img>
               </a>
@@ -273,12 +274,21 @@ const ForeignPatientsPage = ({ data }) => {
     hostSection,
     heading,
     form,
+    title,
+    description,
+    keywords,
     procedures,
   } = data.markdownRemark.frontmatter;
 
   return (
     <Layout>
       <SetLang language={language} link={redirects} />
+      <SEO
+        title={title}
+        lang={language}
+        description={description}
+        keywords={keywords}
+      />
       <ForeignPatientsPageTemplate
         {...{
           templateKey,
@@ -308,6 +318,8 @@ export const pageQuery = graphql`
         language
         title
         redirects
+        description
+        keywords
         hero {
           background {
             scaleOnReveal

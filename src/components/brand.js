@@ -1,8 +1,7 @@
 import React from "react";
 import { rhythm } from "../utils/typography";
-import logo from "../css/icons/svg/logo.svg";
 import { colors } from "../styles";
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 import { Container } from "../Elements/Container";
 import ReactHtmlParser from "react-html-parser";
 import Img from "gatsby-image";

@@ -4,6 +4,8 @@ language: es
 redirects: /en/the-clinic/why-choose-us/
 title: Por Qué Elegirnos
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

@@ -4,6 +4,8 @@ language: es
 redirects: /en/contact/
 title: Contacto
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag
@@ -82,7 +84,7 @@ amenities:
   title: >
     <h1 class="title">¡Será un Honor Recibir Su Visita!</h1>
   procedures:
-    - title: <h5>dental implants</h5>
+    - title: <h5>METRO DE CARACAS</h5>
       to: /en/the-clinic/dental-implants/
       img: /uploads/procedures-subway.jpg
       content: >
@@ -95,7 +97,7 @@ amenities:
           Estación Chacao <br class="hidden-xs hidden-sm visible-md visible-lg">
           Salida: Av. Francisco de Miranda/Calle los <br class="hidden-xs hidden-sm visible-md visible-lg">Maristas.
         </p>
-    - title: <h5>Orthodontics</h5>
+    - title: <h5>Parking</h5>
       to: /en/specialties/orthodontics/
       img: /uploads/procedures-parking.jpg
       content: >
@@ -112,7 +114,7 @@ amenities:
           <br class="hidden-xs hidden-sm visible-md visible-lg" />
           Av. Libertador <em>(Sentido Oeste).</em>
         </p>
-    - title: <h5>Aesthetic Dentistry</h5>
+    - title: <h5>ZONA WI-FI</h5>
       to: /en/specialties/aesthetic-dentistry/
       img: /uploads/procedures-wifi.jpg
       content: > 

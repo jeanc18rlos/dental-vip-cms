@@ -4,6 +4,8 @@ language: en
 redirects: /la-clinica/tecnologia/
 title: Technology
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

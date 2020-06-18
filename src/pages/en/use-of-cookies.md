@@ -6,6 +6,8 @@ language: en
 title: Use OF COOKIES
 redirects: /uso-de-cookies/
 published: true
+keywords:
+ - default
 ---
 
 # USE OF COOKIES

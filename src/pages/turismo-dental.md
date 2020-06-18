@@ -4,10 +4,11 @@ language: es
 redirects: /en/dental-tourism/
 title: Turismo dental
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag
-
 # Hero Section
 hero:
   background:
@@ -34,7 +35,7 @@ prices:
     to: https://www1.oanda.com/lang/es/currency/converter/
   rows:
     - title: Implantes Dentales
-      icon: /uploads/icon-dental-implants.jpg
+      icon: icon-dental-impl
       rows:
         - procedure: >
             <p>Tomografía Digital 3D</p>
@@ -65,7 +66,7 @@ prices:
         title: MÁS INFORMACIÓN
         to: /especialidades/implantes-dentales/
     - title: Implantes Cigomáticos
-      icon: /uploads/ZIGOMATICOS.jpg
+      icon: ZIGOMATICOS
       rows:
         - procedure: >
             <p> Anestesia General</p>
@@ -96,7 +97,7 @@ prices:
         title: MÁS INFORMACIÓN
         to: /especialidades/implantes-cigomaticos/
     - title: Prótesis sobre Implantes
-      icon: /uploads/ICON-IMPLANT SUPPORT.jpg
+      icon: ICON-IMPLANT SUP
       rows:
         - procedure: >
             <p> Corona Metal-Porcelana</p>
@@ -127,7 +128,7 @@ prices:
         title: MÁS INFORMACIÓN
         to: /especialidades/implantes-dentales/protesis-sobre-implantes/
     - title: Estética Dental
-      icon: /uploads/icon-aestetic-dentistry.jpg
+      icon: icon-aestetic-denti
       rows:
         - procedure: >
             <p> Diseño Digital de Sonrisa</p>
@@ -158,7 +159,7 @@ prices:
         title: MÁS INFORMACIÓN
         to: /especialidades/estetica-dental/
     - title: Endodoncia
-      icon: /uploads/icon-endodontics.jpg
+      icon: icon-endodontics
       rows:
         - procedure: >
             <p> Tratamiento de Conducto</p>
@@ -189,7 +190,7 @@ prices:
         title: MÁS INFORMACIÓN
         to: /especialidades/endodoncia/
     - title: Cirugía Bucal
-      icon: /uploads/icon-oral-surgery.jpg
+      icon: icon-oral-sur
       rows:
         - procedure: >
             <p> Extracción Simple</p>
@@ -220,7 +221,7 @@ prices:
         title: MÁS INFORMACIÓN
         to: /especialidades/cirugia-bucal/
     - title: Prótesis Convencional
-      icon: /uploads/icon-prosthodontics.jpg
+      icon: icon-prosthodontics
       rows:
         - procedure: >
             <p> Coronas y Puentes Metal-Porcelana</p>
@@ -251,7 +252,7 @@ prices:
         title: MÁS INFORMACIÓN
         to: /especialidades/protesis/
     - title: Odontología General
-      icon: /uploads/icon-general-dentistry.jpg
+      icon: icon-general-denti
       rows:
         - procedure: >
             <p> Limpieza Dental</p>
@@ -282,7 +283,7 @@ prices:
         title: MÁS INFORMACIÓN
         to: /especialidades/odontologia-general/
     - title: Periodoncia
-      icon: /uploads/icon-periodontics.jpg
+      icon: icon-periodontics
       rows:
         - procedure: >
             <p> Raspado y Alisado Radicular</p>
@@ -313,7 +314,7 @@ prices:
         title: MÁS INFORMACIÓN
         to: /especialidades/periodoncia/
     - title: Ortodoncia
-      icon: /uploads/icon-orthodontics.jpg
+      icon: icon-orthodontics
       rows:
         - procedure: >
             <p> Brackets Metálicos</p>
@@ -345,10 +346,10 @@ prices:
         to: /especialidades/ortodoncia/
 routes:
   title: <h1> Rutas Más Frecuentes</h1>
-  image: /uploads/icon-travel.png
+  image: travel
   icons:
-    clock: /uploads/icon- clock.png
-    currency: /uploads/icon-currency.png
+    clock: clock
+    currency: currency
   footer: >-
     Al planificar su viaje, necesitaremos verificar la disponibilidad de vuelos
     sin escalas y las tarifas vigentes.

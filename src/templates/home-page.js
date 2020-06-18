@@ -5,6 +5,7 @@ import Quote from "../components/quote";
 import Features from "../components/features";
 import Brand from "../components/brand";
 import Boxes from "../components/boxes";
+import SEO from "../components/seo";
 import Statistics from "../components/statistics";
 import Carousel from "../components/carousel";
 import Gallery from "../components/gallery";
@@ -62,6 +63,8 @@ const HomePage = ({ data }) => {
     templateKey,
     language,
     title,
+    description,
+    keywords,
     redirects,
     hero,
     brand,
@@ -76,6 +79,12 @@ const HomePage = ({ data }) => {
   return (
     <Layout>
       <SetLang language={language} link={redirects} />
+      <SEO
+        title={title}
+        lang={language}
+        description={description}
+        keywords={keywords}
+      />
       <HomePageTemplate
         {...{
           templateKey,
@@ -107,6 +116,8 @@ export const pageQuery = graphql`
       frontmatter {
         language
         title
+        description
+        keywords
         redirects
         hero {
           background {

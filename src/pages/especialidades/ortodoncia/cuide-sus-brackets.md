@@ -5,6 +5,8 @@ redirects: >
   /en/specialties/orthodontics/take-care-of-your-brackets/
 title: ¡Cuide sus brackets!
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

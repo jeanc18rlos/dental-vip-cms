@@ -12,8 +12,9 @@ import Paragraph from "../components/asideParagrah";
 import Testimonial from "../components/testimonial";
 import Quote from "../components/quote";
 import styled from "styled-components";
-import { scale, rhythm } from "../utils/typography";
+import {  rhythm } from "../utils/typography";
 import Form from "../components/form";
+import SEO from "../components/seo";
 import ReactHtmlParser from "react-html-parser";
 import Accordion from "../components/accordion";
 import ClinicCases from "../components/clinicCases";
@@ -106,10 +107,7 @@ const Article = styled.div`
   }
 `;
 export const SpecialtiesPageTemplate = ({
-  templateKey,
   language,
-  title,
-  redirects,
   hero,
   heading,
   cases,
@@ -206,6 +204,8 @@ const SpecialtiesPage = ({ data }) => {
     templateKey,
     language,
     title,
+    description,
+    keywords,
     redirects,
     hero,
     accordionList,
@@ -224,6 +224,12 @@ const SpecialtiesPage = ({ data }) => {
   return (
     <Layout>
       <SetLang language={language} link={redirects} />
+      <SEO
+        title={title}
+        lang={language}
+        description={description}
+        keywords={keywords}
+      />
       <SpecialtiesPageTemplate
         {...{
           templateKey,
@@ -259,6 +265,8 @@ export const pageQuery = graphql`
       frontmatter {
         language
         title
+        description
+        keywords
         redirects
         heading {
           display

@@ -4,6 +4,8 @@ language: es
 redirects: /en/the-clinic/technology/
 title: Tecnología
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

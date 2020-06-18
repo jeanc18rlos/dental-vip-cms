@@ -5,9 +5,10 @@ import Boxes from "../components/boxes";
 import Hero from "../components/hero";
 import Heading from "../components/heading";
 import { graphql } from "gatsby";
+import SEO from "../components/seo";
 import Parallax from "../components/parallax";
 import styled from "styled-components";
-import { rhythm, scale } from "../utils/typography";
+import { rhythm } from "../utils/typography";
 import contactImg from "../img/qdc-contacto.jpg";
 
 import Form from "../components/form";
@@ -114,7 +115,7 @@ export const ContactPageTemplate = ({
               {language === "es" ? "Lunes a Viernes" : "Monday to Friday"}
               <br></br>
               8:00 am - 5:00 pm<br></br>
-              <span class="dv-underline">
+              <span className="dv-underline">
                 {language === "es" ? "PREVIA CITA" : "BY APPOINTMENT"}
               </span>
             </p>
@@ -139,6 +140,8 @@ const ContactPage = ({ data }) => {
     templateKey,
     language,
     title,
+    description,
+    keywords,
     redirects,
     hero,
     amenities,
@@ -149,6 +152,12 @@ const ContactPage = ({ data }) => {
   return (
     <Layout>
       <SetLang language={language} link={redirects} />
+      <SEO
+        title={title}
+        lang={language}
+        description={description}
+        keywords={keywords}
+      />
       <ContactPageTemplate
         {...{
           templateKey,
@@ -176,6 +185,8 @@ export const pageQuery = graphql`
       frontmatter {
         language
         title
+        keywords
+        description
         redirects
         heading {
           display

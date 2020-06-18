@@ -5,6 +5,8 @@ redirects: >
   /en/specialties/dental-implants/implant-supported-restorations/
 title: Prótesis sobre Implantes
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

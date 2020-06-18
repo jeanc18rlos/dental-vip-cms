@@ -4,6 +4,8 @@ language: en
 redirects: /especialidades/endodoncia/
 title: Endodontics
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

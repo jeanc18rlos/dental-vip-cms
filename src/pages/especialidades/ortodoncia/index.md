@@ -4,6 +4,8 @@ language: es
 redirects: /en/specialties/orthodontics/
 title: Ortodoncia
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

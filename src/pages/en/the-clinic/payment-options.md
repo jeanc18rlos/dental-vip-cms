@@ -4,6 +4,8 @@ language: en
 redirects: /la-clinica/financiamiento/
 title: Payment Options and Financing
 description: seo description
+keywords:
+  - default keyowrd
 published: true
 tags:
   - default tag

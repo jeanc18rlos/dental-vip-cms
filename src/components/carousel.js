@@ -1,8 +1,7 @@
-import React, { useState } from "react";
+import React from "react";
 import Slider from "react-slick";
 import Img from "gatsby-image";
 import styled from "styled-components";
-import { Container } from "../Elements/Container";
 import { rhythm, scale } from "../utils/typography";
 
 const StyledCarousel = styled.section`
@@ -112,7 +111,7 @@ const StyledCarousel = styled.section`
   }
   p {
     ${scale(0.75)}
-    @media screen and (max-width: 480px){
+    @media screen and (max-width: 480px) {
       ${scale(0.5)}
     }
   }
@@ -125,72 +124,37 @@ const settings = {
   autoplay: false,
   autoplaySpeed: 2000,
   touchThreshold: 1000,
-  verticalSwiping: false
+  verticalSwiping: false,
 };
 
-const Carousel = props => {
-  const { title, items, width, type, images, placeholder } = props;
-  const [activeCard, setActiveCard] = useState(false);
+const Carousel = (props) => {
+  const { title, items } = props;
   return (
     <StyledCarousel style={{ overflow: "hidden" }}>
       <h1>{title}</h1>
-      {/** <PopupboxContainer /> */}
-      {type === "responsive" ? (
-        {
-          /*
-            <Slider {...altSettings}>
-          {items.map((i, index) => {
-            const key = index;
-            return (
-              <Card
-                index={key}
-                type={type}
-                icon="icon-search"
-                action={true}
-                openPopupbox={openPopupbox}
-                activeCard={activeCard}
-                resetActiveCard={() => {
-                  setActiveCard(false);
-                }}
-                width={width}
-                setActiveCard={(title) => {
-                  return title === activeCard && isMobile
-                    ? setActiveCard(false)
-                    : setActiveCard(title);
-                }}
-                key={`item-${index}`}
-                {...i}
-              />
-            );
-          })}
-        </Slider>
-     */
-        }
-      ) : (
-        <Slider {...settings}>
-          {items.map((item, index) => {
-            const key = index;
-            return (
-              <div key={`${key}-carousel-item`} className="item">
-                {item.img.childImageSharp && (
-                  <Img
-                    fluid={item.img.childImageSharp.fluid}
-                    alt={item.name}
-                    className="card-photo"
-                  />
-                )}
-                <div className="card">
-                  <p className="font-ranga">{item.testimonial}</p>
-                  <footer>
-                    <p className="card-author">{item.name}</p>
-                    <p className="card-position">{item.position}</p>
-                  </footer>
-                </div>
+      <Slider {...settings}>
+        {items.map((item, index) => {
+          const key = index;
+          return (
+            <div key={`${key}-carousel-item`} className="item">
+              {item.img.childImageSharp && (
+                <Img
+                  fluid={item.img.childImageSharp.fluid}
+                  alt={item.name}
+                  className="card-photo"
+                />
+              )}
+              <div className="card">
+                <p className="font-ranga">{item.testimonial}</p>
+                <footer>
+                  <p className="card-author">{item.name}</p>
+                  <p className="card-position">{item.position}</p>
+                </footer>
               </div>
-            );
-          })}
-        </Slider>
-      )}
+            </div>
+          );
+        })}
+      </Slider>
     </StyledCarousel>
   );
 };

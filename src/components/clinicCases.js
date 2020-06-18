@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import Slider from "react-slick";
 import Img from "gatsby-image";
 import styled from "styled-components";
-import { Container } from "../Elements/Container";
 import { rhythm, scale } from "../utils/typography";
 import { PopupboxManager, PopupboxContainer } from "react-popupbox";
 import rotateDevice from "../assets/icons-rotateDevice.png";
@@ -420,7 +419,7 @@ const settings = {
 };
 
 const ClinicCases = (props) => {
-  const { title, items, width, type, images, placeholder } = props;
+  const { title, items, type, images, placeholder } = props;
   const [activeCard, setActiveCard] = useState(false);
   const size = useWindowSize();
   let isMobile = size.isMobile;
@@ -443,116 +442,84 @@ const ClinicCases = (props) => {
     PopupboxManager.open({ content });
   };
   return [
-    <PopupboxContainer />,
-    <StyledClinicCases style={{ overflow: "hidden" }}>
+    <PopupboxContainer key={1} />,
+    <StyledClinicCases key={2} style={{ overflow: "hidden" }}>
       {ReactHtmlParser(title)}
       {/** <PopupboxContainer /> */}
-      {type === "responsive" ? (
-        {
-          /*
-            <Slider {...altSettings}>
-          {items.map((i, index) => {
-            const key = index;
-            return (
-              <Card
-                index={key}
-                type={type}
-                icon="icon-search"
-                action={true}
-                openPopupbox={openPopupbox}
-                activeCard={activeCard}
-                resetActiveCard={() => {
-                  setActiveCard(false);
-                }}
-                width={width}
-                setActiveCard={(title) => {
-                  return title === activeCard && isMobile
-                    ? setActiveCard(false)
-                    : setActiveCard(title);
-                }}
-                key={`item-${index}`}
-                {...i}
-              />
-            );
-          })}
-        </Slider>
-     */
-        }
-      ) : (
-        <Slider {...settings}>
-          {items.map((item, index) => {
-            const key = index;
-            const { image, action, title, body } = item;
-            const resetActiveCard = () => setActiveCard(false);
-            return (
+      <Slider {...settings}>
+        {items.map((item, index) => {
+          const key = index;
+          const { image, action, body } = item;
+          const resetActiveCard = () => setActiveCard(false);
+          return (
+            <div
+              key={key}
+              onMouseOver={() => {
+                return !isMobile && setActiveCard(index);
+              }}
+              onMouseLeave={() => {
+                return !isMobile && resetActiveCard();
+              }}
+              onClick={() => {
+                return isMobile && activeCard !== index
+                  ? setActiveCard(index)
+                  : resetActiveCard();
+              }}
+              role="button"
+              tabIndex={0}
+              className={classnames("not-masonry", "gallery-card grid-item")}
+            >
               <div
-                onMouseOver={() => {
-                  return !isMobile && setActiveCard(index);
-                }}
-                onMouseLeave={() => {
-                  return !isMobile && resetActiveCard();
-                }}
-                onClick={() => {
-                  return isMobile && activeCard !== index
-                    ? setActiveCard(index)
-                    : resetActiveCard();
-                }}
-                role="button"
-                tabIndex={0}
-                className={classnames("not-masonry", "gallery-card grid-item")}
+                className={classnames(
+                  "gallery-ob",
+                  activeCard === index && "hover"
+                )}
               >
                 <div
+                  role="button"
+                  tabIndex={0}
                   className={classnames(
-                    "gallery-ob",
-                    activeCard === index && "hover"
+                    "close-feature",
+                    activeCard === index && "hidden"
                   )}
                 >
+                  <div className="wrap">
+                    <i className="icon-plus" />
+                  </div>
+                </div>
+                <a
+                  onClick={(e) => {
+                    e.preventDefault();
+                    return !isMobile && openPopupbox(index);
+                  }}
+                >
                   <div
-                    role="button"
-                    tabIndex={0}
                     className={classnames(
-                      "close-feature",
-                      activeCard === index && "hidden"
+                      "animated",
+                      type,
+                      activeCard === index && "zoomIn"
                     )}
                   >
-                    <div className="wrap">
-                      <i className="icon-plus" />
-                    </div>
+                    {action && (
+                      <span
+                        onClick={(e) => {
+                          e.preventDefault();
+                          return isMobile && openPopupbox(index);
+                        }}
+                      >
+                        <i className="icon-search" />
+                      </span>
+                    )}
                   </div>
-                  <a
-                    onClick={(e) => {
-                      e.preventDefault();
-                      return !isMobile && openPopupbox(index);
-                    }}
-                  >
-                    <div
-                      className={classnames(
-                        "animated",
-                        type,
-                        activeCard === index && "zoomIn"
-                      )}
-                    >
-                      {action && (
-                        <span
-                          onClick={(e) => {
-                            e.preventDefault();
-                            return isMobile && openPopupbox(index);
-                          }}
-                        >
-                          <i className="icon-search" />
-                        </span>
-                      )}
-                    </div>
-                  </a>
-                </div>
-
-                <Img alt="dentalvip" fluid={image.childImageSharp.fluid} />
-                {ReactHtmlParser(body)}
+                </a>
               </div>
-            );
-          })}
-        </Slider>
-      )}
+
+              <Img alt="dentalvip" fluid={image.childImageSharp.fluid} />
+              {ReactHtmlParser(body)}
+            </div>
+          );
+        })}
+      </Slider>
     </StyledClinicCases>,
   ];
 };
