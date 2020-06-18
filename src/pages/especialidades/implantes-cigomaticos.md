@@ -108,7 +108,7 @@ accordionList:
   display: true
   title: >
     <h1>Preguntas Frecuentes
-</h1>
+    </h1>
   items:
     - title: >-
         <h4>¿En qué consiste la fase de estudio y planificación del

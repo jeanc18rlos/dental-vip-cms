@@ -97,7 +97,7 @@ accordionList:
   display: true
   title: >
     <h1>Preguntas Frecuentes
-</h1>
+    </h1>
   items:
     - title: <h4>¿Cómo es un diente por dentro?</h4>
       content: >-

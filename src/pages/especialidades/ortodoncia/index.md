@@ -95,7 +95,7 @@ accordionList:
   display: true
   title: >
     <h1>Preguntas Frecuentes
-</h1>
+    </h1>
   items:
     - title: <h4>¿En qué consiste la Ortodoncia?</h4>
       content: >-

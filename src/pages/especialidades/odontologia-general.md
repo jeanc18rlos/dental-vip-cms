@@ -97,7 +97,7 @@ accordionList:
   display: true
   title: >
     <h1>Preguntas Frecuentes
-</h1>
+    </h1>
   items:
     - title: >-
         <h4>¿Cuáles son las enfermedades más comunes que afectan a dientes y
