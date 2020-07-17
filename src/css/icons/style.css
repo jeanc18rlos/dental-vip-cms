@@ -228,13 +228,13 @@
 .tomato {
   background: linear-gradient(to right, tomato 0%, gold 100%);
 }
-
+@media screen and (min-width: 1024px) {
 section.parallax,
 section.parallax::before,
 section.parallax::after {
   background-attachment: fixed;
 }
-
+}
 .popupbox {
   width: 100vw !important;
   height: 100vh !important;

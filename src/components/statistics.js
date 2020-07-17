@@ -31,6 +31,7 @@ const StyledContent = styled(Container)`
     text-transform: uppercase;
     font-weight: 700;
     background: #222;
+    min-width: 170px;
     color: #91c508;
     padding: 10px 20px;
     -webkit-transition: all 0.8s;

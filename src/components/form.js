@@ -49,7 +49,7 @@ const StyledForm2 = styled.div`
     font-size: 24px;
     font-family: Bebas Neue Bold;
     background: #91c508;
-
+    min-width: 170px;
     color: white;
     width: 100%;
     outline: none !important;
@@ -92,6 +92,7 @@ const StyledForm2 = styled.div`
       margin-top: 10px !important;
       margin: 0 auto;
       border: none !important;
+      min-width: 170px;
       &:hover {
         background: #222;
       }

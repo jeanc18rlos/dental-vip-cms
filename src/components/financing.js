@@ -5,7 +5,7 @@ import { Container } from "../Elements/Container";
 import ReactHtmlParser from "react-html-parser";
 import Img from "gatsby-image";
 import { PopupboxManager, PopupboxContainer } from "react-popupbox";
-
+import { navigateTo } from "gatsby";
 const StyledModal = styled.div`
   background: white;
   height: fit-content;
@@ -70,6 +70,7 @@ const StyledSection = styled.section`
       button {
         color: white;
         background: #222;
+        min-width: 170px;
         padding: 0.5em 1em;
         border: solid 1px white;
       }
@@ -116,6 +117,7 @@ const Financing = (props) => {
           onClick={() => {
             setModal(false);
             PopupboxManager.close();
+            navigateTo("/")
           }}
           className="close"
         >

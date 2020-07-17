@@ -34,6 +34,7 @@ const StyledQuote = styled.section`
     }
     .author-title {
       ${scale(-0.2)}
+      line-height: 1rem;
       color: #9b9a9a;
       margin-bottom: 0;
     }

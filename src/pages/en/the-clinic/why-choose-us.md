@@ -48,43 +48,43 @@ list:
   display: true
   items:
     - content: >
-        <h4>Renowned Team of Specialist Dentists</h4>
+        <h2>Renowned Team of Specialist Dentists</h2>
         <p>High Level University Professionals with Postgraduate Studies in the
         different areas of Clinical Dentistry. All Specialties in the Same Place.</p>
     - content: >
-        <h4>Modern and Comfortable Facilities</h4>
+        <h2>Modern and Comfortable Facilities</h2>
         <p>Quiet, Relaxed and Maximum Comfort Environment with Internet Service
         (Wi-Fi zone). Private and Totally Independent Dental Rooms.</p>
     - content: >
-        <h4>The Best Technology</h4>
+        <h2>The Best Technology</h2>
         <p>We have the Latest Generation Equipments Worldwide. We are always at
         the Forefront of Dental Innovation.</p>
     - content: >
-        <h4>Experience and Professional Ethics</h4>
+        <h2>Experience and Professional Ethics</h2>
         <p>Dentists with Ample Trajectory and Unquestionable Vocation. A Human
         Team Truly Committed to what it Does.</p>
     - content: >
-        <h4>Fully Personalized Attention</h4>
+        <h2>Fully Personalized Attention</h2>
         <p>We are not a center of mass attention, and therefore, we do not delegate
         functions. You Will Always Be Attended by Your Trusted Specialist.</p>
     - content: >
-        <h4>Organization and Minimum Waiting Time</h4>
+        <h2>Organization and Minimum Waiting Time</h2>
         <p>We value and respect your time, that is why, We Work Under a Prior
         Appointment System that allows us to Optimize Our Service.</p>
     - content: >
-        <h4>Excellent Location</h4>
+        <h2>Excellent Location</h2>
         <p>We are in the Chacao Municipality, in the "center of the east" of the
         Capital City, within a Business Urban Complex of great economic and commercial
         activity.</p>
     - content: >
-        <h4>Security and Easy Access</h4>
+        <h2>Security and Easy Access</h2>
         <p>Numerous Private Surveillance, more than 2,000 Parking Positions at
         your disposal and pedestrian entrance from the Underground System Metro de Caracas.</p>
     - content: >
-        <h4>Fair and Truly Competitive Prices</h4>
+        <h2>Fair and Truly Competitive Prices</h2>
         <p> Surely the Bests in High Standing Dentistry.</p>
     - content: >
-        <h4>Financing and Payment Facilities</h4>
+        <h2>Financing and Payment Facilities</h2>
         <p>Flexibility in the Collection of Professional Fees, Special Financing
         Plans and Commercial Point of Sale for payment with Debit and Credit Cards.</p>
 
@@ -188,12 +188,15 @@ procedures:
     <h1 class="title">One Specialty for Each Treatment!</h1>
   procedures:
     - title: <h5>dental implants</h5>
-      to: /en/the-clinic/dental-implants/
+      to: >
+        /en/specialties/dental-implants/
       img: /uploads/procedures-implants.png
     - title: <h5>Prosthodontics</h5>
-      to: /en/specialties/prosthodontics/
+      to: >
+        /en/specialties/prosthodontics/
       img: /uploads/procedures-prosthesis.jpg
     - title: <h5>Aesthetic Dentistry</h5>
-      to: /en/specialties/aesthetic-dentistry/
+      to: >
+        /en/specialties/aesthetic-dentistry/
       img: /uploads/procedures-aesthetic-dentistry.png
 ---

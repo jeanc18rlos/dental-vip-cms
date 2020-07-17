@@ -177,12 +177,15 @@ procedures:
     <h1 class="title">¡Una Especialidad para Cada Tratamiento!</h1>
   procedures:
   - title: <h5>Implantes</h5>
-    to: /la-clinica/implantes-dentales/
+    to: >
+      /especialidades/implantes-dentales/
     img: /uploads/procedures-implants.png
   - title: <h5>Ortodoncia</h5>
-    to: /especialidades/ortodoncia/
+    to: >
+      /especialidades/ortodoncia/
     img: /uploads/procedures-orthodontics.png
   - title: <h5>Estética dental</h5>
-    to: /especialidades/estetica-dental/
+    to: >
+      /especialidades/estetica-dental/
     img: /uploads/procedures-aesthetic-dentistry.png
 ---

@@ -23,7 +23,7 @@ hero:
   indicator: false
   portraitPosition: center
   content:
-    position: center left-aligned
+    position: bottom left-aligned
     body: >
       <h2 class="wrapped">Salud, Belleza y Función</h2>
       <br><br>

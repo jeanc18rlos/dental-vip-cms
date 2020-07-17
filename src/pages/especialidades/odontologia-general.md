@@ -569,14 +569,17 @@ procedures:
   procedures:
     - title: >
          <h5>Instalaciones</h5>
-      to: /la-clinica/instalaciones/
+      to: >
+        /la-clinica/instalaciones/
       img: /uploads/procedures-facilities.jpg
     - title: >
          <h5>Tecnología</h5>
-      to: /la-clinica/tecnologia/
+      to: >
+        /la-clinica/tecnologia/
       img: /uploads/procedures-technology.jpg
     - title: >
          <h5>Profesionales</h5>
-      to: /profesionales/
+      to: >
+        /profesionales/
       img: /uploads/procedures-professionals.png
 ---

@@ -4,14 +4,19 @@ import { scale } from "../utils/typography";
 import ReactHtmlParser from "react-html-parser";
 import BackgroundImage from "gatsby-background-image";
 import Fade from "react-reveal/Fade";
-
+import { useWindowSize } from "../utils/hooks";
 const StyledHero = styled.section`
   .bg {
     display: flex;
     height: calc(100vh - 128px);
     min-height: 250px;
+    max-height: ${(props) => props.maxHeight - 50}px;
     max-width: 100vw;
     overflow: hidden;
+
+    -webkit-backface-visibility: visible;
+    backface-visibility: visible;
+
     &.half {
       height: 60vh;
       max-height: 400px;
@@ -53,7 +58,7 @@ const StyledHero = styled.section`
           }
         }
         @media screen and (min-width: 1024px),
-          screen and (min-height: 768px) and (min-width: 560px) {
+          screen and (min-height: 700px) and (min-width: 560px) {
           h1 {
             ${scale(1.9)};
             &.bebas {
@@ -131,7 +136,9 @@ const StyledHero = styled.section`
     &.parallax {
       &:before,
       :after {
-        background-attachment: fixed;
+        @media screen and (min-width: 1024px) {
+          background-attachment: fixed;
+        }
       }
     }
 
@@ -150,8 +157,10 @@ const StyledHero = styled.section`
 
 const Hero = (props) => {
   const [scale, setScale] = useState(false);
+  const size = useWindowSize();
   return (
     <StyledHero
+      maxHeight={size.height}
       height={props.height}
       indicator={props.indicator}
       portraitPosition={props.portraitPosition}

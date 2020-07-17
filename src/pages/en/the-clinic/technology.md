@@ -38,9 +38,9 @@ paragraph:
 # Heading Section
 heading:
   display: true
-  content:
-    <h1 class="title">A Space Designed for Your Tranquility</h1>
-    <p>A unique facilities, an exceptional technological equipment and an ideal environment for our patients to enjoy a different Dentistry with the highest level of comfort, hygiene and safety; always looking for the best possible result.</p>
+  content: >
+    <h1 class="title">A Last Generation Clinical Equipment</h1>
+    <p>In DENTAL VIP we have the most modern equipments and the most advanced dental technology to offer you and your whole family cutting-edge and proven quality dental treatments.</p>
 
 # List Section
 list:
@@ -322,12 +322,15 @@ procedures:
     <h1 class="title">One Specialty for Each Treatment!</h1>
   procedures:
     - title: <h5>dental implants</h5>
-      to: /en/the-clinic/dental-implants/
+      to: >
+        /en/specialties/dental-implants/
       img: /uploads/procedures-implants.png
     - title: <h5>Prosthodontics</h5>
-      to: /en/specialties/prosthodontics/
+      to: >
+        /en/specialties/prosthodontics/
       img: /uploads/procedures-prosthesis.jpg
     - title: <h5>Aesthetic Dentistry</h5>
-      to: /en/specialties/aesthetic-dentistry/
+      to: >
+        /en/specialties/aesthetic-dentistry/
       img: /uploads/procedures-aesthetic-dentistry.png
 ---

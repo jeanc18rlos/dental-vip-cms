@@ -66,7 +66,7 @@ const SyledFeatures = styled.section`
           margin-bottom: ${rhythm(1)};
         }
         &:hover {
-          box-shadow: 0 0 19px 0 hsla(0, 0%, 68.6%, 0.8);
+          box-shadow: 0 0 19px 0 hsla(0, 0%, 0%, 0.68);
         }
         .title {
           letter-spacing: 1px;

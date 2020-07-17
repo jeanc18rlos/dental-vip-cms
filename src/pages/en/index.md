@@ -90,7 +90,7 @@ statistics:
     - number: 20
       title: >
         <h1>years of<br>experience</h1>
-    - number: 17000
+    - number: 580000
       title: >
         <h1>elective<br>interventions</h1>
     - number: 9500
@@ -268,37 +268,43 @@ features:
         <strong>All Specialties in the Same Place!</strong>
     </p>
   features:
-    - to: /en/specialties/oral-surgery/
+    - to: >
+        /en/specialties/oral-surgery/
       img: /uploads/specialties-oral-surgery.png
       title: >
         <h3 class="title bebas bold">ORAL SURGERY</h3>
       description: >
         <p> Prevention, diagnosis and treatment of all surgical pathology itself or associated with teeth, mucous membranes, lips, gums and maxillary bones.</p>
-    - to: /en/specialties/dental-implants/
+    - to: >
+        /en/specialties/dental-implants/
       img: /uploads/specialties-dental-implants.png
       title: >
         <h3 class="title bebas bold">IMPLANTS</h3>
       description: >
         <p> Replacement of lost teeth with biocompatible titanium devices that enable fixed oral rehabilitation of partially or totally edentulous patients.</p>
-    - to: /en/specialties/aesthetic-dentistry/
+    - to: >
+        /en/specialties/aesthetic-dentistry/
       img: /uploads/specialties-dental-aesthetics.png
       title: >
         <h3 class="title bebas bold">aesthetic dentistry</h3>
       description: >
         <p> Analysis and study of dentogingival features to correct cosmetic defects and beautify the general appearance of the smile.</p>
-    - to: /en/specialties/endodontics/
+    - to: >
+        /en/specialties/endodontics/
       img: /uploads/specialties-endodontics.png
       title: >
         <h3 class="title bebas bold">ENDODONTICS</h3>
       description: >
         <p> Cleaning, disinfection and conformation of the root canals as a previous step to the multiple procedures of prosthesis and dental restoration.</p>
-    - to: /en/specialties/orthodontics/
+    - to: >
+        /en/specialties/orthodontics/
       img: /uploads/specialties-orthodontics.png
       title: >
         <h3 class="title bebas bold">ORTHODONTICS</h3>
       description: >
         <p> Brackets and functional appliances for the biomechanical correction of malocclusions, dental malpositions and dentofacial deformities.</p>
-    - to: /en/specialties/prosthodontics/
+    - to: >
+        /en/specialties/prosthodontics/
       img: /uploads/specialties-prosthesis.png
       title: >
         <h3 class="title bebas bold">PROSTHESIS AND ORAL REHABILITATION</h3>
@@ -312,7 +318,7 @@ procedures:
   procedures:
     - title: >
         <h5> IMPLANT SUPPORTED RESTORATIONS</h5>
-      to: /en/specialties/dental-implants/implant-prosthesis/
+      to: /en/specialties/dental-implants/implant-supported-restorations/
       img: /uploads/procedures-dental-implants.jpg
     - title: >
         <h5> 3D DIAGNOSIS AND PLANNING</h5>
@@ -324,14 +330,14 @@ procedures:
       img: /uploads/procedures-veneers.jpg
     - title: >
         <h5> CAD-CAM TECHNOLOGY</h5>
-      to: /en/specialties/prosthesis/cad-cam-technology/
+      to: /en/specialties/prosthodontics/cad-cam-technology/
       img: /uploads/procedures-cad-cam.jpg
     - title: >
         <h5> DIGITAL SMILE DESIGN</h5>
-      to: /en/specialties/dental-aesthetic/digital-smile-design/
+      to: /en/specialties/aesthetic-dentistry/digital-smile-design/
       img: /en/uploads/procedures-design.jpg
     - title: >
         <h5> AESTHETIC BRACKETS</h5>
-      to: /en/specialties/orthodontics/aesthetic-devices/
+      to: /en/specialties/orthodontics/aesthetic-braces/
       img: /uploads/procedures-brackets.jpg
 ---

@@ -38,7 +38,7 @@ const Article = styled.div`
     margin-bottom: ${rhythm(1)} !important;
     display: block !important;
     width: fit-content;
-
+    min-width: 170px;
     transition: all 0.25s linear;
     &:hover {
       background: white;
@@ -119,6 +119,7 @@ const Slogan = styled(BackgroundImage)`
     margin-bottom: ${rhythm(1)} !important;
     display: block !important;
     width: fit-content;
+    min-width: 170px;
     margin: auto;
     transition: all 0.25s linear;
     &:hover {

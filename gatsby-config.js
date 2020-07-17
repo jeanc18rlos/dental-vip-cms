@@ -130,6 +130,6 @@ module.exports = {
         showSpinner: true,
       },
     },
-    "gatsby-plugin-offline",
+   
   ],
 };

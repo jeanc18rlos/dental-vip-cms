@@ -77,7 +77,13 @@ const StyledBoxes = styled.section`
       position: relative;
       padding: ${rhythm(0.5)};
       box-sizing: border-box;
-      z-index: 1;
+      &.long-nc {
+        @media screen and (max-width: 1024px) {
+          z-index: 1;
+          max-height: 300px;
+          overflow: hidden;
+        }
+      }
       a {
         border: 1px solid hsla(0, 0%, 60%, 0.5);
         max-width: 480px;
@@ -151,7 +157,6 @@ const StyledBoxes = styled.section`
   }
 `;
 
-
 const arr = ["", "", ""];
 
 const Boxes = (props) => {
@@ -181,7 +186,12 @@ const Boxes = (props) => {
           {props.procedures.map((i, k) => {
             const key = `wrapper-${k}`;
             return (
-              <div key={k} className="grid-item">
+              <div
+                key={k}
+                className={`grid-item ${
+                  length <= 3 && !props.content && "long-nc"
+                }`}
+              >
                 <Link
                   to={i.to}
                   onClick={(e) => {

@@ -174,12 +174,15 @@ procedures:
     <h1 class="title">One Specialty for Each Treatment!</h1>
   procedures:
     - title: <h5>dental implants</h5>
-      to: /en/the-clinic/dental-implants/
+      to: >
+        /en/the-clinic/dental-implants/
       img: /uploads/procedures-implants.png
     - title: <h5>Orthodontics</h5>
-      to: /en/specialties/orthodontics/
+      to: >
+        /en/specialties/orthodontics/
       img: /uploads/procedures-orthodontics.png
     - title: <h5>Aesthetic Dentistry</h5>
-      to: /en/specialties/aesthetic-dentistry/
+      to: >
+        /en/specialties/aesthetic-dentistry/
       img: /uploads/procedures-aesthetic-dentistry.png
 ---

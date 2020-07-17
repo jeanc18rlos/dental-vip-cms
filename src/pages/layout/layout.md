@@ -50,78 +50,105 @@ contactBar:
 header:
   brand:
     logo: /uploads/logo.svg
-    to: /
+    to: >
+      /
   navigation:
     - title: INICIO
-      to: /
+      to: >
+        /
       menu:
         display: false
         items:
           - title: inicio2
-            to: /index
+            to: >
+              /index
     - title: LA CLÍNICA
-      to: /la-clinica/
+      to: >
+        /la-clinica/
       menu:
         display: true
         items:
           - title: POR QUÉ ELEGIRNOS
-            to: /la-clinica/por-que-elegirnos
+            to: >
+              /la-clinica/por-que-elegirnos
           - title: FILOSOFÍA
-            to: /la-clinica/filosofia/
+            to: >
+              /la-clinica/filosofia/
           - title: instalaciones
-            to: /la-clinica/instalaciones/
+            to: >
+              /la-clinica/instalaciones/
           - title: TECNOLOGÍA
-            to: /la-clinica/tecnologia/
+            to: >
+              /la-clinica/tecnologia/
           - title: financiamiento
-            to: /la-clinica/financiamiento/
+            to: >
+              /la-clinica/financiamiento/
           - title: Garantías
-            to: /la-clinica/garantias/
+            to: >
+              /la-clinica/garantias/
     - title: Especialidades
-      to: /especialidades/
+      to: >
+        /especialidades/
       menu:
         display: true
         items:
           - title: CIRUGÍA BUCAL
-            to: /especialidades/cirugia-bucal/
+            to: >
+              /especialidades/cirugia-bucal/
           - title: Endodoncia
-            to: /especialidades/endodoncia/
+            to: >
+              /especialidades/endodoncia/
           - title: ESTÉTICA DENTAL
-            to: /especialidades/estetica-dental/
+            to: >
+              /especialidades/estetica-dental/
           - title: Implantes Dentales
-            to: /especialidades/implantes-dentales/
+            to: >
+              /especialidades/implantes-dentales/
           - title: Implantes Cigomáticos
-            to: /especialidades/implantes-cigomaticos/
+            to: >
+              /especialidades/implantes-cigomaticos/
           - title: ODONTOLOGÍA general
-            to: /especialidades/odontologia-general/
+            to: >
+              /especialidades/odontologia-general/
           - title: Ortodoncia
-            to: /especialidades/ortodoncia/
+            to: >
+              /especialidades/ortodoncia/
           - title: Periodoncia
-            to: /especialidades/periodoncia/
+            to: >
+              /especialidades/periodoncia/
           - title: PRÓTESIS
-            to: /especialidades/protesis/
+            to: >
+              /especialidades/protesis/
           - title: Sedación y anestesia general
-            to: /especialidades/sedacion-y-anestesia-general/
+            to: >
+              /especialidades/sedacion-y-anestesia-general/
     - title: profesionales
-      to: /profesionales
+      to: >
+        /profesionales
       menu:
         display: false
         items:
           - title: inicio2
-            to: /index
+            to: >
+              /index
     - title: blog
-      to: /blog/
+      to: >
+        /blog/
       menu:
         display: false
         items:
           - title: inicio2
-            to: /index
+            to: >
+              /index
     - title: contacto
-      to: /contacto/
+      to: >
+        /contacto/
       menu:
         display: false
         items:
           - title: inicio2
-            to: /index
+            to: >
+              /index
   search:
     placeHolder: Buscar
 

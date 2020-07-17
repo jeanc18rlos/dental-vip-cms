@@ -74,6 +74,7 @@ const StyledContent = styled(Container)`
     flex-flow: wrap;
   }
   .link {
+    min-width: 170px;
     white-space: nowrap;
     text-align: center;
     width: fit-content;

@@ -261,6 +261,7 @@ const Prices = styled.section`
         margin-top: 10px;
         padding: 10px 60px;
         color: #333;
+        min-width: 170px;
         text-decoration: none;
         &:hover {
           background: #222;

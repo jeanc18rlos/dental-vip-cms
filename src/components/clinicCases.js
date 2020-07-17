@@ -308,6 +308,7 @@ const StyledClinicCases = styled.section`
         .details {
           border: none;
           background: #222;
+          min-width: 170px;
           color: white;
           font-weight: 700;
           padding: 3px 15px;

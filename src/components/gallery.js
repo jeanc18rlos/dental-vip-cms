@@ -359,6 +359,7 @@ const StyledGallery = styled.section`
             background: #222;
             color: white;
             font-weight: 700;
+            min-width: 170px;
             padding: 3px 15px;
             &.gridGallery {
               background: none;

@@ -3,9 +3,8 @@ import BackgroundImage from "gatsby-background-image";
 import styled from "styled-components";
 import { rhythm, scale } from "../utils/typography";
 import { Container } from "../Elements/Container";
-
-import ReactHtmlParser from "react-html-parser";
-
+import { Link } from "gatsby";
+import ReactHtmlParser, { convertNodeToElement } from "react-html-parser";
 
 const StyledContent = styled(Container)`
   justify-content: space-around;
@@ -20,12 +19,11 @@ const StyledContent = styled(Container)`
   @media screen and (max-width: 768px) {
     flex-direction: column !important;
   }
-  .bold{
+  .bold {
     font-weight: bold;
     text-shadow: 0px 0px 17px black;
   }
   h1 {
-    
     margin-bottom: ${rhythm(2)};
     &.big {
       font-size: ${rhythm(1.8)};
@@ -145,6 +143,7 @@ const StyledContent = styled(Container)`
     text-transform: uppercase;
     font-weight: 700;
     background: #222;
+    min-width: 170px;
     color: #91c508;
     padding: 10px 20px;
     -webkit-transition: all 0.8s;
@@ -166,7 +165,21 @@ const Parallax = (props) => {
     >
       {!props.nocontent && (
         <StyledContent flexDirection="column" color="none">
-          {ReactHtmlParser(props.content)}
+          {ReactHtmlParser(props.content, {
+            transform: (node) => {
+              if (
+                node.type === "tag" &&
+                node.name === "a" &&
+                !node.attribs.rel
+              ) {
+                return (
+                  <Link className="link" to={node.attribs.href}>
+                    {node.children[0].data}
+                  </Link>
+                );
+              }
+            },
+          })}
         </StyledContent>
       )}
     </BackgroundImage>

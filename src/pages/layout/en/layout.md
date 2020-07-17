@@ -50,79 +50,106 @@ contactBar:
 header:
   brand:
     logo: /uploads/logo.svg
-    to: /
+    to: >
+      /en
   navigation:
     - title: HOME
-      to: en/
+      to: >
+        /en
       menu:
         display: false
         items:
           - title: inicio2
-            to: /index
+            to: >
+              /index
     - title: THE CLINIC
-      to: /en/the-clinic/
+      to: >
+        /en/the-clinic/
       menu:
         display: true
         items:
         - title: WHY CHOOSE US
-          to: /en/the-clinic/why-choose-us/
+          to: >
+            /en/the-clinic/why-choose-us/
         - title: PHILOSOPHY
-          to: /en/the-clinic/philosophy/
+          to: >
+            /en/the-clinic/philosophy/
         - title: FACILITIES
-          to: /en/the-clinic/facilities/
+          to: >
+            /en/the-clinic/facilities/
         - title: TECHNOLOGY
-          to: /en/the-clinic/technology/
-        - title: PAYMENT OPTIONS
-          to: /en/the-clinic/payment-options/
+          to: >
+            /en/the-clinic/technology/
+        - title: PAYMENT OPTIONS AND FINANCING
+          to: >
+            /en/the-clinic/payment-options/
         - title: GUARANTEES
-          to: /en/the-clinic/guarantees/
+          to: >
+            /en/the-clinic/guarantees/
     - title: SPECIALTIES
-      to: /en/specialties/
+      to: >
+        /en/specialties/
       menu:
         display: true
         items:
         - title: ORAL SURGERY
-          to: /en/specialties/oral-surgery/
+          to: >
+            /en/specialties/oral-surgery/
         - title: ENDODONTICs
-          to: /en/specialties/endodontics/
+          to: >
+            /en/specialties/endodontics/
         - title: aesthetic dentistry
-          to: /en/specialties/aesthetic-dentistry/
+          to: >
+            /en/specialties/aesthetic-dentistry/
         - title: DENTAL IMPLANTS
-          to: /en/specialties/dental-implants/
+          to: >
+            /en/specialties/dental-implants/
         - title: ZYGOMATIC IMPLANTS
-          to: /en/specialties/zygomatic-implants/
+          to: >
+            /en/specialties/zygomatic-implants/
         - title: GENERAL DENTISTRY
-          to: /en/specialties/general-dentistry/
+          to: >
+            /en/specialties/general-dentistry/
         - title: ORTHODONTICS
-          to: /en/specialties/orthodontics/
+          to: >
+            /en/specialties/orthodontics/
         - title: periodontics
-          to: /en/specialties/periodontics/
+          to: >
+            /en/specialties/periodontics/
         - title: prosthodontics
-          to: /en/specialties/prosthodontics/
+          to: >
+            /en/specialties/prosthodontics/
         - title: sedation and general anesthesia
-          to: /en/specialties/sedation-and-general-anesthesia/
+          to: >
+            /en/specialties/sedation-and-general-anesthesia/
     - title: PROFESSIONAL STAFF
-      to: /en/professional-staff
+      to: >
+        /en/professional-staff
       menu:
         display: false
         items:
           - title: inicio2
-            to: /index
+            to: >
+              /index
     - title: blog
       to: >
+        >
         /en/blog/
       menu:
         display: false
         items:
           - title: inicio2
-            to: /index
+            to: >
+              /index
     - title: contact
-      to: /en/contact/
+      to: >
+        /en/contact/
       menu:
         display: false
         items:
           - title: inicio2
-            to: /index
+            to: >
+              /index
   search:
     placeHolder: Search
 
@@ -149,7 +176,7 @@ footer:
     - number: +582122613732
     - number: +582122613331
   contact:
-    link: /contact
+    link: /en/contact
     text: contact
   social:
     - item: >
