@@ -31,8 +31,8 @@ banner: >
   <div class="banner">
     <aside>
       <p>
-        Is Your Quote Too Expensive For Your Dental Treatment? <br />
-        SAVE UP TO 70% <span style="color: #333;">WE CAN HELP YOU</span>
+        <span style="margin-bottom: 10px;display: block;">Is Your Quote Too Expensive For Your Dental Treatment?</span>
+        SAVE UP TO 70% <span style="color: #333;">WE CAN HELP YOU!</span>
       </p>
     </aside>
     <aside>
@@ -145,7 +145,7 @@ boxes:
 </p>
 <div class="message red">
   <h1>Excluding risk factors:</h1> 
-  <ul> 
+  <ul style="font-weight: 300;"> 
     <li>Immune or degenerative pathologies.</li> 
     <li>Accidents and severe trauma.</li> 
     <li>Systemic diseases that have a detrimental effect on the body such as uncontrolled diabetes, epilepsy, osteoporosis and acquired immunodeficiency syndrome <em>(AIDS)</em>; among others.</li> 
@@ -166,7 +166,7 @@ boxes:
 <p>Although we would love to be able to guarantee our treatments for a lifetime, it is truly impossible and somewhat utopian; since the length of time of any dental rehabilitation will depend on a large number of factors totally unrelated to our work: the genetics and innate predisposition to certain pathological states, the eating habits, the present and future general health status, the appearance, development and evolution of systemic, bone, hormonal, degenerative, neoplastic or mental diseases; among others, the osteoporosis and associated intake of bisphosphonates in women, the consumption of drugs and other medications, the exposure to radiation, the suffering from strokes and facial trauma, the development of bruxism and other parafunctional habits, the true knowledge, mastery, skill and execution of the different oral hygiene techniques; the frequency of brushing, the constant use of the interdental brush and dental floss, the regular use of the occlusal splint and the attendance to scheduled periodic check-ups; are all conditions and activities only inherent to the patient, and therefore, under your sole and absolute responsibility.</p>
 <p> So dental guarantees can only cover the costs <i>(partial or total)</i> of redo a treatment when it is necessary to repeat it, within a reasonable period of time, due to factors inherent to the professional and/or to the biomaterials used that directly prove failures of diagnosis, planning, execution and quality of care provided. </p>
 <p> DENTAL VIP offers a very sincere and patient friendly Guarantee Policy. In case you have to make it effective and reside outside of Venezuela, we will organize your trip in the usual conditions and we will cover the following: </p>
-<ul class="checklist">
+<ul class="check-list">
   <li>
     <i class="icon-check circle"></i
     ><span
@@ -206,3 +206,4 @@ boxes:
 <p>
   In the case of any unforeseen, you should immediately go to the consultation if you live in the city; or if not, send photos and a brief description of the problem through our contact forms. If it is necessary to return to Caracas, we will examine your medical history and the images provided to try to determine why the failure occurred, plan the retreatment and make effective; if applicable, the Guarantee Policy already described.
 </p>
+<br>

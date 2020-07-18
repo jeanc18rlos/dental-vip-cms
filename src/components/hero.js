@@ -54,7 +54,8 @@ const StyledHero = styled.section`
         h1 {
           ${scale(1.5)}
           &.bebas {
-            ${scale(2)}
+            ${scale(2)};
+            line-height: 1 !important;
           }
         }
         @media screen and (min-width: 1024px),

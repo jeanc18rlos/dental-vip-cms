@@ -31,7 +31,7 @@ banner: >
   <div class="banner">
     <aside>
       <p>
-        ¿Está en la Búsqueda de Tratamientos Dentales de Alta Gama? <br />
+        <span style="margin-bottom: 10px;display: block;">¿Está en la Búsqueda de Tratamientos Dentales de Alta Gama? </span>
         VISÍTENOS <span style="color: #333;">¡PODEMOS AYUDARLE!</span>
       </p>
     </aside>
@@ -172,7 +172,7 @@ boxes:
 </p>
 <div class="message red">
   <h1>Factores de riesgo excluyentes:</h1>
-  <ul>
+  <ul style="font-weight: 300;">
     <li>Patologías inmunológicas o degenerativas.</li>
     <li>Accidentes y traumatismos severos.</li>
     <li>
@@ -275,3 +275,4 @@ boxes:
   tratar de determinar por qué ocurrió la falla, planificar el retratamiento y
   hacer efectiva; si aplica, la Política de Garantías ya descrita.
 </p>
+<br>

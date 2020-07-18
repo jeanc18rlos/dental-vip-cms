@@ -213,14 +213,6 @@ forms:
     warning: >
       In order to send a message, you have to fill all data fields.
     fields:
-      - name: subject
-        placeholder: Subject
-        type: text
-        value: ''
-        options:
-          display: false
-          items:
-            - value: Nombre
       - name: name
         placeholder: First Name
         type: text
@@ -270,17 +262,17 @@ forms:
           items:
             - value: Nombre
       - name: referredBy
-        placeholder: How did you know us?
+        placeholder: How Did You Know Us?
         type: select
-        value: "How did you know us?"
+        value: "How Did You Know Us?"
         options:
           display: true
           items:
-            - value: By a dentist
-            - value: By a friend
-            - value: on Instagram
-            - value: on Facebook
-            - value: on Google
+            - value: By a Dentist
+            - value: By a Friend
+            - value: On Instagram
+            - value: On Facebook
+            - value: On Google
       - name: gender
         placeholder: Gender
         type: select
@@ -291,9 +283,9 @@ forms:
             - value: Female
             - value: Male
       - name: specialty
-        placeholder: Specialty of interest
+        placeholder: Specialty of Interest
         type: select
-        value: Specialty of interest
+        value: Specialty of Interest
         options:
           display: false
           items:
@@ -308,7 +300,7 @@ forms:
           - value: Prosthodontics
           - value: Sedation and General Anesthesia
       - name: message
-        placeholder: Write your message.
+        placeholder: Write Your Message.
         type: textarea
         value: ""
         options:

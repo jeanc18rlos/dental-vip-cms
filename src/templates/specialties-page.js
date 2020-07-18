@@ -12,7 +12,7 @@ import Paragraph from "../components/asideParagrah";
 import Testimonial from "../components/testimonial";
 import Quote from "../components/quote";
 import styled from "styled-components";
-import {  rhythm } from "../utils/typography";
+import { rhythm } from "../utils/typography";
 import Form from "../components/form";
 import SEO from "../components/seo";
 import ReactHtmlParser from "react-html-parser";
@@ -160,16 +160,27 @@ export const SpecialtiesPageTemplate = ({
           items={cases.items}
         />
       )}
-      {anexes.display && <Paragraph {...anexes} />}
+      {anexes.display && <Paragraph top={true} {...anexes} />}
 
-      <Form
-        type="extended"
-        data={forms.specialties}
-        title={form.title}
-        language={language}
-        img={form.background}
-      ></Form>
+      {anexes.display && (
+        <Form
+          type="extended"
+          data={forms.specialties}
+          title={form.title}
+          language={language}
+          img={form.background}
+        ></Form>
+      )}
       <Testimonial {...testimonial}></Testimonial>
+      {!anexes.display && (
+        <Form
+          type="extended"
+          data={forms.specialties}
+          title={form.title}
+          language={language}
+          img={form.background}
+        ></Form>
+      )}
       <Exterior>
         <main>
           <BackgroundImage

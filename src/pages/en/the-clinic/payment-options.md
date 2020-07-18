@@ -31,7 +31,7 @@ banner: >
   <div class="banner">
     <aside>
       <p>
-        Is Your Quote Too Expensive For Your Dental Treatment? <br />
+        <span style="margin-bottom: 10px;display: block;">Is Your Quote Too Expensive For Your Dental Treatment?</span>
         <span style="color: #333;">SAVE UP TO 70%</span> WE CAN HELP YOU
       </p>
     </aside>
@@ -45,15 +45,15 @@ banner: >
 boxes:
   display: true
   boxes:
-  - title: <h5>UNITED MEDICAL CREDIT</h5>
-    to: /la-clinica/implantes-dentales/
-    img: /uploads/procedures-united-medical-credit.png
-  - title: <h5>DENEFITS</h5>
-    to: /especialidades/ortodoncia/
-    img: /uploads/procedures-denefits.png
-  - title: <h5>MY MEDICAL FUNDING</h5>
-    to: /especialidades/estetica-dental/
-    img: /uploads/procedures-my-medical-founding.png
+    - title: <h5>UNITED MEDICAL CREDIT</h5>
+      to: https://www.unitedmedicalcredit.com/
+      img: /uploads/procedures-united-medical-credit.png
+    - title: <h5>DENEFITS</h5>
+      to: https://www.denefits.com/
+      img: /uploads/procedures-denefits.png
+    - title: <h5>MY MEDICAL FUNDING</h5>
+      to: https://www.mymedicalfunding.com/
+      img: /uploads/procedures-my-medical-founding.png
 ---
 
 <h1>We Accept:</h1>
@@ -99,8 +99,13 @@ boxes:
 <p class="message">
   Unless agreed differently during the initial interview, the work days contemplated in the treatment plan will always be full business days during which the patient must be available between 9 a.m. and 5 p.m.
 </p>
-<h1 class="heading">Finance Your Dental Care in Venezuela</h1>
-<p class="heading small">* Option available only for citizens or residents of the United States of America.</p>
+<br>
+<h1 class="heading" style="
+    margin-bottom: 1.6rem;
+">Finance Your Dental Care in Venezuela</h1>
+<p class="heading small" style="
+    line-height: 1.2;
+"><b style="color:red">*</b> Option available only for citizens or residents of the United States of America.</p>
 <p class="heading">
   DENTAL VIP offers dental financing programs for patients with good credit and patients with "not so good" credit. Our financing partners work diligently to provide people the most affordable options to finance their dental care in Venezuela. Financing programs provide affordable monthly payments with flexible terms and limited interest free financing.
 </p>

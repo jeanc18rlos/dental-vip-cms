@@ -192,7 +192,8 @@ const Boxes = (props) => {
                   length <= 3 && !props.content && "long-nc"
                 }`}
               >
-                <Link
+                {
+                  !props.externalLink ?   <Link
                   to={i.to}
                   onClick={(e) => {
                     props.content && e.preventDefault();
@@ -226,6 +227,42 @@ const Boxes = (props) => {
                     )}
                   </div>
                 </Link>
+               : <a
+               href={i.to}
+               onClick={(e) => {
+                 props.content && e.preventDefault();
+               }}
+               className={`animated box-wrapper ${
+                 toggle === key ? "selected" : "deselected"
+               } ${length <= 3 && "long"}`}
+               onMouseEnter={() => {
+                 setActiveToggle(key);
+               }}
+               onMouseLeave={() => {
+                 setActiveToggle(false);
+               }}
+             >
+               <div>
+                 {ReactHtmlParser(i.title)}
+                 <span className="indicator">
+                   <i className="icon-plus" />
+                 </span>
+                 {props.content ? (
+                   <BackgroundImage
+                     className={`content ${
+                       toggle === key ? "selected" : "deselected"
+                     }`}
+                     fluid={i.img.childImageSharp.fluid}
+                   >
+                     {ReactHtmlParser(i.content)}
+                   </BackgroundImage>
+                 ) : (
+                   <Img fluid={i.img.childImageSharp.fluid}></Img>
+                 )}
+               </div>
+             </a>
+                }
+              
               </div>
             );
           })}

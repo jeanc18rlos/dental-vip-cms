@@ -215,14 +215,6 @@ forms:
     warning: >
       Para enviar un mensaje, es obligatorio rellenar todos los campos del formulario.
     fields:
-      - name: subject
-        placeholder: Asunto
-        type: text
-        value: ""
-        options:
-          display: false
-          items:
-            - value: Nombre
       - name: name
         placeholder: Nombre
         type: text
@@ -240,7 +232,7 @@ forms:
           items:
             - value: Nombre
       - name: email
-        placeholder: Correo electrónico
+        placeholder: Correo Electrónico
         type: email
         value: ""
         options:
@@ -264,7 +256,7 @@ forms:
           items:
             - value: Nombre
       - name: phone
-        placeholder: Número de teléfono
+        placeholder: Número de Teléfono
         type: tel
         value: ""
         options:
@@ -272,14 +264,14 @@ forms:
           items:
             - value: Nombre
       - name: referredBy
-        placeholder: ¿Cómo nos ha conocido?
+        placeholder: ¿Cómo nos ha Conocido?
         type: select
         value: ""
         options:
           display: true
           items:
-            - value: Por un odontólogo
-            - value: Por un amigo
+            - value: Por un Odontólogo
+            - value: Por un Amigo
             - value: Por Instagram
             - value: Por Facebook
             - value: Por Google
@@ -294,9 +286,9 @@ forms:
             - value: Masculino
 
       - name: specialty
-        placeholder: Especialidad de interés
+        placeholder: Especialidad de Interés
         type: select
-        value: Especialidad de interés
+        value: Especialidad de Interés
         options:
           display: false
           items:
@@ -309,9 +301,9 @@ forms:
             - value: Ortodoncia
             - value: Periodoncia
             - value: Prótesis
-            - value: Sedación Y Anestesia General
+            - value: Sedación y Anestesia General
       - name: message
-        placeholder: Escriba su mensaje
+        placeholder: Escriba su Mensaje
         type: textarea
         value: ""
         options:

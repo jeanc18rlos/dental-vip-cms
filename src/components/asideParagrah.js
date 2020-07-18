@@ -7,6 +7,10 @@ import { Link } from "gatsby";
 import ReactHtmlParser from "react-html-parser";
 
 const StyledContent = styled(Container)`
+  ${props => props.top && `
+   @media screen and (max-width: 768px) {
+    padding-top: ${rhythm(4)}!important;  }
+  `}
   ${(props) =>
     props.contained &&
     `
@@ -271,6 +275,7 @@ const Paragraph = (props) => {
       flexDirection="column"
       color="none"
       enforce={props.enforce}
+      top={props.top}
     >
       {props.items.map((i, k) => {
         return (

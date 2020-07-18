@@ -157,6 +157,7 @@ const StyledContent = styled(Container)`
     font-weight: 300;
   }
   p {
+    text-align: center;
     padding-left: 15px;
     padding-right: 15px;
     ${scale(-0.2)}
@@ -236,7 +237,7 @@ const StyledContent = styled(Container)`
       }
       span, .captcha {
         padding: 10px 15px !important;
-        margin-top: ${rhythm(0.5)};
+        margin-top: 0;
         display: flex;
 
         input,
@@ -244,12 +245,12 @@ const StyledContent = styled(Container)`
         select {
           display: flex;
           padding-left: 5px;
-          background: rgba(51, 51, 51, 0.39);
+          background: rgba(51, 51, 51, 1);
           border: 1px solid #777676;
           padding: 10px 15px !important;
           font-size: 16px;
           width: 100%;
-          color: #b7b7b7 !important;
+          color: white !important;
           font-family: Roboto, sans-serif;
           font-weight: 300 !important;
           &:focus {
@@ -377,7 +378,7 @@ const Form = (props) => {
       <StyledContent flexDirection="column" color="none">
         {ReactHtmlParser(props.title)}
         <p>
-          <i className="fas fa-exclamation-circle"></i>{" "}
+          <i style={{color:"red"}} className="icon-instagram"></i>{" "}
           {ReactHtmlParser(props.data.warning)}
         </p>
         <br></br>

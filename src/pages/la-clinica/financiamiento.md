@@ -39,8 +39,11 @@ paragraph:
 heading:
   display: true
   content: >
-    <h1 class="title">DENTAL FLEX: El Mejor Plan de Financiamiento para su Salud Oral</h1>
-    <p class="small"><span style="color: red">*</span>Oferta sujeta a la previa aprobación de nuestra entidad financiera aliada tras el estudio de la documentación requerida y firma del contrato.</p>
+    <h1 style="
+    margin-bottom: 1.6rem;" class="title">DENTAL FLEX: El Mejor Plan de Financiamiento para su Salud Oral</h1>
+    <p class="small" style="
+    line-height: 1.2;
+    "><b style="color: red">*</b> Oferta sujeta a la previa aprobación de nuestra entidad financiera aliada tras el estudio de la documentación requerida y firma del contrato.</p>
 
 # List Section
 list:
@@ -195,7 +198,7 @@ financing:
 
   modal:
     display: true
-    interval: 20000
+    interval: 200000
     content: >
       <h1 class="dv-modal-title">¡Ofrecemos disculpas!</h1>
       <p class="text-center">A causa del acelerado fenómeno de hiperinflación actual, este producto ha sido temporalmente suspendido.</p><p class="text-center">Por los momentos, todos nuestros tratamientos deben ser cancelados al contado.</p>
@@ -203,7 +206,8 @@ financing:
     placeholder: OK
 
   calculator:
-    warning: <p class="advise">* Introduzca el monto sin puntos, comas o decimales.</p>
+    warning: >
+      <p style="text-align:center;line-height: 1.2" class="advise small"><b style="color:red">*</b> Introduzca el monto sin puntos, comas o decimales.</p>
     placeholders:
       amount: >
         <p>Monto a financiar *</p>
@@ -218,7 +222,7 @@ financing:
       result: >
         <span>Cuota Mensual:</span>
     advise: >
-      <p class="advise small">El resultado obtenido es referencial y de carácter informativo, y en consecuencia, no podrá asumirse que el Banco esté obligado a otorgar los créditos que se le soliciten bajo las mismas condiciones arriba indicadas. Aunque la información que se utiliza en este simulador se actualiza de forma continua, la tasa de interés empleada para el cálculo podría sufrir algún tipo de variación.</p>
+      <p  style="line-height: 1.2" class="advise small">El resultado obtenido es referencial y de carácter informativo, y en consecuencia, no podrá asumirse que el Banco esté obligado a otorgar los créditos que se le soliciten bajo las mismas condiciones arriba indicadas. Aunque la información que se utiliza en este simulador se actualiza de forma continua, la tasa de interés empleada para el cálculo podría sufrir algún tipo de variación.</p>
 
 # Procedures Section
 procedures:

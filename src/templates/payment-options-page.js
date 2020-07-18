@@ -179,6 +179,25 @@ const StyledPage = styled.section`
       margin-bottom: ${rhythm(2)} !important;
     }
   }
+  ul.check-list {
+    margin-bottom: ${rhythm(2)} !important;
+    margin-left: 0;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    li {
+      position: relative;
+      padding-left: 40px;
+
+      .circle {
+        position: absolute;
+        left: 0px;
+        top: 3px;
+        padding: 3px;
+        color: #90c508;
+      }
+    }
+  }
   ul.checklist {
     margin-bottom: ${rhythm(2)} !important;
     margin-left: 0;
@@ -252,7 +271,7 @@ export const PaymentOptionsPageTemplate = ({
           <PostContent className="full" content={content} />
         </Container>
       </StyledPage>
-      {boxes.display && <Boxes internal={true} procedures={boxes.boxes} />}
+      {boxes.display && <Boxes externalLink={true} internal={true} procedures={boxes.boxes} />}
       <StyledBanner>{ReactHtmlParser(banner)}</StyledBanner>
     </div>
   );

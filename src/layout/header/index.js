@@ -388,7 +388,7 @@ const Header = (props) => {
           {size.width < 1024 && (
             <ul>
               <li>
-                <a style={{ paddingRight: "50px", display: "flex" }}>
+                <a href="tel:+582122615251" style={{ paddingRight: "50px", display: "flex" }}>
                   <i style={{ fontSize: "20px" }} className="icon-phone"></i>
                 </a>
               </li>
