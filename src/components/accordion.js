@@ -9,12 +9,22 @@ const StyledAccordion = styled.section`
   a {
     display: flex;
     cursor: pointer;
-    &:hover {
+    &.active {
       h4 {
         color: #91c508;
       }
       span {
         background: #91c508;
+      }
+    }
+    @media screen and (min-width: 1024px) {
+      &:hover {
+        h4 {
+          color: #91c508;
+        }
+        span {
+          background: #91c508;
+        }
       }
     }
   }
@@ -118,6 +128,7 @@ const Accordion = (props) => {
           <div key={k} className="grid-item">
             <div className="content">
               <a
+                className={active === k && "active"}
                 onClick={(e) => {
                   e.preventDefault();
                   if (active === k) {

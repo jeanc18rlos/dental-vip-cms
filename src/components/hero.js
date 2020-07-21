@@ -148,7 +148,7 @@ const StyledHero = styled.section`
       transition: transform 5s linear !important;
     }
     @media screen and (orientation: portrait) {
-      &:before {
+      &:before,:after {
         background-position: ${(props) =>
           props.portraitPosition && props.portraitPosition} !important;
       }

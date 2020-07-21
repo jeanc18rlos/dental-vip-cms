@@ -23,7 +23,7 @@ hero:
     type: bottom
   height: half
   indicator: false
-  portraitPosition: 83%
+  portraitPosition: 38%
   content:
     position: center
     body: >

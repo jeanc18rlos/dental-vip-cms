@@ -491,7 +491,7 @@ const ClinicCases = (props) => {
                 <a
                   onClick={(e) => {
                     e.preventDefault();
-                    return !isMobile && openPopupbox(index);
+                    return  openPopupbox(index);
                   }}
                 >
                   <div
@@ -501,16 +501,6 @@ const ClinicCases = (props) => {
                       activeCard === index && "zoomIn"
                     )}
                   >
-                    {action && (
-                      <span
-                        onClick={(e) => {
-                          e.preventDefault();
-                          return isMobile && openPopupbox(index);
-                        }}
-                      >
-                        <i className="icon-search" />
-                      </span>
-                    )}
                   </div>
                 </a>
               </div>

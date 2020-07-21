@@ -21,7 +21,7 @@ hero:
     type: bottom
   height: full
   indicator: false
-  portraitPosition: 83%
+  portraitPosition: center
   content:
     position: center
     body: >

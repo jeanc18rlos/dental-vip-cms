@@ -21,7 +21,7 @@ hero:
     type: bottom
   height: half
   indicator: false
-  portraitPosition: 83%
+  portraitPosition: 47%
   content:
     position: center
     body: >
@@ -551,13 +551,77 @@ form:
     <h1>¡Consúltenos Ahora Mismo!</h1>
   background: /uploads/parallax-form-specialties.png
 
-exterior:
-  image: /uploads/icon-map.png
-  content: >
-    <h1 class="dv-page-titles">¿Vive Fuera de Venezuela?</h1><p class="dv-page-text">Planifique su viaje y ahorre grandes sumas de dinero en tratamientos bucodentales de complejidad.</p>
-  link:
-    to: /pacientes-del-exterior/
-    title: PACIENTES DEL EXTERIOR
+blocksDescription:
+  sections:
+    left:
+      content: >
+        <div class="title big">
+        <h1>Turismo Dental en Venezuela</h1>
+        </div>
+        <hr />
+        <div class="content">
+          <h2>¡Una Atractiva Realidad!</h2>
+          <p>
+            Coma, sonría y disfrute como antes. No comprometa más su calidad
+            de vida y aproveche los grandes beneficios que ofrece la
+            globalización en el sector de la salud. Tome en serio nuestra
+            propuesta de servicio y supere de una vez por todas cualquier
+            barrera que le impida lucir unos dientes blancos, sanos y
+            hermosos.
+          </p>
+          
+        </div>
+      image: /uploads/aside-dental-tourism-map.png
+    right:
+      - content: >
+          <span class="icon">
+            <i class="icon-instagram"></i>
+          </span>
+          <hr />
+          <div class="title">
+            <h2>Accesibilidad</h2>
+          </div>
+          <div class="content">
+            <p>
+              Gran posibilidad de materializar tratamientos dentales extensos, estéticos o
+              de alta complejidad; a menudo inalcanzables para la gran mayoría de las
+              personas en muchos países de Europa, Norte, Centro y Sudamérica e Islas del
+              Caribe.
+            </p>
+          </div>
+      - content: >
+          <span class="icon">
+            <i class="icon-instagram"></i>
+          </span>
+          <hr />
+          <div class="title">
+            <h2>Inmediatez</h2>
+          </div>
+          <div class="content">
+            <p>
+              Su cita al instante, sin demoras ni listas de espera. Atención exclusiva,
+              intensiva y multidisciplinaria para cubrir en tiempo récord todos los
+              requisitos orales previamente establecidos en las fases de diagnóstico y
+              planificación terapéutica.
+            </p>
+          </div>
+      - content: >
+          <span class="icon">
+            <i class="icon-instagram"></i>
+          </span>
+          <hr />
+          <div class="title">
+            <h2>Máxima Calidad</h2>
+          </div>
+          <div class="content">
+            <p>
+              A su disposición la experiencia del mejor equipo local de Odontólogos
+              Especialistas, las más modernas y cómodas instalaciones y la última
+              tecnología a nivel mundial. Un servicio ampliamente reconocido y en
+              concordancia con los más altos estándares internacionales en materia de
+              salud oral.
+            </p>
+          </div>
 
 # anex-links
 anexes:
@@ -569,7 +633,7 @@ anexes:
         <p>Contamos con el mejor sistema LED <em>(Light
         Emitting Diode)</em> de luz fría para blanqueamiento dental. En solo una sesión
         de 45 minutos es capaz de aclarar el color de los dientes hasta en ocho tonos,
-        sin ningún tipo de riesgo potencial y con unos resultados verdaderamente sorprendentes.</p>
+        sin ningún tipo de riesgo potencial y con unos resultados verdaderamente sorprendentes.</p><br/>
       footer:
         icon:
           display: false
@@ -585,7 +649,7 @@ anexes:
         <p>Para pacientes emocionales que dan gran
             valor a su apariencia, para aquellos que conocen bien los efectos de su sonrisa
             en los demás y que desean ir más allá del estricto y anticuado concepto de salud
-            como simple ausencia de enfermedad.</p>
+            como simple ausencia de enfermedad.</p><br/>
       footer:
         icon:
           display: false
@@ -597,7 +661,7 @@ anexes:
     - img: /uploads/sections-aesthetic-dentistry-veneers.jpg
       content: >
         <h1 class="bebas">Carillas de Porcelana</h1>
-        <p>La opción estética por excelencia para mejorar el aspecto general de la dentadura o corregir defectos existentes con restauraciones conservadoras que recrean el aspecto natural de los dientes y proporcionan una resistencia comparable al esmalte dental.</p>
+        <p>La opción estética por excelencia para mejorar el aspecto general de la dentadura o corregir defectos existentes con restauraciones conservadoras que recrean el aspecto natural de los dientes y proporcionan una resistencia comparable al esmalte dental.</p><br/>
       footer:
         icon:
           display: false

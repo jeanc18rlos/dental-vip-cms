@@ -12,73 +12,58 @@ import Paragraph from "../components/asideParagrah";
 import Testimonial from "../components/testimonial";
 import Quote from "../components/quote";
 import styled from "styled-components";
-import { rhythm } from "../utils/typography";
+import { rhythm, scale } from "../utils/typography";
 import Form from "../components/form";
 import SEO from "../components/seo";
 import ReactHtmlParser from "react-html-parser";
 import Accordion from "../components/accordion";
 import ClinicCases from "../components/clinicCases";
-const Exterior = styled.section`
-  padding: ${rhythm(4)} 5vw 0;
+const Block = styled.section`
   display: flex;
-  main,
-  aside {
+  flex-flow: wrap;
+  flex-direction: row;
+  @media screen and (max-width: 768px) {
+    flex-direction: column !important;
+  }
+  hr {
+    width: 20%;
+    height: 4px;
+    background: #333;
+  }
+  .paragraph,
+  .list {
     display: flex;
     width: 100%;
-    .image {
-      display: flex;
-      width: 100%;
-      height: 100%;
-      &:before,
-      :after {
-        background-size: contain;
-      }
-    }
-  }
-  aside {
-    justify-content: center;
-    text-align: center;
-    padding-left: 5vw;
-    padding: ${rhythm(4)} ${rhythm(1)};
-    border: 25px solid #ededed;
-    border-left-color: transparent !important;
-    margin-left: 5vw !important;
-    a {
-      width: -webkit-fit-content;
-      width: -moz-fit-content;
-      width: fit-content;
-      cursor: pointer;
-      font-weight: 700;
-      padding: 10px 20px;
-      color: #222 !important;
-      border: 1px solid #222;
-      text-transform: uppercase;
-      background-color: #fff;
-      -webkit-text-decoration: none !important;
-      text-decoration: none !important;
-      &:hover {
-        color: #fff !important;
-        background-color: #222;
-      }
-    }
-  }
-  @media screen and (max-width: 1024px) {
+    flex-basis: 50%;
     flex-direction: column;
-
-    aside {
-      padding: ${rhythm(2)} ${rhythm(1)};
-      margin-left: 0 !important;
-      border-top-color: transparent !important;
-      border-left-color: #ededed !important;
+    padding: ${rhythm(4)} 5vw ${rhythm(3)};
+  }
+  .list {
+    .icon {
+      font-size: 50px;
+      margin-bottom: ${rhythm(1)};
     }
-    main {
-      .image {
-        padding-bottom: 50%;
+    hr {
+      width: 10%;
+      background: black;
+    }
+  }
+  .list{
+    background: #ededed;
+  }
+  .paragraph {
+    
+    .map {
+      max-width: 400px;
+    }
+    .title.big {
+      h1 {
+        ${scale(1.25)}
       }
-      margin-bottom: 5vw;
     }
   }
 `;
+
 const Article = styled.div`
   display: flex;
   flex-direction: row;
@@ -120,7 +105,7 @@ export const SpecialtiesPageTemplate = ({
   accordionList,
   form,
   forms,
-  exterior,
+  blocksDescription,
 }) => {
   const lazyLightBox = {
     placeholder: cases.lightbox.placeholder,
@@ -181,30 +166,27 @@ export const SpecialtiesPageTemplate = ({
           img={form.background}
         ></Form>
       )}
-      <Exterior>
-        <main>
-          <BackgroundImage
-            className="image"
-            fluid={exterior.image.childImageSharp.fluid}
-          ></BackgroundImage>
-        </main>
-        <aside>
-          <div>
-            {ReactHtmlParser(exterior.content)}
-            <Link
-              to={
-                language === "es"
-                  ? "/pacientes-del-exterior/"
-                  : "/en/foreign-patients/"
+      <Block>
+        <div className=" paragraph">
+          {ReactHtmlParser(blocksDescription.sections.left.content)}
+          <span className="map">
+            <Img
+              fluid={
+                blocksDescription.sections.left.image.childImageSharp.fluid
               }
-            >
-              {language === "es"
-                ? "Pacientes del Exterior"
-                : "Foreign Patients"}
-            </Link>
-          </div>
-        </aside>
-      </Exterior>
+            ></Img>
+          </span>
+        </div>
+        <div className=" list">
+          {blocksDescription.sections.right.map((i, k) => {
+            return (
+              <div key={k} className="item">
+                {ReactHtmlParser(i.content)}
+              </div>
+            );
+          })}
+        </div>
+      </Block>
       <Boxes {...procedures}></Boxes>
     </div>
   );
@@ -229,7 +211,7 @@ const SpecialtiesPage = ({ data }) => {
     procedures,
     anexes,
     form,
-    exterior,
+    blocksDescription,
   } = data.markdownRemark.frontmatter;
 
   return (
@@ -258,7 +240,7 @@ const SpecialtiesPage = ({ data }) => {
           procedures,
           accordionList,
           form,
-          exterior,
+          blocksDescription,
         }}
       />
     </Layout>
@@ -390,18 +372,21 @@ export const pageQuery = graphql`
             }
           }
         }
-        exterior {
-          image {
-            childImageSharp {
-              fluid(srcSetBreakpoints: [450], quality: 100) {
-                ...GatsbyImageSharpFluid_withWebp
+        blocksDescription {
+          sections {
+            left {
+              content
+              image {
+                childImageSharp {
+                  fluid(srcSetBreakpoints: [600], quality: 100) {
+                    ...GatsbyImageSharpFluid_withWebp
+                  }
+                }
               }
             }
-          }
-          content
-          link {
-            to
-            title
+            right {
+              content
+            }
           }
         }
         article {

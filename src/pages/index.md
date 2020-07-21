@@ -50,12 +50,7 @@ brand:
     </p>
 
   partners:
-    - image: /uploads/partners-idd.jpg
-      alt: Institute of Digital Dentistry
-    - image: /uploads/partners-qdc.jpg
-      alt: Quality Dental Center
-    - image: /uploads/partners-iti.jpg
-      alt: International Team for Implantology
+    - image: /uploads/partners.jpg
 
   footer: >
     CARACAS - VENEZUELA

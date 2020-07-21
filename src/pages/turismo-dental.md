@@ -581,7 +581,7 @@ anexes:
           display: false
           img: /uploads/sections-facilities.jpg
         link:
-          display: true
+          display: false
           to: /especialidades/estetica-dental/carillas-de-porcelana/
           placeholder: <span>Más Información</span>
 # Procedures Section

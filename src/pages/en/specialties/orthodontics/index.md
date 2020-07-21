@@ -21,7 +21,7 @@ hero:
     type: bottom
   height: half
   indicator: false
-  portraitPosition: 83%
+  portraitPosition: center
   content:
     position: center
     body: >
@@ -485,13 +485,63 @@ form:
     <h1>Consult Us Right Now!</h1>
   background: /uploads/parallax-form-specialties.png
 
-exterior:
-  image: /uploads/icon-map.png
-  content: >
-    <h1 class="dv-page-titles">Do You Live Outside of Venezuela?</h1><p class="dv-page-text">Plan your trip and save a lot of money on complex oral treatments.</p>
-  link:
-    to: /en/foreign-patients
-    title: Foreign Patients
+blocksDescription:
+  sections:
+    left:
+      content: >
+        <div class="title big">
+        <h1>Dental Tourism in Venezuela</h1>
+        </div>
+        <hr />
+        <div class="content">
+          <h2>An Attractive Reality!</h2>
+          <p>
+          Eat, smile and enjoy as before. Do not compromise your quality of life anymore and take advantage of the great benefits that globalization offers in the health sector. Take our attention proposal seriously and overcome once and for all any barrier that prevents you from showing white, healthy and beautiful teeth.
+          </p>
+          
+        </div>
+      image: /uploads/aside-dental-tourism-map.png
+    right:
+      - content: >
+          <span class="icon">
+            <i class="icon-instagram"></i>
+          </span>
+          <hr />
+          <div class="title">
+            <h2>Accessibility</h2>
+          </div>
+          <div class="content">
+            <p>
+            Huge possibility of materializing aesthetic, extensive or highly complex dental treatments; often unattainable for the vast majority of people in many countries of Europe, North, Central and South America and the Caribbean Islands.
+            </p>
+          </div>
+      - content: >
+          <span class="icon">
+            <i class="icon-instagram"></i>
+          </span>
+          <hr />
+          <div class="title">
+            <h2>Immediacy</h2>
+          </div>
+          <div class="content">
+            <p>
+            Your appointment instantly, without delays or waiting lists. Exclusive, intensive and multidisciplinary care to cover in record time all the oral requirements previously established in the diagnostic and therapeutic planning phases.
+            </p>
+          </div>
+      - content: >
+          <span class="icon">
+            <i class="icon-instagram"></i>
+          </span>
+          <hr />
+          <div class="title">
+            <h2>Top Quality</h2>
+          </div>
+          <div class="content">
+            <p>
+            At your disposal the experience of the best local team of Specialist Dentists, the most modern and comfortable facilities and the latest technology worldwide. A widely recognized service and in accordance with the highest international standards in oral health.
+            </p>
+          </div>
+
 # anex-links
 anexes:
   display: true
@@ -503,6 +553,7 @@ anexes:
           necessary to use an artificial device that keeps the teeth in their new position.
           For being almost invisible, comfortable and easy to use, a vacuum thermoformed
           transparent plastic retainer is always our best recommendation.</p>
+        <br/>
       footer:
         icon:
           display: true
@@ -518,6 +569,7 @@ anexes:
           Porcelain or Sapphire Crystals Aesthetic Brackets mimetize with dental enamel
           and are particularly suitable for those persons, who due to their work or social
           activity, want a very low profile treatment but of proven clinical quality.</p>
+        <br/>
       footer:
         icon:
           display: false
@@ -532,6 +584,7 @@ anexes:
           <p><b>Indications for people with fixed appliances.  </b></br></br>Never
         forget that an adequate oral hygiene technique and the permanent collaboration
         of the patient with his treatment, are indispensable requirements for its success.</p>
+        <br/>
       footer:
         icon:
           display: false

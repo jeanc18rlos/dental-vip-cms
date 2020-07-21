@@ -2,7 +2,7 @@
 templateKey: annex-page
 language: es
 redirects: >
-    /en/specialties/prosthodontics/prosthesis-types
+    /en/specialties/prosthodontics/types-of-dental-prosthesis
 title: Tipos de prótesis dental
 description: seo description
 keywords:
@@ -22,7 +22,7 @@ hero:
     type: bottom
   height: half
   indicator: false
-  portraitPosition: 83%
+  portraitPosition: 33%
   content:
     position: center
     body: >

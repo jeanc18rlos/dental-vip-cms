@@ -21,7 +21,7 @@ hero:
     type: bottom
   height: half
   indicator: false
-  portraitPosition: 83%
+  portraitPosition: 44%
   content:
     position: center
     body: >
@@ -548,13 +548,77 @@ form:
     <h1>¡Consúltenos Ahora Mismo!</h1>
   background: /uploads/parallax-form-specialties.png
 
-exterior:
-  image: /uploads/icon-map.png
-  content: >
-    <h1 class="dv-page-titles">¿Vive Fuera de Venezuela?</h1><p class="dv-page-text">Planifique su viaje y ahorre grandes sumas de dinero en tratamientos bucodentales de complejidad.</p>
-  link:
-    to: /pacientes-del-exterior/
-    title: PACIENTES DEL EXTERIOR
+blocksDescription:
+  sections:
+    left:
+      content: >
+        <div class="title big">
+        <h1>Turismo Dental en Venezuela</h1>
+        </div>
+        <hr />
+        <div class="content">
+          <h2>¡Una Atractiva Realidad!</h2>
+          <p>
+            Coma, sonría y disfrute como antes. No comprometa más su calidad
+            de vida y aproveche los grandes beneficios que ofrece la
+            globalización en el sector de la salud. Tome en serio nuestra
+            propuesta de servicio y supere de una vez por todas cualquier
+            barrera que le impida lucir unos dientes blancos, sanos y
+            hermosos.
+          </p>
+          
+        </div>
+      image: /uploads/aside-dental-tourism-map.png
+    right:
+      - content: >
+          <span class="icon">
+            <i class="icon-instagram"></i>
+          </span>
+          <hr />
+          <div class="title">
+            <h2>Accesibilidad</h2>
+          </div>
+          <div class="content">
+            <p>
+              Gran posibilidad de materializar tratamientos dentales extensos, estéticos o
+              de alta complejidad; a menudo inalcanzables para la gran mayoría de las
+              personas en muchos países de Europa, Norte, Centro y Sudamérica e Islas del
+              Caribe.
+            </p>
+          </div>
+      - content: >
+          <span class="icon">
+            <i class="icon-instagram"></i>
+          </span>
+          <hr />
+          <div class="title">
+            <h2>Inmediatez</h2>
+          </div>
+          <div class="content">
+            <p>
+              Su cita al instante, sin demoras ni listas de espera. Atención exclusiva,
+              intensiva y multidisciplinaria para cubrir en tiempo récord todos los
+              requisitos orales previamente establecidos en las fases de diagnóstico y
+              planificación terapéutica.
+            </p>
+          </div>
+      - content: >
+          <span class="icon">
+            <i class="icon-instagram"></i>
+          </span>
+          <hr />
+          <div class="title">
+            <h2>Máxima Calidad</h2>
+          </div>
+          <div class="content">
+            <p>
+              A su disposición la experiencia del mejor equipo local de Odontólogos
+              Especialistas, las más modernas y cómodas instalaciones y la última
+              tecnología a nivel mundial. Un servicio ampliamente reconocido y en
+              concordancia con los más altos estándares internacionales en materia de
+              salud oral.
+            </p>
+          </div>
 # anex-links
 anexes:
   display: true
@@ -566,6 +630,7 @@ anexes:
         material de cerámica sin metal más apropiado para cada situación, en función
         de la indicación inicial y requerimientos de resistencia. Disilicato de Litio
         para restauraciones individuales y Óxido de Zirconio para estructuras extensas.</p>
+         <br/>
       footer:
         icon:
           display: true
@@ -578,6 +643,7 @@ anexes:
       content: >
         <h1 class="bebas">Tipos de Prótesis Dental</h1>
         <p>Parciales y totales, fijas y removibles,convencionales e implantoasistidas, acrílicas y de porcelana. Múltiples son las alternativas para sustituir los dientes que lamentablemente se hayan perdido,o que sea imposible conservar por más tiempo en boca.</p>
+        <br/>
       footer:
         icon:
           display: false
@@ -593,6 +659,7 @@ anexes:
             en prótesis fija y supone un gran adelanto con relación a la Odontología convencional.
             La empleamos para fabricar incrustaciones de porcelana, coronas y puentes, prótesis
             sobre implantes y en otros tratamientos restauradores indirectos.</p>
+        <br/>
       footer:
         icon:
           display: false

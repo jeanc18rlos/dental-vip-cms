@@ -65,10 +65,10 @@ const StyledSection = styled.section`
    
   }
   .partners {
-    max-width: 130px;
+    max-width: 444px;
+    padding: 0 25px;
     width: 100%;
     background: #fff;
-    margin: 0 30px;
     margin-bottom: ${rhythm(.5)};
 
     img {

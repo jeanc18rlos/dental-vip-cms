@@ -130,10 +130,10 @@ const StyledFooter = styled.footer`
   }
 
   .partners {
-    max-width: 170px;
+    max-width: 444px;
     width: 100%;
     background: #222;
-    padding: 0 30px;
+    padding: 0 25px;
     margin-bottom: ${rhythm(1)};
 
     img {

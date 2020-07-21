@@ -125,7 +125,7 @@ const Layout = ({ children }) => {
                       alt
                       img {
                         childImageSharp {
-                          fluid(maxWidth: 160, quality: 100) {
+                          fluid(maxWidth: 444, quality: 100) {
                             ...GatsbyImageSharpFluid_withWebp
                           }
                         }

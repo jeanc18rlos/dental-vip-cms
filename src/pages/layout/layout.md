@@ -155,12 +155,9 @@ header:
 footer:
   logo: /uploads/logo.svg
   partners:
-    - img: /uploads/partners-idd-dark.jpg
-      alt: Institute of Digital Dentistry
-    - img: /uploads/partners-qdc-dark.jpg
-      alt: Quality Dental Center
-    - img: /uploads/partners-iti-dark.jpg
-      alt: International Team for Implantology
+    - img: /uploads/partners-dark.jpg
+      alt: Partners 
+
   teethLogo: /uploads/teeth-logo.png
   slogan: >
     <h2 class="bebas">INNOVACIÓN Y PRESTIGIO EN ODONTOLOGÍA</h2>
