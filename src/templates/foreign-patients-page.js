@@ -244,7 +244,7 @@ export const ForeignPatientsPageTemplate = ({
             return (
               <a  key={k}  href={i.link} target="_blank" rel="noopener noreferrer">
                 {ReactHtmlParser(i.title)}
-                <Img fluid={i.img.childImageSharp.fluid}></Img>
+                <Img critical={true} fluid={i.img.childImageSharp.fluid}></Img>
               </a>
             );
           })}

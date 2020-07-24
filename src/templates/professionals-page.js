@@ -107,7 +107,7 @@ export const ProffesionalsPageTemplate = ({
             return (
               <div key={k} className="card">
                 <div className="wrapper">
-                  <Img className="image" fluid={i.img.childImageSharp.fluid} />
+                  <Img critical={true} className="image" fluid={i.img.childImageSharp.fluid} />
                   {ReactHtmlParser(i.content)}
                 </div>
               </div>

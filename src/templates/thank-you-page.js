@@ -143,7 +143,7 @@ export const ThankYouPageTemplate = ({
       return {
         renderItem: () => {
           return (
-            <Img
+            <Img critical={true}
               alt={`gallery-${k}`}
               className="lightbox-lazy"
               fluid={i.childImageSharp.fluid}

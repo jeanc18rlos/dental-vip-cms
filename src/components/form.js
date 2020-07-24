@@ -370,7 +370,7 @@ const Form = (props) => {
   };
 
   return props.type === "extended" ? (
-    <BackgroundImage
+    <BackgroundImage critical={true}
       className="parallax"
       Tag="section"
       fluid={props.img.childImageSharp.fluid}

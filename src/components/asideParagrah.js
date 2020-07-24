@@ -285,7 +285,7 @@ const Paragraph = (props) => {
               props.contained && (k + 1) % 2 === 0 ? "odd" : "even"
             } paragraph-item`}
           >
-            <BackgroundImage
+            <BackgroundImage critical={true}
               className={`image ${props.contained && "small"} `}
               fluid={i.img.childImageSharp.fluid}
             >
@@ -297,7 +297,7 @@ const Paragraph = (props) => {
               {props.top && <hr className="top"></hr>}
               {ReactHtmlParser(i.content)}
               {i.footer && i.footer.icon.display && (
-                <BackgroundImage
+                <BackgroundImage critical={true}
                   fluid={i.footer.icon.img.childImageSharp.fluid}
                   className="icon"
                 />

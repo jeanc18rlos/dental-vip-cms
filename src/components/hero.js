@@ -167,7 +167,7 @@ const Hero = (props) => {
       portraitPosition={props.portraitPosition}
       scale={props.background.scaleOnReveal ? scale : false}
     >
-      <BackgroundImage
+      <BackgroundImage critical={true}
         className={`bg ${props.className} ${
           props.background.isParallax && "parallax"
         }`}

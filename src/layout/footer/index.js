@@ -179,7 +179,7 @@ const Footer = (props) => {
               alignItems: "center",
             }}
           >
-            <Img
+            <Img critical={true}
               className="dds"
               alt="dds"
               fluid={props.data.footer.teethLogo.childImageSharp.fluid}
@@ -212,7 +212,7 @@ const Footer = (props) => {
             {partners &&
               partners.map((i, k) => {
                 return (
-                  <Img
+                  <Img critical={true}
                     key={`partner-${k}`}
                     alt={i.alt}
                     className="partners"

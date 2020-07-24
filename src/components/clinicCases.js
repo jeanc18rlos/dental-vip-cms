@@ -505,7 +505,7 @@ const ClinicCases = (props) => {
                 </a>
               </div>
 
-              <Img alt="dentalvip" fluid={image.childImageSharp.fluid} />
+              <Img critical={true} alt="dentalvip" fluid={image.childImageSharp.fluid} />
               {ReactHtmlParser(body)}
             </div>
           );

@@ -640,7 +640,7 @@ const ListContainer = (props) => {
         {blocks.map((i, k) => {
           return (
             <div key={k} className={`item ${type}`}>
-              <Img
+              <Img critical={true}
                 className={`image ${type}`}
                 fluid={i.img.childImageSharp.fluid}
               ></Img>
@@ -702,7 +702,7 @@ export const AnnexPageTemplate = ({
                     <div className="block-body">
                       {i.body.images.map((item, key) => {
                         return (
-                          <Img key={key}
+                          <Img critical={true} key={key}
                             className="image"
                             fluid={item.src.childImageSharp.fluid}
                           ></Img>
@@ -736,7 +736,7 @@ export const AnnexPageTemplate = ({
         <article>
           {ReactHtmlParser(articleBlock.content.body)}
           {articleBlock.content.image.display && (
-            <BackgroundImage
+            <BackgroundImage critical={true}
               style={{
                 paddingBottom: articleBlock.content.image.size,
               }}
@@ -750,7 +750,7 @@ export const AnnexPageTemplate = ({
             </Link>
           )}
         </article>
-        <Img
+        <Img critical={true}
           className="image"
           fluid={articleBlock.img.childImageSharp.fluid}
         ></Img>

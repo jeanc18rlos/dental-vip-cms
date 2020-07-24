@@ -157,7 +157,7 @@ const StyledContent = styled(Container)`
 `;
 const Parallax = (props) => {
   return (
-    <BackgroundImage
+    <BackgroundImage critical={true}
       className="parallax"
       Tag="section"
       fluid={props.img.childImageSharp.fluid}

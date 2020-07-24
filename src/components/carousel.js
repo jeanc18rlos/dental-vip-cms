@@ -138,7 +138,7 @@ const Carousel = (props) => {
           return (
             <div key={`${key}-carousel-item`} className="item">
               {item.img.childImageSharp && (
-                <Img
+                <Img critical={true}
                   fluid={item.img.childImageSharp.fluid}
                   alt={item.name}
                   className="card-photo"

@@ -198,7 +198,7 @@ export const BlogPostPageTemplate = ({
               {language === "es" ? "por" : "by"} {author.name} | {date} | {tags}
             </span>
 
-            <Img fluid={featuredimage.childImageSharp.fluid} alt={"images"} />
+            <Img critical={true} fluid={featuredimage.childImageSharp.fluid} alt={"images"} />
 
             <div className="content">
               <SharePanel slug={slug} />
@@ -206,7 +206,7 @@ export const BlogPostPageTemplate = ({
             </div>
             <SharePanel slug={slug} />
             <div className="dv-author-desc">
-              <Img
+              <Img critical={true}
                 className="dv-autor-img"
                 fluid={author.image.childImageSharp.fluid}
                 alt={"images"}

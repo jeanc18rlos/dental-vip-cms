@@ -148,7 +148,7 @@ const Financing = (props) => {
         alignItem="center"
         flexDirection="column"
       >
-        <Img
+        <Img critical={true}
           className="banner"
           fluid={props.banner.childImageSharp.fluid}
         ></Img>

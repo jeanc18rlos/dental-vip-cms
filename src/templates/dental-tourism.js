@@ -372,7 +372,7 @@ export const DentalTourismPageTemplate = ({
         <div className="converter">
           <div className="title">{ReactHtmlParser(prices.footer.title)}</div>
           <a href={`${prices.footer.to}`}>
-            <Img
+            <Img critical={true}
               fluid={prices.footer.image.childImageSharp.fluid}
               className="converter-img"
             ></Img>
@@ -431,7 +431,7 @@ export const DentalTourismPageTemplate = ({
               {ReactHtmlParser(i.title)}
               <span>
                 <i className="counter">{k + 1}</i>
-                <Img fluid={i.image.childImageSharp.fluid}></Img>
+                <Img critical={true} fluid={i.image.childImageSharp.fluid}></Img>
               </span>
             </div>
           );
@@ -450,7 +450,7 @@ export const DentalTourismPageTemplate = ({
         <div className=" paragraph">
           {ReactHtmlParser(blocksDescription.sections.left.content)}
           <span className="map">
-            <Img
+            <Img critical={true}
               fluid={
                 blocksDescription.sections.left.image.childImageSharp.fluid
               }

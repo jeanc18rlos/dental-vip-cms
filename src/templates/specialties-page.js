@@ -116,7 +116,7 @@ export const SpecialtiesPageTemplate = ({
           renderItem: () => {
             return (
               cases.display && (
-                <Img
+                <Img critical={true}
                   alt={`gallery-${k}`}
                   className="lightbox-lazy"
                   fluid={i.childImageSharp.fluid}
@@ -133,7 +133,7 @@ export const SpecialtiesPageTemplate = ({
       <Heading color="#222" className="dark" {...heading} />
       <Article>
         <article>{ReactHtmlParser(article.content)}</article>
-        <Img className="image" fluid={article.img.childImageSharp.fluid}></Img>
+        <Img critical={true} className="image" fluid={article.img.childImageSharp.fluid}></Img>
       </Article>
       <Quote {...quote} />
       <Parallax nocontent={true} img={plainparallax}></Parallax>
@@ -170,7 +170,7 @@ export const SpecialtiesPageTemplate = ({
         <div className=" paragraph">
           {ReactHtmlParser(blocksDescription.sections.left.content)}
           <span className="map">
-            <Img
+            <Img critical={true}
               fluid={
                 blocksDescription.sections.left.image.childImageSharp.fluid
               }

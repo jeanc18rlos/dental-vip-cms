@@ -560,7 +560,7 @@ const Card = (props) => {
         </a>
       </div>
       {type === "staticGallery" ? (
-        <BackgroundImage
+        <BackgroundImage critical={true}
           alt="dentalvip"
           style={{
             paddingBottom: "20%",
@@ -582,7 +582,7 @@ const Card = (props) => {
           </div>
         </BackgroundImage>
       ) : (
-        <Img
+        <Img critical={true}
           alt="dentalvip"
           className={classnames(isMasonry && "masonry-gallery")}
           fluid={image.childImageSharp.fluid}

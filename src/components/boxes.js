@@ -214,7 +214,7 @@ const Boxes = (props) => {
                       <i className="icon-plus" />
                     </span>
                     {props.content ? (
-                      <BackgroundImage
+                      <BackgroundImage critical={true}
                         className={`content ${
                           toggle === key ? "selected" : "deselected"
                         }`}
@@ -223,7 +223,7 @@ const Boxes = (props) => {
                         {ReactHtmlParser(i.content)}
                       </BackgroundImage>
                     ) : (
-                      <Img fluid={i.img.childImageSharp.fluid}></Img>
+                      <Img critical={true} fluid={i.img.childImageSharp.fluid}></Img>
                     )}
                   </div>
                 </Link>
@@ -248,7 +248,7 @@ const Boxes = (props) => {
                    <i className="icon-plus" />
                  </span>
                  {props.content ? (
-                   <BackgroundImage
+                   <BackgroundImage critical={true}
                      className={`content ${
                        toggle === key ? "selected" : "deselected"
                      }`}
@@ -257,7 +257,7 @@ const Boxes = (props) => {
                      {ReactHtmlParser(i.content)}
                    </BackgroundImage>
                  ) : (
-                   <Img fluid={i.img.childImageSharp.fluid}></Img>
+                   <Img critical={true} fluid={i.img.childImageSharp.fluid}></Img>
                  )}
                </div>
              </a>

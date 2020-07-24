@@ -65,11 +65,11 @@ const Testimonial = (props) => {
             <i className="icon-quotes-open"></i>
           </span>
           {ReactHtmlParser(props.content)}
-          <Img
+          <Img critical={true}
             className="pt"
             fluid={props.images.portrait.childImageSharp.fluid}
           ></Img>
-          <Img
+          <Img critical={true}
             className="ld"
             fluid={props.images.landscape.childImageSharp.fluid}
           ></Img>

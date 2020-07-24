@@ -120,7 +120,7 @@ const Features = (props) => {
             return (
               <div key={k} className="grid-item">
                 <Link to={i.to}>
-                  <Img
+                  <Img critical={true}
                     className="features-image"
                     fluid={i.img.childImageSharp.fluid}
                   />

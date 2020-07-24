@@ -127,7 +127,7 @@ const Brand = (props) => {
           >
             {props.partners.map((i, k) => {
               return (
-                <Img
+                <Img critical={true}
                   key={`${k}-${i.alt}`}
                   className="partners"
                   fluid={i.image.childImageSharp.fluid}

@@ -104,7 +104,7 @@ const Statistics = (props) => {
   const [progress, setProgress] = useState(0);
   const size = useWindowSize();
   return (
-    <BackgroundImage
+    <BackgroundImage critical={true}
       className="parallax"
       Tag="section"
       fluid={props.image.childImageSharp.fluid}
