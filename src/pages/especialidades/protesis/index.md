@@ -31,7 +31,7 @@ hero:
 heading:
   display: true
   content: >
-    <h1 class="title"><i class="icon icon-instagram"></i></h1>
+    <h1 class="title"><i class="icon icon-prosthodontics"></i></h1>
     <p class="thin"><em>Las consecuencias psicológicas asociadas a la Ausencia de Dientes generan
     mucha inseguridad en las personas y cambios conductuales capaces de limitar, e
     incluso destruir; sus relaciones sociales, afectivas y laborales.</em></p>
@@ -572,7 +572,7 @@ blocksDescription:
     right:
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-accesibility"></i>
           </span>
           <hr />
           <div class="title">
@@ -588,7 +588,7 @@ blocksDescription:
           </div>
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-inmediacy"></i>
           </span>
           <hr />
           <div class="title">
@@ -604,7 +604,7 @@ blocksDescription:
           </div>
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-quality"></i>
           </span>
           <hr />
           <div class="title">

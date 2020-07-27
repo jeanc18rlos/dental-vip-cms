@@ -75,19 +75,19 @@ heading:
 
     <ul class="maps">
     <li>
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-north-america"></i></span>
         <p class="dv-content">Ahorre más del</p> <p class="dv-content-number">70%</p>
         <p class="dv-content">Si reside en</p> <p class="dv-content-country">Estados
         Unidos O Canadá</p>
     </li>
     <li>
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-europe"></i></span>
         <p class="dv-content">Ahorre más del</p> <p class="dv-content-number">50%</p>
         <p class="dv-content">Si reside en</p> <p class="dv-content-country">España,
         Italia o Portugal</p>
     </li>
     <li>
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-south-america"></i></span>
         <p class="dv-content">Ahorre más del</p> <p class="dv-content-number">50%</p>
         <p class="dv-content">Si reside en</p> <p class="dv-content-country">Centro,
         Sudamérica o Islas del Caribe</p>

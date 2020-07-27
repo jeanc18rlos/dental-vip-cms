@@ -36,8 +36,8 @@ banner: >
       </p>
     </aside>
     <aside>
-      <span class="travel">
-        <i class="icon-instagram"></i>
+     <span class="travel">
+        <i class="icon-travel"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i>
       </span>
     </aside>
   </div>
@@ -79,7 +79,7 @@ boxes:
     </p>
   </div>
   <div class="icon">
-    <i class="icon-instagram"> </i>
+    <i class="icon-schedule"> </i>
   </div>
 </div>
 

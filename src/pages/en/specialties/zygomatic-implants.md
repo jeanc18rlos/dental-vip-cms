@@ -31,7 +31,7 @@ hero:
 heading:
   display: true
   content: >
-    <h1 class="title"><i class="icon icon-instagram"></i></h1>
+    <h1 class="title"><i class="icon icon-zygomatic-implants"></i></h1>
     <p class="thin"><em>Undoubtedly, the best alternative for those patients with Large Bone Loss
     in their upper jaws and in which it is no longer possible to place conventional
     dental implants. “An optimal solution to a complex problem.</em></p>
@@ -497,7 +497,7 @@ blocksDescription:
     right:
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-accesibility"></i>
           </span>
           <hr />
           <div class="title">
@@ -510,7 +510,7 @@ blocksDescription:
           </div>
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-inmediacy"></i>
           </span>
           <hr />
           <div class="title">
@@ -523,7 +523,7 @@ blocksDescription:
           </div>
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-quality"></i>
           </span>
           <hr />
           <div class="title">

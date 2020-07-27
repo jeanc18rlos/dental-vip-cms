@@ -7,6 +7,7 @@ import ReactHtmlParser from "react-html-parser";
 const StyledQuote = styled.section`
   padding: ${rhythm(4)} 0;
   background: #222;
+  color: #9a9a9a;
   .icon-quotes-open {
     align-self: flex-start;
     font-size: 1.5em;

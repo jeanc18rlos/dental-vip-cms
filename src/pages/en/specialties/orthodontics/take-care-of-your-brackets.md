@@ -209,7 +209,7 @@ During the treatment
 
 <span style="
     font-size: 50px;
-"><i class="icon-instagram"></i></span>
+"><i class="icon-icon-brush"></i></span>
 
 You have to brush immediately after
             each meal <em>(normally, just as you did before having appliances)</em>,
@@ -232,7 +232,7 @@ You have to brush immediately after
 
 <span style="
     font-size: 50px;
-"><i class="icon-instagram"></i></span>
+"><i class="icon-interdental-brush_1"></i></span>
 
 At least once a day <em>(if you
 can more times even better) </em>look at yourself in a mirror after brushing
@@ -255,7 +255,7 @@ of food debris.
 
 <span style="
     font-size: 50px;
-"><i class="icon-instagram"></i></span>
+"><i class="icon-dental-floss"></i></span>
 
 Finally, use dental floss <em>(Special
             for Prosthetics and Orthodontics) </em>to clean the deepest areas of the

@@ -37,7 +37,7 @@ banner: >
     </aside>
     <aside>
       <span class="travel">
-        <i class="icon-instagram"></i>
+        <i class="icon-travel"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i>
       </span>
     </aside>
   </div>
@@ -61,7 +61,7 @@ boxes:
 <ul class="options">
   <li>
     <span>
-      <i class="icon-instagram"></i>
+      <i class="icon-bank-transfer"></i>
     </span>
     <h2>
       Bank Transfer
@@ -70,7 +70,7 @@ boxes:
   </li>
   <li>
     <span>
-      <i class="icon-instagram"></i>
+      <i class="icon-credit"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span></i>
     </span>
     <h2>
       Debit and Credit Card
@@ -79,7 +79,7 @@ boxes:
   </li>
   <li>
     <span>
-      <i class="icon-instagram"></i>
+      <i class="icon-cash"></i>
     </span>
     <h2>
       Cash

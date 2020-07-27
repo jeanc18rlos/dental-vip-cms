@@ -198,7 +198,7 @@ const ListGallery = styled.section`
           text-align: left;
         }
         span {
-          font-size: 45px;
+          font-size: 4.5em;
           margin-right: 45px;
           justify-self: flex-start;
         }
@@ -396,7 +396,7 @@ const StyledContent = styled.section`
         margin-top: ${rhythm(2)};
       }
       i {
-        font-size: 50px;
+        font-size: 70px;
       }
       p {
         width: fit-content;

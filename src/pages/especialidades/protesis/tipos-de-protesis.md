@@ -39,7 +39,7 @@ listGallery:
   - img: /uploads/implant-types-Implant-supported-prosthesis.jpg
     number: 1
     title: >
-      <span><i class="icon-instagram"></i></span>
+      <span><i class="icon-implant-supported-prosthesis"></i></span>
 
       <div class="content-wrapper">
       <h2 class="dv-div-title">Prótesis implantosoportada</h2>
@@ -54,7 +54,7 @@ listGallery:
   - img: /uploads/implant-types-prosthetic-prosthesis.jpg
     number: 1
     title: >
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-types-prosthetic-prosthesis"></i></span>
         <div class="content-wrapper">
         <h2 class="dv-div-title">Prótesis dentosoportada</h2>
         <p class="dv-srv-pr">Es también conocida como prótesis fija convencional
@@ -67,7 +67,7 @@ listGallery:
   - img: /uploads/implant-types-dentomucosupported-prosthesis.jpg
     number: 1
     title: >
-      <span><i class="icon-instagram"></i></span>
+      <span><i class="icon-dentomucosupported-prosthesis"></i></span>
       <div class="content-wrapper">
       <h2 class="dv-div-title">Prótesis dentomucosoportada</h2>
       <p class="dv-srv-pr">Es una dentadura parcial removible de acrílico <em>(material
@@ -82,7 +82,7 @@ listGallery:
   - img: /uploads/implant-types-mucosupported prosthesis.jpg
     number: 1
     title: >
-      <span><i class="icon-instagram"></i></span>
+      <span><i class="icon-mucosupported-prosthesis"></i></span>
       <div class="content-wrapper">
       <h2 class="dv-div-title">Prótesis mucosoportada</h2>
       <p class="dv-srv-pr">Es la popular "plancha" y aún se usa cuando ya no
@@ -177,7 +177,8 @@ articleBlock:
     link:
       display: true
       placeholder: Más Información
-      to: /especialidades/implantes-dentales/
+      to: >
+        /especialidades/implantes-dentales/
   img: /uploads/aside-prosthesis-types.jpg
 # Procedures Section
 procedures:

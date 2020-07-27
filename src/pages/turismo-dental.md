@@ -35,7 +35,7 @@ prices:
     to: https://www1.oanda.com/lang/es/currency/converter/
   rows:
     - title: Implantes Dentales
-      icon: icon-dental-impl
+      icon: icon-dental-implants
       rows:
         - procedure: >
             <p>Tomografía Digital 3D</p>
@@ -66,7 +66,7 @@ prices:
         title: MÁS INFORMACIÓN
         to: /especialidades/implantes-dentales/
     - title: Implantes Cigomáticos
-      icon: ZIGOMATICOS
+      icon: icon-zygomatic-implants
       rows:
         - procedure: >
             <p> Anestesia General</p>
@@ -439,7 +439,7 @@ blocksDescription:
     right:
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-accesibility"></i>
           </span>
           <hr />
           <div class="title">
@@ -455,7 +455,7 @@ blocksDescription:
           </div>
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-inmediacy"></i>
           </span>
           <hr />
           <div class="title">
@@ -471,7 +471,7 @@ blocksDescription:
           </div>
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-quality"></i>
           </span>
           <hr />
           <div class="title">

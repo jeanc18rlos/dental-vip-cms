@@ -1,20 +1,19 @@
 @font-face {
-  font-family: "icomoon";
-  src: url("fonts/icomoon.eot?m7jkgm");
-  src: url("fonts/icomoon.eot?m7jkgm#iefix") format("embedded-opentype"),
-    url("fonts/icomoon.ttf?m7jkgm") format("truetype"),
-    url("fonts/icomoon.woff?m7jkgm") format("woff"),
-    url("fonts/icomoon.svg?m7jkgm#icomoon") format("svg");
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?dthzpw');
+  src:  url('fonts/icomoon.eot?dthzpw#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?dthzpw') format('truetype'),
+    url('fonts/icomoon.woff?dthzpw') format('woff'),
+    url('fonts/icomoon.svg?dthzpw#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-[class^="icon-"],
-[class*=" icon-"] {
+[class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: "icomoon" !important;
-  speak: none;
+  font-family: 'icomoon' !important;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -26,58 +25,361 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-quotes-close:before {
-  content: "\e905";
-  color: #666;
-}
-.icon-quotes-open:before {
-  content: "\e906";
-  color: #666;
-}
-.icon-instagram:before {
-  content: "\e904";
-}
-.icon-angle-double-up:before {
-  content: "\e917";
-}
-.icon-times:before {
-  content: "\e915";
-}
-.icon-angle-down:before {
+.icon-periodontics:before {
   content: "\e900";
+  color: #d8d8d8;
 }
-.icon-angle-left:before {
+.icon-prosthodontics:before {
   content: "\e901";
+  color: #d8d8d8;
 }
-.icon-angle-right:before {
+.icon-accesibility:before {
   content: "\e902";
 }
-.icon-angle-up:before {
+.icon-blog-subscribe:before {
   content: "\e903";
 }
-.icon-blog:before {
+.icon-icon-brush:before {
+  content: "\e904";
+  color: #7f7f7f;
+}
+.icon-dentomucosupported-prosthesis:before {
+  content: "\e905";
+  color: #94c40c;
+}
+.icon-sedation-and-general-anesthesia:before {
+  content: "\e906";
+  color: #d8d8d8;
+}
+.icon-europe:before {
+  content: "\e907";
+  color: #9c9c9c;
+}
+.icon-fixed-bridge:before {
   content: "\e908";
+  color: #94c40c;
 }
-.icon-check:before {
+.icon-full-rehabilitation:before {
   content: "\e909";
+  color: #94c40c;
 }
-.icon-clock:before {
+.icon-hybrid-prosthesis:before {
+  content: "\e90a";
+  color: #94c40c;
+}
+.icon-implant-supported-prosthesis:before {
+  content: "\e90b";
+  color: #94c40c;
+}
+.icon-individual-crown:before {
+  content: "\e90c";
+  color: #94c40c;
+}
+.icon-inmediacy:before {
+  content: "\e90d";
+}
+.icon-interdental-brush:before {
   content: "\e90e";
+  color: #747474;
 }
-.icon-facebook:before {
+.icon-interdental-brush_1:before {
   content: "\e90f";
+  color: #777;
 }
-.icon-map-marker-alt:before {
+.icon-mucosupported-prosthesis:before {
+  content: "\e910";
+  color: #94c40c;
+}
+.icon-north-america:before {
   content: "\e911";
+  color: #9c9c9c;
 }
-.icon-phone:before {
+.icon-overdent:before {
   content: "\e912";
+  color: #94c40c;
 }
-.icon-plus:before {
+.icon-quality:before {
   content: "\e913";
 }
-.icon-search:before {
+.icon-rotateDevice:before {
   content: "\e914";
+  color: #f2f2f2;
+}
+.icon-rotateDevice2:before {
+  content: "\e915";
+}
+.icon-schedule:before {
+  content: "\e916";
+  color: #c4c4c4;
+}
+.icon-south-america:before {
+  content: "\e917";
+  color: #9c9c9c;
+}
+.icon-types-prosthetic-prosthesis:before {
+  content: "\e918";
+  color: #94c40c;
+}
+.icon-subway .path1:before {
+  content: "\e919";
+  color: rgb(221, 56, 30);
+}
+.icon-subway .path2:before {
+  content: "\e91a";
+  margin-left: -0.9970703125em;
+  color: rgb(255, 255, 255);
+}
+.icon-subway .path3:before {
+  content: "\e91b";
+  margin-left: -0.9970703125em;
+  color: rgb(255, 255, 255);
+}
+.icon-teeth-implants:before {
+  content: "\e91c";
+  color: #94c40c;
+}
+.icon-travel .path1:before {
+  content: "\e91d";
+  color: rgb(132, 132, 132);
+}
+.icon-travel .path2:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(70, 70, 70);
+}
+.icon-travel .path3:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.icon-zygomatic-implants:before {
+  content: "\e920";
+  color: #d8d8d8;
+}
+.icon-paypal .path1:before {
+  content: "\e921";
+  color: rgb(19, 154, 214);
+}
+.icon-paypal .path2:before {
+  content: "\e922";
+  margin-left: -3.880859375em;
+  color: rgb(38, 59, 128);
+}
+.icon-paypal .path3:before {
+  content: "\e923";
+  margin-left: -3.880859375em;
+  color: rgb(38, 59, 128);
+}
+.icon-paypal .path4:before {
+  content: "\e924";
+  margin-left: -3.880859375em;
+  color: rgb(19, 154, 214);
+}
+.icon-paypal .path5:before {
+  content: "\e925";
+  margin-left: -3.880859375em;
+  color: rgb(38, 59, 128);
+}
+.icon-paypal .path6:before {
+  content: "\e926";
+  margin-left: -3.880859375em;
+  color: rgb(19, 154, 214);
+}
+.icon-paypal .path7:before {
+  content: "\e927";
+  margin-left: -3.880859375em;
+  color: rgb(38, 59, 128);
+}
+.icon-paypal .path8:before {
+  content: "\e928";
+  margin-left: -3.880859375em;
+  color: rgb(19, 154, 214);
+}
+.icon-paypal .path9:before {
+  content: "\e929";
+  margin-left: -3.880859375em;
+  color: rgb(35, 44, 101);
+}
+.icon-full-arch-rehabilitation:before {
+  content: "\e92a";
+  color: #94c40c;
+}
+.icon-general-dentistry:before {
+  content: "\e92b";
+  color: #d8d8d8;
+}
+.icon-handshake:before {
+  content: "\e92c";
+  color: #94c40c;
+}
+.icon-implant-supported-restorations:before {
+  content: "\e92e";
+  color: #d8d8d8;
+}
+.icon-money:before {
+  content: "\e92f";
+  color: #94c40c;
+}
+.icon-oral-surgery:before {
+  content: "\e930";
+  color: #d8d8d8;
+}
+.icon-orthodontics:before {
+  content: "\e931";
+  color: #d8d8d8;
+}
+.icon-credit .path1:before {
+  content: "\e932";
+  color: rgb(196, 196, 196);
+}
+.icon-credit .path2:before {
+  content: "\e933";
+  margin-left: -1em;
+  color: rgb(156, 156, 156);
+}
+.icon-credit .path3:before {
+  content: "\e934";
+  margin-left: -1em;
+  color: rgb(156, 156, 156);
+}
+.icon-credit .path4:before {
+  content: "\e935";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-credit .path5:before {
+  content: "\e936";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-credit .path6:before {
+  content: "\e937";
+  margin-left: -1em;
+  color: rgb(196, 196, 196);
+}
+.icon-credit .path7:before {
+  content: "\e938";
+  margin-left: -1em;
+  color: rgb(196, 196, 196);
+}
+.icon-currency:before {
+  content: "\e939";
+  color: #7c7c7c;
+}
+.icon-dental-floss:before {
+  content: "\e93a";
+  color: #646464;
+}
+.icon-dental-implants:before {
+  content: "\e93b";
+  color: #d8d8d8;
+}
+.icon-endodontics:before {
+  content: "\e93c";
+  color: #d8d8d8;
+}
+.icon-clinic-chair:before {
+  content: "\e93d";
+  color: #94c40c;
+}
+.icon-cash:before {
+  content: "\e93e";
+  color: #c4c4c4;
+}
+.icon-bank-transfer:before {
+  content: "\e93f";
+  color: #c4c4c4;
+}
+.icon-aestetic-dentistry:before {
+  content: "\e940";
+  color: #d8d8d8;
+}
+.icon-git:before {
+  content: "\e941";
+}
+.icon-10:before {
+  content: "\e942";
+}
+.icon-9:before {
+  content: "\e943";
+}
+.icon-8:before {
+  content: "\e944";
+}
+.icon-7:before {
+  content: "\e945";
+}
+.icon-6:before {
+  content: "\e946";
+}
+.icon-5:before {
+  content: "\e947";
+}
+.icon-4:before {
+  content: "\e948";
+}
+.icon-3:before {
+  content: "\e949";
+}
+.icon-2:before {
+  content: "\e94a";
+}
+.icon-1:before {
+  content: "\e94b";
+}
+.icon-angle-down:before {
+  content: "\e94c";
+}
+.icon-angle-left:before {
+  content: "\e94d";
+}
+.icon-angle-right:before {
+  content: "\e94e";
+}
+.icon-angle-up:before {
+  content: "\e94f";
+}
+.icon-instagram:before {
+  content: "\e950";
+}
+.icon-quotes-close:before {
+  content: "\e951";
+}
+.icon-quotes-open:before {
+  content: "\e952";
+}
+.icon-blog:before {
+  content: "\e953";
+}
+.icon-check:before {
+  content: "\e954";
+}
+.icon-clock:before {
+  content: "\e955";
+}
+.icon-facebook:before {
+  content: "\e956";
+}
+.icon-map-marker-alt:before {
+  content: "\e957";
+}
+.icon-phone:before {
+  content: "\e958";
+}
+.icon-plus:before {
+  content: "\e959";
+}
+.icon-search:before {
+  content: "\e95a";
+}
+.icon-times:before {
+  content: "\e95b";
+}
+.icon-angle-double-up:before {
+  content: "\e95c";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
 }
 
 .ScrollUpButton__Container {
@@ -152,116 +454,16 @@
   margin: -3px !important;
 }
 
-.bebas {
-  font-family: "Bebas Neue Regular";
-}
-.bebas.bold {
-  font-family: "Bebas Neue Bold";
-}
 
-.container > div > div {
+.slick-track{
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: flex-start;
 }
 
-.text {
-  pointer-events: none;
-  justify-content: start !important;
-  font-family: "Kanit", sans-serif;
-  line-height: 0px;
-  text-transform: uppercase;
-}
 
-.number {
-  font-size: 450px;
-  color: #373c4c;
+.d-none{
+  display: none
 }
-
-.number span {
-  display: inline-block;
-  position: relative;
-  transform: translate3d(-35%, 0, 0);
-}
-
-.header {
-  margin-left: 350px;
-  font-size: 70px;
-  color: white;
-}
-
-.stripe {
-  height: 2px;
-  width: auto;
-}
-
-.slopeBegin {
-  background-color: #20232f;
-  clip-path: polygon(20vw 0, 70% 0, calc(70% - 20vw) 100%, 0 100%);
-}
-
-.slopeEnd {
-  clip-path: polygon(
-    70% 0,
-    100% 0,
-    calc(100% - 20vw) 100%,
-    calc(70% - 20vw) 100%
-  );
-}
-
-.slopeBegin,
-.slopeEnd {
-  position: absolute;
-  width: 140%;
-  height: 100%;
-  cursor: pointer;
-}
-
-.pink {
-  background: linear-gradient(to right, deeppink 0%, coral 100%);
-}
-
-.teal {
-  background: linear-gradient(to right, SlateBlue 0%, DeepSkyBlue 100%);
-}
-
-.tomato {
-  background: linear-gradient(to right, tomato 0%, gold 100%);
-}
-@media screen and (min-width: 1024px) {
-section.parallax,
-section.parallax::before,
-section.parallax::after {
-  background-attachment: fixed;
-}
-}
-.popupbox {
-  width: 100vw !important;
-  height: 100vh !important;
-}
-.popupbox .popupbox-wrapper {
-  width: 100vw !important;
-  height: 100vh !important;
-  max-height: 100vh !important;
-  max-width: 100% !important;
-  align-items: center !important;
-  background: none !important;
-  justify-content: center !important;
-  flex-direction: column !important;
-}
-.popupbox .popupbox-wrapper .popupbox-content {
-  width: 100% !important;
-  max-height: 100vh !important;
-  padding: 20px !important;
-  background: none !important;
-  max-width: 100% !important;
-  display: flex;
-  height: 100% !important;
-}
-
-.image-gallery-index {
-  width: fit-content;
-  position: fixed !important;
-  left: 20px !important;
-  top: 20px !important;
+.image-gallery-icon:hover {
+  color: #91c508 !important;
 }

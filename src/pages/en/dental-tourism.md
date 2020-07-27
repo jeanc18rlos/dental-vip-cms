@@ -453,7 +453,7 @@ blocksDescription:
     right:
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-accesibility"></i>
           </span>
           <hr />
           <div class="title">
@@ -466,7 +466,7 @@ blocksDescription:
           </div>
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-inmediacy"></i>
           </span>
           <hr />
           <div class="title">
@@ -479,7 +479,7 @@ blocksDescription:
           </div>
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-quality"></i>
           </span>
           <hr />
           <div class="title">

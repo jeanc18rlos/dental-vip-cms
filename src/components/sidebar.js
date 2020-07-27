@@ -185,7 +185,7 @@ const SideBar = (props) => {
         <h4 className="dv-subscribe">{props.structure.aside.subscribe}</h4>
         <hr />
         <span className="blog-icon">
-          <i className="icon-instagram"></i>
+          <i className="icon-blog-subscribe"></i>
         </span>
 
         <div className="dv-newsletter-sidebar">

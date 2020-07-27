@@ -33,22 +33,22 @@ paragraph:
   items:
     - img: /uploads/sections-facilities.jpg
       content: >
-        <h2><span><i class="icon-instagram"></i></span> In the clinic…</h2>
+        <h2><span><i class="icon-clinic-chair"></i></span> In the clinic…</h2>
         <p class="light-font"> The DENTAL VIP clinic has been conceived and designed so that the patient feels immersed in a cozy atmosphere and enjoys <strong>a relaxed, calm and maximum comfort climate,</strong> from the moment he is received and throughout his visit. <strong>We have modern and comfortable facilities, the best cutting-edge technology, the most advanced equipments and a recognized group of high-level Specialist Dentists.</strong> This allows us to offer a new concept in Dentistry: <em>modern, integral and specialized.</em></p>
         <p class="light-font">A privileged location with easy access, the availability of structural parking into the building and the permanent presence of a large private security staff are also an essential part of our conception of service, of our intention to make your overall experience something positive and our great effort <strong>to make your visit calendar as comfortable, expeditious and safe as possible.</strong></p>
     - img: /uploads/sections-treatment.jpg
       content: >
-        <h2><span><i class="icon-instagram"></i></span> In the treatment...</h2>
+        <h2><span><i class="icon-teeth-implants"></i></span> In the treatment...</h2>
         <p class="light-font">As our main concern is your health, in DENTAL VIP <strong>we work with the highest quality materials and instruments.</strong> We guarantee ethics in services and optimal results in the resolution of highly complex clinical cases. For this, we use <strong>professional competence, commitment, flexibility and innovation capacity.</strong> In addition, we are a multidisciplinary team that is constantly evolving, training us every day in the new techniques and procedures that allow us to further improve the aesthetic and functional results of all our treatments.</p>
         <p class="light-font">In our work we always make sure to provide <strong>a fully customized Medical-Dental service tailored to your needs.</strong> Our clinical coordinator will make the Specialists work as a team, putting at your disposal <strong>experience, scientific knowledge and the latest advances in the field of oral health.</strong></p>
     - img: /uploads/sections-humanity.jpg
       content: >
-        <h2><span><i class="icon-instagram"></i></span> In the human...</h2>
+        <h2><span><i class="icon-handshake"></i></span> In the human...</h2>
         <p class="light-font">We have set ourselves as north to ensure that patients receive the best care, so we always offer <strong>a personal, friendly, sincere and very professional deal by the entire human team that works in the institution.</strong> Transparency, honesty, tolerance and equity in collaboration constitute our basis for success, harmony and job satisfaction. Although the results of the treatment always be your main motivation, we will try to go further to exceed expectations, achieve your full approval and <strong>consolidate us as a reference center for family and close friends.</strong></p>
         <p class="light-font">Our Philosophy is well reflected in our great effort <strong>to achieve good communication between the Dentist and the Patient.</strong> For us it is essential that you get to understand and reason what your dental problem is, what were its causes and what are its consequences and therapeutic alternatives, so that together we can give it solution and can also prevent its recurrence. We should remember that <strong>prevention is the cornerstone of any health strategy.</strong></p>
     - img: /uploads/sections-economics.jpg
       content: >
-        <h2><span><i class="icon-instagram"></i></span> In the economic...</h2>
+        <h2><span><i class="icon-money"></i></span> In the economic...</h2>
         <p class="light-font">Many patients go to a dental insurance, a franchise or a popular clinic for the price they offer, but generally the care is very basic, massive, little specialized and offered by itinerant dentists who are just beginning in the profession. <strong>When it comes to private attention, always mistrust of free consultations, 2x1 offers and excessively low fees, since they usually hide a great deterioration in the quality of care</strong> that can put your health at risk and make you easy prey to professional malpractice. Work very fast, attend to many patients, delegate functions and spare the most in academic training, infrastructure, technology, biosafety and expenses of clinical material; is a common philosophy in those who tender cheap dentistry. </p>
         <p class="light-font">DENTAL VIP offers <strong>dedication, personalization, excellence and exclusivity,</strong> combining the best of Specialized Integrated Dentistry with the most current and relevant technology, all <strong>at fair and truly favorable prices,</strong> surely below those of our direct competition. </p>
 # Heading Section

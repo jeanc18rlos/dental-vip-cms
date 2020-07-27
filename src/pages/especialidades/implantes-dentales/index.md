@@ -31,7 +31,7 @@ hero:
 heading:
   display: true
   content: >
-    <h1 class="title"><i class="icon icon-instagram"></i></h1>
+    <h1 class="title"><i class="icon icon-dental-implants"></i></h1>
     <p class="thin"><em>La utilización de Implantes Dentales Oseointegrados en la Rehabilitación
     Oral de los pacientes parcial o totalmente edéntulos ha sido plenamente consolidada
     como una alternativa confiable y altamente predecible a largo plazo.</em></p>
@@ -543,7 +543,7 @@ blocksDescription:
     right:
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-accesibility"></i>
           </span>
           <hr />
           <div class="title">
@@ -559,7 +559,7 @@ blocksDescription:
           </div>
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-inmediacy"></i>
           </span>
           <hr />
           <div class="title">
@@ -575,7 +575,7 @@ blocksDescription:
           </div>
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-quality"></i>
           </span>
           <hr />
           <div class="title">

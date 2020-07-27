@@ -30,15 +30,11 @@ hero:
 # Heading Section
 heading:
   display: true
-  content:
-    <h1 class="title">We Are at Your Service</h1>
+  content: <h1 class="title">We Are at Your Service</h1>
     <p>If you need additional information,
     want to make an inquiry, suggestions or reserve space on agenda; we can attend
     you by phone, using the form below or sending an email to  <a href="mailto:contacto@dentalvip.com.ve"
     style="color:#91c508">contacto@dentalvip.com.ve</a></p>
-
-
-
 
 # Parallax Section
 parallax:
@@ -90,7 +86,8 @@ amenities:
       content: >
         <p>
           <span>
-            <i class="icon icon-instagram"></i>
+          <i class="icon icon-subway"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i>
+
           </span>
           <br></br>
           Line 1   <br class="visible-xs visible-sm visible-md visible-lg">
@@ -115,7 +112,7 @@ amenities:
     - title: <h5>WI-FI ZONE</h5>
       to: /en/specialties/aesthetic-dentistry/
       img: /uploads/procedures-wifi.jpg
-      content: > 
+      content: >
         <p>
           <span>
             <i class="icon icon-instagram"></i>

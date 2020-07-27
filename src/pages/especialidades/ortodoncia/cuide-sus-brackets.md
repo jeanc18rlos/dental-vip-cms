@@ -214,7 +214,7 @@ de su boca.
 
 <span style="
     font-size: 50px;
-"><i class="icon-instagram"></i></span>
+"><i class="icon-brush"></i></span>
 
 Hay que cepillarse inmediatamente
 después de cada comida <em>(normalmente, al igual que lo hacía antes de
@@ -238,7 +238,7 @@ empiecen a curvarse y desgastarse.
 
 <span style="
     font-size: 50px;
-"><i class="icon-instagram"></i></span>
+"><i class="icon-interdental-brush_1"></i></span>
 
 Por lo menos 1 vez al día <em>(si
 puede más veces mejor aún)</em> véase en un espejo después de cepillarse
@@ -261,7 +261,7 @@ todos los espacios y aparatos queden limpios y libres de restos alimenticios.
 
 <span style="
     font-size: 50px;
-"><i class="icon-instagram"></i></span>
+"><i class="icon-dental-floss"></i></span>
 
 Finalmente, utilice el hilo dental
 <em>(Especial para Prótesis y Ortodoncia)</em> para limpiar las zonas

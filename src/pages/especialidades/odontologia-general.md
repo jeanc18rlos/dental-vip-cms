@@ -31,7 +31,7 @@ hero:
 heading:
   display: true
   content: >
-    <h1 class="title"><i class="icon icon-instagram"></i></h1>
+    <h1 class="title"><i class="icon icon-general-dentistry"></i></h1>
     <p class="thin"><em>El Mejor Tratamiento de Cualquier Enfermedad es su Prevención y nuestro
     principal objetivo debe ser el de interponer barreras biológicas que verdaderamente
     interfieran con su desarrollo.</em></p>
@@ -562,7 +562,7 @@ blocksDescription:
     right:
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-accesibility"></i>
           </span>
           <hr />
           <div class="title">
@@ -578,7 +578,7 @@ blocksDescription:
           </div>
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-inmediacy"></i>
           </span>
           <hr />
           <div class="title">
@@ -594,7 +594,7 @@ blocksDescription:
           </div>
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-quality"></i>
           </span>
           <hr />
           <div class="title">

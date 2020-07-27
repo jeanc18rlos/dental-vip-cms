@@ -31,7 +31,7 @@ hero:
 heading:
   display: true
   content: >
-    <h1 class="title"><i class="icon icon-instagram"></i></h1>
+    <h1 class="title"><i class="icon icon-orthodontics"></i></h1>
     <p class="thin"><em>Cuide su salud y proteja su inversión. Muchas clínicas y empresas delegan
     sus tratamientos al personal auxiliar de turno. Infórmese antes y exija ser atendido
     siempre por el mismo Ortodoncista.</em></p>
@@ -516,7 +516,7 @@ blocksDescription:
     right:
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-accesibility"></i>
           </span>
           <hr />
           <div class="title">
@@ -532,7 +532,7 @@ blocksDescription:
           </div>
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-inmediacy"></i>
           </span>
           <hr />
           <div class="title">
@@ -548,7 +548,7 @@ blocksDescription:
           </div>
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-quality"></i>
           </span>
           <hr />
           <div class="title">

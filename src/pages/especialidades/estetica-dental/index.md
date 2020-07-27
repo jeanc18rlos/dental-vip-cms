@@ -30,7 +30,7 @@ hero:
 # Heading Section
 heading:
   display: true
-  content: <h1 class="title"><i class="icon icon-instagram"></i></h1>
+  content: <h1 class="title"><i class="icon icon-aestetic-dentistry"></i></h1>
     <p class="thin"><em>La Biomimética es el arte de crear Restauraciones Dentales que estén en
     Armonía con la Naturaleza, a través del conocimiento, dominio y experta manipulación
     de los diferentes sistemas cerámicos y adhesivos disponibles.</em></p>
@@ -575,7 +575,7 @@ blocksDescription:
     right:
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-accesibility"></i>
           </span>
           <hr />
           <div class="title">
@@ -591,7 +591,7 @@ blocksDescription:
           </div>
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-inmediacy"></i>
           </span>
           <hr />
           <div class="title">
@@ -607,7 +607,7 @@ blocksDescription:
           </div>
       - content: >
           <span class="icon">
-            <i class="icon-instagram"></i>
+            <i class="icon-quality"></i>
           </span>
           <hr />
           <div class="title">

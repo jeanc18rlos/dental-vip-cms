@@ -233,7 +233,7 @@ const StyledContent = styled(Container)`
       }
       button{
         margin: 17px;
-    width: calc(100% - 35px);
+    min-width: calc(100% - 35px);
       }
       span, .captcha {
         padding: 10px 15px !important;
@@ -365,12 +365,13 @@ const Form = (props) => {
         );
       })
       .catch((error) => {
-       return error;
+        return error;
       });
   };
 
   return props.type === "extended" ? (
-    <BackgroundImage critical={true}
+    <BackgroundImage
+      critical={true}
       className="parallax"
       Tag="section"
       fluid={props.img.childImageSharp.fluid}
@@ -378,7 +379,7 @@ const Form = (props) => {
       <StyledContent flexDirection="column" color="none">
         {ReactHtmlParser(props.title)}
         <p>
-          <i style={{color:"red"}} className="icon-instagram"></i>{" "}
+          <i style={{ color: "red" }} className="icon-instagram"></i>{" "}
           {ReactHtmlParser(props.data.warning)}
         </p>
         <br></br>
@@ -399,7 +400,11 @@ const Form = (props) => {
                         </option>
                         ;
                         {i.options.items.map((opt, key) => {
-                          return <option key={key} value={opt.value}>{opt.value}</option>;
+                          return (
+                            <option key={key} value={opt.value}>
+                              {opt.value}
+                            </option>
+                          );
                         })}
                       </select>
                       {errors[i.name] && (

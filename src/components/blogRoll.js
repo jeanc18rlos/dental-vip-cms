@@ -132,7 +132,12 @@ const searchByText = (collection, text) => {
 };
 
 const BlogRoll = (props) => {
-  const { term, posts, home, categories } = props;
+  const { term, posts, home, categories, isSearch } = props;
+  const fakeEmpty = () => {
+    console.log("fake");
+  };
+  const isEmpty = props.isEmpty || false;
+  const setEmpty = props.setEmpty || fakeEmpty;
   const [state, setState] = useState({
     items: [],
     pageOfItems: posts.edges,
@@ -228,6 +233,10 @@ const BlogRoll = (props) => {
           onChangePage={changePage}
           page={state.page}
           pageSize={4}
+          isEmpty={isEmpty}
+          term={term || false}
+          isSearch={isSearch}
+          setEmpty={setEmpty}
         />
       </StyledBlogRoll>
       {!props.alone && (
@@ -247,7 +256,7 @@ const BlogRoll = (props) => {
 export default BlogRoll;
 
 const Pagination = (props) => {
-  const { page, pageSize, items } = props;
+  const { page, pageSize, items, isEmpty, setEmpty, term, isSearch } = props;
   const [state, setState] = useState({
     items: [],
     pager: {},
@@ -325,6 +334,12 @@ const Pagination = (props) => {
 
   return (
     <ul className="pagination">
+      {console.log(`soy ${term.term}`)}
+      {(!term.term  && isSearch) ||
+      state.items.length < 1 ||
+      term.term === ""
+        ? setEmpty(true)
+        : setEmpty(false)}
       {!state.pager.pages || state.pager.pages.length <= 1 ? null : (
         <>
           <li className={state.pager.currentPage === 1 ? "disabled" : ""}>

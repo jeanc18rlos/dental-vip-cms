@@ -80,9 +80,17 @@ const StyledHeading = styled.section`
     margin-bottom: ${rhythm(2)};
     .icon {
       font-size: 52px;
-      background: black;
-      border-radius: 50%;
-      padding: 10px;
+    height: 90px;
+    width: 90px;
+    background: black;
+    border-radius: 50%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    margin: auto;
+      
     }
     @media (min-width: 1355px) {
       width: 80%;

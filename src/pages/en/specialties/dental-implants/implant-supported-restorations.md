@@ -39,7 +39,7 @@ listGallery:
     - img: /uploads/implant-types-individual-crown.jpg
       number: 1
       title: >
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-individual-crown"></i></span>
 
         <div class="content-wrapper">
         <h2 class="dv-div-title">Single crown</h2>
@@ -53,7 +53,7 @@ listGallery:
     - img: /uploads/implant-types-fixed-bridge.jpg
       number: 1
       title: >
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-fixed-bridge"></i></span>
         <div class="content-wrapper">
         <h2 class="dv-div-title">Fixed bridge</h2>
         <p class="dv-srv-pr">It is the ideal fixed option for edentulous gaps of
@@ -64,7 +64,7 @@ listGallery:
     - img: /uploads/implant-types-full-rehabilitation.jpg
       number: 1
       title: >
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-full-rehabilitation"></i></span>
         <div class="content-wrapper">
         <h2 class="dv-div-title">Full-arch rehabilitation</h2>
         <p class="dv-srv-pr">It is the alternative A1 for the total absence of
@@ -78,7 +78,7 @@ listGallery:
     - img: /uploads/implant-types-hybrid-prosthesis.jpg
       number: 1
       title: >
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-hybrid-prosthesis"></i></span>
         <div class="content-wrapper">
         <h2 class="dv-div-title">Hybrid prosthesis</h2>
         <p class="dv-srv-pr">A hybrid prosthesis is one that combines several materials.
@@ -91,7 +91,7 @@ listGallery:
     - img: /uploads/implant-types-overdent.jpg
       number: 1
       title: >
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-overdent"></i></span>
         <div class="content-wrapper">
         <h2 class="dv-div-title">Overdenture</h2>
         <p class="dv-srv-pr">Snap on denture is a total prosthesis of acrylic resin,

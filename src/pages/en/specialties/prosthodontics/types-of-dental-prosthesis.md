@@ -39,7 +39,7 @@ listGallery:
   - img: /uploads/implant-types-Implant-supported-prosthesis.jpg
     number: 1
     title: >
-      <span><i class="icon-instagram"></i></span>
+      <span><i class="icon-implant-supported-prosthesis"></i></span>
 
       <div class="content-wrapper">
       <h2 class="dv-div-title">Implant-supported prosthesis</h2>
@@ -53,7 +53,7 @@ listGallery:
   - img: /uploads/implant-types-prosthetic-prosthesis.jpg
     number: 1
     title: >
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-types-prosthetic-prosthesis"></i></span>
         <div class="content-wrapper">
         <h2 class="dv-div-title">Tooth-supported prosthesis</h2>
         <p class="dv-srv-pr">It is also known as conventional fixed prosthesis
@@ -65,7 +65,7 @@ listGallery:
   - img: /uploads/implant-types-dentomucosupported-prosthesis.jpg
     number: 1
     title: >
-      <span><i class="icon-instagram"></i></span>
+      <span><i class="icon-dentomucosupported-prosthesis"></i></span>
       <div class="content-wrapper">
       <h2 class="dv-div-title">Dento-muco-supported prosthesis</h2>
       <p class="dv-srv-pr">It is a removable partial denture made of acrylic
@@ -80,7 +80,7 @@ listGallery:
   - img: /uploads/implant-types-mucosupported prosthesis.jpg
     number: 1
     title: >
-      <span><i class="icon-instagram"></i></span>
+      <span><i class="icon-mucosupported-prosthesis"></i></span>
       <div class="content-wrapper">
       <h2 class="dv-div-title">Muco-supported prosthesis</h2>
       <p class="dv-srv-pr">It is the popular "complete denture" and is still

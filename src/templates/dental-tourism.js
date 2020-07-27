@@ -67,7 +67,7 @@ const Routes = styled.section`
   padding-bottom: ${rhythm(3)};
   padding-top: ${rhythm(4)};
   .icon-travel-wrapper {
-    font-size: 115px;
+    font-size: 145px;
     text-align: center;
     justify-content: center;
     display: flex;
@@ -344,7 +344,7 @@ export const DentalTourismPageTemplate = ({
             <div key={k} className="price">
               <div className="title">{i.title}</div>
               <span className="icon-header">
-                <i className="icon-instagram"></i>
+                <i className={`${i.icon}`}></i>
               </span>
               {i.rows.map((i, k) => {
                 return (
@@ -372,7 +372,8 @@ export const DentalTourismPageTemplate = ({
         <div className="converter">
           <div className="title">{ReactHtmlParser(prices.footer.title)}</div>
           <a href={`${prices.footer.to}`}>
-            <Img critical={true}
+            <Img
+              critical={true}
               fluid={prices.footer.image.childImageSharp.fluid}
               className="converter-img"
             ></Img>
@@ -384,7 +385,11 @@ export const DentalTourismPageTemplate = ({
         {ReactHtmlParser(routes.title)}
 
         <span className="icon-travel-wrapper">
-          <i className="icon-instagram"></i>
+          <i className="icon-travel">
+            <span className="path1"></span>
+            <span className="path2"></span>
+            <span className="path3"></span>
+          </i>
         </span>
 
         <div className="departures">
@@ -401,13 +406,13 @@ export const DentalTourismPageTemplate = ({
                   <div className="details">
                     <div className="time">
                       <span className="logo ">
-                        <i className="icon-instagram"></i>
+                        <i className="icon-clock"></i>
                       </span>
                       <span>{i.time}</span>
                     </div>
                     <div className="cost">
                       <span className="logo">
-                        <i className="icon-instagram"></i>
+                        <i className="icon-currency"></i>
                       </span>
                       <span>{i.cost}</span>
                     </div>
@@ -431,7 +436,10 @@ export const DentalTourismPageTemplate = ({
               {ReactHtmlParser(i.title)}
               <span>
                 <i className="counter">{k + 1}</i>
-                <Img critical={true} fluid={i.image.childImageSharp.fluid}></Img>
+                <Img
+                  critical={true}
+                  fluid={i.image.childImageSharp.fluid}
+                ></Img>
               </span>
             </div>
           );
@@ -450,7 +458,8 @@ export const DentalTourismPageTemplate = ({
         <div className=" paragraph">
           {ReactHtmlParser(blocksDescription.sections.left.content)}
           <span className="map">
-            <Img critical={true}
+            <Img
+              critical={true}
               fluid={
                 blocksDescription.sections.left.image.childImageSharp.fluid
               }
@@ -459,7 +468,11 @@ export const DentalTourismPageTemplate = ({
         </div>
         <div className=" list">
           {blocksDescription.sections.right.map((i, k) => {
-            return <div key={k} className="item">{ReactHtmlParser(i.content)}</div>;
+            return (
+              <div key={k} className="item">
+                {ReactHtmlParser(i.content)}
+              </div>
+            );
           })}
         </div>
       </Block>

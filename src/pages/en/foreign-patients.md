@@ -67,20 +67,20 @@ heading:
 
     <ul class="maps">
     <li>
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-north-america"></i></span>
         <p class="dv-content">Save more than</p> <p class="dv-content-number">70%</p>
       <p class="dv-content">IF YOU LIVE IN</p> <p class="dv-content-country">United
       States or canada</p>
     </li>
     <li>
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-europe"></i></span>
        <p class="dv-content-number">50%</p>
       <p class="dv-content">If you live in</p> <p class="dv-content-country">SPAIN,
       ITALY OR PORTUGAL</p>
 
     </li>
     <li>
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-south-america"></i></span>
         <p class="dv-content-number">50%</p>
       <p class="dv-content">if you live in</p> <p class="dv-content-country">CENTRAL,
       SOUTH AMERICA OR CARIBBEAN ISLANDS</p>

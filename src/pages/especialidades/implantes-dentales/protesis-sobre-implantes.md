@@ -39,7 +39,7 @@ listGallery:
     - img: /uploads/implant-types-individual-crown.jpg
       number: 1
       title: >
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-individual-crown"></i></span>
 
         <div class="content-wrapper">
         <h2 class="dv-div-title">Corona individual</h2>
@@ -54,7 +54,7 @@ listGallery:
     - img: /uploads/implant-types-fixed-bridge.jpg
       number: 1
       title: >
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-fixed-bridge"></i></span>
         <div class="content-wrapper">
         <h2 class="dv-div-title">Puente fijo</h2>
         <p class="dv-srv-pr">Es la opción fija ideal para brechas edéntulas de
@@ -66,7 +66,7 @@ listGallery:
     - img: /uploads/implant-types-full-rehabilitation.jpg
       number: 1
       title: >
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-full-rehabilitation"></i></span>
         <div class="content-wrapper">
         <h2 class="dv-div-title">Rehabilitación completa</h2>
         <p class="dv-srv-pr">Es la alternativa A1 para la ausencia total de dientes.
@@ -80,7 +80,7 @@ listGallery:
     - img: /uploads/implant-types-hybrid-prosthesis.jpg
       number: 1
       title: >
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-hybrid-prosthesis"></i></span>
         <div class="content-wrapper">
         <h2 class="dv-div-title">Prótesis híbrida</h2>
         <p class="dv-srv-pr">Una prótesis híbrida es aquella que combina varios
@@ -93,7 +93,7 @@ listGallery:
     - img: /uploads/implant-types-overdent.jpg
       number: 1
       title: >
-        <span><i class="icon-instagram"></i></span>
+        <span><i class="icon-overdent"></i></span>
         <div class="content-wrapper">
         <h2 class="dv-div-title">Sobredentadura</h2>
         <p class="dv-srv-pr">Es una prótesis total de resina acrílica, removible
