@@ -21,7 +21,7 @@ const StyledHeader = styled.header`
     position: fixed;
     height: ${(props) => (props.isSearchOpen ? "100vh" : "0")};
     width: 100%;
-    background: #ffffffad;
+    background: #9a9a9a;
     top: 0;
     z-index: 3;
     overflow: hidden;
@@ -110,8 +110,8 @@ const StyledHeader = styled.header`
           align-items: center;
           a {
             font-size: 18px;
-            color: #222;
-            background: #999999;
+            color: #9a9a9a;
+            background: #333;
             -webkit-text-decoration: none;
             padding: 0.5em 0.5em;
             text-decoration: none;

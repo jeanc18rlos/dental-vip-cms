@@ -31,7 +31,7 @@ banner: >
   <div class="banner">
     <aside>
       <p>
-        <span style="margin-bottom: 10px;display: block;">Is Your Quote Too Expensive For Your Dental Treatment?</span>
+        <span style="margin-bottom: 25px;display: block;">Is Your Quote Too Expensive For Your Dental Treatment?</span>
         <span style="color: #333;">SAVE UP TO 70%</span> WE CAN HELP YOU
       </p>
     </aside>
@@ -109,6 +109,7 @@ boxes:
 <p class="heading">
   DENTAL VIP offers dental financing programs for patients with good credit and patients with "not so good" credit. Our financing partners work diligently to provide people the most affordable options to finance their dental care in Venezuela. Financing programs provide affordable monthly payments with flexible terms and limited interest free financing.
 </p>
+<br>
 <h2 class="left section-title">
   <b>Additional benefits:</b>
 </h2>

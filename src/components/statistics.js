@@ -55,6 +55,7 @@ const StyledContent = styled(Container)`
     h1 {
       text-shadow: black 2px 4px 9px;
       margin: 0px;
+      line-height: 1 !important;
       font-weight: 700;
       text-transform: uppercase;
       margin-bottom: ${rhythm(1)};

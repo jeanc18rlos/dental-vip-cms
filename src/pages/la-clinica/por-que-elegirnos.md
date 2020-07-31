@@ -48,34 +48,34 @@ list:
   display: true
   items:
     - content: >
-        <h4>Reconocido Equipo de Odontólogos Especialistas</h4>
+        <h3>Reconocido Equipo de Odontólogos Especialistas</h3>
         <p> Profesionales Universitarios de Alto Nivel con Estudios de Postgrado en las diferentes ramas de la Odontología Clínica. Todas las Especialidades en el Mismo Lugar.</p>
     - content: >
-        <h4> Modernas y Cómodas Instalaciones</h4>
+        <h3> Modernas y Cómodas Instalaciones</h3>
         <p>  Ambiente Tranquilo, Relajado y de Máximo Confort con Servicio de Internet (zona Wi-Fi). Consultorios Privados y Totalmente Independientes.</p>
     - content: >
-        <h4> La Mejor Tecnología</h4>
+        <h3> La Mejor Tecnología</h3>
         <p>  Contamos con los Equipos de Última Generación a Nivel Mundial. Siempre estamos a la Vanguardia en Innovación Odontológica.</p>
     - content: >
-        <h4> Experiencia y Ética Profesional</h4>
+        <h3> Experiencia y Ética Profesional</h3>
         <p>  Odontólogos de Amplia Trayectoria e Incuestionable Vocación. Un Equipo Humano Verdaderamente Comprometido con lo que Hace.</p>
     - content: >
-        <h4> Atención Totalmente Personalizada</h4>
+        <h3> Atención Totalmente Personalizada</h3>
         <p>  No somos un centro de atención masiva, y por ende, no delegamos funciones. Usted Será Siempre Atendido por Su Especialista de Confianza.</p>
     - content: >
-        <h4> Organización y Mínimo Lapso de Espera</h4>
+        <h3> Organización y Mínimo Lapso de Espera</h3>
         <p>  Valoramos y respetamos su tiempo, por eso, Trabajamos Bajo un Sistema de Previa Cita que nos permite Optimizar Nuestro Servicio.</p>
     - content: >
-        <h4> Excelente Ubicación</h4>
+        <h3> Excelente Ubicación</h3>
         <p>  Estamos en el Municipio Chacao, en el "centro del este" de la Ciudad Capital, dentro de un Complejo Urbanístico Empresarial de gran actividad económica y comercial.</p>
     - content: >
-        <h4>Seguridad y Fácil Acceso</h4>
+        <h3>Seguridad y Fácil Acceso</h3>
         <p>Numerosa Vigilancia Privada, más de 2.000 Puestos de Estacionamiento a su disposición y entrada peatonal desde el Sistema Subterráneo Metro de Caracas.</p>
     - content: >
-        <h4> Precios Justos y Verdaderamente Competitivos</h4>
+        <h3> Precios Justos y Verdaderamente Competitivos</h3>
         <p>  Con Seguridad los Mejores en Odontología de Alto Standing.</p>
     - content: >
-        <h4> Financiamiento y Facilidades de Pago </h4>
+        <h3> Financiamiento y Facilidades de Pago </h3>
         <p>  Flexibilidad en el Cobro de Honorarios Profesionales, Planes Especiales de Financiamiento y Punto de Venta Comercial para el pago con Tarjetas de Débito y Crédito.</p>
 
 

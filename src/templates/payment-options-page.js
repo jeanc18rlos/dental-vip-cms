@@ -34,14 +34,24 @@ const StyledBanner = styled.div`
   }
   span {
     i {
-      ${scale(3)};
+      font-size: 11rem;
+      line-height: 8.8rem
+      
     }
   }
   .banner {
+    aside {
+      p {
+        line-height: 1 !important;
+      }
+    }
     @media screen and (max-width: 768px) {
       flex-direction: column-reverse;
       aside {
         padding: 0;
+        p {
+          line-height: 1 !important;
+        }
       }
       span {
         margin-bottom: ${rhythm(2)};
@@ -82,6 +92,7 @@ const StyledPage = styled.section`
       padding-left: 15px;
       padding-top: 10px;
       font-weight: 500;
+      max-width: 200px;
       color: #333;
       text-transform: capitalize;
     }
@@ -271,7 +282,9 @@ export const PaymentOptionsPageTemplate = ({
           <PostContent className="full" content={content} />
         </Container>
       </StyledPage>
-      {boxes.display && <Boxes externalLink={true} internal={true} procedures={boxes.boxes} />}
+      {boxes.display && (
+        <Boxes externalLink={true} internal={true} procedures={boxes.boxes} />
+      )}
       <StyledBanner>{ReactHtmlParser(banner)}</StyledBanner>
     </div>
   );

@@ -31,7 +31,7 @@ banner: >
   <div class="banner">
     <aside>
       <p>
-        <span style="margin-bottom: 10px;display: block;">¿Está en la Búsqueda de Tratamientos Dentales de Alta Gama? </span>
+        <span style="margin-bottom: 25px;display: block;">¿Está en la Búsqueda de Tratamientos Dentales de Alta Gama? </span>
         VISÍTENOS <span style="color: #333;">¡PODEMOS AYUDARLE!</span>
       </p>
     </aside>
@@ -86,7 +86,7 @@ boxes:
   </div>
 </div>
 
-<div class="message">
+<div class="message" style="margin-top:3.2rem !important">
   <p class="big">
     En el caso de retratamiento en un paciente foráneo, cubriremos los gastos de
     alojamiento, pero no los de traslado o pasaje aéreo.
@@ -263,7 +263,6 @@ boxes:
     <i class="icon-check circle"></i> Retratamiento dental libre de costos.
   </li>
 </ul>
-<br />
 <h2 class="left section-title">
   <b>¿Cómo se efectúa el procedimiento? </b>
 </h2>

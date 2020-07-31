@@ -31,7 +31,7 @@ banner: >
   <div class="banner">
     <aside>
       <p>
-        <span style="margin-bottom: 10px;display: block;">Is Your Quote Too Expensive For Your Dental Treatment?</span>
+        <span style="margin-bottom: 25px;display: block;">Is Your Quote Too Expensive For Your Dental Treatment?</span>
         SAVE UP TO 70% <span style="color: #333;">WE CAN HELP YOU!</span>
       </p>
     </aside>
@@ -83,7 +83,7 @@ boxes:
   </div>
 </div>
 
-<div class="message">
+<div class="message" style="margin-top:3.2rem !important">
   <p class="big">In the case of retreatment in a foreign patient, we will cover the costs of accommodation, but not those of transfer or airfare.</p>
 </div>
 <p>
@@ -198,7 +198,6 @@ boxes:
     >
   </li>
 </ul>
-<br>
 <h2  class="left section-title">
   <b>How is the procedure performed?
 </b>

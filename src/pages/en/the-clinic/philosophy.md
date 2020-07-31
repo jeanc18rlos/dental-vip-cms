@@ -175,7 +175,7 @@ procedures:
   procedures:
     - title: <h5>dental implants</h5>
       to: >
-        /en/the-clinic/dental-implants/
+        /en/specialties/dental-implants/
       img: /uploads/procedures-implants.png
     - title: <h5>Orthodontics</h5>
       to: >

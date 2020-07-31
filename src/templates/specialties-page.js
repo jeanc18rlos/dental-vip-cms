@@ -36,7 +36,7 @@ const Block = styled.section`
     width: 100%;
     flex-basis: 50%;
     flex-direction: column;
-    padding: ${rhythm(4)} 5vw ${rhythm(3)};
+    padding: ${rhythm(3.5)} 5vw ${rhythm(3)};
   }
   .list {
     .icon {
@@ -59,6 +59,7 @@ const Block = styled.section`
     .title.big {
       h1 {
         ${scale(1.25)}
+        line-height: 1
       }
     }
   }
@@ -145,7 +146,7 @@ export const SpecialtiesPageTemplate = ({
           items={cases.items}
         />
       )}
-      {anexes.display && <Paragraph top={true} {...anexes} />}
+      {anexes.display && <Paragraph top={true} topSp={true} {...anexes} />}
 
       {anexes.display && (
         <Form

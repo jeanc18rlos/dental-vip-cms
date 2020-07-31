@@ -198,7 +198,7 @@ financing:
 
   modal:
     display: true
-    interval: 200000
+    interval: 20000
     content: >
       <h1 class="dv-modal-title">¡Ofrecemos disculpas!</h1>
       <p class="text-center">A causa del acelerado fenómeno de hiperinflación actual, este producto ha sido temporalmente suspendido.</p><p class="text-center">Por los momentos, todos nuestros tratamientos deben ser cancelados al contado.</p>

@@ -5,7 +5,7 @@ import { rhythm } from "../utils/typography";
 import ReactHtmlParser from "react-html-parser";
 import Img from "gatsby-image";
 const StyledQuote = styled.section`
-  padding: ${rhythm(4)} 0 ${rhythm(3)};
+  padding: ${rhythm(3)} 0 ${rhythm(3)};
   background: ${(props) => props.color};
   .icon-quotes-open {
     color: #c2c2c2 !important;

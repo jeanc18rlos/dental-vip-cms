@@ -23,11 +23,14 @@ hero:
   indicator: false
   portraitPosition: center
   content:
-    position: bottom
+    position: bottom left-aligned
     body: >
       <h2 class="wrapped">Health, Beauty & Function</h2>
+      <br>
       <h3 class="no-mob">One Specialty for Each Treatment!</h3>
       <h1>INNOVATION AND PRESTIGE IN DENTISTRY</h1>
+      <br>
+      <br>
 
 # Brand Section
 brand:

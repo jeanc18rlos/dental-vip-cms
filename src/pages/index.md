@@ -26,9 +26,11 @@ hero:
     position: bottom left-aligned
     body: >
       <h2 class="wrapped">Salud, Belleza y Función</h2>
-      <br><br>
+      <br>
       <h3 class="no-mob">¡Una Especialidad para Cada Tratamiento!</h3>
       <h1>INNOVACIÓN Y PRESTIGIO EN ODONTOLOGÍA</h1>
+      <br>
+      <br>
 
 # Brand Section
 brand:

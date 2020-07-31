@@ -7,7 +7,7 @@ import { Link } from "gatsby";
 import ReactHtmlParser from "react-html-parser";
 
 const StyledContent = styled(Container)`
-  ${props => props.top && `
+  ${props => props.topSp && `
    @media screen and (max-width: 768px) {
     padding-top: ${rhythm(4)}!important;  }
   `}

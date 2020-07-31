@@ -59,6 +59,12 @@ const StyledHeading = styled.section`
   }
   &.dark {
     background-color: #222;
+    i.icon{
+      background: #111;
+      &:before{
+        color: #999 !important
+      }
+    }
     p,
     .title {
       color: white;
