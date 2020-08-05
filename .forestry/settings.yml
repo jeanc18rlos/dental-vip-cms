@@ -43,8 +43,8 @@ sections:
   - thank-you
   - specialties-page
   - blog-post
-upload_dir: static/img
-public_path: "/img"
+upload_dir: uploads
+public_path: cloudinary://822598879251417:d_bMGvIpc_yUIC8BvHoDccOZkhM@dzmrjudl5/uploads
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
